@@ -1,0 +1,1924 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"solid": "true",
+			"light_level": "0"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"solid": "true",
+			"light_level": "0"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"solid": "true",
+			"light_level": "0"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"solid": "true",
+			"light_level": "0"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"solid": "true",
+			"light_level": "0"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"solid": "false",
+			"light_level": "0"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"solid": "false",
+			"light_level": "0"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"solid": "false",
+			"light_level": "0"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"solid": "false",
+			"light_level": "0"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"solid": "false",
+			"light_level": "0"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"solid": "false",
+			"light_level": "0"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"solid": "true",
+			"light_level": "1"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"solid": "true",
+			"light_level": "1"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"solid": "true",
+			"light_level": "1"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"solid": "true",
+			"light_level": "1"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"solid": "true",
+			"light_level": "1"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"solid": "true",
+			"light_level": "1"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"solid": "false",
+			"light_level": "1"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"solid": "false",
+			"light_level": "1"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"solid": "false",
+			"light_level": "1"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"solid": "false",
+			"light_level": "1"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"solid": "false",
+			"light_level": "1"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"solid": "false",
+			"light_level": "1"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"solid": "true",
+			"light_level": "2"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"solid": "true",
+			"light_level": "2"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"solid": "true",
+			"light_level": "2"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"solid": "true",
+			"light_level": "2"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"solid": "true",
+			"light_level": "2"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"solid": "true",
+			"light_level": "2"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"solid": "false",
+			"light_level": "2"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"solid": "false",
+			"light_level": "2"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"solid": "false",
+			"light_level": "2"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"solid": "false",
+			"light_level": "2"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"solid": "false",
+			"light_level": "2"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"solid": "false",
+			"light_level": "2"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"solid": "true",
+			"light_level": "3"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"solid": "true",
+			"light_level": "3"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"solid": "true",
+			"light_level": "3"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"solid": "true",
+			"light_level": "3"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"solid": "true",
+			"light_level": "3"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"solid": "true",
+			"light_level": "3"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"solid": "false",
+			"light_level": "3"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"solid": "false",
+			"light_level": "3"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"solid": "false",
+			"light_level": "3"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"solid": "false",
+			"light_level": "3"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"solid": "false",
+			"light_level": "3"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"solid": "false",
+			"light_level": "3"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"solid": "true",
+			"light_level": "4"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"solid": "true",
+			"light_level": "4"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"solid": "true",
+			"light_level": "4"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"solid": "true",
+			"light_level": "4"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"solid": "true",
+			"light_level": "4"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"solid": "true",
+			"light_level": "4"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"solid": "false",
+			"light_level": "4"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"solid": "false",
+			"light_level": "4"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"solid": "false",
+			"light_level": "4"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"solid": "false",
+			"light_level": "4"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"solid": "false",
+			"light_level": "4"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"solid": "false",
+			"light_level": "4"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"solid": "true",
+			"light_level": "5"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"solid": "true",
+			"light_level": "5"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"solid": "true",
+			"light_level": "5"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"solid": "true",
+			"light_level": "5"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"solid": "true",
+			"light_level": "5"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"solid": "true",
+			"light_level": "5"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"solid": "false",
+			"light_level": "5"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"solid": "false",
+			"light_level": "5"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"solid": "false",
+			"light_level": "5"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"solid": "false",
+			"light_level": "5"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"solid": "false",
+			"light_level": "5"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"solid": "false",
+			"light_level": "5"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"solid": "true",
+			"light_level": "6"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"solid": "true",
+			"light_level": "6"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"solid": "true",
+			"light_level": "6"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"solid": "true",
+			"light_level": "6"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"solid": "true",
+			"light_level": "6"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"solid": "true",
+			"light_level": "6"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"solid": "false",
+			"light_level": "6"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"solid": "false",
+			"light_level": "6"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"solid": "false",
+			"light_level": "6"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"solid": "false",
+			"light_level": "6"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"solid": "false",
+			"light_level": "6"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"solid": "false",
+			"light_level": "6"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"solid": "true",
+			"light_level": "7"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"solid": "true",
+			"light_level": "7"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"solid": "true",
+			"light_level": "7"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"solid": "true",
+			"light_level": "7"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"solid": "true",
+			"light_level": "7"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"solid": "true",
+			"light_level": "7"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"solid": "false",
+			"light_level": "7"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"solid": "false",
+			"light_level": "7"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"solid": "false",
+			"light_level": "7"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"solid": "false",
+			"light_level": "7"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"solid": "false",
+			"light_level": "7"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"solid": "false",
+			"light_level": "7"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"solid": "true",
+			"light_level": "8"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"solid": "true",
+			"light_level": "8"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"solid": "true",
+			"light_level": "8"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"solid": "true",
+			"light_level": "8"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"solid": "true",
+			"light_level": "8"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"solid": "true",
+			"light_level": "8"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"solid": "false",
+			"light_level": "8"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"solid": "false",
+			"light_level": "8"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"solid": "false",
+			"light_level": "8"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"solid": "false",
+			"light_level": "8"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"solid": "false",
+			"light_level": "8"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"solid": "false",
+			"light_level": "8"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"solid": "true",
+			"light_level": "9"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"solid": "true",
+			"light_level": "9"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"solid": "true",
+			"light_level": "9"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"solid": "true",
+			"light_level": "9"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"solid": "true",
+			"light_level": "9"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"solid": "true",
+			"light_level": "9"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"solid": "false",
+			"light_level": "9"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"solid": "false",
+			"light_level": "9"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"solid": "false",
+			"light_level": "9"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"solid": "false",
+			"light_level": "9"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"solid": "false",
+			"light_level": "9"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"solid": "false",
+			"light_level": "9"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"solid": "true",
+			"light_level": "10"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"solid": "true",
+			"light_level": "10"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"solid": "true",
+			"light_level": "10"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"solid": "true",
+			"light_level": "10"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"solid": "true",
+			"light_level": "10"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"solid": "true",
+			"light_level": "10"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"solid": "false",
+			"light_level": "10"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"solid": "false",
+			"light_level": "10"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"solid": "false",
+			"light_level": "10"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"solid": "false",
+			"light_level": "10"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"solid": "false",
+			"light_level": "10"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"solid": "false",
+			"light_level": "10"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"solid": "true",
+			"light_level": "11"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"solid": "true",
+			"light_level": "11"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"solid": "true",
+			"light_level": "11"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"solid": "true",
+			"light_level": "11"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"solid": "true",
+			"light_level": "11"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"solid": "true",
+			"light_level": "11"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"solid": "false",
+			"light_level": "11"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"solid": "false",
+			"light_level": "11"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"solid": "false",
+			"light_level": "11"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"solid": "false",
+			"light_level": "11"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"solid": "false",
+			"light_level": "11"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"solid": "false",
+			"light_level": "11"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"solid": "true",
+			"light_level": "12"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"solid": "true",
+			"light_level": "12"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"solid": "true",
+			"light_level": "12"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"solid": "true",
+			"light_level": "12"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"solid": "true",
+			"light_level": "12"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"solid": "true",
+			"light_level": "12"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"solid": "false",
+			"light_level": "12"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"solid": "false",
+			"light_level": "12"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"solid": "false",
+			"light_level": "12"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"solid": "false",
+			"light_level": "12"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"solid": "false",
+			"light_level": "12"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"solid": "false",
+			"light_level": "12"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"solid": "true",
+			"light_level": "13"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"solid": "true",
+			"light_level": "13"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"solid": "true",
+			"light_level": "13"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"solid": "true",
+			"light_level": "13"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"solid": "true",
+			"light_level": "13"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"solid": "true",
+			"light_level": "13"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"solid": "false",
+			"light_level": "13"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"solid": "false",
+			"light_level": "13"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"solid": "false",
+			"light_level": "13"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"solid": "false",
+			"light_level": "13"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"solid": "false",
+			"light_level": "13"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"solid": "false",
+			"light_level": "13"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"solid": "true",
+			"light_level": "14"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"solid": "true",
+			"light_level": "14"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"solid": "true",
+			"light_level": "14"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"solid": "true",
+			"light_level": "14"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"solid": "true",
+			"light_level": "14"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"solid": "true",
+			"light_level": "14"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"solid": "false",
+			"light_level": "14"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"solid": "false",
+			"light_level": "14"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"solid": "false",
+			"light_level": "14"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"solid": "false",
+			"light_level": "14"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"solid": "false",
+			"light_level": "14"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"solid": "false",
+			"light_level": "14"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"solid": "true",
+			"light_level": "15"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"solid": "true",
+			"light_level": "15"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"solid": "true",
+			"light_level": "15"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"solid": "true",
+			"light_level": "15"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"solid": "true",
+			"light_level": "15"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"solid": "true",
+			"light_level": "15"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"solid": "false",
+			"light_level": "15"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"solid": "false",
+			"light_level": "15"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"solid": "false",
+			"light_level": "15"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"solid": "false",
+			"light_level": "15"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"solid": "false",
+			"light_level": "15"
+		},
+		"Name": "carpeted:carpet_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"solid": "false",
+			"light_level": "15"
+		},
+		"Name": "carpeted:carpet_slab"
+	}
+]

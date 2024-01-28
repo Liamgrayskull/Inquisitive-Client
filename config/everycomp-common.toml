@@ -1,0 +1,170 @@
+
+[general]
+	#Puts all the added items into a new Every Compat tab instead of their own mod tabs. Be warned that if disabled it could cause some issue with some mods that have custom tabs
+	creative_tab = true
+	#Makes dynamic assets that are generated depend on loaded resource packs. Turn off to make them just use vanilla assets
+	assets_depend_on_loaded_packs = true
+	#Creates a debug folder inside your instance directory where all the dynamically generated resources will be saved
+	save_debug_resources = false
+	#Don't touch unless you are told to
+	debug_packet = false
+
+	[general.tooltips]
+		#Enabled tooltips showing which mod an EC item is from
+		mod_origin_enabled = true
+		#Enabled tooltips showing which block type an EC item is made from
+		block_type_enabled = true
+		#Only show on advanced settings
+		show_on_advanced_tooltips = false
+
+	[general.types]
+
+		[general.types.cake]
+
+			[general.types.cake.natures_spirit]
+				cheese_block = true
+
+		[general.types.wood_type]
+
+			[general.types.wood_type.gardens_of_the_dead]
+				soulblight = true
+				whistlecane = true
+
+			[general.types.wood_type.habitat]
+				fairy_ring_mushroom = true
+
+			[general.types.wood_type.phantasm]
+				pream = true
+
+			[general.types.wood_type.natures_spirit]
+				redwood = true
+				sugi = true
+				wisteria = true
+				fir = true
+				willow = true
+				aspen = true
+				maple = true
+				cypress = true
+				olive = true
+				joshua = true
+				ghaf = true
+				palo_verde = true
+				coconut = true
+				cedar = true
+				larch = true
+				mahogany = true
+				saxaul = true
+
+			[general.types.wood_type.create_dd]
+				rose = true
+				smoked = true
+				spirit = true
+				rubber = true
+
+			[general.types.wood_type.enlightened_end]
+				indigo = true
+				cerulean = true
+
+			[general.types.wood_type.betterarcheology]
+				rotten = true
+
+			[general.types.wood_type.spawn]
+				rotten = true
+
+			[general.types.wood_type.alexscaves]
+				pewen = true
+				thornwood = true
+
+			[general.types.wood_type.architects_palette]
+				twisted = true
+
+			[general.types.wood_type.outer_end]
+				azure = true
+
+		[general.types.leaves_type]
+
+			[general.types.leaves_type.phantasm]
+				pream = true
+
+			[general.types.leaves_type.natures_spirit]
+				redwood = true
+				sugi = true
+				wisteria = true
+				white_wisteria = true
+				blue_wisteria = true
+				pink_wisteria = true
+				purple_wisteria = true
+				part_white_wisteria = true
+				part_blue_wisteria = true
+				part_pink_wisteria = true
+				part_purple_wisteria = true
+				fir = true
+				willow = true
+				aspen = true
+				red_maple = true
+				orange_maple = true
+				yellow_maple = true
+				cypress = true
+				olive = true
+				joshua = true
+				ghaf = true
+				palo_verde = true
+				coconut = true
+				cedar = true
+				larch = true
+				yellow_larch = true
+				mahogany = true
+				saxaul = true
+
+			[general.types.leaves_type.create_dd]
+				rubber = true
+
+			[general.types.leaves_type.alexscaves]
+				ancient = true
+
+			[general.types.leaves_type.architects_palette]
+				twisted = true
+
+			[general.types.leaves_type.outer_end]
+				azure = true
+
+	[general.entries]
+
+		[general.entries.wood_type]
+
+			[general.entries.wood_type.twigs]
+				table = true
+
+			[general.entries.wood_type.another_furniture]
+				table = true
+				flower_box = true
+				shelf = true
+				drawer = true
+				shutter = true
+				bench = true
+				chair = true
+
+			[general.entries.wood_type.friendsandfoes]
+				beehive = true
+
+			[general.entries.wood_type.hearth_and_home]
+				parquet = true
+				vertical_trim = true
+				trim = true
+				sanded_wood = true
+				lattice = true
+
+			[general.entries.wood_type.create]
+				window = true
+				window_pane = true
+
+			[general.entries.wood_type.farmersdelight]
+				cabinet = true
+
+			[general.entries.wood_type.architects_palette]
+				boards = true
+				board_stairs = true
+				railing = true
+				board_wall = true
+				board_slab = true
+

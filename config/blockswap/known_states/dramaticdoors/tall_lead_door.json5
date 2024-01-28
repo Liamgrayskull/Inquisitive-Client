@@ -1,0 +1,7489 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "north"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "south"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "west"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "0",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "1",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "upper",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "middle",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"third": "lower",
+			"tall_lead_progress": "2",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"facing": "east"
+		},
+		"Name": "dramaticdoors:tall_lead_door"
+	}
+]

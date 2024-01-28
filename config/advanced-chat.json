@@ -1,0 +1,93 @@
+{
+  "comment": "Before changing anything, see https://github.com/Wesley1808/AdvancedChat#configuration",
+  "actionbar": true,
+  "actionbarUpdateInterval": 40,
+  "alwaysTriggerMessageEvent": false,
+  "hoverText": "<dark_aqua>Receivers: <dark_gray>[${receivers}]</dark_gray>",
+  "receiver": "<green>${player}</green>",
+  "messages": {
+    "switchedChannels": "<dark_aqua>Chat Mode -> <green>${channel}",
+    "switchedSocialSpy": "<dark_aqua>Spy Mode -> <green>${mode}",
+    "ignored": "<red>${player} is ignoring you.",
+    "ignoredPlayer": "<dark_aqua>You are now ignoring <green>${player}",
+    "unignoredPlayer": "<dark_aqua>You are no longer ignoring <green>${player}",
+    "muteChannel": "<dark_aqua>Enabled messages from <green>${channel}",
+    "unMuteChannel": "<dark_aqua>Disabled messages from <green>${channel}",
+    "cannotIgnoreSelf": "<red>You cannot ignore yourself!",
+    "alreadyIgnored": "<red>You are already ignoring ${player}!",
+    "notAlreadyIgnored": "<red>You aren't ignoring ${player}!",
+    "channelNotFound": "<red>Unable to find a channel with name '${name}'!",
+    "channelMuted": "<red>You have messages disabled from this channel!",
+    "cannotSendVanished": "<red>You can only send messages in staff channels whilst vanished!"
+  },
+  "socialSpy": {
+    "logPrivateMessages": false,
+    "prefix": "<dark_gray>[<aqua>Spy</aqua>]</dark_gray> ",
+    "privateMessage": "<dark_gray>[</dark_gray>${source} <gray>→</gray> ${target}<dark_gray>]</dark_gray> <gray>${message}",
+    "channelMessage": "${channel}${sender} <dark_gray>»</dark_gray> ${message}"
+  },
+  "filter": {
+    "enabled": false,
+    "forceTextFiltering": false,
+    "logFilteredMessages": true,
+    "filteredWords": [],
+    "regexFilterPatterns": []
+  },
+  "channelMessageSound": {
+    "enabled": false,
+    "sound": "minecraft:block.note_block.bell",
+    "volume": 0.5,
+    "pitch": 0.6
+  },
+  "privateMessageSound": {
+    "enabled": false,
+    "sound": "minecraft:block.note_block.bell",
+    "volume": 0.5,
+    "pitch": 0.6
+  },
+  "channels": [
+    {
+      "name": "staff",
+      "enabled": true,
+      "isStaff": true,
+      "permission": "advancedchat.channel.staff",
+      "actionbar": "<dark_aqua>Chat Mode: <green>Staff",
+      "prefix": "<dark_gray>[<aqua>Staff</aqua>]</dark_gray> "
+    },
+    {
+      "name": "admin",
+      "enabled": true,
+      "isStaff": true,
+      "permission": "advancedchat.channel.admin",
+      "actionbar": "<dark_aqua>Chat Mode: <green>Admin",
+      "prefix": "<dark_gray>[<red>Admin</red>]</dark_gray> "
+    },
+    {
+      "name": "local",
+      "enabled": true,
+      "isStaff": false,
+      "actionbar": "<dark_aqua>Chat Mode: <green>Local",
+      "prefix": "<dark_gray>[<aqua>Local</aqua>]</dark_gray> ",
+      "canSee": {
+        "type": "advancedchat:distance",
+        "value": {
+          "horizontal": {
+            "min": 0.0,
+            "max": 256.0
+          }
+        }
+      }
+    },
+    {
+      "name": "world",
+      "enabled": true,
+      "isStaff": false,
+      "actionbar": "<dark_aqua>Chat Mode: <green>%world:name%",
+      "prefix": "<dark_gray>[<aqua>%world:name%</aqua>]</dark_gray> ",
+      "canSee": {
+        "type": "advancedchat:distance",
+        "value": {}
+      }
+    }
+  ]
+}

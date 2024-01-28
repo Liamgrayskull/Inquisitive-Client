@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "overrides": {
+    "axiom": {
+      "-breaks": {
+        "sodium": "NONE"
+      }
+    }
+  }
+}

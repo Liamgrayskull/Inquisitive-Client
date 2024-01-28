@@ -1,0 +1,5376 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "x"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "y"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "true",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "true",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "true",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "true",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "true",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "true",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"chained_west": "false",
+			"chained_up": "false",
+			"chained_south": "false",
+			"chained_north": "false",
+			"chained_east": "false",
+			"chained_down": "false",
+			"axis": "z"
+		},
+		"Name": "habitat:fairy_ring_mushroom_post"
+	}
+]

@@ -1,0 +1,25 @@
+{
+    "name": "The Attachments",
+    "icon": "exposure:color_film",
+    "category": "patchouli:lightroom",
+    "pages": [
+        {
+
+
+            "type": "patchouli:crafting",
+            "recipe": "exposure:color_film",
+            "title": "Film",
+            "text": "    Film, B&W and Colored are both extremely important, as they are responsible for capturing light through the camera's lense. Ensure that you have one of either loaded, and each can contain sixteen bits of film before ya need to go into a lightroom and print that roll.$(br)$(br)."
+
+            
+        },
+        
+        {
+            "type": "patchouli:text",
+            "text": "  The Camera also enables you to add other Attachments onto your trusty camera. These include: $(br)$(li)Lenses through things such as spyglasses, to shift the iris's zoom.$(br)$(li)Flash through items such as the redstone lamp, to illuminate your photos.$(br)$(li)Filters, through stained glass panes, that change the camera's perception of the world.",
+            "title": "Other Attachments"
+
+        }
+        
+    ]
+}

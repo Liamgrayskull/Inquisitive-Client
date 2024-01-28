@@ -1,0 +1,18 @@
+{
+    "name": "Big Book of Cook",
+    "landing_text": "$(#2f2ba1) A book detailing the science and art of food.. Madame Kosher was a renowned Gastronomist who, having passed away, was entitled a collection of her works. Outdated in some senses, yet useable, and a wonderful base for the culinary arts.",
+    "version": 0,
+    "subtitle": "By Madame Kosher",
+
+    "use_resource_pack": true,
+    "use_blocky_font": true,
+    "pamphlet": true,
+    "show_progress": false,
+
+    "creative_tab": "minecraft:spawn_eggs",
+    "book_texture": "patchouli:textures/gui/book_blue.png",
+    "model": "patchouli:big_book_of_cook",
+    "index_icon": "minecraft:carrot"
+   
+
+}

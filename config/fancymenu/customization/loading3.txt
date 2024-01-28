@@ -1,0 +1,26 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.ReceivingLevelScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  path = config/paxi/inqreresewn.gif
+  orientation = top-left
+  x = 140
+  width = 200
+  action = addtexture
+  actionid = cc26755d-3510-42bb-8637-02e77620aae31700282819896
+  y = 60
+  height = 200
+}
+

@@ -1,0 +1,110 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = true
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = config/paxi/startup_backgrounds/aspen.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  original_pos_size_calculation = true
+  x = 105
+  width = 270
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = c76f0a10-18fd-435c-b33e-4dc9d3851c651698980770598
+  y = 102
+  height = 66
+}
+
+customization {
+  custom_color_hex = #9A5CC6
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = f90de195-d766-4752-9465-1689a5c748c01698980770605
+  y = -1000000
+  height = 0
+}
+
+customization {
+  custom_color_hex = #9A5CC6
+  orientation = top-left
+  hidden = false
+  original_pos_size_calculation = true
+  x = 105
+  width = 270
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = 27e49c47-131b-4d10-a9b6-c34977189c3f1698980770605
+  y = 219
+  height = 10
+}
+
+customization {
+  advanced_height = 100
+  path = config/paxi/inqreresewn.gif
+  orientation = mid-centered
+  x = -53
+  width = 100
+  action = addtexture
+  actionid = aa66dc0d-07c4-4485-98fe-d44bdf8afc151700282319413
+  y = -4
+  advanced_width = 100
+  height = 100
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Submit your photos through the discord!
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 134
+  width = 211
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 25f03da6-086d-4e38-b248-45863e3b84c01703141987101
+  y = 257
+  alignment = left
+  base_color = #9A5CC6
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = "Aspen"
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 213
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 451de49e-9b18-4d46-9301-a8b2c30b0bcf1703142847518
+  y = 206
+  alignment = left
+  base_color = #9A5CC6
+  height = 40
+}
+

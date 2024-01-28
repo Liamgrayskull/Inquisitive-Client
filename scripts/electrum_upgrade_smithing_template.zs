@@ -1,0 +1,1 @@
+craftingTable.addShaped("electrumsmith", <item:oreganized:electrum_upgrade_smithing_template> * 1, [[<item:minecraft:stone>, <item:etcetera:hammer>, <item:minecraft:stone>], [<item:minecraft:stone>, <item:minecraft:diamond_block>, <item:minecraft:stone>], [<item:minecraft:stone>, <item:oreganized:electrum_ingot>, <item:minecraft:stone>]]);

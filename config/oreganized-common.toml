@@ -1,0 +1,37 @@
+
+#Common
+[common]
+	#Should lead poisoning events give the Stunning effect or just Poison
+	leadPoisoningStunning = true
+	#Should eating an item give lead poisoning when a lead item is in the hotbar
+	leadPoisoning = true
+	#Ravagers have a chance of dropping Silver Nuggets upon death
+	ravagerSilver = false
+
+	#Ore Generation
+	[common.oreGen]
+
+		#Lead
+		[common.oreGen.lead]
+			#The average cluster size lead ore generates in
+			leadClusterSize = 13
+			#How frequent lead ore generates
+			leadFrequency = 10
+			#Minimum y level that lead ore can generate
+			leadMinHeight = -40
+			#Maximum y level that lead ore can generate
+			leadMaxHeight = -20
+
+		#Silver
+		[common.oreGen.silver]
+			#The average cluster size silver ore generates in
+			silverClusterSize = 3
+			#How frequent silver ore generates
+			silverFrequency = 2
+			#Minimum y level that silver ore can generate
+			silverMinHeight = -15
+			#Maximum y level that silver ore can generate
+			silverMaxHeight = 5
+			#How often should Silver Ore generate exposed to air?
+			silverHidden = 0.2
+

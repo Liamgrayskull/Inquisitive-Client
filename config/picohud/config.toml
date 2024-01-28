@@ -1,0 +1,16 @@
+# Whether the 'show overlay' key should act as a toggle, instead of a hold
+# default: false
+useKeyToggle = false
+# Whether to show rounded coordinates
+# default: true
+showCoordinates = true
+# Whether to show cardinal facing direction
+# default: true
+showDirectionCardinal = true
+# Whether to show an indicator (e.g. [=+]) that indicates how travelling forward will affect your X and Z coordinates
+# default: false
+showDirectionAxes = false
+# Whether to show the current day and time, formatted using seasons if it's installed
+# default: true
+showDayTime = true
+

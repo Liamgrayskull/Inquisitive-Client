@@ -1,0 +1,1 @@
+craftingTable.addShaped("spawnerrecipe", <item:minecraft:spawner> * 1, [[<item:etcetera:bismuth_bars>, <item:spelunkery:nephrite_fountain>, <item:etcetera:bismuth_bars>], [<item:spelunkery:nephrite_fountain>, <item:alexsmobs:soul_heart>, <item:spelunkery:nephrite_fountain>], [<item:etcetera:bismuth_bars>, <item:spelunkery:nephrite_fountain>, <item:etcetera:bismuth_bars>]]);

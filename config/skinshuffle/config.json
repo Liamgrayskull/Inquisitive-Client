@@ -1,0 +1,14 @@
+{
+  "disableReconnectToast": false,
+  "disableAPIUpload": false,
+  "displayInPauseMenu": true,
+  "displayInTitleScreen": true,
+  "carouselScrollSensitivity": 1.0,
+  "invertCarouselScroll": false,
+  "renderPlayerCapes": true,
+  "widgetSkinRenderStyle": "CURSOR",
+  "carouselSkinRenderStyle": "ROTATION",
+  "presetEditScreenRenderStyle": "ROTATION",
+  "rotationMultiplier": 1.0,
+  "carouselView": "LARGE"
+}

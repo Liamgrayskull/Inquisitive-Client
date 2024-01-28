@@ -1,0 +1,7 @@
+
+[mobSpawning]
+	#Range: -64 to 318
+	"Topmost Y-level at which Cave Mobs can spawn" = 50.0
+	#Range: 0 to 100 (Percent)
+	"Chance Houseflies will spawn from a slain Zombie" = 5.0
+

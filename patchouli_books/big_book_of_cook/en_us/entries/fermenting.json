@@ -1,0 +1,42 @@
+{
+    "name": "Fermenting",
+    "icon": "brewinandchewin:keg",
+    "category": "patchouli:cookbook",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "brewinandchewin:keg",
+            "title": "Fermentation",
+            "text": "In order to ferment much of anything, you'll want to get your flour-coated hands on a keg. The wax used to create them provides a clean seal to ensure an isolated environment for your ingredients. With that, you can start fermenting.$(br)$(br)."
+        },
+        {
+
+            "type": "patchouli:spotlight",
+            "item": "minecraft:magma_block",
+            "title": "Temperature",
+            "text": "To regulate temperature properly, you'll need to chill, or heat your kegs. Surrounding them with two blocks of either magma, or ice, will provide Warmth or Cold. To Chill or Heat a keg, it requires four blocks respectively.$(br)$(br)."
+
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "brewinandchewin:beer",
+            "title": "Simple Distilling",
+            "text": "Distilling liquids in a keg has a number of processes associated. Temperature, as discussed before is key to ensuring a proper mixture. Time and ingredients are secondary to this, but above all, patience is key to any sort of brewing. Some of the most basic brews are Beer, Vodka, and Rice Wine, as they all have a water base.$(br)$(br)."
+
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "brewinandchewin:withering_dross",
+            "title": "Advanced Distilling",
+            "text": "The more complex ingredients become, the more time consuming they scale with as well. Some brews posess unique bases, or multiple brewing processes utilizing other brews as their foundation. However, the more complex, the more potent the effects.$(br)$(br)."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "brewinandchewin:unripe_flaxen_cheese_wheel",
+            "title": "Leavening",
+            "text": "However, brews are not the only thing one can create in a keg. Foods, such as cheeses or pickles, can be created in them as well, some simple, one process stepped, and some multi-stepped. Cheese being one of the more complex, you must leave it out to ripen before serving.$(br)$(br)."
+
+        }
+
+    ]
+}

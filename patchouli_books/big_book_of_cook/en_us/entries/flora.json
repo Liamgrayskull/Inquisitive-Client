@@ -1,0 +1,91 @@
+{
+    "name": "Flora",
+    "icon": "farmersdelight:tomato",
+    "category": "patchouli:cookbook",
+    "pages": [
+     
+      {
+  "type": "patchouli:spotlight",
+  "item": {
+    "item": "minecraft:wheat"
+    },
+  "text": " One of the most common crops of the Overworld, Wheat is used almost universally in the creation of doughs, pastas, cookies, flour, and even buildings."
+},
+
+{
+"type": "patchouli:spotlight",
+  "item": {
+    "item": "minecraft:carrot"
+    },
+  "text": " Carrots come in at a close second in commonalities, finding them is trivial in most temperate climates. They don't have as many applications, but are found in a number of places, such as cave carrots underground, or Sinister Carrots in more vindictive places. They have seeds, though are trivial compared to planting it itself.$(br)$(br)."
+},
+  
+{
+"type": "patchouli:spotlight",
+  "item": {
+    "item": "farmersdelight:onion"
+    },
+  "text": " Onions make me cry, but they're rather handy. Found in most temperate climates, Onions are defined a great deal by the fact that they are a variety of alium. They have high acid content, causing the crying!$(br)$(br)."
+},
+  
+{
+"type": "patchouli:spotlight",
+  "item": {
+    "item": "minecraft:potato"
+    },
+  "text": " Potatoes are, well, spuds. Not often found in the wild, yet you can do a great deal with them- High in starches, easy to farm in bulk and under the tuber family. $(br)$(br)."
+},
+
+{
+"type": "patchouli:spotlight",
+  "item": {
+    "item": "farmersdelight:tomato"
+    },
+  "text": " Scientifically considered a fruit, while viewed as a vegetable in Culinary respects, the tomato is a phenomonon found in arid, dry climates. It has a very high value in applications, used as a frequent base in plenty of sauce dishes.$(br)$(br)."
+},
+
+{
+"type": "patchouli:spotlight",
+  "item": {
+    "item": "farmersdelight:cabbage"
+    },
+  "text": " Very calorically lacking, cabbage makes up for it in nutritious value. Found most frequently along beaches, cabbage is particularly useful for wraps when wheat is not on hand for more fiberous meals. $(br)$(br)."
+},
+
+{
+"type": "patchouli:spotlight",
+  "item": {
+    "item": "farmersdelight:rice"
+    },
+  "text": " Found frequently in marshy, 1 blk deep water, rice is a quintessential grain that is incredibly easy to farm in bulk, and provides a significant amount of straw if harvested correctly, with a knife. $(br)$(br)."
+},
+
+{
+"type": "patchouli:spotlight",
+  "item": {
+    "item": "minecraft:beetroot"
+    },
+  "text": "The Sea Beets can't beet beat! Found (you guessed it) on the shores, shorely this red vegetable would prove useful? Yes, it does! Mostly soups though.$(br) (This entry was filled in by the revisioner.) $(br)$(br)."
+},
+
+{
+"type": "patchouli:spotlight",
+  "item": {
+    "item": "farmersdelight:red_mushroom_colony"
+    },
+    "title": "Mushrooms",
+  "text": " Mushrooms are an incredibly expansive umbrella term for a dizzying number of fungi. They're useful, yet most deadly if you're unaware of their tendency towards toxins.$(br)$(br)."
+},
+{
+            "type": "patchouli:image",
+            "images":[
+                    "patchouli:wisterium.png",
+                    "patchouli:flint.png"
+                    
+            ],
+            "border": true
+        }
+
+    ]
+    
+}

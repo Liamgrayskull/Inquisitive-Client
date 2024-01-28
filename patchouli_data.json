@@ -1,0 +1,27 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "patchouli:big_book_of_cook": {
+      "viewedEntries": [
+        "patchouli:fishing",
+        "patchouli:fauna",
+        "patchouli:cookingI",
+        "patchouli:cookingII",
+        "patchouli:cookingIII"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "patchouli:lightroom_lexicon": {
+      "viewedEntries": [
+        "patchouli:attachments",
+        "patchouli:settings",
+        "patchouli:camera",
+        "patchouli:lightroom"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

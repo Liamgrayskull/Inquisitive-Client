@@ -1,0 +1,26 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.ProgressScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  path = config/paxi/inqreresewn.gif
+  orientation = mid-centered
+  x = -100
+  width = 200
+  action = addtexture
+  actionid = 22e2de1f-58fa-4c38-a30e-187f2ab215de1700282722862
+  y = -75
+  height = 200
+}
+

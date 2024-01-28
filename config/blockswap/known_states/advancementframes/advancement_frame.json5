@@ -1,0 +1,437 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"frame_type": "task",
+			"facing": "north"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"frame_type": "task",
+			"facing": "north"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"frame_type": "challenge",
+			"facing": "north"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"frame_type": "challenge",
+			"facing": "north"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"frame_type": "goal",
+			"facing": "north"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"frame_type": "goal",
+			"facing": "north"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"frame_type": "none",
+			"facing": "north"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"frame_type": "task",
+			"facing": "east"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"frame_type": "task",
+			"facing": "east"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"frame_type": "challenge",
+			"facing": "east"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"frame_type": "challenge",
+			"facing": "east"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"frame_type": "goal",
+			"facing": "east"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"frame_type": "goal",
+			"facing": "east"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"frame_type": "none",
+			"facing": "east"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"frame_type": "none",
+			"facing": "east"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"frame_type": "task",
+			"facing": "south"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"frame_type": "task",
+			"facing": "south"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"frame_type": "challenge",
+			"facing": "south"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"frame_type": "challenge",
+			"facing": "south"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"frame_type": "goal",
+			"facing": "south"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"frame_type": "goal",
+			"facing": "south"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"frame_type": "none",
+			"facing": "south"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"frame_type": "none",
+			"facing": "south"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"frame_type": "task",
+			"facing": "west"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"frame_type": "task",
+			"facing": "west"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"frame_type": "challenge",
+			"facing": "west"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"frame_type": "challenge",
+			"facing": "west"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"frame_type": "goal",
+			"facing": "west"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"frame_type": "goal",
+			"facing": "west"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"frame_type": "none",
+			"facing": "west"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"frame_type": "none",
+			"facing": "west"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"frame_type": "task",
+			"facing": "up"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"frame_type": "task",
+			"facing": "up"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"frame_type": "challenge",
+			"facing": "up"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"frame_type": "challenge",
+			"facing": "up"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"frame_type": "goal",
+			"facing": "up"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"frame_type": "goal",
+			"facing": "up"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"frame_type": "none",
+			"facing": "up"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"frame_type": "none",
+			"facing": "up"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"frame_type": "task",
+			"facing": "down"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"frame_type": "task",
+			"facing": "down"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"frame_type": "challenge",
+			"facing": "down"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"frame_type": "challenge",
+			"facing": "down"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"frame_type": "goal",
+			"facing": "down"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"frame_type": "goal",
+			"facing": "down"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"frame_type": "none",
+			"facing": "down"
+		},
+		"Name": "advancementframes:advancement_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"frame_type": "none",
+			"facing": "down"
+		},
+		"Name": "advancementframes:advancement_frame"
+	}
+]

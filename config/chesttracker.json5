@@ -1,0 +1,22 @@
+{
+	"visualOptions": {
+		"borderColour": 47871,
+		"nameRenderRange": 12,
+		"rowCount": 6,
+		"columnCount": 9,
+		"hideDeleteButton": true,
+		"enableButton": false,
+		"hideDatabaseInfo": true
+	},
+	"databaseOptions": {
+		"destroyedMemoryCheckInterval": 10,
+		"readableFiles": false,
+		"safeFileNames": false,
+		"prefixFilesWithUsername": false
+	},
+	"miscOptions": {
+		"printGuiClassNames": false,
+		"rememberNewChests": true,
+		"searchRange": 81
+	}
+}

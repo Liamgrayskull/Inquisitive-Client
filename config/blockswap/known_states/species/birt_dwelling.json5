@@ -1,0 +1,869 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eggs": "0",
+			"birts": "0"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eggs": "0",
+			"birts": "0"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eggs": "0",
+			"birts": "0"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eggs": "1",
+			"birts": "0"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eggs": "1",
+			"birts": "0"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eggs": "1",
+			"birts": "0"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eggs": "1",
+			"birts": "0"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eggs": "2",
+			"birts": "0"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eggs": "2",
+			"birts": "0"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eggs": "2",
+			"birts": "0"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eggs": "2",
+			"birts": "0"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eggs": "3",
+			"birts": "0"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eggs": "3",
+			"birts": "0"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eggs": "3",
+			"birts": "0"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eggs": "3",
+			"birts": "0"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eggs": "4",
+			"birts": "0"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eggs": "4",
+			"birts": "0"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eggs": "4",
+			"birts": "0"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eggs": "4",
+			"birts": "0"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eggs": "5",
+			"birts": "0"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eggs": "5",
+			"birts": "0"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eggs": "5",
+			"birts": "0"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eggs": "5",
+			"birts": "0"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eggs": "0",
+			"birts": "1"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eggs": "0",
+			"birts": "1"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eggs": "0",
+			"birts": "1"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eggs": "0",
+			"birts": "1"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eggs": "1",
+			"birts": "1"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eggs": "1",
+			"birts": "1"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eggs": "1",
+			"birts": "1"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eggs": "1",
+			"birts": "1"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eggs": "2",
+			"birts": "1"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eggs": "2",
+			"birts": "1"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eggs": "2",
+			"birts": "1"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eggs": "2",
+			"birts": "1"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eggs": "3",
+			"birts": "1"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eggs": "3",
+			"birts": "1"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eggs": "3",
+			"birts": "1"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eggs": "3",
+			"birts": "1"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eggs": "4",
+			"birts": "1"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eggs": "4",
+			"birts": "1"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eggs": "4",
+			"birts": "1"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eggs": "4",
+			"birts": "1"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eggs": "5",
+			"birts": "1"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eggs": "5",
+			"birts": "1"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eggs": "5",
+			"birts": "1"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eggs": "5",
+			"birts": "1"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eggs": "0",
+			"birts": "2"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eggs": "0",
+			"birts": "2"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eggs": "0",
+			"birts": "2"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eggs": "0",
+			"birts": "2"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eggs": "1",
+			"birts": "2"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eggs": "1",
+			"birts": "2"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eggs": "1",
+			"birts": "2"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eggs": "1",
+			"birts": "2"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eggs": "2",
+			"birts": "2"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eggs": "2",
+			"birts": "2"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eggs": "2",
+			"birts": "2"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eggs": "2",
+			"birts": "2"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eggs": "3",
+			"birts": "2"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eggs": "3",
+			"birts": "2"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eggs": "3",
+			"birts": "2"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eggs": "3",
+			"birts": "2"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eggs": "4",
+			"birts": "2"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eggs": "4",
+			"birts": "2"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eggs": "4",
+			"birts": "2"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eggs": "4",
+			"birts": "2"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eggs": "5",
+			"birts": "2"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eggs": "5",
+			"birts": "2"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eggs": "5",
+			"birts": "2"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eggs": "5",
+			"birts": "2"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eggs": "0",
+			"birts": "3"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eggs": "0",
+			"birts": "3"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eggs": "0",
+			"birts": "3"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eggs": "0",
+			"birts": "3"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eggs": "1",
+			"birts": "3"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eggs": "1",
+			"birts": "3"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eggs": "1",
+			"birts": "3"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eggs": "1",
+			"birts": "3"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eggs": "2",
+			"birts": "3"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eggs": "2",
+			"birts": "3"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eggs": "2",
+			"birts": "3"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eggs": "2",
+			"birts": "3"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eggs": "3",
+			"birts": "3"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eggs": "3",
+			"birts": "3"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eggs": "3",
+			"birts": "3"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eggs": "3",
+			"birts": "3"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eggs": "4",
+			"birts": "3"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eggs": "4",
+			"birts": "3"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eggs": "4",
+			"birts": "3"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eggs": "4",
+			"birts": "3"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eggs": "5",
+			"birts": "3"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eggs": "5",
+			"birts": "3"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eggs": "5",
+			"birts": "3"
+		},
+		"Name": "species:birt_dwelling"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eggs": "5",
+			"birts": "3"
+		},
+		"Name": "species:birt_dwelling"
+	}
+]

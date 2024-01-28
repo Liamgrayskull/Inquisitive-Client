@@ -1,0 +1,278 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "0",
+			"illuminated": "true"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "1",
+			"illuminated": "true"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "2",
+			"illuminated": "true"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "3",
+			"illuminated": "true"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "4",
+			"illuminated": "true"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "5",
+			"illuminated": "true"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "6",
+			"illuminated": "true"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "7",
+			"illuminated": "true"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "8",
+			"illuminated": "true"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "9",
+			"illuminated": "true"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "10",
+			"illuminated": "true"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "11",
+			"illuminated": "true"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "12",
+			"illuminated": "true"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "13",
+			"illuminated": "true"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "14",
+			"illuminated": "true"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "15",
+			"illuminated": "true"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "16",
+			"illuminated": "true"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "1",
+			"illuminated": "false"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "2",
+			"illuminated": "false"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "3",
+			"illuminated": "false"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "4",
+			"illuminated": "false"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "5",
+			"illuminated": "false"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "6",
+			"illuminated": "false"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "7",
+			"illuminated": "false"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "8",
+			"illuminated": "false"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "9",
+			"illuminated": "false"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "10",
+			"illuminated": "false"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "11",
+			"illuminated": "false"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "12",
+			"illuminated": "false"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "13",
+			"illuminated": "false"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "14",
+			"illuminated": "false"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "15",
+			"illuminated": "false"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"light": "16",
+			"illuminated": "false"
+		},
+		"Name": "spelunkery:polished_rock_salt"
+	}
+]

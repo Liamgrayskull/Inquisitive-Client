@@ -1,0 +1,190 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.PauseScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = true
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_advancements_button%
+  orientation = mid-left
+  x = 5
+  action = movebutton
+  y = 5
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
+  orientation = mid-left
+  x = 5
+  action = movebutton
+  y = 40
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
+  action = setbuttonlabel
+  value = Options
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_disconnect_button%
+  orientation = bottom-centered
+  x = -91
+  action = movebutton
+  y = -21
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_disconnect_button%
+  width = 182
+  action = resizebutton
+  height = 21
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_stats_button%
+  orientation = mid-right
+  x = -105
+  action = movebutton
+  y = 41
+}
+
+customization {
+  identifier = %id=40%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=374300%
+  orientation = mid-centered
+  x = 85
+  action = movebutton
+  y = -45
+}
+
+customization {
+  identifier = %id=374300%
+  action = setbuttonlabel
+  value = &
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_return_to_game_button%
+  orientation = mid-centered
+  x = -80
+  action = movebutton
+  y = -45
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_return_to_game_button%
+  width = 160
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
+  orientation = mid-left
+  x = 339
+  action = movebutton
+  y = 52
+}
+
+customization {
+  identifier = %id=398348%
+  orientation = top-left
+  x = 135
+  action = movebutton
+  y = 90
+}
+
+customization {
+  identifier = %id=398348%
+  width = 20
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=398348%
+  action = setbuttonlabel
+  value = ?
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = bottom-centered
+  copy_client_player = true
+  slim = false
+  auto_skin = false
+  scale = 60
+  headrotationy = 0.0
+  headrotationx = 0.0
+  skinurl = http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c
+  showname = false
+  crouching = false
+  follow_mouse = true
+  x = -18
+  width = 36
+  parrot_left_shoulder = false
+  action = custom_layout_element:fancymenu_customization_player_entity
+  actionid = af75597c-9757-436f-9b6c-d9154565daf81699054921475
+  y = -146
+  playername = Grayskulll
+  bodyrotationx = 0.0
+  parrot = false
+  bodyrotationy = 0.0
+  auto_cape = false
+  is_baby = false
+  height = 108
+}
+
+customization {
+  path = config/paxi/inqreresewn.gif
+  orientation = top-centered
+  x = -76
+  width = 150
+  action = addtexture
+  actionid = f2c609df-3942-4f71-ac4f-8c32d303dc7c1700351532138
+  y = -34
+  height = 165
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://discord.gg/DR8N2U8jU4%btnaction_splitter_fm%
+  x = 375
+  width = 98
+  action = addbutton
+  actionid = d081c6d7-4108-46f3-b99d-381fc91d66481705281333162
+  y = 141
+  label = Discord
+  height = 20
+}
+
+customization {
+  identifier = %id=504324%
+  action = hidebutton
+}
+

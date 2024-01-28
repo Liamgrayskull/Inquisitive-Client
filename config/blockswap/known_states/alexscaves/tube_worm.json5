@@ -1,0 +1,221 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "straight",
+			"facing": "north"
+		},
+		"Name": "alexscaves:tube_worm"
+	},
+	{
+		"Name": "alexscaves:tube_worm"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "turn",
+			"facing": "north"
+		},
+		"Name": "alexscaves:tube_worm"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "turn",
+			"facing": "north"
+		},
+		"Name": "alexscaves:tube_worm"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "elbow",
+			"facing": "north"
+		},
+		"Name": "alexscaves:tube_worm"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "elbow",
+			"facing": "north"
+		},
+		"Name": "alexscaves:tube_worm"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "straight",
+			"facing": "south"
+		},
+		"Name": "alexscaves:tube_worm"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "straight",
+			"facing": "south"
+		},
+		"Name": "alexscaves:tube_worm"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "turn",
+			"facing": "south"
+		},
+		"Name": "alexscaves:tube_worm"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "turn",
+			"facing": "south"
+		},
+		"Name": "alexscaves:tube_worm"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "elbow",
+			"facing": "south"
+		},
+		"Name": "alexscaves:tube_worm"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "elbow",
+			"facing": "south"
+		},
+		"Name": "alexscaves:tube_worm"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "straight",
+			"facing": "west"
+		},
+		"Name": "alexscaves:tube_worm"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "straight",
+			"facing": "west"
+		},
+		"Name": "alexscaves:tube_worm"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "turn",
+			"facing": "west"
+		},
+		"Name": "alexscaves:tube_worm"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "turn",
+			"facing": "west"
+		},
+		"Name": "alexscaves:tube_worm"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "elbow",
+			"facing": "west"
+		},
+		"Name": "alexscaves:tube_worm"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "elbow",
+			"facing": "west"
+		},
+		"Name": "alexscaves:tube_worm"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "straight",
+			"facing": "east"
+		},
+		"Name": "alexscaves:tube_worm"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "straight",
+			"facing": "east"
+		},
+		"Name": "alexscaves:tube_worm"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "turn",
+			"facing": "east"
+		},
+		"Name": "alexscaves:tube_worm"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "turn",
+			"facing": "east"
+		},
+		"Name": "alexscaves:tube_worm"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "elbow",
+			"facing": "east"
+		},
+		"Name": "alexscaves:tube_worm"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "elbow",
+			"facing": "east"
+		},
+		"Name": "alexscaves:tube_worm"
+	}
+]

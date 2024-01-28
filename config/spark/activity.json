@@ -1,0 +1,28 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Grayskulll",
+      "uniqueId": "00d5f600-d470-41fb-bc1e-7861382e204d"
+    },
+    "time": 1706320074822,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/61XOTgSIAK"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Grayskulll",
+      "uniqueId": "00d5f600-d470-41fb-bc1e-7861382e204d"
+    },
+    "time": 1705125885751,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/U1GzFDDIa8"
+    }
+  }
+]

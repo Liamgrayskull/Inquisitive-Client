@@ -1,0 +1,1661 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "straight",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_up",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_up",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up_from_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up_from_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up_from_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up_from_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_up_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_up_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_up_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_up_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_down",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_down",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down_from_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down_from_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down_from_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down_from_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_down_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_down_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_down_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_down_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "straight",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "straight",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_up",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_up",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up_from_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up_from_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up_from_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up_from_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_up_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_up_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_up_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_up_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_down",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_down",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down_from_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down_from_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down_from_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down_from_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_down_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_down_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_down_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_down_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "straight",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "straight",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_up",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_up",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up_from_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up_from_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up_from_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up_from_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_up_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_up_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_up_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_up_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_down",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_down",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down_from_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down_from_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down_from_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down_from_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_down_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_down_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_down_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_down_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "straight",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "straight",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_up",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_up",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up_from_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up_from_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_up_from_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_up_from_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_up_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_up_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_up_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_up_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "inner_down",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "inner_down",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down_from_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down_from_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_down_from_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_down_from_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_down_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_down_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "outer_twist_down_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "outer_twist_down_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:create.small_granite_brick_stairs"
+	}
+]

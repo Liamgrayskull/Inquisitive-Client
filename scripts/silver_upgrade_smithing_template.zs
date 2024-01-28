@@ -1,0 +1,1 @@
+craftingTable.addShaped("silversmith", <item:galosphere:silver_upgrade_smithing_template> * 1, [[<item:minecraft:oak_planks>, <item:etcetera:hammer>, <item:minecraft:oak_planks>], [<item:minecraft:oak_planks>, <item:minecraft:diamond_block>, <item:minecraft:oak_planks>], [<item:minecraft:oak_planks>, <item:oreganized:silver_ingot>, <item:minecraft:oak_planks>]]);

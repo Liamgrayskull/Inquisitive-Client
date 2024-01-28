@@ -1,0 +1,206 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.OptionsScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=505154%
+  orientation = top-centered
+  x = 20
+  action = movebutton
+  y = 30
+}
+
+customization {
+  identifier = %id=345280%
+  orientation = mid-left
+  x = 10
+  action = movebutton
+  y = 35
+}
+
+customization {
+  identifier = %id=345280%
+  action = setbuttondescription
+  description = Unstable! Change in main menu
+}
+
+customization {
+  identifier = %id=345154%
+  orientation = top-centered
+  x = -170
+  action = movebutton
+  y = 30
+}
+
+customization {
+  identifier = %id=345154%
+  action = setbuttondescription
+  description = Field of View
+}
+
+customization {
+  identifier = %id=505280%
+  orientation = mid-right
+  x = -160
+  action = movebutton
+  y = 35
+}
+
+customization {
+  identifier = %id=400334%
+  orientation = bottom-centered
+  x = -100
+  action = movebutton
+  y = -30
+}
+
+customization {
+  identifier = %id=345256%
+  orientation = mid-left
+  x = 5
+  action = movebutton
+  y = 5
+}
+
+customization {
+  identifier = %id=505256%
+  orientation = mid-right
+  x = -155
+  action = movebutton
+  y = 5
+}
+
+customization {
+  identifier = %id=345232%
+  orientation = mid-left
+  x = 10
+  action = movebutton
+  y = -25
+}
+
+customization {
+  identifier = %id=345232%
+  action = setbuttondescription
+  description = This is full of handy tweaks
+}
+
+customization {
+  identifier = %id=505232%
+  orientation = mid-right
+  x = -160
+  action = movebutton
+  y = -25
+}
+
+customization {
+  identifier = %id=505232%
+  action = setbuttondescription
+  description = Change these to your liking!
+}
+
+customization {
+  identifier = %id=55%
+  orientation = mid-left
+  x = 15
+  action = movebutton
+  y = 65
+}
+
+customization {
+  identifier = %id=55%
+  width = 150
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=635154%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=345208%
+  orientation = mid-left
+  x = 15
+  action = movebutton
+  y = -55
+}
+
+customization {
+  identifier = %id=345304%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=345304%
+  orientation = mid-left
+  x = 5
+  action = movebutton
+  y = 65
+}
+
+customization {
+  identifier = %id=505208%
+  orientation = mid-right
+  x = -165
+  action = movebutton
+  y = -55
+}
+
+customization {
+  identifier = %id=505208%
+  action = setbuttondescription
+  description = Keep everything on for the best experience!
+}
+
+customization {
+  identifier = %id=505304%
+  orientation = mid-right
+  x = -165
+  action = movebutton
+  y = 65
+}
+
+customization {
+  orientation = mid-centered
+  copy_client_player = true
+  slim = false
+  auto_skin = false
+  scale = 70
+  headrotationy = 0.0
+  headrotationx = 0.0
+  skinurl = http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c
+  showname = false
+  crouching = false
+  follow_mouse = true
+  x = -21
+  width = 42
+  parrot_left_shoulder = false
+  action = custom_layout_element:fancymenu_customization_player_entity
+  actionid = bbb3cc32-3560-42df-8747-45a56cd355771698985846714
+  y = -35
+  playername = Grayskulll
+  bodyrotationx = 0.0
+  parrot = false
+  bodyrotationy = 0.0
+  auto_cape = false
+  is_baby = false
+  height = 126
+}
+
+customization {
+  identifier = %id=322476%
+  action = hidebutton
+}
+

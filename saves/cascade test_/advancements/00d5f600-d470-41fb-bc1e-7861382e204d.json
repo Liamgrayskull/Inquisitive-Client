@@ -1,0 +1,77 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-01-10 16:28:15 -0800"
+    },
+    "done": true
+  },
+  "surface:surface/root": {
+    "criteria": {
+      "requirement": "2024-01-10 16:28:15 -0800"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-01-10 16:28:15 -0800"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-01-10 16:28:15 -0800"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2024-01-10 16:28:15 -0800"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-01-10 16:43:44 -0800"
+    },
+    "done": true
+  },
+  "conjurer_illager:find_theatre": {
+    "criteria": {
+      "in_theater": "2024-01-10 16:44:37 -0800"
+    },
+    "done": true
+  },
+  "crabbersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-01-10 16:43:44 -0800"
+    },
+    "done": true
+  },
+  "create_dd:root": {
+    "criteria": {
+      "0": "2024-01-10 16:43:44 -0800"
+    },
+    "done": true
+  },
+  "xercamusic:achievements/root": {
+    "criteria": {
+      "crafting_table": "2024-01-10 16:43:44 -0800"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-01-10 16:43:44 -0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_river": "2024-01-10 16:43:53 -0800",
+      "minecraft:dark_forest": "2024-01-10 16:44:23 -0800",
+      "minecraft:river": "2024-01-10 16:44:01 -0800"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}

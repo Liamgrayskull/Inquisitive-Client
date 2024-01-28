@@ -1,0 +1,33 @@
+{
+    "name": "The Camera Basics",
+    "icon": "exposure:camera",
+    "category": "patchouli:lightroom",
+    "pages": [
+        {
+
+
+            "type": "patchouli:crafting",
+            "recipe": "exposure:camera",
+            "title": "The Camera",
+            "text": "A tool enabling the capture of anything seen. Crafting it is simple, I'd be surprised if you couldn't. But It's important to most everything else, so make sure ya have one."
+        },
+        {
+            "type": "patchouli:image",
+            "images":[
+                    "patchouli:camera.png",
+                    "patchouli:reels.png"
+                    
+            ],
+            "border": true
+        },
+        {
+            "type": "patchouli:link",
+            "url": "https://youtu.be/rUlfY_wN3MY",
+            "link_text": "Exposure",
+            "text": "The world of photography awaits you."
+
+
+        }
+        
+    ]
+}

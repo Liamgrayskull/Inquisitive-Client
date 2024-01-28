@@ -1,0 +1,33 @@
+{
+  "// Whether to allow players to have capes. WARNING! This will toggle ALL capes!": "(default: true)",
+  "allow_capes": true,
+  "// Default skin for new players. Use command `/fabrictailor setDefaultSkin` to set those values.": "",
+  "default_skin": {
+    "// Whether to apply the default skin to ALL new players, not just those without skin.": "(default: false)",
+    "apply_to_all": false,
+    "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwNTI3NDQ1Mjk5NiwKICAicHJvZmlsZUlkIiA6ICJmN2QxOWQxNTZhY2I0NDE2OGQ4YTAxYThkNWYwMmEyZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVGbG9vZDQyNEsiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2JkZDk5MTRkNTEwNTFjNDljYWY1N2EwMWI3MDMyZGE2Yjg5OTFjYzc1MzVkMzI0ZGIwNDE0MDE0NDJhMDQ0YSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "signature": "ISEEQzgolXaYnTEdHr5E9grwPx/zYE4NrjWdGgV6Vdm1015a9k0xtMQF4Eo3GzQFuWuH6n2/IDQoIkCYPZIF93Cz3qHMq5c5/n0uw04jSb7aP0O5lZZ2Fa2IOZKgVkyySzXLKM84/4wdGXthIUFdZylIKXc5WI/Gzgb9LJyOMpJfyF2nQxDSRzCSN0fO3LWCjGqjcIo3BTu4XMlU9HNa9am7jpKghfoxnRSGx3Gu7q9RwSVWwuxHW8IYRCaOfZpIFOX4+7YJxDL89uin+sr41n2mIX4R5ohWvZi0Bu8GCBjnyN8qbN4IgBbdJxv0aSX6q8S3EjikHWn43BWFxDKBJBQzHZ1bhFSoS0oXdF6A66ELLHYq2jr9nIngRPqP6NqvLICPv1mCAOLKKJvuBYpFTvJgsiXKahml6nid2GNChyXP4nrEMguQsLc0Zkdh7fxNVqcbTvZtXtbJYXPQHnZdnN0tcM1pS3oq4OvN/tcVcQSSRmRNtHBjX4vjdZ/9iuTg7imJGovMoKQV28Gzmjmv2Gmxwwjc4KcRNcdDKPTJXQhjODm6LtlwkL9lAJhM2wLVEc2BfFdCUrX07i1scfATrusvEi2Y5ORDRmSBz3194SgmHdhyr3eCNQcfQJEoK2b/F4KDf8IcODrReazSCjGxj9jv2540c4QWdU11K043+U8="
+  },
+  "// How quickly can player change the skin, in seconds. -1 for no limit. If using this in server environment, -1 is not recommended.": "(default in singleplayer: -1, default for server: 60)",
+  "skin_change_timer": -1,
+  "// Custom skin server URL (takes priority over default minecraft usernames).": "",
+  "// Leave empty to use default minecraft usernames (and ely.by fallback).": "",
+  "// Available parameters: {player}. Example: https://skins.samolego.org/{player}.png": "",
+  "custom_skin_server": "",
+  "texture_allowed_domains": [
+    "crafatar.com",
+    "mojang.com",
+    "imgur.com",
+    "discord.com",
+    "mc-heads.net",
+    "duckduckgo.com",
+    "githubusercontent.com",
+    "namemc.com",
+    "ely.by",
+    "nocookie.net",
+    "minecraft.net",
+    "minecraftskins.com",
+    "googleusercontent.com",
+    "planetminecraft.com"
+  ]
+}

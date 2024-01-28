@@ -1,0 +1,2 @@
+# Scale types that the pehkui module will switch on this server.
+scaleTypes = ["pehkui:height", "pehkui:width", "pehkui:model_height", "pehkui:model_width"]

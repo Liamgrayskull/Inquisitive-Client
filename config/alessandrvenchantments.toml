@@ -1,0 +1,83 @@
+[boneMealOptions]
+isEnabled = true
+randomSelection = true
+bookOffer = true
+cooldown = 5
+lvl1Area = 3
+lvl2Area = 5
+lvl3Area = 9
+[dieTwiceOptions]
+isEnabled = true
+randomSelection = true
+bookOffer = true
+[enderDefenseOptions]
+isEnabled = true
+randomSelection = true
+bookOffer = true
+cooldown = 30
+radius = 5
+[explosiveOptions]
+isEnabled = true
+randomSelection = true
+bookOffer = true
+cooldown = 60
+power = 3.0
+[freezeAspectOptions]
+isEnabled = true
+randomSelection = true
+bookOffer = true
+[glowerOptions]
+isEnabled = true
+randomSelection = true
+bookOffer = true
+[glowingOptions]
+isEnabled = true
+randomSelection = true
+bookOffer = true
+[healingHeartOptions]
+isEnabled = true
+randomSelection = true
+bookOffer = true
+cooldown = 150
+radius = 10
+[mobGuardOptions]
+isEnabled = true
+randomSelection = true
+bookOffer = true
+cooldown = 30
+freezeTime = 10
+radius = 10
+[nightStalkerOptions]
+isEnabled = true
+randomSelection = true
+bookOffer = true
+[ringOfFireOptions]
+isEnabled = true
+randomSelection = true
+bookOffer = true
+cooldown = 60
+radius = 5
+[soulboundOptions]
+isEnabled = true
+randomSelection = false
+bookOffer = true
+isTreasure = true
+[spotterOptions]
+isEnabled = true
+randomSelection = true
+bookOffer = true
+radius = 25
+[ubiquityOptions]
+isEnabled = true
+randomSelection = true
+bookOffer = true
+cooldown = 15
+[vampiricOptions]
+isEnabled = true
+randomSelection = true
+bookOffer = true
+mutuallyExlusive = true
+[voidlessOptions]
+isEnabled = true
+randomSelection = true
+bookOffer = true

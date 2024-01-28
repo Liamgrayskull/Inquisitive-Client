@@ -1,0 +1,77 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"base": "true"
+		},
+		"Name": "another_furniture:white_lamp_connector"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"base": "true"
+		},
+		"Name": "another_furniture:white_lamp_connector"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"base": "true"
+		},
+		"Name": "another_furniture:white_lamp_connector"
+	},
+	{
+		"Name": "another_furniture:white_lamp_connector"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"base": "false"
+		},
+		"Name": "another_furniture:white_lamp_connector"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"base": "false"
+		},
+		"Name": "another_furniture:white_lamp_connector"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"base": "false"
+		},
+		"Name": "another_furniture:white_lamp_connector"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"base": "false"
+		},
+		"Name": "another_furniture:white_lamp_connector"
+	}
+]

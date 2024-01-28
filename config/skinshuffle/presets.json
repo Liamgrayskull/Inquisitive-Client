@@ -1,0 +1,1494 @@
+{
+  "chosenPreset": 0,
+  "apiPreset": 0,
+  "loadedPresets": [
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    },
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fc6b93588b6729f4a32bf968d9910b2595d48396e41d543c09e452019346866c",
+        "model": "slim",
+        "type": "skinshuffle:url"
+      },
+      "name": "Grayskulll"
+    }
+  ]
+}

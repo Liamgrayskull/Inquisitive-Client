@@ -1,0 +1,27 @@
+{
+	"enabled": true,
+	// Keybinding to open the Macro editing screen
+	"openMacroScreenKeybind": "key.keyboard.unknown",
+	"macros": [
+		{
+			// Macro keybinding
+			"keyName": "key.keyboard.keypad.2",
+			// Key modifier
+			"keyModName": "key.keyboard.unknown",
+			// Command to execute
+			"command": "/chat local",
+			// Type of Macro. Delayed, Repeating, RunNTimes, SingleUse, DisplayOnly
+			"macroType": "SingleUse"
+		},
+		{
+			// Macro keybinding
+			"keyName": "key.keyboard.keypad.1",
+			// Key modifier
+			"keyModName": "key.keyboard.unknown",
+			// Command to execute
+			"command": "/chat global",
+			// Type of Macro. Delayed, Repeating, RunNTimes, SingleUse, DisplayOnly
+			"macroType": "SingleUse"
+		}
+	]
+}

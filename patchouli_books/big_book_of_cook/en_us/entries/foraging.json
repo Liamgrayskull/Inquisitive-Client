@@ -1,0 +1,31 @@
+{
+    "name": "Foraging",
+    "icon": "farmersdelight:brown_mushroom_colony",
+    "category": "patchouli:cookbook",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "   To get acquainted with the world of cooking, brewing and anything pertaining to the creation of food, one must familiarize themselves with foraging for the ingredients they need to survive. First off, you will want to craft yourself a flint knife. This will allow you to not only reap further drops from killing mobs, such as pigs or hoglins, but it will enable you to dice up things utilizing a cutting board.$(br)$(br)."
+        },
+        {
+
+
+            "type": "patchouli:crafting",
+            "recipe": "farmersdelight:flint_knife",
+            "recipe2": "farmersdelight:cutting_board",
+            "title": "Essentials"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "   With these tools, you will be capable of yielding much more from nature. There is an immeasurable wealth of flora to behold across dimensions, but your staples are as follows:$(br)$(br)$(li)Wheat, found consistently where grass is. $(li)Carrots, found mostly in plains $(li)Onions, found primarily in forests. $(li)Beets, found around the coast. $(li)Cabbage, also found along the shore. $(li)Tomatoes, found frequently in deserts. $(li)Rice, found commonly in swamps.$(br)$(br)."
+
+
+        },
+        {
+            "type": "patchouli:text",
+            "text": "  Many of these are further documented in the Flora entry, although that still leaves a great deal to discover on your own. "
+
+        }
+        
+    ]
+}

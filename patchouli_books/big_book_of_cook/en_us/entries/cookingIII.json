@@ -1,0 +1,64 @@
+{
+    "name": "Cooking III",
+    "icon": "miners_delight:copper_pot",
+    "category": "patchouli:cookbook",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "   Upon mastering the essentials of cooking, broadening one's horizons is often the key to go. In order to forge new culinary expeditions, you must acclimate yourself with new realms, periods in history.. But first, the Copper Pot.$(br2)."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "miners_delight:copper_pot",
+            "text": "   The Copper Pot provides a grand array of recipes expanding upon the underground, a.. rather uncomfortable place, and one I personally don't intend on extensively exploring. I stepped foot in the nether, and that was plenty enough for me.$(br2)." 
+
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "endrem:witch_eye",
+            "title": "Potioncraft",
+            "text": "   While not technically cooking itself, the brewing of potions is something I ought to get into someday. It's richly complex and full of wonderful applications, some strangely familiar to the effects I've produced while cooking myself. Other dimensions, particularly have more ties to that of the arcane than the Overworld.$(br2)."
+
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "endrem:cold_eye",
+            "title": "Ancient Discoveries",
+            "text": "   The field of discovery I know the least of, but there are whispers of the revival, through supernatural or scientific means, of ancient creatures- with their own unique cuisines. I'm not one for science myself, but, I may just look further into this..$(br2)."
+
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "endrem:nether_eye",
+            "title": "The Nether",
+            "text": "   Dreadful, dreadful place. I went on a visit for a number of reasons and intend to never come back, even if hoglin meat is some of the best I've ever tasted.. I've considered going vegan anyways, might as well start now.$(br2)."
+
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:ender_eye",
+            "title": "The End",
+            "text": "   As much as I'd love to be unfamiliar with the end, it's not rare for slivers of it's inhabitants to pass through into here. I've read of it before, and.. while I am far from fit to conquer it alone, despite all my travels, the food there is.. interesting.$(br2)."
+
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "patchouli:madamekosher.png"
+
+            ],
+            "title": "Last Known Photo",
+            "border": true
+        },
+        {
+            "type": "patchouli:relations",
+            "entries": [
+                "patchouli:foraging",
+                "patchouli:flora",
+                "patchouli:fauna",
+                "patchouli:fishing",
+                "patchouli:fermenting"
+            ]
+        }
+    ]
+}
