@@ -2,128 +2,63 @@
   "is_debug_mode_enabled": false,
   "frequently_used_emojis": [
     {
+      "emoji_name": "inqgif",
+      "use_points": 10,
+      "is_under_remove_protection": true
+    },
+    {
       "emoji_name": "astonished",
-      "use_points": 9,
-      "is_under_remove_protection": true
-    },
-    {
-      "emoji_name": "family_wwg",
-      "use_points": 7,
-      "is_under_remove_protection": true
-    },
-    {
-      "emoji_name": "family_wwgb",
-      "use_points": 7,
-      "is_under_remove_protection": true
-    },
-    {
-      "emoji_name": "hand_splayed",
-      "use_points": 7,
-      "is_under_remove_protection": true
-    },
-    {
-      "emoji_name": "foot",
-      "use_points": 7,
-      "is_under_remove_protection": true
-    },
-    {
-      "emoji_name": "family_man_girl",
-      "use_points": 7,
-      "is_under_remove_protection": true
-    },
-    {
-      "emoji_name": "family_man_girl_boy",
-      "use_points": 7,
-      "is_under_remove_protection": true
-    },
-    {
-      "emoji_name": "eye",
-      "use_points": 7,
-      "is_under_remove_protection": true
-    },
-    {
-      "emoji_name": "elf",
-      "use_points": 7,
-      "is_under_remove_protection": true
-    },
-    {
-      "emoji_name": "alien",
-      "use_points": 7,
-      "is_under_remove_protection": true
-    },
-    {
-      "emoji_name": "briefs",
-      "use_points": 6,
-      "is_under_remove_protection": true
-    },
-    {
-      "emoji_name": "angel",
-      "use_points": 5,
-      "is_under_remove_protection": true
-    },
-    {
-      "emoji_name": "sparkles",
       "use_points": 4,
       "is_under_remove_protection": true
     },
     {
-      "emoji_name": "face_vomiting",
+      "emoji_name": "family_wwg",
       "use_points": 2,
       "is_under_remove_protection": true
     },
     {
-      "emoji_name": "family_mmgb",
+      "emoji_name": "family_wwgb",
       "use_points": 2,
       "is_under_remove_protection": true
     },
     {
-      "emoji_name": "ear",
+      "emoji_name": "hand_splayed",
       "use_points": 2,
       "is_under_remove_protection": true
     },
     {
-      "emoji_name": "face_with_hand_over_mouth",
+      "emoji_name": "foot",
       "use_points": 2,
       "is_under_remove_protection": true
     },
     {
-      "emoji_name": "kissing_cat",
+      "emoji_name": "family_man_girl",
       "use_points": 2,
       "is_under_remove_protection": true
     },
     {
-      "emoji_name": "hot_face",
+      "emoji_name": "family_man_girl_boy",
       "use_points": 2,
       "is_under_remove_protection": true
     },
     {
-      "emoji_name": "man_pouting",
+      "emoji_name": "eye",
       "use_points": 2,
       "is_under_remove_protection": true
     },
     {
-      "emoji_name": "man_scientist",
+      "emoji_name": "elf",
       "use_points": 2,
       "is_under_remove_protection": true
     },
     {
-      "emoji_name": "man_raising_hand",
+      "emoji_name": "alien",
       "use_points": 2,
       "is_under_remove_protection": true
     },
     {
-      "emoji_name": "man_gesturing_ok",
-      "use_points": 2,
-      "is_under_remove_protection": true
-    },
-    {
-      "emoji_name": "man_getting_face_massage",
-      "use_points": 2,
-      "is_under_remove_protection": true
-    },
-    {
-      "emoji_name": "man_red_haired",
-      "use_points": 2,
+      "emoji_name": "briefs",
+      "use_points": 1,
       "is_under_remove_protection": true
     }
   ],

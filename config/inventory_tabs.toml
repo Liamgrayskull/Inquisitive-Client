@@ -38,6 +38,26 @@ allowScreensByDefault = true
 # 
 # -------------------------------
 # 
+# Manually set the left bound offset for a given screen
+# Positive values expand the left boundary, allowing more tabs to be drawn
+# null means the player inventory
+# 
+[leftBoundOffsetOverride]
+	null = 0
+
+# 
+# -------------------------------
+# 
+# Manually set the right bound offset for a given screen
+# Positive values expand the right boundary, allowing more tabs to be drawn
+# null means the player inventory
+# 
+[rightBoundOffsetOverride]
+	null = 0
+
+# 
+# -------------------------------
+# 
 # Manually set the Tab Provider for a given block or tag
 # | -Provider ID-        | -Tab Behaviour-                            | -Default Blocks Added-
 # | block_shulker_box    | Checks shulker blocked state               | Adds all ShulkerBoxBlocks

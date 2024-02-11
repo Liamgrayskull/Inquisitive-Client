@@ -2,6 +2,32 @@
   "bookGuiScale": 0,
   "clickedVisualize": false,
   "bookData": {
+    "scriptor:scriptor_guide": {
+      "viewedEntries": [
+        "scriptor:basics/actions",
+        "scriptor:basics/descriptors",
+        "scriptor:basics/starting",
+        "scriptor:basics/structure",
+        "scriptor:basics/subjects",
+        "scriptor:crafting/chalk",
+        "scriptor:crafting/lecterns",
+        "scriptor:casting/spellbooks",
+        "scriptor:casting/artifacts",
+        "scriptor:casting/fizzle",
+        "scriptor:crafting/obfuscation",
+        "scriptor:crafting/books",
+        "scriptor:crafting/crystals",
+        "scriptor:casting/chalk_circle",
+        "scriptor:advanced/duplicating_descriptors",
+        "scriptor:advanced/complex_spells",
+        "scriptor:advanced/crystals",
+        "scriptor:discovery/scraps",
+        "scriptor:discovery/identify",
+        "scriptor:casting/verbal"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
     "patchouli:big_book_of_cook": {
       "viewedEntries": [
         "patchouli:fishing",

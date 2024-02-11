@@ -1,0 +1,770 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"update": "true",
+			"table_leg4": "true",
+			"table_leg3": "true",
+			"table_leg2": "true",
+			"table_leg1": "true"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"update": "false",
+			"table_leg4": "true",
+			"table_leg3": "true",
+			"table_leg2": "true",
+			"table_leg1": "true"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"update": "false",
+			"table_leg4": "true",
+			"table_leg3": "true",
+			"table_leg2": "true",
+			"table_leg1": "true"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"update": "true",
+			"table_leg4": "false",
+			"table_leg3": "true",
+			"table_leg2": "true",
+			"table_leg1": "true"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"update": "true",
+			"table_leg4": "false",
+			"table_leg3": "true",
+			"table_leg2": "true",
+			"table_leg1": "true"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"update": "false",
+			"table_leg4": "false",
+			"table_leg3": "true",
+			"table_leg2": "true",
+			"table_leg1": "true"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"update": "false",
+			"table_leg4": "false",
+			"table_leg3": "true",
+			"table_leg2": "true",
+			"table_leg1": "true"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"update": "true",
+			"table_leg4": "true",
+			"table_leg3": "false",
+			"table_leg2": "true",
+			"table_leg1": "true"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"update": "true",
+			"table_leg4": "true",
+			"table_leg3": "false",
+			"table_leg2": "true",
+			"table_leg1": "true"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"update": "false",
+			"table_leg4": "true",
+			"table_leg3": "false",
+			"table_leg2": "true",
+			"table_leg1": "true"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"update": "false",
+			"table_leg4": "true",
+			"table_leg3": "false",
+			"table_leg2": "true",
+			"table_leg1": "true"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"update": "true",
+			"table_leg4": "false",
+			"table_leg3": "false",
+			"table_leg2": "true",
+			"table_leg1": "true"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"update": "true",
+			"table_leg4": "false",
+			"table_leg3": "false",
+			"table_leg2": "true",
+			"table_leg1": "true"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"update": "false",
+			"table_leg4": "false",
+			"table_leg3": "false",
+			"table_leg2": "true",
+			"table_leg1": "true"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"update": "false",
+			"table_leg4": "false",
+			"table_leg3": "false",
+			"table_leg2": "true",
+			"table_leg1": "true"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"update": "true",
+			"table_leg4": "true",
+			"table_leg3": "true",
+			"table_leg2": "false",
+			"table_leg1": "true"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"update": "true",
+			"table_leg4": "true",
+			"table_leg3": "true",
+			"table_leg2": "false",
+			"table_leg1": "true"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"update": "false",
+			"table_leg4": "true",
+			"table_leg3": "true",
+			"table_leg2": "false",
+			"table_leg1": "true"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"update": "false",
+			"table_leg4": "true",
+			"table_leg3": "true",
+			"table_leg2": "false",
+			"table_leg1": "true"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"update": "true",
+			"table_leg4": "false",
+			"table_leg3": "true",
+			"table_leg2": "false",
+			"table_leg1": "true"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"update": "true",
+			"table_leg4": "false",
+			"table_leg3": "true",
+			"table_leg2": "false",
+			"table_leg1": "true"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"update": "false",
+			"table_leg4": "false",
+			"table_leg3": "true",
+			"table_leg2": "false",
+			"table_leg1": "true"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"update": "false",
+			"table_leg4": "false",
+			"table_leg3": "true",
+			"table_leg2": "false",
+			"table_leg1": "true"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"update": "true",
+			"table_leg4": "true",
+			"table_leg3": "false",
+			"table_leg2": "false",
+			"table_leg1": "true"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"update": "true",
+			"table_leg4": "true",
+			"table_leg3": "false",
+			"table_leg2": "false",
+			"table_leg1": "true"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"update": "false",
+			"table_leg4": "true",
+			"table_leg3": "false",
+			"table_leg2": "false",
+			"table_leg1": "true"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"update": "false",
+			"table_leg4": "true",
+			"table_leg3": "false",
+			"table_leg2": "false",
+			"table_leg1": "true"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"update": "true",
+			"table_leg4": "false",
+			"table_leg3": "false",
+			"table_leg2": "false",
+			"table_leg1": "true"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"update": "true",
+			"table_leg4": "false",
+			"table_leg3": "false",
+			"table_leg2": "false",
+			"table_leg1": "true"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"update": "false",
+			"table_leg4": "false",
+			"table_leg3": "false",
+			"table_leg2": "false",
+			"table_leg1": "true"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"update": "false",
+			"table_leg4": "false",
+			"table_leg3": "false",
+			"table_leg2": "false",
+			"table_leg1": "true"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"update": "true",
+			"table_leg4": "true",
+			"table_leg3": "true",
+			"table_leg2": "true",
+			"table_leg1": "false"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"update": "true",
+			"table_leg4": "true",
+			"table_leg3": "true",
+			"table_leg2": "true",
+			"table_leg1": "false"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"update": "false",
+			"table_leg4": "true",
+			"table_leg3": "true",
+			"table_leg2": "true",
+			"table_leg1": "false"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"update": "false",
+			"table_leg4": "true",
+			"table_leg3": "true",
+			"table_leg2": "true",
+			"table_leg1": "false"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"update": "true",
+			"table_leg4": "false",
+			"table_leg3": "true",
+			"table_leg2": "true",
+			"table_leg1": "false"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"update": "true",
+			"table_leg4": "false",
+			"table_leg3": "true",
+			"table_leg2": "true",
+			"table_leg1": "false"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"update": "false",
+			"table_leg4": "false",
+			"table_leg3": "true",
+			"table_leg2": "true",
+			"table_leg1": "false"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"update": "false",
+			"table_leg4": "false",
+			"table_leg3": "true",
+			"table_leg2": "true",
+			"table_leg1": "false"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"update": "true",
+			"table_leg4": "true",
+			"table_leg3": "false",
+			"table_leg2": "true",
+			"table_leg1": "false"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"update": "true",
+			"table_leg4": "true",
+			"table_leg3": "false",
+			"table_leg2": "true",
+			"table_leg1": "false"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"update": "false",
+			"table_leg4": "true",
+			"table_leg3": "false",
+			"table_leg2": "true",
+			"table_leg1": "false"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"update": "false",
+			"table_leg4": "true",
+			"table_leg3": "false",
+			"table_leg2": "true",
+			"table_leg1": "false"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"update": "true",
+			"table_leg4": "false",
+			"table_leg3": "false",
+			"table_leg2": "true",
+			"table_leg1": "false"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"update": "true",
+			"table_leg4": "false",
+			"table_leg3": "false",
+			"table_leg2": "true",
+			"table_leg1": "false"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"update": "false",
+			"table_leg4": "false",
+			"table_leg3": "false",
+			"table_leg2": "true",
+			"table_leg1": "false"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"update": "false",
+			"table_leg4": "false",
+			"table_leg3": "false",
+			"table_leg2": "true",
+			"table_leg1": "false"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"update": "true",
+			"table_leg4": "true",
+			"table_leg3": "true",
+			"table_leg2": "false",
+			"table_leg1": "false"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"update": "true",
+			"table_leg4": "true",
+			"table_leg3": "true",
+			"table_leg2": "false",
+			"table_leg1": "false"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"update": "false",
+			"table_leg4": "true",
+			"table_leg3": "true",
+			"table_leg2": "false",
+			"table_leg1": "false"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"update": "false",
+			"table_leg4": "true",
+			"table_leg3": "true",
+			"table_leg2": "false",
+			"table_leg1": "false"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"update": "true",
+			"table_leg4": "false",
+			"table_leg3": "true",
+			"table_leg2": "false",
+			"table_leg1": "false"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"update": "true",
+			"table_leg4": "false",
+			"table_leg3": "true",
+			"table_leg2": "false",
+			"table_leg1": "false"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"update": "false",
+			"table_leg4": "false",
+			"table_leg3": "true",
+			"table_leg2": "false",
+			"table_leg1": "false"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"update": "false",
+			"table_leg4": "false",
+			"table_leg3": "true",
+			"table_leg2": "false",
+			"table_leg1": "false"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"update": "true",
+			"table_leg4": "true",
+			"table_leg3": "false",
+			"table_leg2": "false",
+			"table_leg1": "false"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"update": "true",
+			"table_leg4": "true",
+			"table_leg3": "false",
+			"table_leg2": "false",
+			"table_leg1": "false"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"update": "false",
+			"table_leg4": "true",
+			"table_leg3": "false",
+			"table_leg2": "false",
+			"table_leg1": "false"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"update": "false",
+			"table_leg4": "true",
+			"table_leg3": "false",
+			"table_leg2": "false",
+			"table_leg1": "false"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"update": "true",
+			"table_leg4": "false",
+			"table_leg3": "false",
+			"table_leg2": "false",
+			"table_leg1": "false"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"update": "true",
+			"table_leg4": "false",
+			"table_leg3": "false",
+			"table_leg2": "false",
+			"table_leg1": "false"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"update": "false",
+			"table_leg4": "false",
+			"table_leg3": "false",
+			"table_leg2": "false",
+			"table_leg1": "false"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"update": "false",
+			"table_leg4": "false",
+			"table_leg3": "false",
+			"table_leg2": "false",
+			"table_leg1": "false"
+		},
+		"Name": "everycomp:tw/quark/ancient_table"
+	}
+]

@@ -11,6 +11,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "false",
+			"waterlogged": "true",
+			"shape": "straight",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "straight",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
 			"waterlogged": "true",
 			"shape": "straight",
 			"placing": "north_east"
@@ -23,6 +44,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "straight",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "straight",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_twist_clockwise",
 			"placing": "north_east"
@@ -32,6 +74,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_twist_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_twist_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_twist_clockwise",
 			"placing": "north_east"
@@ -41,6 +104,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_twist_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_twist_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_twist_counter_clockwise",
 			"placing": "north_east"
@@ -50,6 +134,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_twist_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_twist_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_twist_counter_clockwise",
 			"placing": "north_east"
@@ -59,6 +164,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_twist_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_twist_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "inner_up",
 			"placing": "north_east"
@@ -68,6 +194,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "inner_up",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "inner_up",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "inner_up",
 			"placing": "north_east"
@@ -77,6 +224,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "inner_up",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "inner_up",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_up",
 			"placing": "north_east"
@@ -86,6 +254,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_up",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_up",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_up",
 			"placing": "north_east"
@@ -95,6 +284,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_up",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_up",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_up_from_clockwise",
 			"placing": "north_east"
@@ -104,6 +314,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_up_from_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_up_from_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_up_from_clockwise",
 			"placing": "north_east"
@@ -113,6 +344,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_up_from_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_up_from_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_up_from_counter_clockwise",
 			"placing": "north_east"
@@ -122,6 +374,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_up_from_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_up_from_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_up_from_counter_clockwise",
 			"placing": "north_east"
@@ -131,6 +404,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_up_from_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_up_from_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_flat_up_clockwise",
 			"placing": "north_east"
@@ -140,6 +434,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_flat_up_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_flat_up_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_flat_up_clockwise",
 			"placing": "north_east"
@@ -149,6 +464,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_flat_up_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_flat_up_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_flat_up_from_clockwise",
 			"placing": "north_east"
@@ -158,6 +494,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_flat_up_from_clockwise",
 			"placing": "north_east"
@@ -167,6 +524,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_flat_up_counter_clockwise",
 			"placing": "north_east"
@@ -176,6 +554,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_flat_up_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_flat_up_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_flat_up_counter_clockwise",
 			"placing": "north_east"
@@ -185,6 +584,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_flat_up_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_flat_up_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_flat_up_from_counter_clockwise",
 			"placing": "north_east"
@@ -194,6 +614,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_flat_up_from_counter_clockwise",
 			"placing": "north_east"
@@ -203,6 +644,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_twist_up_clockwise",
 			"placing": "north_east"
@@ -212,6 +674,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_twist_up_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_twist_up_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_twist_up_clockwise",
 			"placing": "north_east"
@@ -221,6 +704,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_twist_up_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_twist_up_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_twist_up_counter_clockwise",
 			"placing": "north_east"
@@ -230,6 +734,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_twist_up_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_twist_up_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_twist_up_counter_clockwise",
 			"placing": "north_east"
@@ -239,6 +764,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_twist_up_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_twist_up_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "inner_down",
 			"placing": "north_east"
@@ -248,6 +794,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "inner_down",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "inner_down",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "inner_down",
 			"placing": "north_east"
@@ -257,6 +824,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "inner_down",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "inner_down",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_down",
 			"placing": "north_east"
@@ -266,6 +854,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_down",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_down",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_down",
 			"placing": "north_east"
@@ -275,6 +884,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_down",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_down",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_down_from_clockwise",
 			"placing": "north_east"
@@ -284,6 +914,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_down_from_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_down_from_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_down_from_clockwise",
 			"placing": "north_east"
@@ -293,6 +944,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_down_from_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_down_from_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_down_from_counter_clockwise",
 			"placing": "north_east"
@@ -302,6 +974,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_down_from_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_down_from_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_down_from_counter_clockwise",
 			"placing": "north_east"
@@ -311,6 +1004,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_down_from_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_down_from_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_flat_down_clockwise",
 			"placing": "north_east"
@@ -320,6 +1034,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_flat_down_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_flat_down_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_flat_down_clockwise",
 			"placing": "north_east"
@@ -329,6 +1064,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_flat_down_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_flat_down_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_flat_down_from_clockwise",
 			"placing": "north_east"
@@ -338,6 +1094,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_flat_down_from_clockwise",
 			"placing": "north_east"
@@ -347,6 +1124,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_flat_down_counter_clockwise",
 			"placing": "north_east"
@@ -356,6 +1154,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_flat_down_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_flat_down_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_flat_down_counter_clockwise",
 			"placing": "north_east"
@@ -365,6 +1184,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_flat_down_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_flat_down_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_flat_down_from_counter_clockwise",
 			"placing": "north_east"
@@ -374,6 +1214,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_flat_down_from_counter_clockwise",
 			"placing": "north_east"
@@ -383,6 +1244,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_twist_down_clockwise",
 			"placing": "north_east"
@@ -392,6 +1274,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_twist_down_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_twist_down_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_twist_down_clockwise",
 			"placing": "north_east"
@@ -401,6 +1304,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_twist_down_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_twist_down_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_twist_down_counter_clockwise",
 			"placing": "north_east"
@@ -410,6 +1334,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_twist_down_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_twist_down_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_twist_down_counter_clockwise",
 			"placing": "north_east"
@@ -419,6 +1364,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_twist_down_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_twist_down_counter_clockwise",
+			"placing": "north_east"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "straight",
 			"placing": "east_south"
@@ -428,6 +1394,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "straight",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "straight",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "straight",
 			"placing": "east_south"
@@ -437,6 +1424,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "straight",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "straight",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_twist_clockwise",
 			"placing": "east_south"
@@ -446,6 +1454,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_twist_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_twist_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_twist_clockwise",
 			"placing": "east_south"
@@ -455,6 +1484,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_twist_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_twist_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_twist_counter_clockwise",
 			"placing": "east_south"
@@ -464,6 +1514,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_twist_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_twist_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_twist_counter_clockwise",
 			"placing": "east_south"
@@ -473,6 +1544,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_twist_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_twist_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "inner_up",
 			"placing": "east_south"
@@ -482,6 +1574,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "inner_up",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "inner_up",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "inner_up",
 			"placing": "east_south"
@@ -491,6 +1604,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "inner_up",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "inner_up",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_up",
 			"placing": "east_south"
@@ -500,6 +1634,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_up",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_up",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_up",
 			"placing": "east_south"
@@ -509,6 +1664,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_up",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_up",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_up_from_clockwise",
 			"placing": "east_south"
@@ -518,6 +1694,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_up_from_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_up_from_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_up_from_clockwise",
 			"placing": "east_south"
@@ -527,6 +1724,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_up_from_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_up_from_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_up_from_counter_clockwise",
 			"placing": "east_south"
@@ -536,6 +1754,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_up_from_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_up_from_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_up_from_counter_clockwise",
 			"placing": "east_south"
@@ -545,6 +1784,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_up_from_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_up_from_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_flat_up_clockwise",
 			"placing": "east_south"
@@ -554,6 +1814,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_flat_up_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_flat_up_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_flat_up_clockwise",
 			"placing": "east_south"
@@ -563,6 +1844,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_flat_up_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_flat_up_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_flat_up_from_clockwise",
 			"placing": "east_south"
@@ -572,6 +1874,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_flat_up_from_clockwise",
 			"placing": "east_south"
@@ -581,6 +1904,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_flat_up_counter_clockwise",
 			"placing": "east_south"
@@ -590,6 +1934,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_flat_up_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_flat_up_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_flat_up_counter_clockwise",
 			"placing": "east_south"
@@ -599,6 +1964,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_flat_up_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_flat_up_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_flat_up_from_counter_clockwise",
 			"placing": "east_south"
@@ -608,6 +1994,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_flat_up_from_counter_clockwise",
 			"placing": "east_south"
@@ -617,6 +2024,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_twist_up_clockwise",
 			"placing": "east_south"
@@ -626,6 +2054,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_twist_up_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_twist_up_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_twist_up_clockwise",
 			"placing": "east_south"
@@ -635,6 +2084,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_twist_up_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_twist_up_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_twist_up_counter_clockwise",
 			"placing": "east_south"
@@ -644,6 +2114,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_twist_up_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_twist_up_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_twist_up_counter_clockwise",
 			"placing": "east_south"
@@ -653,6 +2144,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_twist_up_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_twist_up_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "inner_down",
 			"placing": "east_south"
@@ -662,6 +2174,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "inner_down",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "inner_down",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "inner_down",
 			"placing": "east_south"
@@ -671,6 +2204,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "inner_down",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "inner_down",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_down",
 			"placing": "east_south"
@@ -680,6 +2234,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_down",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_down",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_down",
 			"placing": "east_south"
@@ -689,6 +2264,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_down",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_down",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_down_from_clockwise",
 			"placing": "east_south"
@@ -698,6 +2294,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_down_from_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_down_from_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_down_from_clockwise",
 			"placing": "east_south"
@@ -707,6 +2324,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_down_from_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_down_from_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_down_from_counter_clockwise",
 			"placing": "east_south"
@@ -716,6 +2354,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_down_from_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_down_from_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_down_from_counter_clockwise",
 			"placing": "east_south"
@@ -725,6 +2384,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_down_from_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_down_from_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_flat_down_clockwise",
 			"placing": "east_south"
@@ -734,6 +2414,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_flat_down_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_flat_down_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_flat_down_clockwise",
 			"placing": "east_south"
@@ -743,6 +2444,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_flat_down_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_flat_down_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_flat_down_from_clockwise",
 			"placing": "east_south"
@@ -752,6 +2474,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_flat_down_from_clockwise",
 			"placing": "east_south"
@@ -761,6 +2504,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_flat_down_counter_clockwise",
 			"placing": "east_south"
@@ -770,6 +2534,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_flat_down_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_flat_down_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_flat_down_counter_clockwise",
 			"placing": "east_south"
@@ -779,6 +2564,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_flat_down_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_flat_down_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_flat_down_from_counter_clockwise",
 			"placing": "east_south"
@@ -788,6 +2594,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_flat_down_from_counter_clockwise",
 			"placing": "east_south"
@@ -797,6 +2624,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_twist_down_clockwise",
 			"placing": "east_south"
@@ -806,6 +2654,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_twist_down_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_twist_down_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_twist_down_clockwise",
 			"placing": "east_south"
@@ -815,6 +2684,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_twist_down_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_twist_down_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_twist_down_counter_clockwise",
 			"placing": "east_south"
@@ -824,6 +2714,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_twist_down_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_twist_down_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_twist_down_counter_clockwise",
 			"placing": "east_south"
@@ -833,6 +2744,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_twist_down_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_twist_down_counter_clockwise",
+			"placing": "east_south"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "straight",
 			"placing": "south_west"
@@ -842,6 +2774,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "straight",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "straight",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "straight",
 			"placing": "south_west"
@@ -851,6 +2804,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "straight",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "straight",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_twist_clockwise",
 			"placing": "south_west"
@@ -860,6 +2834,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_twist_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_twist_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_twist_clockwise",
 			"placing": "south_west"
@@ -869,6 +2864,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_twist_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_twist_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_twist_counter_clockwise",
 			"placing": "south_west"
@@ -878,6 +2894,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_twist_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_twist_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_twist_counter_clockwise",
 			"placing": "south_west"
@@ -887,6 +2924,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_twist_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_twist_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "inner_up",
 			"placing": "south_west"
@@ -896,6 +2954,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "inner_up",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "inner_up",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "inner_up",
 			"placing": "south_west"
@@ -905,6 +2984,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "inner_up",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "inner_up",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_up",
 			"placing": "south_west"
@@ -914,6 +3014,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_up",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_up",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_up",
 			"placing": "south_west"
@@ -923,6 +3044,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_up",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_up",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_up_from_clockwise",
 			"placing": "south_west"
@@ -932,6 +3074,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_up_from_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_up_from_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_up_from_clockwise",
 			"placing": "south_west"
@@ -941,6 +3104,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_up_from_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_up_from_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_up_from_counter_clockwise",
 			"placing": "south_west"
@@ -950,6 +3134,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_up_from_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_up_from_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_up_from_counter_clockwise",
 			"placing": "south_west"
@@ -959,6 +3164,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_up_from_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_up_from_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_flat_up_clockwise",
 			"placing": "south_west"
@@ -968,6 +3194,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_flat_up_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_flat_up_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_flat_up_clockwise",
 			"placing": "south_west"
@@ -977,6 +3224,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_flat_up_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_flat_up_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_flat_up_from_clockwise",
 			"placing": "south_west"
@@ -986,6 +3254,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_flat_up_from_clockwise",
 			"placing": "south_west"
@@ -995,6 +3284,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_flat_up_counter_clockwise",
 			"placing": "south_west"
@@ -1004,6 +3314,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_flat_up_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_flat_up_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_flat_up_counter_clockwise",
 			"placing": "south_west"
@@ -1013,6 +3344,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_flat_up_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_flat_up_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_flat_up_from_counter_clockwise",
 			"placing": "south_west"
@@ -1022,6 +3374,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_flat_up_from_counter_clockwise",
 			"placing": "south_west"
@@ -1031,6 +3404,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_twist_up_clockwise",
 			"placing": "south_west"
@@ -1040,6 +3434,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_twist_up_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_twist_up_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_twist_up_clockwise",
 			"placing": "south_west"
@@ -1049,6 +3464,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_twist_up_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_twist_up_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_twist_up_counter_clockwise",
 			"placing": "south_west"
@@ -1058,6 +3494,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_twist_up_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_twist_up_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_twist_up_counter_clockwise",
 			"placing": "south_west"
@@ -1067,6 +3524,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_twist_up_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_twist_up_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "inner_down",
 			"placing": "south_west"
@@ -1076,6 +3554,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "inner_down",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "inner_down",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "inner_down",
 			"placing": "south_west"
@@ -1085,6 +3584,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "inner_down",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "inner_down",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_down",
 			"placing": "south_west"
@@ -1094,6 +3614,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_down",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_down",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_down",
 			"placing": "south_west"
@@ -1103,6 +3644,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_down",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_down",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_down_from_clockwise",
 			"placing": "south_west"
@@ -1112,6 +3674,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_down_from_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_down_from_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_down_from_clockwise",
 			"placing": "south_west"
@@ -1121,6 +3704,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_down_from_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_down_from_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_down_from_counter_clockwise",
 			"placing": "south_west"
@@ -1130,6 +3734,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_down_from_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_down_from_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_down_from_counter_clockwise",
 			"placing": "south_west"
@@ -1139,6 +3764,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_down_from_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_down_from_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_flat_down_clockwise",
 			"placing": "south_west"
@@ -1148,6 +3794,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_flat_down_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_flat_down_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_flat_down_clockwise",
 			"placing": "south_west"
@@ -1157,6 +3824,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_flat_down_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_flat_down_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_flat_down_from_clockwise",
 			"placing": "south_west"
@@ -1166,6 +3854,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_flat_down_from_clockwise",
 			"placing": "south_west"
@@ -1175,6 +3884,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_flat_down_counter_clockwise",
 			"placing": "south_west"
@@ -1184,6 +3914,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_flat_down_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_flat_down_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_flat_down_counter_clockwise",
 			"placing": "south_west"
@@ -1193,6 +3944,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_flat_down_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_flat_down_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_flat_down_from_counter_clockwise",
 			"placing": "south_west"
@@ -1202,6 +3974,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_flat_down_from_counter_clockwise",
 			"placing": "south_west"
@@ -1211,6 +4004,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_twist_down_clockwise",
 			"placing": "south_west"
@@ -1220,6 +4034,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_twist_down_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_twist_down_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_twist_down_clockwise",
 			"placing": "south_west"
@@ -1229,6 +4064,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_twist_down_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_twist_down_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_twist_down_counter_clockwise",
 			"placing": "south_west"
@@ -1238,6 +4094,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_twist_down_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_twist_down_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_twist_down_counter_clockwise",
 			"placing": "south_west"
@@ -1247,6 +4124,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_twist_down_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_twist_down_counter_clockwise",
+			"placing": "south_west"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "straight",
 			"placing": "west_north"
@@ -1256,6 +4154,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "straight",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "straight",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "straight",
 			"placing": "west_north"
@@ -1265,6 +4184,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "straight",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "straight",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_twist_clockwise",
 			"placing": "west_north"
@@ -1274,6 +4214,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_twist_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_twist_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_twist_clockwise",
 			"placing": "west_north"
@@ -1283,6 +4244,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_twist_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_twist_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_twist_counter_clockwise",
 			"placing": "west_north"
@@ -1292,6 +4274,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_twist_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_twist_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_twist_counter_clockwise",
 			"placing": "west_north"
@@ -1301,6 +4304,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_twist_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_twist_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "inner_up",
 			"placing": "west_north"
@@ -1310,6 +4334,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "inner_up",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "inner_up",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "inner_up",
 			"placing": "west_north"
@@ -1319,6 +4364,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "inner_up",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "inner_up",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_up",
 			"placing": "west_north"
@@ -1328,6 +4394,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_up",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_up",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_up",
 			"placing": "west_north"
@@ -1337,6 +4424,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_up",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_up",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_up_from_clockwise",
 			"placing": "west_north"
@@ -1346,6 +4454,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_up_from_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_up_from_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_up_from_clockwise",
 			"placing": "west_north"
@@ -1355,6 +4484,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_up_from_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_up_from_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_up_from_counter_clockwise",
 			"placing": "west_north"
@@ -1364,6 +4514,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_up_from_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_up_from_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_up_from_counter_clockwise",
 			"placing": "west_north"
@@ -1373,6 +4544,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_up_from_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_up_from_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_flat_up_clockwise",
 			"placing": "west_north"
@@ -1382,6 +4574,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_flat_up_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_flat_up_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_flat_up_clockwise",
 			"placing": "west_north"
@@ -1391,6 +4604,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_flat_up_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_flat_up_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_flat_up_from_clockwise",
 			"placing": "west_north"
@@ -1400,6 +4634,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_flat_up_from_clockwise",
 			"placing": "west_north"
@@ -1409,6 +4664,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_flat_up_counter_clockwise",
 			"placing": "west_north"
@@ -1418,6 +4694,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_flat_up_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_flat_up_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_flat_up_counter_clockwise",
 			"placing": "west_north"
@@ -1427,6 +4724,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_flat_up_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_flat_up_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_flat_up_from_counter_clockwise",
 			"placing": "west_north"
@@ -1436,6 +4754,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_flat_up_from_counter_clockwise",
 			"placing": "west_north"
@@ -1445,6 +4784,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_flat_up_from_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_twist_up_clockwise",
 			"placing": "west_north"
@@ -1454,6 +4814,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_twist_up_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_twist_up_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_twist_up_clockwise",
 			"placing": "west_north"
@@ -1463,6 +4844,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_twist_up_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_twist_up_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_twist_up_counter_clockwise",
 			"placing": "west_north"
@@ -1472,6 +4874,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_twist_up_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_twist_up_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_twist_up_counter_clockwise",
 			"placing": "west_north"
@@ -1481,6 +4904,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_twist_up_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_twist_up_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "inner_down",
 			"placing": "west_north"
@@ -1490,6 +4934,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "inner_down",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "inner_down",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "inner_down",
 			"placing": "west_north"
@@ -1499,6 +4964,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "inner_down",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "inner_down",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_down",
 			"placing": "west_north"
@@ -1508,6 +4994,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_down",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_down",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_down",
 			"placing": "west_north"
@@ -1517,6 +5024,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_down",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_down",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_down_from_clockwise",
 			"placing": "west_north"
@@ -1526,6 +5054,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_down_from_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_down_from_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_down_from_clockwise",
 			"placing": "west_north"
@@ -1535,6 +5084,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_down_from_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_down_from_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_down_from_counter_clockwise",
 			"placing": "west_north"
@@ -1544,6 +5114,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_down_from_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_down_from_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_down_from_counter_clockwise",
 			"placing": "west_north"
@@ -1553,6 +5144,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_down_from_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_down_from_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_flat_down_clockwise",
 			"placing": "west_north"
@@ -1562,6 +5174,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_flat_down_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_flat_down_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_flat_down_clockwise",
 			"placing": "west_north"
@@ -1571,6 +5204,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_flat_down_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_flat_down_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_flat_down_from_clockwise",
 			"placing": "west_north"
@@ -1580,6 +5234,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_flat_down_from_clockwise",
 			"placing": "west_north"
@@ -1589,6 +5264,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_flat_down_counter_clockwise",
 			"placing": "west_north"
@@ -1598,6 +5294,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_flat_down_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_flat_down_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_flat_down_counter_clockwise",
 			"placing": "west_north"
@@ -1607,6 +5324,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_flat_down_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_flat_down_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_flat_down_from_counter_clockwise",
 			"placing": "west_north"
@@ -1616,6 +5354,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_flat_down_from_counter_clockwise",
 			"placing": "west_north"
@@ -1625,6 +5384,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_flat_down_from_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_twist_down_clockwise",
 			"placing": "west_north"
@@ -1634,6 +5414,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_twist_down_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_twist_down_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_twist_down_clockwise",
 			"placing": "west_north"
@@ -1643,6 +5444,27 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_twist_down_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_twist_down_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_twist_down_counter_clockwise",
 			"placing": "west_north"
@@ -1652,6 +5474,47 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_twist_down_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_twist_down_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
+			"waterlogged": "false",
+			"shape": "outer_twist_down_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_twist_down_counter_clockwise",
+			"placing": "west_north"
+		},
+		"Name": "additionalplacements:minecraft.end_stone_brick_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
 			"waterlogged": "false",
 			"shape": "outer_twist_down_counter_clockwise",
 			"placing": "west_north"

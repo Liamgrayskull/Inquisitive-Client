@@ -186,7 +186,20 @@
     "dev.tr7zw.skinlayers.config.ConfigScreenProvider$1": true,
     "io.wispforest.owo.config.ui.ConfigScreen": true,
     "net.mehvahdjukaar.sawmill.SawmillScreen": true,
-    "dev.emi.emi.screen.ConfigEnumScreen": true
+    "dev.emi.emi.screen.ConfigEnumScreen": true,
+    "gg.moonflower.etched.client.screen.AlbumJukeboxScreen": true,
+    "gg.moonflower.etched.client.screen.EtchingScreen": true,
+    "org.violetmoon.quark.content.experimental.client.screen.VariantSelectorScreen": true,
+    "org.violetmoon.quark.content.automation.client.screen.CrafterScreen": true,
+    "com.codinglitch.simpleradio.client.screens.RadiosmitherScreen": true,
+    "io.github.mortuusars.monobank.content.monobank.MonobankScreen": true,
+    "de.keksuccino.fancymenu.customization.layout.editor.LayoutEditorScreen": true,
+    "de.keksuccino.fancymenu.util.rendering.ui.screen.ConfirmationScreen": true,
+    "com.replaymod.lib.de.johni0702.minecraft.gui.container.AbstractGuiScreen$MinecraftGuiScreen": true,
+    "forge.cn.zbx1425.worldcomment.gui.CommentListScreen": true,
+    "forge.cn.zbx1425.worldcomment.gui.CommentToolScreen": true,
+    "me.dantaeusb.zetter.client.gui.EaselScreen": true,
+    "net.diebuddies.physics.settings.PhysicsSettingsScreen": true
   },
   "hideBackground": {
     "dev.emi.emi.screen.RecipeScreen": true,
@@ -301,6 +314,14 @@
     "com.kitisplode.golemfirststonemod.menu.InventoryScreenAgent": true,
     "net.mcreator.enemyexpansion.client.gui.StarvedGUIScreen": true,
     "net.mcreator.justctgui.client.gui.CraftingtableCTGUIScreen": true,
-    "net.mehvahdjukaar.sawmill.SawmillScreen": true
+    "net.mehvahdjukaar.sawmill.SawmillScreen": true,
+    "gg.moonflower.etched.client.screen.RadioScreen": true,
+    "gg.moonflower.etched.client.screen.AlbumJukeboxScreen": true,
+    "gg.moonflower.etched.client.screen.EtchingScreen": true,
+    "org.violetmoon.quark.content.automation.client.screen.CrafterScreen": true,
+    "io.github.mortuusars.monobank.content.monobank.MonobankScreen": true,
+    "forge.cn.zbx1425.worldcomment.gui.CommentListScreen": true,
+    "forge.cn.zbx1425.worldcomment.gui.CommentToolScreen": true,
+    "me.dantaeusb.zetter.client.gui.EaselScreen": true
   }
 }

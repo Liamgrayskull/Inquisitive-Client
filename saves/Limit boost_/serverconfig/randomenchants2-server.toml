@@ -1,0 +1,145 @@
+
+[enchantments]
+	#Use TREASURE for the enchantment or curse to only be achieved via treasures
+	#Use ENABLED for the enchantment or curse to be achievable
+	#Use DISABLED to deactivate the enchantment or curse
+	#Restriction for Solar Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	solarEnchantConfig = "ENABLED"
+	#Restriction for Obsidian Buster Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	obsidianBusterConfig = "ENABLED"
+	#Restriction for Randomness Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	randomnessConfig = "ENABLED"
+	#Restriction for Magnetic Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	magneticConfig = "ENABLED"
+	#Restriction for Stone Lover Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	stoneLoverConfig = "ENABLED"
+	#Restriction for Eternal Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	eternalConfig = "ENABLED"
+	#Restriction for Dungeoneering Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	dungeoneeringConfig = "ENABLED"
+	#Restriction for Grappling Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	grapplingConfig = "ENABLED"
+	#Restriction for Snatching Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	snatchingConfig = "ENABLED"
+	#Restriction for Resistant Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	resistantConfig = "ENABLED"
+	#Restriction for Teleportation Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	teleportationConfig = "ENABLED"
+	#Restriction for Torches Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	torchesConfig = "ENABLED"
+	#Restriction for True Shot Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	trueShotConfig = "ENABLED"
+	#Restriction for Equal Mine Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	equalMineConfig = "ENABLED"
+	#Restriction for Assimilation Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	assimilationConfig = "ENABLED"
+	#Restriction for Transposition Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	transpositionConfig = "ENABLED"
+	#Restriction for Ricochet Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	ricochetConfig = "ENABLED"
+	#Restriction for Exploding Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	explodingConfig = "ENABLED"
+	#Restriction for Back To The Chamber Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	backToTheChamberConfig = "ENABLED"
+	#Restriction for Quick Draw Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	quickDrawConfig = "ENABLED"
+	#Restriction for Discord Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	discordConfig = "ENABLED"
+	#Restriction for Swift Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	swiftConfig = "ENABLED"
+	#Restriction for Disarm Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	disarmConfig = "ENABLED"
+	#Restriction for Shattering Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	shatteringConfig = "ENABLED"
+	#Restriction for Homing Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	homingConfig = "ENABLED"
+	#Restriction for Paralysis Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	paralysisConfig = "ENABLED"
+	#Restriction for Cursed Jumping Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	cursedJumpConfig = "ENABLED"
+	#Restriction for Reflect Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	reflectConfig = "ENABLED"
+	#Restriction for Floating Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	floatingConfig = "ENABLED"
+	#Restriction for Harvest Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	harvestConfig = "ENABLED"
+	#Restriction for Instant Death Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	instantDeathConfig = "ENABLED"
+	#Restriction for Lighting Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	lightningConfig = "ENABLED"
+	#Restriction for Lumberjack Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	lumberjackConfig = "ENABLED"
+	#Restriction for True Life Steal Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	trueLifeStealConfig = "ENABLED"
+	#Restriction for Stone Bound Enchantment
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	stoneBoundConfig = "ENABLED"
+	#curses
+	#Restriction for Breaking Curse
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	breakingConfig = "ENABLED"
+	#Restriction for Butter Fingers Curse
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	butterFingersConfig = "ENABLED"
+	#Restriction for Fumbling Curse
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	fumblingConfig = "ENABLED"
+	#Restriction for Shadows Curse
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	shadowsConfig = "ENABLED"
+	#unoriginal enchantments / curses
+	#Restriction for Chaotic Shifting Curse
+	#This Curse is Disabled by Default, use ENABLED if you want to enable it!
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	lingeringShadowsConfig = "DISABLED"
+	#Restriction for Chaos Strike Enchantment
+	#Extra Enchantments are Disabled by Default, use ENABLED if you want to enable them!
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	chaosStrikeConfig = "DISABLED"
+	#Restriction for Ethereal Embrace Enchantment
+	#Extra Enchantments are Disabled by Default, use ENABLED if you want to enable them!
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	etherealEmbraceConfig = "DISABLED"
+	#Restriction for Dimensional Shuffle Enchantment
+	#Extra Enchantments are Disabled by Default, use ENABLED if you want to enable them!
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	dimensionalShuffleConfig = "DISABLED"
+	#Restriction for Zen Sanctuary Enchantment
+	#Extra Enchantments are Disabled by Default, use ENABLED if you want to enable them!
+	#Allowed Values: DISABLED, ENABLED, TREASURE
+	zenSanctuaryConfig = "DISABLED"
+

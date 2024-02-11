@@ -10,5 +10,19 @@ to make editing this file much easier.
 [
 	{
 		"Name": "minecraft:deepslate_bricks"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "true"
+		},
+		"Name": "minecraft:deepslate_bricks"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable"
+		},
+		"Name": "minecraft:deepslate_bricks"
 	}
 ]

@@ -1,17 +1,18 @@
 {
 	"easeInType": "easeInOutExpo",
-	"easeInAnimationType": "slideUp",
+	"easeInAnimationType": "expandTopCenter",
 	"easeOutType": "easeInOutExpo",
-	"easeOutAnimationType": "slideUp",
-	"easeInDuration": 0.3,
-	"easeOutDuration": 0.3,
+	"easeOutAnimationType": "expandBottomCenter",
+	"easeInDuration": 0.1,
+	"easeOutDuration": 0.1,
 	"disableEaseIn": false,
 	"disableEaseOut": false,
 	"bgColorTint": -16777216,
-	"bgBlurIntensity": 0.6,
+	"bgBlurIntensity": 1.0,
 	"disableBgBlur": false,
-	"disableBgTint": false,
+	"disableBgTint": true,
 	"disabledScreens": [
+		"alexscaves:spelunkery.table",
 		"top.theillusivec4.curios.client.gui.CuriosScreen"
 	]
 }

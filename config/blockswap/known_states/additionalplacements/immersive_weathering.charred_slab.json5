@@ -1,0 +1,484 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"overhang": "0",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"overhang": "0",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"overhang": "0",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"overhang": "1",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"overhang": "1",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"overhang": "1",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"overhang": "1",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"overhang": "2",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"overhang": "2",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"overhang": "2",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"overhang": "2",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"overhang": "0",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"overhang": "0",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"overhang": "0",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"overhang": "0",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"overhang": "1",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"overhang": "1",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"overhang": "1",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"overhang": "1",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"overhang": "2",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"overhang": "2",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"overhang": "2",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"overhang": "2",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"overhang": "0",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"overhang": "0",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"overhang": "0",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"overhang": "0",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"overhang": "1",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"overhang": "1",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"overhang": "1",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"overhang": "1",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"overhang": "2",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"overhang": "2",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"overhang": "2",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"overhang": "2",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"overhang": "0",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"overhang": "0",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"overhang": "0",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"overhang": "0",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"overhang": "1",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"overhang": "1",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"overhang": "1",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"overhang": "1",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"overhang": "2",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"overhang": "2",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"overhang": "2",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"overhang": "2",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.charred_slab"
+	}
+]

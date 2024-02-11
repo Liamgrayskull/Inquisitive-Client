@@ -10,5 +10,19 @@ to make editing this file much easier.
 [
 	{
 		"Name": "minecraft:chiseled_stone_bricks"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "true"
+		},
+		"Name": "minecraft:chiseled_stone_bricks"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable"
+		},
+		"Name": "minecraft:chiseled_stone_bricks"
 	}
 ]

@@ -1,1 +1,0 @@
-craftingTable.addShaped("urldisc", <item:urlmusicdiscs:custom_record> * 1, [[<item:minecraft:air>, <item:oreganized:lead_ingot>, <item:minecraft:air>], [<item:oreganized:lead_ingot>, <item:species:birt_egg>, <item:oreganized:lead_ingot>], [<item:minecraft:air>, <item:oreganized:lead_ingot>, <item:minecraft:air>]]);

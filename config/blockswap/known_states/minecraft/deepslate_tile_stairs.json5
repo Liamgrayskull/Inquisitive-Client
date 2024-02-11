@@ -11,6 +11,7 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "straight",
 			"half": "top",
@@ -21,6 +22,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "straight",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "straight",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "straight",
 			"half": "top",
@@ -31,6 +55,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "straight",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "straight",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "inner_left",
 			"half": "top",
@@ -41,6 +88,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "inner_left",
 			"half": "top",
@@ -51,6 +121,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "inner_right",
 			"half": "top",
@@ -61,6 +154,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "inner_right",
 			"half": "top",
@@ -71,6 +187,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_left",
 			"half": "top",
@@ -81,6 +220,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_left",
 			"half": "top",
@@ -91,6 +253,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_right",
 			"half": "top",
@@ -101,6 +286,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_right",
 			"half": "top",
@@ -111,6 +319,51 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
+			"waterlogged": "true",
+			"shape": "straight",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "straight",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
 			"waterlogged": "true",
 			"shape": "straight",
 			"half": "bottom",
@@ -124,6 +377,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "straight",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "straight",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "inner_left",
 			"half": "bottom",
@@ -134,6 +410,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "inner_left",
 			"half": "bottom",
@@ -144,6 +443,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "inner_right",
 			"half": "bottom",
@@ -154,6 +476,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "inner_right",
 			"half": "bottom",
@@ -164,6 +509,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_left",
 			"half": "bottom",
@@ -174,6 +542,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_left",
 			"half": "bottom",
@@ -184,6 +575,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_right",
 			"half": "bottom",
@@ -194,6 +608,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_right",
 			"half": "bottom",
@@ -204,6 +641,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "straight",
 			"half": "top",
@@ -214,6 +674,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "straight",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "straight",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "straight",
 			"half": "top",
@@ -224,6 +707,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "straight",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "straight",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "inner_left",
 			"half": "top",
@@ -234,6 +740,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "inner_left",
 			"half": "top",
@@ -244,6 +773,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "inner_right",
 			"half": "top",
@@ -254,6 +806,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "inner_right",
 			"half": "top",
@@ -264,6 +839,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_left",
 			"half": "top",
@@ -274,6 +872,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_left",
 			"half": "top",
@@ -284,6 +905,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_right",
 			"half": "top",
@@ -294,6 +938,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_right",
 			"half": "top",
@@ -304,6 +971,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "straight",
 			"half": "bottom",
@@ -314,6 +1004,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "straight",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "straight",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "straight",
 			"half": "bottom",
@@ -324,6 +1037,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "straight",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "straight",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "inner_left",
 			"half": "bottom",
@@ -334,6 +1070,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "inner_left",
 			"half": "bottom",
@@ -344,6 +1103,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "inner_right",
 			"half": "bottom",
@@ -354,6 +1136,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "inner_right",
 			"half": "bottom",
@@ -364,6 +1169,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_left",
 			"half": "bottom",
@@ -374,6 +1202,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_left",
 			"half": "bottom",
@@ -384,6 +1235,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_right",
 			"half": "bottom",
@@ -394,6 +1268,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_right",
 			"half": "bottom",
@@ -404,6 +1301,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "straight",
 			"half": "top",
@@ -414,6 +1334,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "straight",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "straight",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "straight",
 			"half": "top",
@@ -424,6 +1367,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "straight",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "straight",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "inner_left",
 			"half": "top",
@@ -434,6 +1400,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "inner_left",
 			"half": "top",
@@ -444,6 +1433,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "inner_right",
 			"half": "top",
@@ -454,6 +1466,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "inner_right",
 			"half": "top",
@@ -464,6 +1499,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_left",
 			"half": "top",
@@ -474,6 +1532,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_left",
 			"half": "top",
@@ -484,6 +1565,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_right",
 			"half": "top",
@@ -494,6 +1598,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_right",
 			"half": "top",
@@ -504,6 +1631,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "straight",
 			"half": "bottom",
@@ -514,6 +1664,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "straight",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "straight",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "straight",
 			"half": "bottom",
@@ -524,6 +1697,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "straight",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "straight",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "inner_left",
 			"half": "bottom",
@@ -534,6 +1730,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "inner_left",
 			"half": "bottom",
@@ -544,6 +1763,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "inner_right",
 			"half": "bottom",
@@ -554,6 +1796,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "inner_right",
 			"half": "bottom",
@@ -564,6 +1829,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_left",
 			"half": "bottom",
@@ -574,6 +1862,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_left",
 			"half": "bottom",
@@ -584,6 +1895,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_right",
 			"half": "bottom",
@@ -594,6 +1928,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_right",
 			"half": "bottom",
@@ -604,6 +1961,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "straight",
 			"half": "top",
@@ -614,6 +1994,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "straight",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "straight",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "straight",
 			"half": "top",
@@ -624,6 +2027,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "straight",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "straight",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "inner_left",
 			"half": "top",
@@ -634,6 +2060,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "inner_left",
 			"half": "top",
@@ -644,6 +2093,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "inner_right",
 			"half": "top",
@@ -654,6 +2126,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "inner_right",
 			"half": "top",
@@ -664,6 +2159,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_left",
 			"half": "top",
@@ -674,6 +2192,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_left",
 			"half": "top",
@@ -684,6 +2225,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_right",
 			"half": "top",
@@ -694,6 +2258,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_right",
 			"half": "top",
@@ -704,6 +2291,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "straight",
 			"half": "bottom",
@@ -714,6 +2324,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "straight",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "straight",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "straight",
 			"half": "bottom",
@@ -724,6 +2357,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "straight",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "straight",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "inner_left",
 			"half": "bottom",
@@ -734,6 +2390,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "inner_left",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "inner_left",
 			"half": "bottom",
@@ -744,6 +2423,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "inner_left",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "inner_right",
 			"half": "bottom",
@@ -754,6 +2456,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "inner_right",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "inner_right",
 			"half": "bottom",
@@ -764,6 +2489,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "inner_right",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_left",
 			"half": "bottom",
@@ -774,6 +2522,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_left",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"shape": "outer_left",
 			"half": "bottom",
@@ -784,6 +2555,29 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"shape": "outer_left",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"shape": "outer_right",
 			"half": "bottom",
@@ -794,6 +2588,51 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"shape": "outer_right",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"shape": "outer_right",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "minecraft:deepslate_tile_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
 			"waterlogged": "false",
 			"shape": "outer_right",
 			"half": "bottom",

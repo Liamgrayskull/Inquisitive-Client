@@ -10,5 +10,19 @@ to make editing this file much easier.
 [
 	{
 		"Name": "minecraft:stone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "true"
+		},
+		"Name": "minecraft:stone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable"
+		},
+		"Name": "minecraft:stone"
 	}
 ]

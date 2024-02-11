@@ -1,0 +1,5762 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "0",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "0",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "0",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "0",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "0",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "0",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "0",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "0",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "0",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "0",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "0",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "0",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "0",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "0",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "0",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "0",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "0",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "0",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "0",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "0",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "1",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "1",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "1",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "1",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "1",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "1",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "1",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "1",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "1",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "1",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "1",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "1",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "1",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "1",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "1",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "1",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "1",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "1",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "1",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "1",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "2",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "2",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "2",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "2",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "2",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "2",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "2",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "2",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "2",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "2",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "2",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "2",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "2",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "2",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "2",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "2",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "2",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "2",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "2",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "2",
+			"half": "top",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "north"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "0",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "0",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "0",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "0",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "0",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "0",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "0",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "0",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "0",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "0",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "0",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "0",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "0",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "0",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "0",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "0",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "0",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "0",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "0",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "0",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "1",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "1",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "1",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "1",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "1",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "1",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "1",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "1",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "1",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "1",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "1",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "1",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "1",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "1",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "1",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "1",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "1",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "1",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "1",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "1",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "2",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "2",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "2",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "2",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "2",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "2",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "2",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "2",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "2",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "2",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "2",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "2",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "2",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "2",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "2",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "2",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "2",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "2",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "2",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "2",
+			"half": "top",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "south"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "0",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "0",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "0",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "0",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "0",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "0",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "0",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "0",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "0",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "0",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "0",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "0",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "0",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "0",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "0",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "0",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "0",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "0",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "0",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "0",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "1",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "1",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "1",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "1",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "1",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "1",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "1",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "1",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "1",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "1",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "1",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "1",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "1",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "1",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "1",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "1",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "1",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "1",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "1",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "1",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "2",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "2",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "2",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "2",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "2",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "2",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "2",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "2",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "2",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "2",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "2",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "2",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "2",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "2",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "2",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "2",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "2",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "2",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "2",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "2",
+			"half": "top",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "west"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "0",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "0",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "0",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "0",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "0",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "0",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "0",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "0",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "0",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "0",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "0",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "0",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "0",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "0",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "0",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "0",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "0",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "0",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "0",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "0",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "1",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "1",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "1",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "1",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "1",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "1",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "1",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "1",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "1",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "1",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "1",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "1",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "1",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "1",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "1",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "1",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "1",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "1",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "1",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "1",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "2",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "2",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "2",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "2",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "2",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "2",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "2",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "2",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "2",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "2",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "2",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "2",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "2",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "2",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "2",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "2",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "2",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "2",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "2",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "2",
+			"half": "top",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "0",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "1",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "straight",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "straight",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_left",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_left",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "inner_right",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "inner_right",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_left",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_left",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "true",
+			"shape": "outer_right",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"smoldering": "false",
+			"shape": "outer_right",
+			"overhang": "2",
+			"half": "bottom",
+			"facing": "east"
+		},
+		"Name": "immersive_weathering:charred_stairs"
+	}
+]

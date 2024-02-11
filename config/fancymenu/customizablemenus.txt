@@ -27,18 +27,15 @@ net.minecraft.client.gui.screens.inventory.ContainerScreen {
 net.minecraft.client.gui.screens.inventory.CraftingScreen {
 }
 
-com.tom.cpm.client.GuiImpl {
-}
-
 net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen {
 }
 
 net.minecraft.client.gui.screens.OptionsScreen {
 }
 
-net.minecraft.client.gui.screens.TitleScreen {
+net.minecraft.client.gui.screens.PauseScreen {
 }
 
-net.minecraft.client.gui.screens.PauseScreen {
+net.minecraft.client.gui.screens.TitleScreen {
 }
 

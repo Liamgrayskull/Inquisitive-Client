@@ -1,74 +1,58 @@
-type = menu
+type = fancymenu_layout
 
-customization-meta {
-  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
-  randomgroup = 1
-  renderorder = foreground
+layout-meta {
+  identifier = drippy_loading_overlay
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1706578686281
+  is_enabled = true
   randommode = true
+  randomgroup = 1
   randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:43b3b2ee-2f80-4280-8496-a284e821cb57-1706578686281] = [groups:][instances:]
+}
+
+menu_background {
+  image_path = [source:local]config/paxi/startup_backgrounds/far.png
+  slide = false
+  background_type = image
 }
 
 customization {
-  path = config/paxi/startup_backgrounds/far.png
-  action = texturizebackground
-}
-
-customization {
-  keepaspectratio = false
   action = backgroundoptions
+  keepaspectratio = false
 }
 
-customization {
-  orientation = top-left
-  hidden = true
-  original_pos_size_calculation = true
-  x = 105
-  width = 270
-  action = deep_customization_element:drippy_overlay_logo
-  actionid = c76f0a10-18fd-435c-b33e-4dc9d3851c651698980770598
-  y = 102
-  height = 66
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
 }
 
-customization {
-  custom_color_hex = #9A5CC6
-  orientation = top-left
-  hidden = false
-  x = -1000000
-  width = 0
-  action = deep_customization_element:drippy_overlay_background
-  actionid = f90de195-d766-4752-9465-1689a5c748c01698980770605
-  y = -1000000
-  height = 0
-}
-
-customization {
-  custom_color_hex = #9A5CC6
-  orientation = top-left
-  hidden = false
-  original_pos_size_calculation = true
-  x = 105
-  width = 270
-  action = deep_customization_element:drippy_overlay_progress_bar
-  actionid = 27e49c47-131b-4d10-a9b6-c34977189c3f1698980770605
-  y = 219
-  height = 10
-}
-
-customization {
-  advanced_height = 100
-  path = config/paxi/inqreresewn.gif
-  orientation = mid-centered
-  x = -52
-  width = 100
-  action = addtexture
-  actionid = aa66dc0d-07c4-4485-98fe-d44bdf8afc151700282319413
-  y = -2
+element {
+  source = [source:local]config/paxi/inqreresewn.gif
+  element_type = image
+  instance_identifier = aa66dc0d-07c4-4485-98fe-d44bdf8afc151700282319413
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
   advanced_width = 100
+  advanced_height = 100
+  x = -52
+  y = -2
+  width = 100
   height = 100
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 5a5e4687-9c85-4aa3-9f88-17ad9eeb45b2-1706578686282
+  [loading_requirement_container_meta:5a5e4687-9c85-4aa3-9f88-17ad9eeb45b2-1706578686282] = [groups:][instances:]
 }
 
-customization {
+element {
   orientation = top-left
   enable_scrolling = false
   shadow = true
@@ -86,9 +70,10 @@ customization {
   alignment = left
   base_color = #9A5CC6
   height = 40
+  element_type = fancymenu_customization_item_text
 }
 
-customization {
+element {
   orientation = top-left
   enable_scrolling = true
   shadow = true
@@ -106,5 +91,56 @@ customization {
   alignment = left
   base_color = #9A5CC6
   height = 40
+  element_type = fancymenu_customization_item_text
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 483b7acd-6238-47b9-983c-aa0abd4d140d-1706578686281
+  [executable_block:483b7acd-6238-47b9-983c-aa0abd4d140d-1706578686281][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  element_type = vanilla_button
+  instance_identifier = vanillabtn:mojang_logo
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 93dede7c-7b60-401a-975e-4d47e754e1ff-1706578686281
+  [loading_requirement_container_meta:93dede7c-7b60-401a-975e-4d47e754e1ff-1706578686281] = [groups:][instances:]
+  is_hidden = true
+  automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = c42878fd-fc32-460f-a338-0fa70abb8c1b-1706578686281
+  [executable_block:c42878fd-fc32-460f-a338-0fa70abb8c1b-1706578686281][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  element_type = vanilla_button
+  instance_identifier = vanillabtn:progress_bar
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 683ba663-b511-473f-9c86-6de5c8adce6a-1706578686281
+  [loading_requirement_container_meta:683ba663-b511-473f-9c86-6de5c8adce6a-1706578686281] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
 }
 

@@ -1,7 +1,7 @@
 {
   "enableMod": 1,
   "secPerPrint": 0.5,
-  "printLifetime": 15.0,
+  "printLifetime": 35.0,
   "printHeight": 0.0,
   "wetDuration": 10,
   "watermarkAlpha": 0.4,

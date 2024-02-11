@@ -11,6 +11,25 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "false",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:minecraft.stone_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:minecraft.stone_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
 			"waterlogged": "true",
 			"facing": "north"
 		},
@@ -22,6 +41,25 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:minecraft.stone_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:minecraft.stone_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"facing": "south"
 		},
@@ -30,6 +68,25 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:minecraft.stone_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:minecraft.stone_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"facing": "south"
 		},
@@ -38,6 +95,25 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:minecraft.stone_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:minecraft.stone_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"facing": "west"
 		},
@@ -46,6 +122,25 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:minecraft.stone_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:minecraft.stone_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"facing": "west"
 		},
@@ -54,6 +149,25 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:minecraft.stone_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:minecraft.stone_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"facing": "east"
 		},
@@ -62,6 +176,43 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:minecraft.stone_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:minecraft.stone_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:minecraft.stone_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:minecraft.stone_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
 			"waterlogged": "false",
 			"facing": "east"
 		},

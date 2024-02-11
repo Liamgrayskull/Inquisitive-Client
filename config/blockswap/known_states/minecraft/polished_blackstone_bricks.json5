@@ -10,5 +10,19 @@ to make editing this file much easier.
 [
 	{
 		"Name": "minecraft:polished_blackstone_bricks"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "true"
+		},
+		"Name": "minecraft:polished_blackstone_bricks"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable"
+		},
+		"Name": "minecraft:polished_blackstone_bricks"
 	}
 ]

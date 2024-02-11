@@ -11,6 +11,7 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"type": "top"
 		},
@@ -19,6 +20,25 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"type": "top"
+		},
+		"Name": "minecraft:cobblestone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"type": "top"
+		},
+		"Name": "minecraft:cobblestone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "false",
 			"type": "top"
 		},
@@ -27,6 +47,43 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"type": "top"
+		},
+		"Name": "minecraft:cobblestone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"type": "top"
+		},
+		"Name": "minecraft:cobblestone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
+			"waterlogged": "true",
+			"type": "bottom"
+		},
+		"Name": "minecraft:cobblestone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"type": "bottom"
+		},
+		"Name": "minecraft:cobblestone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
 			"waterlogged": "true",
 			"type": "bottom"
 		},
@@ -38,6 +95,25 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"type": "bottom"
+		},
+		"Name": "minecraft:cobblestone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "false",
+			"type": "bottom"
+		},
+		"Name": "minecraft:cobblestone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
 			"waterlogged": "true",
 			"type": "double"
 		},
@@ -46,6 +122,43 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"weathering": "true",
+			"waterlogged": "true",
+			"type": "double"
+		},
+		"Name": "minecraft:cobblestone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
+			"waterlogged": "true",
+			"type": "double"
+		},
+		"Name": "minecraft:cobblestone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "false",
+			"waterlogged": "false",
+			"type": "double"
+		},
+		"Name": "minecraft:cobblestone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "true",
+			"waterlogged": "false",
+			"type": "double"
+		},
+		"Name": "minecraft:cobblestone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"weathering": "stable",
 			"waterlogged": "false",
 			"type": "double"
 		},
