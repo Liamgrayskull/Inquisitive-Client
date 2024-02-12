@@ -39,6 +39,25 @@
       "bookmarks": [],
       "completedManualQuests": []
     },
+    "ad_astra:astrodux": {
+      "viewedEntries": [
+        "ad_astra:the_first_launch/generating_energy",
+        "ad_astra:the_first_launch/radio",
+        "ad_astra:the_first_launch/creating_plates",
+        "ad_astra:the_first_launch/making_steel",
+        "ad_astra:the_first_launch/your_first_rocket",
+        "ad_astra:the_moon/rover",
+        "ad_astra:the_first_launch/the_moon",
+        "ad_astra:the_first_launch/preparing_to_launch",
+        "ad_astra:the_first_launch/portable_resources",
+        "ad_astra:the_first_launch/oxygen",
+        "ad_astra:the_first_launch/fuel",
+        "ad_astra:the_hot_planets/proxima_centauri",
+        "ad_astra:the_hot_planets/jet_suit"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
     "patchouli:lightroom_lexicon": {
       "viewedEntries": [
         "patchouli:attachments",

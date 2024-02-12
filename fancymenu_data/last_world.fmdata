@@ -1,7 +1,7 @@
 type = last_world
 
 last_world {
-  is_server = false
-  world = C:/Users/Liam/AppData/Local/Temp/world_preview3646305516804459853/world_preview
+  is_server = true
+  world = 104.247.112.151:25566
 }
 

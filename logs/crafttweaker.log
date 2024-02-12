@@ -1,12 +1,66 @@
-[16:44:17.522][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production client modded with platform Forge
-[16:44:17.567][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
-[16:44:17.700][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
-[16:44:17.704][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
-[16:44:17.717][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
-[16:44:19.712][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
-[16:44:19.714][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.33'
-[16:44:19.714][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.4'
-[16:44:32.250][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
-[16:44:32.582][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[16:44:32.611][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
-[16:44:32.695][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
+[15:05:16.013][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production client modded with platform Forge
+[15:05:16.060][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[15:05:16.207][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[15:05:16.213][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[15:05:16.229][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
+[15:05:18.325][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[15:05:18.327][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.33'
+[15:05:18.327][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.4'
+[15:05:31.108][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
+[15:05:31.524][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[15:05:31.552][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[15:05:31.629][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
+[15:12:44.220][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
+[15:12:44.250][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[15:12:44.658][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[15:12:44.659][INFO][CraftTweaker-ZenCode]: Loading file 'crafttweaker_tags.zs' with priority 0
+[15:12:44.668][INFO][CraftTweaker-ZenCode]: Loading file 'electrum_upgrade_smithing_template.zs' with priority 0
+[15:12:44.668][INFO][CraftTweaker-ZenCode]: Loading file 'jade_upgrade_smithing_template.zs' with priority 0
+[15:12:44.668][INFO][CraftTweaker-ZenCode]: Loading file 'netherite_upgrade_smithing_template.zs' with priority 0
+[15:12:44.668][INFO][CraftTweaker-ZenCode]: Loading file 'silver_upgrade_smithing_template.zs' with priority 0
+[15:12:44.668][INFO][CraftTweaker-ZenCode]: Loading file 'spawner.zs' with priority 0
+[15:12:44.733][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
+[15:16:23.955][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
+[15:16:23.955][INFO][CraftTweaker-ZenCode]: Undoing previous actions
+[15:16:23.972][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[15:16:24.081][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[15:16:24.081][INFO][CraftTweaker-ZenCode]: Loading file 'crafttweaker_tags.zs' with priority 0
+[15:16:24.084][INFO][CraftTweaker-ZenCode]: Loading file 'electrum_upgrade_smithing_template.zs' with priority 0
+[15:16:24.085][INFO][CraftTweaker-ZenCode]: Loading file 'jade_upgrade_smithing_template.zs' with priority 0
+[15:16:24.085][INFO][CraftTweaker-ZenCode]: Loading file 'netherite_upgrade_smithing_template.zs' with priority 0
+[15:16:24.085][INFO][CraftTweaker-ZenCode]: Loading file 'silver_upgrade_smithing_template.zs' with priority 0
+[15:16:24.085][INFO][CraftTweaker-ZenCode]: Loading file 'spawner.zs' with priority 0
+[15:16:24.110][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
+[15:22:42.571][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
+[15:22:42.572][INFO][CraftTweaker-ZenCode]: Undoing previous actions
+[15:22:42.584][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[15:22:42.669][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[15:22:42.669][INFO][CraftTweaker-ZenCode]: Loading file 'crafttweaker_tags.zs' with priority 0
+[15:22:42.671][INFO][CraftTweaker-ZenCode]: Loading file 'electrum_upgrade_smithing_template.zs' with priority 0
+[15:22:42.671][INFO][CraftTweaker-ZenCode]: Loading file 'jade_upgrade_smithing_template.zs' with priority 0
+[15:22:42.671][INFO][CraftTweaker-ZenCode]: Loading file 'netherite_upgrade_smithing_template.zs' with priority 0
+[15:22:42.672][INFO][CraftTweaker-ZenCode]: Loading file 'silver_upgrade_smithing_template.zs' with priority 0
+[15:22:42.672][INFO][CraftTweaker-ZenCode]: Loading file 'spawner.zs' with priority 0
+[15:22:42.707][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
+[15:23:45.086][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
+[15:23:45.086][INFO][CraftTweaker-ZenCode]: Undoing previous actions
+[15:23:45.097][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[15:23:45.170][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[15:23:45.170][INFO][CraftTweaker-ZenCode]: Loading file 'crafttweaker_tags.zs' with priority 0
+[15:23:45.172][INFO][CraftTweaker-ZenCode]: Loading file 'electrum_upgrade_smithing_template.zs' with priority 0
+[15:23:45.172][INFO][CraftTweaker-ZenCode]: Loading file 'jade_upgrade_smithing_template.zs' with priority 0
+[15:23:45.172][INFO][CraftTweaker-ZenCode]: Loading file 'netherite_upgrade_smithing_template.zs' with priority 0
+[15:23:45.172][INFO][CraftTweaker-ZenCode]: Loading file 'silver_upgrade_smithing_template.zs' with priority 0
+[15:23:45.172][INFO][CraftTweaker-ZenCode]: Loading file 'spawner.zs' with priority 0
+[15:23:45.196][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
+[15:26:30.837][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
+[15:26:30.837][INFO][CraftTweaker-ZenCode]: Undoing previous actions
+[15:26:30.849][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[15:26:30.923][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[15:26:30.924][INFO][CraftTweaker-ZenCode]: Loading file 'crafttweaker_tags.zs' with priority 0
+[15:26:30.926][INFO][CraftTweaker-ZenCode]: Loading file 'electrum_upgrade_smithing_template.zs' with priority 0
+[15:26:30.926][INFO][CraftTweaker-ZenCode]: Loading file 'jade_upgrade_smithing_template.zs' with priority 0
+[15:26:30.926][INFO][CraftTweaker-ZenCode]: Loading file 'netherite_upgrade_smithing_template.zs' with priority 0
+[15:26:30.926][INFO][CraftTweaker-ZenCode]: Loading file 'silver_upgrade_smithing_template.zs' with priority 0
+[15:26:30.926][INFO][CraftTweaker-ZenCode]: Loading file 'spawner.zs' with priority 0
+[15:26:30.952][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully

@@ -199,7 +199,20 @@
     "forge.cn.zbx1425.worldcomment.gui.CommentListScreen": true,
     "forge.cn.zbx1425.worldcomment.gui.CommentToolScreen": true,
     "me.dantaeusb.zetter.client.gui.EaselScreen": true,
-    "net.diebuddies.physics.settings.PhysicsSettingsScreen": true
+    "net.diebuddies.physics.settings.PhysicsSettingsScreen": true,
+    "earth.terrarium.adastra.client.screens.vehicles.RoverScreen": true,
+    "earth.terrarium.adastra.client.radio.screen.RadioScreen": true,
+    "earth.terrarium.adastra.client.screens.machines.NasaWorkbenchScreen": true,
+    "earth.terrarium.adastra.client.screens.vehicles.RocketScreen": true,
+    "earth.terrarium.adastra.client.screens.vehicles.LanderScreen": true,
+    "earth.terrarium.adastra.client.screens.machines.GravityNormalizerScreen": true,
+    "earth.terrarium.adastra.client.screens.machines.WaterPumpScreen": true,
+    "earth.terrarium.adastra.client.screens.machines.CryoFreezerScreen": true,
+    "earth.terrarium.adastra.client.screens.machines.EtrionicBlastFurnaceScreen": true,
+    "earth.terrarium.adastra.client.screens.machines.OxygenDistributorScreen": true,
+    "earth.terrarium.adastra.client.screens.PlanetsScreen": true,
+    "net.povstalec.stellarview.client.screens.config.ConfigScreen": true,
+    "earth.terrarium.adastra.client.screens.blocks.FlagUrlScreen": true
   },
   "hideBackground": {
     "dev.emi.emi.screen.RecipeScreen": true,
@@ -322,6 +335,17 @@
     "io.github.mortuusars.monobank.content.monobank.MonobankScreen": true,
     "forge.cn.zbx1425.worldcomment.gui.CommentListScreen": true,
     "forge.cn.zbx1425.worldcomment.gui.CommentToolScreen": true,
-    "me.dantaeusb.zetter.client.gui.EaselScreen": true
+    "me.dantaeusb.zetter.client.gui.EaselScreen": true,
+    "earth.terrarium.adastra.client.screens.vehicles.RoverScreen": true,
+    "earth.terrarium.adastra.client.radio.screen.RadioScreen": true,
+    "earth.terrarium.adastra.client.screens.machines.NasaWorkbenchScreen": true,
+    "earth.terrarium.adastra.client.screens.vehicles.RocketScreen": true,
+    "earth.terrarium.adastra.client.screens.vehicles.LanderScreen": true,
+    "earth.terrarium.adastra.client.screens.machines.GravityNormalizerScreen": true,
+    "earth.terrarium.adastra.client.screens.machines.WaterPumpScreen": true,
+    "earth.terrarium.adastra.client.screens.machines.CryoFreezerScreen": true,
+    "earth.terrarium.adastra.client.screens.machines.EtrionicBlastFurnaceScreen": true,
+    "earth.terrarium.adastra.client.screens.machines.OxygenDistributorScreen": true,
+    "earth.terrarium.adastra.client.screens.blocks.FlagUrlScreen": true
   }
 }

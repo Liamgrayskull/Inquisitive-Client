@@ -10,4 +10,7 @@ sortReversed:false
 ignoreHeightmaps:false
 
 //dimension types (DO NOT EDIT)
+dimensionType:ad_astra$moon_orbit:ad_astra$moon_orbit
+dimensionType:ad_astra$mars:ad_astra$mars
+dimensionType:ad_astra$moon:ad_astra$moon
 dimensionType:minecraft$overworld:minecraft$overworld

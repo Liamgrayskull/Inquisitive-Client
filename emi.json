@@ -3,6 +3,53 @@
   "lookup_history": [
     {
       "type": "item",
+      "id": "ad_astra:aeronos_ladder",
+      "amount": 64
+    },
+    "item:ad_astra:steel_factory_block",
+    "item:oreganized:electrum_upgrade_smithing_template",
+    "item:ad_astra:space_suit{Damage:0}",
+    "item:ad_astra:jet_suit_pants{Damage:0}",
+    "item:ad_astra:wheel",
+    "item:ad_astra:tier_1_rover{BotariumData:{StoredFluids:[{Amount:3000L,Fluid:\"ad_astra:fuel\"}]}}",
+    "item:ad_astra:ostrum_ingot",
+    "item:ad_astra:ostrum_plate",
+    "item:ad_astra:netherite_space_suit{Damage:0}",
+    "item:ad_astra:netherite_space_suit{BotariumData:{StoredFluids:[{Amount:2000L,Fluid:\"ad_astra:oxygen\"}]},Damage:0}",
+    "item:ad_astra:raw_calorite",
+    "item:ad_astra:calorite_ingot",
+    "item:ad_astra:calorite_block",
+    "item:ad_astra:jet_suit_helmet{Damage:0}",
+    "item:ad_astra:iron_plating",
+    "item:ad_astra:tier_1_rocket{}",
+    "item:ad_astra:tier_1_rocket{BotariumData:{StoredFluids:[{Amount:3000L,Fluid:\"ad_astra:fuel\"}]}}",
+    {
+      "type": "item",
+      "id": "ad_astra:ice_shard",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "ad_astra:strophar_planks",
+      "amount": 4
+    },
+    "item:ad_astra:strophar_stem",
+    {
+      "type": "item",
+      "id": "ad_astra:desh_ingot",
+      "amount": 11
+    },
+    {
+      "type": "jemi",
+      "uid": "effect:minecraft:regeneration"
+    },
+    {
+      "type": "item",
+      "id": "minecraft:iron_bars",
+      "amount": 8
+    },
+    {
+      "type": "item",
       "id": "scriptor:spellbook_binder",
       "amount": 16
     },
@@ -39,12 +86,6 @@
     },
     "item:minecraft:dark_oak_sapling{}",
     "item:minecraft:stone",
-    {
-      "type": "item",
-      "id": "indexed:gold_bound_book",
-      "amount": 64
-    },
-    "item:indexed:crystal_globe{}",
     "item:quark:pathfinders_quill{targetBiome:\"minecraft:desert\",targetBiomeColor:13416782,targetBiomeUnderground:0b}",
     "item:minecraft:armor_stand",
     "item:quark:polished_deepslate_vertical_slab",
@@ -121,10 +162,6 @@
     },
     {
       "type": "jemi",
-      "uid": "effect:minecraft:regeneration"
-    },
-    {
-      "type": "jemi",
       "uid": "effect:minecraft:resistance"
     },
     {
@@ -155,7 +192,6 @@
     "item:minecraft:seagrass",
     "item:enlightened_end:waxed_bismuth_block",
     "item:oreganized:electrum_ingot",
-    "item:oreganized:electrum_upgrade_smithing_template",
     {
       "type": "item",
       "id": "sullysmod:jade_upgrade_smithing_template",
@@ -452,6 +488,7 @@
     "item:betterarcheology:rotten_door"
   ],
   "craft_history": [
+    "everycomp:q/natures_spirit/sugi_chest",
     "habitat:crafting/kabloom_pulp_block"
   ],
   "recipe_defaults": {
@@ -535,12 +572,10 @@
     "item:surface:snail_spawn_egg",
     "item:goated:geep_spawn_egg",
     "item:snowyspirit:gingerbread_golem_spawn_egg",
-    "item:enemyexpansion:silverqueenattacking_spawn_egg",
     "item:enemyexpansion:huntsman_spawn_egg",
     "item:enemyexpansion:tarantula_spawn_egg",
     "item:enemyexpansion:scorpion_spawn_egg",
     "item:enemyexpansion:starved_spawn_egg",
-    "item:enemyexpansion:silverqueendefending_spawn_egg",
     "item:enemyexpansion:silverqueenbodiless_spawn_egg",
     "item:enemyexpansion:vampire_spawn_egg",
     "item:enemyexpansion:ladybug_spawn_egg",
@@ -2704,10 +2739,6 @@
     },
     {
       "type": "jemi",
-      "uid": "effect:indexed:enchanted"
-    },
-    {
-      "type": "jemi",
       "uid": "effect:spellbound:pestilence"
     },
     {
@@ -3010,8 +3041,6 @@
     "item:enemyexpansion:trollenraged_spawn_egg{}",
     "item:quark:forgotten_spawn_egg{}",
     "item:quark:foxhound_spawn_egg{}",
-    "item:enemyexpansion:silverqueenattacking_spawn_egg{}",
-    "item:enemyexpansion:silverqueendefending_spawn_egg{}",
     "item:quark:shiba_spawn_egg{}",
     "item:enemyexpansion:starved_spawn_egg{}",
     "item:enemyexpansion:scorpion_spawn_egg{}",
@@ -3232,7 +3261,6 @@
     "item:minecraft:enchanted_book{StoredEnchantments:[{id:\"minecraft:fire_protection\",lvl:5s}]}",
     "item:minecraft:enchanted_book{StoredEnchantments:[{id:\"minecraft:protection\",lvl:5s}]}",
     "item:minecraft:book{}",
-    "item:indexed:gold_bound_book{}",
     "item:minecraft:enchanted_book{StoredEnchantments:[{id:\"minecraft:respiration\",lvl:5s}]}",
     "item:minecraft:enchanted_book{StoredEnchantments:[{id:\"minecraft:aqua_affinity\",lvl:5s}]}",
     "item:minecraft:enchanted_book{StoredEnchantments:[{id:\"minecraft:thorns\",lvl:5s}]}",

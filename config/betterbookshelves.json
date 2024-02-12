@@ -461,41 +461,6 @@
       "hex_color": "inherit"
     },
     {
-      "enchantment": "indexed:slow_burn",
-      "book_model": -1,
-      "hex_color": "inherit"
-    },
-    {
-      "enchantment": "indexed:quick_flight",
-      "book_model": -1,
-      "hex_color": "inherit"
-    },
-    {
-      "enchantment": "indexed:forgery",
-      "book_model": -1,
-      "hex_color": "inherit"
-    },
-    {
-      "enchantment": "indexed:mystery_curse",
-      "book_model": -1,
-      "hex_color": "inherit"
-    },
-    {
-      "enchantment": "indexed:hidden_curse",
-      "book_model": -1,
-      "hex_color": "inherit"
-    },
-    {
-      "enchantment": "indexed:keeping",
-      "book_model": -1,
-      "hex_color": "inherit"
-    },
-    {
-      "enchantment": "indexed:essence",
-      "book_model": -1,
-      "hex_color": "inherit"
-    },
-    {
       "enchantment": "guarding:barbed",
       "book_model": -1,
       "hex_color": "inherit"
