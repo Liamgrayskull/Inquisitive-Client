@@ -1,0 +1,16 @@
+{
+  "general": {
+    "noFallDamage": true,
+    "larvaeSpeedBonus": true
+  },
+  "silverfish": {
+    "infestedEverywhere": true
+  },
+  "spider": {
+    "baby": true,
+    "babyCaveSpider": true,
+    "webProjectileGoal": true,
+    "caveSpiderJockey": true,
+    "caveSpiderNaturalSpawn": true
+  }
+}

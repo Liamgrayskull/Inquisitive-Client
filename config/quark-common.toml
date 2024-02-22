@@ -1519,7 +1519,7 @@
 	Camera = true
 	"Chest Searching" = false
 	"Elytra Indicator" = true
-	"Greener Grass" = true
+	"Greener Grass" = false
 	"Improved Tooltips" = true
 	"Long Range Pick Block" = true
 	"Microcrafting Helper" = true

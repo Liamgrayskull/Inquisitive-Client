@@ -108,7 +108,19 @@
 		"enabled": true,
 		"speedMultiplier": 1.0
 	},
+	"axe": {
+		"enabled": true,
+		"speedMultiplier": 1.0
+	},
+	"shovel": {
+		"enabled": true,
+		"speedMultiplier": 1.0
+	},
 	"sleeping": {
+		"enabled": true,
+		"speedMultiplier": 1.0
+	},
+	"eating": {
 		"enabled": true,
 		"speedMultiplier": 1.0
 	}

@@ -1,0 +1,16 @@
+{
+  "general": {
+    "attackHeal": true,
+    "moreKnockbackResistance": true,
+    "spawnMoreReinforcement": true,
+    "attributeVariations": false
+  },
+  "husk": {
+    "fireResistant": true
+  },
+  "drowned": {
+    "tridentSpawn": true,
+    "highVelocity": true,
+    "guardianJockeySpawn": true
+  }
+}

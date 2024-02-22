@@ -1,7 +1,7 @@
 type = last_world
 
 last_world {
-  is_server = true
-  world = 104.247.112.151:25566
+  is_server = false
+  world = C:/Users/Liam/AppData/Roaming/com.modrinth.theseus/profiles/Inquisitive-main/saves/Panorama Maker (REMEMBER FOV)
 }
 

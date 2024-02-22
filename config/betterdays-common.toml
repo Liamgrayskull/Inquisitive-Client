@@ -4,16 +4,16 @@
 	#Day is defined as any time between 23500 (middle of dawn) and 12500 (middle of dusk) the next day.
 	#Vanilla speed: 1.0
 	#Range: 0.0 ~ 24000.0
-	daySpeed = 1.0
+	daySpeed = 0.5
 	#The speed at which time passes during the night.
 	#Night is defined as any time between 12500 (middle of dusk) and 23500 (middle of dawn).
 	#Vanilla speed: 1.0
 	#Range: 0.0 ~ 24000.0
-	nightSpeed = 1.0
+	nightSpeed = 0.5
 	#A reimplementation of 'Serene Seasons Fix' that overrides the fact that Serene Seasons doesn't honor the minecraft clock.
 	#If using this, Serene Seasons config value day_duration is set to 24000
 	#Set to true to override.
-	sereneSeasonsFix = false
+	sereneSeasonsFix = true
 
 	[time.effects]
 		#When applied, this effect syncs the passage of weather with the current speed of time.

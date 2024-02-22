@@ -2,6 +2,13 @@
   "bookGuiScale": 0,
   "clickedVisualize": false,
   "bookData": {
+    "parcool:parcool_guide": {
+      "viewedEntries": [
+        "parcool:actions/breakfall"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
     "scriptor:scriptor_guide": {
       "viewedEntries": [
         "scriptor:basics/actions",

@@ -1,0 +1,616 @@
+{
+  "ColorReference": {
+    "white_lamp_weight_average_color": {
+      "r": 231,
+      "g": 233,
+      "b": 231,
+      "a": 170
+    },
+    "orange_lamp_weight_average_color": {
+      "r": 246,
+      "g": 127,
+      "b": 23,
+      "a": 170
+    },
+    "magenta_lamp_weight_average_color": {
+      "r": 184,
+      "g": 61,
+      "b": 170,
+      "a": 170
+    },
+    "light_blue_lamp_weight_average_color": {
+      "r": 44,
+      "g": 157,
+      "b": 210,
+      "a": 170
+    },
+    "yellow_lamp_weight_average_color": {
+      "r": 251,
+      "g": 199,
+      "b": 37,
+      "a": 170
+    },
+    "lime_lamp_weight_average_color": {
+      "r": 123,
+      "g": 192,
+      "b": 31,
+      "a": 170
+    },
+    "pink_lamp_weight_average_color": {
+      "r": 237,
+      "g": 130,
+      "b": 163,
+      "a": 170
+    },
+    "gray_lamp_weight_average_color": {
+      "r": 114,
+      "g": 113,
+      "b": 100,
+      "a": 170
+    },
+    "light_gray_lamp_weight_average_color": {
+      "r": 148,
+      "g": 143,
+      "b": 128,
+      "a": 170
+    },
+    "cyan_lamp_weight_average_color": {
+      "r": 27,
+      "g": 155,
+      "b": 151,
+      "a": 170
+    },
+    "purple_lamp_weight_average_color": {
+      "r": 128,
+      "g": 46,
+      "b": 173,
+      "a": 170
+    },
+    "blue_lamp_weight_average_color": {
+      "r": 68,
+      "g": 95,
+      "b": 179,
+      "a": 170
+    },
+    "brown_lamp_weight_average_color": {
+      "r": 143,
+      "g": 94,
+      "b": 55,
+      "a": 170
+    },
+    "green_lamp_weight_average_color": {
+      "r": 103,
+      "g": 125,
+      "b": 30,
+      "a": 170
+    },
+    "red_lamp_weight_average_color": {
+      "r": 175,
+      "g": 53,
+      "b": 44,
+      "a": 170
+    },
+    "black_lamp_weight_average_color": {
+      "r": 148,
+      "g": 118,
+      "b": 68,
+      "a": 170
+    }
+  },
+  "LightBlock": [
+    {
+      "block": "another_furniture:white_lamp",
+      "color": "#white_lamp_weight_average_color",
+      "radius": 4,
+      "state": {
+        "lit": "true",
+        "level": "1"
+      }
+    },
+    {
+      "block": "another_furniture:white_lamp",
+      "color": "#white_lamp_weight_average_color",
+      "radius": 9,
+      "state": {
+        "lit": "true",
+        "level": "2"
+      }
+    },
+    {
+      "block": "another_furniture:white_lamp",
+      "color": "#white_lamp_weight_average_color",
+      "radius": 14,
+      "state": {
+        "lit": "true",
+        "level": "3"
+      }
+    },
+    {
+      "block": "another_furniture:orange_lamp",
+      "color": "#orange_lamp_weight_average_color",
+      "radius": 5,
+      "state": {
+        "lit": "true",
+        "level": "1"
+      }
+    },
+    {
+      "block": "another_furniture:orange_lamp",
+      "color": "#orange_lamp_weight_average_color",
+      "radius": 10,
+      "state": {
+        "lit": "true",
+        "level": "2"
+      }
+    },
+    {
+      "block": "another_furniture:orange_lamp",
+      "color": "#orange_lamp_weight_average_color",
+      "radius": 15,
+      "state": {
+        "lit": "true",
+        "level": "3"
+      }
+    },
+    {
+      "block": "another_furniture:magenta_lamp",
+      "color": "#magenta_lamp_weight_average_color",
+      "radius": 5,
+      "state": {
+        "lit": "true",
+        "level": "1"
+      }
+    },
+    {
+      "block": "another_furniture:magenta_lamp",
+      "color": "#magenta_lamp_weight_average_color",
+      "radius": 10,
+      "state": {
+        "lit": "true",
+        "level": "2"
+      }
+    },
+    {
+      "block": "another_furniture:magenta_lamp",
+      "color": "#magenta_lamp_weight_average_color",
+      "radius": 15,
+      "state": {
+        "lit": "true",
+        "level": "3"
+      }
+    },
+    {
+      "block": "another_furniture:light_blue_lamp",
+      "color": "#light_blue_lamp_weight_average_color",
+      "radius": 5,
+      "state": {
+        "lit": "true",
+        "level": "1"
+      }
+    },
+    {
+      "block": "another_furniture:light_blue_lamp",
+      "color": "#light_blue_lamp_weight_average_color",
+      "radius": 10,
+      "state": {
+        "lit": "true",
+        "level": "2"
+      }
+    },
+    {
+      "block": "another_furniture:light_blue_lamp",
+      "color": "#light_blue_lamp_weight_average_color",
+      "radius": 15,
+      "state": {
+        "lit": "true",
+        "level": "3"
+      }
+    },
+    {
+      "block": "another_furniture:yellow_lamp",
+      "color": "#yellow_lamp_weight_average_color",
+      "radius": 5,
+      "state": {
+        "lit": "true",
+        "level": "1"
+      }
+    },
+    {
+      "block": "another_furniture:yellow_lamp",
+      "color": "#yellow_lamp_weight_average_color",
+      "radius": 10,
+      "state": {
+        "lit": "true",
+        "level": "2"
+      }
+    },
+    {
+      "block": "another_furniture:yellow_lamp",
+      "color": "#yellow_lamp_weight_average_color",
+      "radius": 15,
+      "state": {
+        "lit": "true",
+        "level": "3"
+      }
+    },
+    {
+      "block": "another_furniture:lime_lamp",
+      "color": "#lime_lamp_weight_average_color",
+      "radius": 5,
+      "state": {
+        "lit": "true",
+        "level": "1"
+      }
+    },
+    {
+      "block": "another_furniture:lime_lamp",
+      "color": "#lime_lamp_weight_average_color",
+      "radius": 10,
+      "state": {
+        "lit": "true",
+        "level": "2"
+      }
+    },
+    {
+      "block": "another_furniture:lime_lamp",
+      "color": "#lime_lamp_weight_average_color",
+      "radius": 15,
+      "state": {
+        "lit": "true",
+        "level": "3"
+      }
+    },
+    {
+      "block": "another_furniture:pink_lamp",
+      "color": "#pink_lamp_weight_average_color",
+      "radius": 4,
+      "state": {
+        "lit": "true",
+        "level": "1"
+      }
+    },
+    {
+      "block": "another_furniture:pink_lamp",
+      "color": "#pink_lamp_weight_average_color",
+      "radius": 9,
+      "state": {
+        "lit": "true",
+        "level": "2"
+      }
+    },
+    {
+      "block": "another_furniture:pink_lamp",
+      "color": "#pink_lamp_weight_average_color",
+      "radius": 14,
+      "state": {
+        "lit": "true",
+        "level": "3"
+      }
+    },
+    {
+      "block": "another_furniture:gray_lamp",
+      "color": "#gray_lamp_weight_average_color",
+      "radius": 5,
+      "state": {
+        "lit": "true",
+        "level": "1"
+      }
+    },
+    {
+      "block": "another_furniture:gray_lamp",
+      "color": "#gray_lamp_weight_average_color",
+      "radius": 10,
+      "state": {
+        "lit": "true",
+        "level": "2"
+      }
+    },
+    {
+      "block": "another_furniture:gray_lamp",
+      "color": "#gray_lamp_weight_average_color",
+      "radius": 15,
+      "state": {
+        "lit": "true",
+        "level": "3"
+      }
+    },
+    {
+      "block": "another_furniture:light_gray_lamp",
+      "color": "#light_gray_lamp_weight_average_color",
+      "radius": 5,
+      "state": {
+        "lit": "true",
+        "level": "1"
+      }
+    },
+    {
+      "block": "another_furniture:light_gray_lamp",
+      "color": "#light_gray_lamp_weight_average_color",
+      "radius": 10,
+      "state": {
+        "lit": "true",
+        "level": "2"
+      }
+    },
+    {
+      "block": "another_furniture:light_gray_lamp",
+      "color": "#light_gray_lamp_weight_average_color",
+      "radius": 15,
+      "state": {
+        "lit": "true",
+        "level": "3"
+      }
+    },
+    {
+      "block": "another_furniture:cyan_lamp",
+      "color": "#cyan_lamp_weight_average_color",
+      "radius": 5,
+      "state": {
+        "lit": "true",
+        "level": "1"
+      }
+    },
+    {
+      "block": "another_furniture:cyan_lamp",
+      "color": "#cyan_lamp_weight_average_color",
+      "radius": 10,
+      "state": {
+        "lit": "true",
+        "level": "2"
+      }
+    },
+    {
+      "block": "another_furniture:cyan_lamp",
+      "color": "#cyan_lamp_weight_average_color",
+      "radius": 15,
+      "state": {
+        "lit": "true",
+        "level": "3"
+      }
+    },
+    {
+      "block": "another_furniture:purple_lamp",
+      "color": "#purple_lamp_weight_average_color",
+      "radius": 5,
+      "state": {
+        "lit": "true",
+        "level": "1"
+      }
+    },
+    {
+      "block": "another_furniture:purple_lamp",
+      "color": "#purple_lamp_weight_average_color",
+      "radius": 10,
+      "state": {
+        "lit": "true",
+        "level": "2"
+      }
+    },
+    {
+      "block": "another_furniture:purple_lamp",
+      "color": "#purple_lamp_weight_average_color",
+      "radius": 15,
+      "state": {
+        "lit": "true",
+        "level": "3"
+      }
+    },
+    {
+      "block": "another_furniture:blue_lamp",
+      "color": "#blue_lamp_weight_average_color",
+      "radius": 5,
+      "state": {
+        "lit": "true",
+        "level": "1"
+      }
+    },
+    {
+      "block": "another_furniture:blue_lamp",
+      "color": "#blue_lamp_weight_average_color",
+      "radius": 10,
+      "state": {
+        "lit": "true",
+        "level": "2"
+      }
+    },
+    {
+      "block": "another_furniture:blue_lamp",
+      "color": "#blue_lamp_weight_average_color",
+      "radius": 15,
+      "state": {
+        "lit": "true",
+        "level": "3"
+      }
+    },
+    {
+      "block": "another_furniture:brown_lamp",
+      "color": "#brown_lamp_weight_average_color",
+      "radius": 5,
+      "state": {
+        "lit": "true",
+        "level": "1"
+      }
+    },
+    {
+      "block": "another_furniture:brown_lamp",
+      "color": "#brown_lamp_weight_average_color",
+      "radius": 10,
+      "state": {
+        "lit": "true",
+        "level": "2"
+      }
+    },
+    {
+      "block": "another_furniture:brown_lamp",
+      "color": "#brown_lamp_weight_average_color",
+      "radius": 15,
+      "state": {
+        "lit": "true",
+        "level": "3"
+      }
+    },
+    {
+      "block": "another_furniture:green_lamp",
+      "color": "#green_lamp_weight_average_color",
+      "radius": 5,
+      "state": {
+        "lit": "true",
+        "level": "1"
+      }
+    },
+    {
+      "block": "another_furniture:green_lamp",
+      "color": "#green_lamp_weight_average_color",
+      "radius": 10,
+      "state": {
+        "lit": "true",
+        "level": "2"
+      }
+    },
+    {
+      "block": "another_furniture:green_lamp",
+      "color": "#green_lamp_weight_average_color",
+      "radius": 15,
+      "state": {
+        "lit": "true",
+        "level": "3"
+      }
+    },
+    {
+      "block": "another_furniture:red_lamp",
+      "color": "#red_lamp_weight_average_color",
+      "radius": 5,
+      "state": {
+        "lit": "true",
+        "level": "1"
+      }
+    },
+    {
+      "block": "another_furniture:red_lamp",
+      "color": "#red_lamp_weight_average_color",
+      "radius": 10,
+      "state": {
+        "lit": "true",
+        "level": "2"
+      }
+    },
+    {
+      "block": "another_furniture:red_lamp",
+      "color": "#red_lamp_weight_average_color",
+      "radius": 15,
+      "state": {
+        "lit": "true",
+        "level": "3"
+      }
+    },
+    {
+      "block": "another_furniture:black_lamp",
+      "color": "#black_lamp_weight_average_color",
+      "radius": 5,
+      "state": {
+        "lit": "true",
+        "level": "1"
+      }
+    },
+    {
+      "block": "another_furniture:black_lamp",
+      "color": "#black_lamp_weight_average_color",
+      "radius": 10,
+      "state": {
+        "lit": "true",
+        "level": "2"
+      }
+    },
+    {
+      "block": "another_furniture:black_lamp",
+      "color": "#black_lamp_weight_average_color",
+      "radius": 15,
+      "state": {
+        "lit": "true",
+        "level": "3"
+      }
+    }
+  ],
+  "LightItem": [
+    {
+      "item_id": "another_furniture:white_lamp",
+      "color": "#white_lamp_weight_average_color",
+      "radius": 4
+    },
+    {
+      "item_id": "another_furniture:orange_lamp",
+      "color": "#orange_lamp_weight_average_color",
+      "radius": 5
+    },
+    {
+      "item_id": "another_furniture:magenta_lamp",
+      "color": "#magenta_lamp_weight_average_color",
+      "radius": 5
+    },
+    {
+      "item_id": "another_furniture:light_blue_lamp",
+      "color": "#light_blue_lamp_weight_average_color",
+      "radius": 5
+    },
+    {
+      "item_id": "another_furniture:yellow_lamp",
+      "color": "#yellow_lamp_weight_average_color",
+      "radius": 5
+    },
+    {
+      "item_id": "another_furniture:lime_lamp",
+      "color": "#lime_lamp_weight_average_color",
+      "radius": 5
+    },
+    {
+      "item_id": "another_furniture:pink_lamp",
+      "color": "#pink_lamp_weight_average_color",
+      "radius": 4
+    },
+    {
+      "item_id": "another_furniture:gray_lamp",
+      "color": "#gray_lamp_weight_average_color",
+      "radius": 5
+    },
+    {
+      "item_id": "another_furniture:light_gray_lamp",
+      "color": "#light_gray_lamp_weight_average_color",
+      "radius": 5
+    },
+    {
+      "item_id": "another_furniture:cyan_lamp",
+      "color": "#cyan_lamp_weight_average_color",
+      "radius": 5
+    },
+    {
+      "item_id": "another_furniture:purple_lamp",
+      "color": "#purple_lamp_weight_average_color",
+      "radius": 5
+    },
+    {
+      "item_id": "another_furniture:blue_lamp",
+      "color": "#blue_lamp_weight_average_color",
+      "radius": 5
+    },
+    {
+      "item_id": "another_furniture:brown_lamp",
+      "color": "#brown_lamp_weight_average_color",
+      "radius": 5
+    },
+    {
+      "item_id": "another_furniture:green_lamp",
+      "color": "#green_lamp_weight_average_color",
+      "radius": 5
+    },
+    {
+      "item_id": "another_furniture:red_lamp",
+      "color": "#red_lamp_weight_average_color",
+      "radius": 5
+    },
+    {
+      "item_id": "another_furniture:black_lamp",
+      "color": "#black_lamp_weight_average_color",
+      "radius": 5
+    }
+  ]
+}

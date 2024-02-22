@@ -22,11 +22,6 @@
 	#Disables certain types
 	[general.types]
 
-		[general.types.cake]
-
-			[general.types.cake.natures_spirit]
-				cheese_block = true
-
 		[general.types.wood_type]
 
 			[general.types.wood_type.gardens_of_the_dead]
@@ -151,6 +146,11 @@
 
 			[general.types.leaves_type.ad_astra]
 				glacian = true
+
+		[general.types.cake]
+
+			[general.types.cake.natures_spirit]
+				cheese_block = true
 
 	#Disables specific entries
 	[general.entries]

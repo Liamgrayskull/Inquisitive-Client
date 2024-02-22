@@ -1,0 +1,20 @@
+{
+  "Max Keys Per Ring": 16,
+  "Handcuff Settings": {
+    "Enable Interupting While Getting Handcuffed": true,
+    "Interupt Phase Speed": 4.0,
+    "Enable Breaking Out of Handcuffs": true,
+    "Handcuff Break Out Speed": 0.5,
+    "Handcuff Break Out Progress Regeneration Per Second": 0.76,
+    "Breaking Out Destroys Handcuffs": true,
+    "Maximum Chain Length": 5.0,
+    "Requires in Handcuffs to Nickname": false,
+    "Nickname Persists Without Handcuffs": false
+  },
+  "Lockpicking Settings": {
+    "Lockpicking Speed Increase Per Phase": 20,
+    "Phases For Breaking Handcuffs": 4,
+    "Phases For Breaking Padlocks": 7,
+    "Phases For Breaking Reinforced Padlocks": 14
+  }
+}

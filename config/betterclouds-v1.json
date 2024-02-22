@@ -11,7 +11,8 @@
   "size_x_z": 30.0,
   "size_y": 8.0,
   "travel_speed": 0.03,
-  "wind_factor": 1.0,
+  "wind_effect_factor": 1.0,
+  "wind_speed_factor": 1.0,
   "color_variation_factor": 1.0,
   "chunk_size": 24,
   "sampling_scale": 1.0,
@@ -255,6 +256,9 @@
       "tint_blue": 1.0
     }
   ],
-  "last_telemetry_version": 2,
-  "gpu_incompatible_message_enabled": true
+  "last_telemetry_version": 3,
+  "gpu_incompatible_message_enabled": true,
+  "enabled_dimensions": [
+    "minecraft:overworld"
+  ]
 }

@@ -47,7 +47,7 @@
   ],
   "enableCrawlingAnimation": true,
   "holdUpItemsMode": "CONFIG",
-  "holdUpItemOffset": 0.0,
+  "holdUpItemOffset": 0.5,
   "itemSwapAnimation": true,
   "tweakElytraAnimation": true,
   "petAnimation": true,
