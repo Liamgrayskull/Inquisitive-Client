@@ -1402,7 +1402,6 @@
       "minecraft:spider": "2024-01-08 17:21:39 -0800",
       "minecraft:creeper": "2024-01-08 17:21:33 -0800",
       "minecraft:slime": "2024-01-08 17:07:31 -0800",
-      "sullysmod:bouldering_zombie": "2024-01-08 17:41:56 -0800",
       "minecraft:zombie": "2024-01-18 19:38:37 -0800"
     },
     "done": false
@@ -2609,12 +2608,6 @@
     },
     "done": true
   },
-  "chimes:recipes/decorations/iron_chimes": {
-    "criteria": {
-      "has_wood_slabs": "2024-01-19 21:01:19 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-01-19 21:01:19 -0800"
@@ -3623,12 +3616,6 @@
     },
     "done": true
   },
-  "surface:root": {
-    "criteria": {
-      "requirement": "2024-01-25 16:30:05 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_red_flower": "2024-01-25 16:36:09 -0800"
@@ -3638,6 +3625,108 @@
   "etcetera:recipes/bouquet": {
     "criteria": {
       "has_small_flowers": "2024-01-25 16:36:09 -0800"
+    },
+    "done": true
+  },
+  "surface:surface/root": {
+    "criteria": {
+      "requirement": "2024-02-21 22:15:01 -0800"
+    },
+    "done": true
+  },
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2024-02-21 22:15:01 -0800"
+    },
+    "done": true
+  },
+  "cold_sweat:root": {
+    "criteria": {
+      "requirement": "2024-02-21 22:15:01 -0800"
+    },
+    "done": true
+  },
+  "cloudstorage:cloudstorage/root": {
+    "criteria": {
+      "skyheight": "2024-02-21 22:15:01 -0800"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/thermometer": {
+    "criteria": {
+      "temperature": "2024-02-21 22:15:01 -0800"
+    },
+    "done": true
+  },
+  "cold_sweat:extreme_temps": {
+    "criteria": {
+      "requirement": "2024-02-21 22:15:01 -0800"
+    },
+    "done": true
+  },
+  "etched:recipes/decorations/album_jukebox": {
+    "criteria": {
+      "has_jukebox": "2024-02-21 22:15:28 -0800"
+    },
+    "done": true
+  },
+  "etched:recipes/transportation/jukebox_minecart": {
+    "criteria": {
+      "has_minecart": "2024-02-21 22:15:28 -0800"
+    },
+    "done": true
+  },
+  "etched:recipes/misc/music_label": {
+    "criteria": {
+      "has_blank_music_disc": "2024-02-21 22:15:28 -0800"
+    },
+    "done": true
+  },
+  "spellbound:recipies/gold_pebble": {
+    "criteria": {
+      "has_gold_pebble": "2024-02-21 22:15:28 -0800"
+    },
+    "done": true
+  },
+  "spellbound:recipies/emerald_shard": {
+    "criteria": {
+      "has_emerald_shard": "2024-02-21 22:15:28 -0800"
+    },
+    "done": true
+  },
+  "spellbound:recipies/iron_pebble": {
+    "criteria": {
+      "has_iron_pebble": "2024-02-21 22:15:28 -0800"
+    },
+    "done": true
+  },
+  "spellbound:recipies/diamond_shard": {
+    "criteria": {
+      "has_diamond_shard": "2024-02-21 22:15:28 -0800"
+    },
+    "done": true
+  },
+  "etched:recipes/misc/boombox": {
+    "criteria": {
+      "has_jukebox": "2024-02-21 22:15:28 -0800"
+    },
+    "done": true
+  },
+  "spellbound:recipies/copper_pebble": {
+    "criteria": {
+      "has_copper_pebble": "2024-02-21 22:15:28 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-02-21 22:27:50 -0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-02-21 22:28:09 -0800"
     },
     "done": true
   },

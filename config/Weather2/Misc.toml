@@ -37,7 +37,7 @@
 	Cloud_Coverage_Min_Percent = 0.0
 	#Maximum percent of cloud coverage, supports over 100% for extended full cloud sky coverage
 	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
-	Cloud_Coverage_Max_Percent = 40.0
+	Cloud_Coverage_Max_Percent = 4.0
 	#-
 	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
 	sirenActivateDistance = 256.0

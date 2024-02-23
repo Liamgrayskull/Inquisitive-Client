@@ -1,9 +1,34 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:beansbackpacks:backpack{display:{key:\"leather\"}}",
+    "item:waystones:warp_stone{Damage:0}",
+    {
+      "type": "item",
+      "id": "waystones:sharestone",
+      "amount": 64
+    },
+    "item:waystones:warp_dust",
+    "item:waystones:return_scroll",
+    "item:waystones:white_sharestone",
+    {
+      "type": "item",
+      "id": "waystones:sandy_waystone",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "waystones:mossy_waystone",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "waystones:waystone",
+      "amount": 64
+    },
+    "item:alexscaves:occult_gem",
     "item:cold_sweat:hearth",
     "item:quark:gravisand",
-    "item:vanity:design{Design:{Id:\"ancient_tools:ancient\"}}",
     "item:quark:seed_pouch{itemCount:640,storedItem:{Count:1b,id:\"minecraft:red_mushroom\"}}",
     "item:ad_astra:tier_1_rocket{}",
     "item:wikizoomer:entity_binder",
@@ -43,7 +68,6 @@
     "item:cold_sweat:minecart_insulation",
     "item:cold_sweat:insulated_minecart",
     "item:cold_sweat:hoglin_hide",
-    "item:beansbackpacks:backpack{display:{key:\"leather\"}}",
     "item:beansbackpacks:metal_backpack{display:{key:\"iron\"}}",
     "item:beansbackpacks:metal_backpack{display:{key:\"gold\"}}",
     "item:cavesanddepths:mudstone",
@@ -1089,7 +1113,6 @@
     "item:create:minecart_contraption",
     "item:create:furnace_minecart_contraption",
     "item:create:chest_minecart_contraption",
-    "item:potioncraft:potion_cauldron_block",
     "item:create:crushed_raw_platinum",
     "item:create:crushed_raw_osmium",
     "item:create:crushed_raw_quicksilver",

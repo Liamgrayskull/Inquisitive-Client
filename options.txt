@@ -32,7 +32,7 @@ glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
 gamma:1.0
-renderDistance:20
+renderDistance:9
 simulationDistance:5
 entityDistanceScaling:1.0
 guiScale:0
@@ -43,8 +43,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets","spelunkery:better_vanilla_gems","spelunkery:unlit_redstone_ores","spelunkery:emissive_better_vanilla_ores","rprenames:default_dark_mode","minecraft:supporteatinganimation","continuity:default","continuity:glass_pane_culling_fix","file/Minecraft Ten 1.0 for 1.20-1.20.1.zip","fabric","black_icons","file/rikis-armor-collection-1-18.zip","file/Stefan\u0027sArmors\u0027N\u0027Items1.29.1.zip","minecraft:perspective","Inquisitive-2.4.0-RP.zip"]
-incompatibleResourcePacks:["file/rikis-armor-collection-1-18.zip","file/Stefan\u0027sArmors\u0027N\u0027Items1.29.1.zip"]
+resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets","spelunkery:better_vanilla_gems","spelunkery:unlit_redstone_ores","spelunkery:emissive_better_vanilla_ores","rprenames:default_dark_mode","minecraft:supporteatinganimation","continuity:default","continuity:glass_pane_culling_fix","file/Minecraft Ten 1.0 for 1.20-1.20.1.zip","fabric","black_icons","file/rikis-armor-collection-1-18.zip","file/Stefan\u0027sArmors\u0027N\u0027Items1.29.1.zip","minecraft:perspective","Inquisitive_-Tempered-2.4.0.zip","file/epic-lighting-1-18.zip"]
+incompatibleResourcePacks:["file/rikis-armor-collection-1-18.zip","file/Stefan\u0027sArmors\u0027N\u0027Items1.29.1.zip","file/epic-lighting-1-18.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -54,7 +54,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.0
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:true
+advancedItemTooltips:false
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -132,14 +132,14 @@ key_iris.keybind.shaderPackSelection:key.keyboard.left.bracket
 key_key.rebindnarrator.togglenarrator:key.keyboard.unknown
 key_key.emotecraft.fastchoose:key.keyboard.j
 key_key.emotecraft.stop:key.keyboard.unknown
-key_key.push_to_talk:key.keyboard.caps.lock
+key_key.push_to_talk:key.mouse.5
 key_key.whisper:key.keyboard.unknown
-key_key.mute_microphone:key.keyboard.m
-key_key.disable_voice_chat:key.keyboard.n
-key_key.hide_icons:key.keyboard.h
+key_key.mute_microphone:key.keyboard.unknown
+key_key.disable_voice_chat:key.keyboard.unknown
+key_key.hide_icons:key.keyboard.unknown
 key_key.voice_chat:key.keyboard.v
 key_key.voice_chat_settings:key.keyboard.unknown
-key_key.voice_chat_group:key.keyboard.g
+key_key.voice_chat_group:key.keyboard.unknown
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
 key_Camera left:key.keyboard.left
@@ -148,14 +148,14 @@ key_Camera closer:key.keyboard.up
 key_Camera farther:key.keyboard.down
 key_Camera up:key.keyboard.page.up
 key_Camera down:key.keyboard.page.down
-key_Swap shoulder:key.keyboard.o
+key_Swap shoulder:key.keyboard.apostrophe
 key_Toggle perspective:key.keyboard.unknown
-key_key.ad_astra.toggle_suit_flight:key.keyboard.v
-key_key.ad_astra.open_radio:key.keyboard.r
+key_key.ad_astra.toggle_suit_flight:key.keyboard.g
+key_key.ad_astra.open_radio:key.keyboard.unknown
 key_placebo.toggleTrails:key.keyboard.unknown
 key_placebo.toggleWings:key.keyboard.unknown
-key_key.fabrishot.screenshot:key.keyboard.f9
-key_mcpings.key.mark-location:key.mouse.5
+key_key.fabrishot.screenshot:key.keyboard.unknown
+key_mcpings.key.mark-location:key.keyboard.unknown
 key_orthocamera.key.toggle:key.keyboard.keypad.4
 key_orthocamera.key.scale_increase:key.keyboard.keypad.subtract
 key_orthocamera.key.scale_decrease:key.keyboard.keypad.add
@@ -170,20 +170,20 @@ key_key.crawl:key.keyboard.x
 key_key.chesttracker.opengui:key.keyboard.unknown
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
 key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.f12
-key_gui.perspective.keybindings.keybinding.cycle_shaders:key.keyboard.f7
-key_gui.perspective.keybindings.keybinding.hold_perspective_third_person_back:key.keyboard.z
-key_gui.perspective.keybindings.keybinding.hold_perspective_third_person_front:key.keyboard.f9
-key_gui.perspective.keybindings.keybinding.hold_zoom:key.keyboard.c
-key_gui.perspective.keybindings.keybinding.open_config:key.keyboard.end
+key_gui.perspective.keybindings.keybinding.cycle_shaders:key.keyboard.unknown
+key_gui.perspective.keybindings.keybinding.hold_perspective_third_person_back:key.keyboard.unknown
+key_gui.perspective.keybindings.keybinding.hold_perspective_third_person_front:key.keyboard.unknown
+key_gui.perspective.keybindings.keybinding.hold_zoom:key.keyboard.z
+key_gui.perspective.keybindings.keybinding.open_config:key.keyboard.unknown
 key_gui.perspective.keybindings.keybinding.random_shader:key.keyboard.unknown
-key_gui.perspective.keybindings.keybinding.set_perspective_first_person:key.keyboard.keypad.1
-key_gui.perspective.keybindings.keybinding.set_perspective_third_person_back:key.keyboard.keypad.2
-key_gui.perspective.keybindings.keybinding.set_perspective_third_person_front:key.keyboard.keypad.3
+key_gui.perspective.keybindings.keybinding.set_perspective_first_person:key.keyboard.unknown
+key_gui.perspective.keybindings.keybinding.set_perspective_third_person_back:key.keyboard.unknown
+key_gui.perspective.keybindings.keybinding.set_perspective_third_person_front:key.keyboard.unknown
 key_gui.perspective.keybindings.keybinding.take_panorama_screenshot:key.keyboard.unknown
-key_gui.perspective.keybindings.keybinding.toggle_zoom:key.keyboard.b
-key_gui.perspective.keybindings.keybinding.toggle_shaders:key.keyboard.f8
-key_gui.perspective.keybindings.keybinding.toggle_nametags:key.keyboard.f10
-key_gui.perspective.keybindings.keybinding.toggle_armor:key.keyboard.f9
+key_gui.perspective.keybindings.keybinding.toggle_zoom:key.keyboard.unknown
+key_gui.perspective.keybindings.keybinding.toggle_shaders:key.keyboard.unknown
+key_gui.perspective.keybindings.keybinding.toggle_nametags:key.keyboard.unknown
+key_gui.perspective.keybindings.keybinding.toggle_armor:key.keyboard.unknown
 key_key.fabrictailor.toggle_skin_gui:key.keyboard.k
 key_key.picohud.show:key.keyboard.left.alt
 key_key.whereisit.finditem:key.keyboard.y
@@ -208,35 +208,35 @@ key_key.toggleSelectedItemTooltips:key.keyboard.unknown
 key_key.toggleCarriedItemTooltips:key.keyboard.unknown
 key_key.cycleLeft:key.keyboard.unknown
 key_key.cycleRight:key.keyboard.unknown
-key_key.jei.copy.recipe.id:key.keyboard.unknown
-key_key.jei.toggleEditMode:key.keyboard.unknown
+key_key.jei.nextSearch:key.keyboard.unknown
 key_key.jei.showRecipe2:key.mouse.left
-key_key.jei.toggleCheatModeConfigButton:key.keyboard.unknown
-key_key.jei.toggleCheatMode:key.amecsapi.mouse.scroll.down
-key_key.jei.showRecipe:key.keyboard.r
-key_key.jei.clearSearchBar:key.keyboard.unknown
 key_key.jei.nextCategory:key.keyboard.unknown
-key_key.jei.bookmark:key.keyboard.unknown
-key_key.jei.toggleOverlay:key.keyboard.o:CONTROL
+key_key.jei.cheatItemStack:key.keyboard.unknown
+key_key.jei.focusSearch:key.keyboard.unknown
+key_key.jei.previousPage:key.keyboard.unknown
+key_key.jei.showUses:key.keyboard.u
+key_key.jei.toggleEditMode:key.keyboard.unknown
+key_key.jei.toggleWildcardHideIngredient:key.keyboard.unknown
+key_key.jei.previousSearch:key.keyboard.unknown
+key_key.jei.toggleCheatMode:key.amecsapi.mouse.scroll.down
+key_key.jei.showUses2:key.mouse.right
+key_key.jei.recipeBack:key.keyboard.unknown
+key_key.jei.copy.recipe.id:key.keyboard.unknown
+key_key.jei.nextPage:key.keyboard.unknown
+key_key.jei.clearSearchBar:key.keyboard.unknown
+key_key.jei.toggleHideIngredient:key.keyboard.unknown
+key_key.jei.cheatOneItem:key.keyboard.unknown
+key_key.jei.closeRecipeGui:key.keyboard.escape
+key_key.jei.previousRecipePage:key.keyboard.unknown
+key_key.jei.showRecipe:key.keyboard.r
 key_key.jei.cheatOneItem2:key.keyboard.unknown
 key_key.jei.nextRecipePage:key.keyboard.unknown
+key_key.jei.toggleOverlay:key.keyboard.o:CONTROL
 key_key.jei.cheatItemStack2:key.keyboard.unknown
-key_key.jei.toggleWildcardHideIngredient:key.keyboard.unknown
-key_key.jei.recipeBack:key.keyboard.unknown
-key_key.jei.toggleHideIngredient:key.keyboard.unknown
-key_key.jei.previousSearch:key.keyboard.unknown
-key_key.jei.previousRecipePage:key.keyboard.unknown
-key_key.jei.cheatOneItem:key.keyboard.unknown
-key_key.jei.showUses:key.keyboard.u
-key_key.jei.nextPage:key.keyboard.unknown
-key_key.jei.previousPage:key.keyboard.unknown
-key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown
-key_key.jei.focusSearch:key.keyboard.unknown
-key_key.jei.nextSearch:key.keyboard.unknown
-key_key.jei.showUses2:key.mouse.right
-key_key.jei.closeRecipeGui:key.keyboard.escape
-key_key.jei.cheatItemStack:key.keyboard.unknown
+key_key.jei.toggleCheatModeConfigButton:key.keyboard.unknown
 key_key.jei.previousCategory:key.keyboard.unknown
+key_key.jei.bookmark:key.keyboard.unknown
+key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown
 key_key.plonk.place:key.keyboard.p
 key_keybinds.bettercombat.feint:key.keyboard.unknown
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
@@ -323,7 +323,6 @@ key_supplementaries.keybind.quiver:key.keyboard.unknown
 key_key.screenshot_viewer.open_screenshots_screen:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_gui.xaero_pac_key_open_menu:key.keyboard.c
-key_key.observable.profile:key.keyboard.unknown
 key_keybind.invmove.toggleMove:key.keyboard.unknown
 soundCategory_master:1.0
 soundCategory_music:0.05457746478873239

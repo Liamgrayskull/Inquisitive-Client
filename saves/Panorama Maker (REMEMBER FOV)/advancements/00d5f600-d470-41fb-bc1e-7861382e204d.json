@@ -62,6 +62,7 @@
       "minecraft:flower_forest": "2024-02-19 15:57:08 -0800",
       "minecraft:old_growth_birch_forest": "2024-02-03 18:53:21 -0800",
       "minecraft:deep_dark": "2024-02-02 18:48:51 -0800",
+      "minecraft:meadow": "2024-02-21 21:32:39 -0800",
       "minecraft:savanna": "2024-02-02 18:34:48 -0800",
       "minecraft:plains": "2024-02-02 19:25:32 -0800"
     },
@@ -2504,6 +2505,30 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-02-21 18:05:04 -0800"
+    },
+    "done": true
+  },
+  "beansbackpacks:decorated_pot": {
+    "criteria": {
+      "requirement": "2024-02-21 21:33:40 -0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
+    "criteria": {
+      "discover": "2024-02-21 21:47:41 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-02-21 21:48:09 -0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-02-21 21:50:08 -0800"
     },
     "done": true
   },

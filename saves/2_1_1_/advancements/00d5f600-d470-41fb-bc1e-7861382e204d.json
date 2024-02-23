@@ -62,6 +62,7 @@
       "minecraft:dripstone_caves": "2024-01-12 22:12:33 -0800",
       "minecraft:swamp": "2024-01-31 18:24:41 -0800",
       "minecraft:forest": "2024-01-12 19:32:39 -0800",
+      "minecraft:lush_caves": "2024-02-22 17:41:47 -0800",
       "minecraft:desert": "2024-01-12 19:34:46 -0800",
       "minecraft:windswept_forest": "2024-01-31 18:24:57 -0800",
       "minecraft:jungle": "2024-01-12 19:32:38 -0800",
@@ -955,12 +956,6 @@
     },
     "done": true
   },
-  "thigh_highs_etc:equipped_thigh_highs": {
-    "criteria": {
-      "has_thigh_highs": "2024-02-12 21:43:28 -0800"
-    },
-    "done": true
-  },
   "ad_astra:tier_4_rocket": {
     "criteria": {
       "has_tier_4_rocket": "2024-02-12 21:43:36 -0800"
@@ -1696,12 +1691,6 @@
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2024-02-16 16:24:12 -0800"
-    },
-    "done": true
-  },
-  "chimes:recipes/decorations/glass_bells": {
-    "criteria": {
-      "has_bottle": "2024-02-16 16:24:25 -0800"
     },
     "done": true
   },
@@ -2521,12 +2510,6 @@
     },
     "done": true
   },
-  "surface:surface/root": {
-    "criteria": {
-      "requirement": "2024-02-17 15:26:08 -0800"
-    },
-    "done": true
-  },
   "surface:recipes/building_blocks/limestone_slab_from_limestone_stonecutting": {
     "criteria": {
       "has_limestone": "2024-02-17 15:27:36 -0800"
@@ -3229,31 +3212,25 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
+  "cloudstorage:cloudstorage/loot_balloon": {
     "criteria": {
-      "lava_bucket": "2024-02-19 15:01:37 -0800"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/wooden": {
-    "criteria": {
-      "has_item": "2024-02-19 14:56:18 -0800"
-    },
-    "done": true
-  },
-  "minecraft:adventure/hidden_books": {
-    "criteria": {
-      "book": "2024-02-19 14:52:22 -0800"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/divine": {
-    "criteria": {
-      "has_item": "2024-02-19 14:55:33 -0800"
+      "open_chest": "2024-02-19 14:53:50 -0800"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-02-19 14:56:18 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-02-19 14:56:18 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2024-02-19 14:56:18 -0800"
     },
@@ -3265,27 +3242,303 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2024-02-19 14:56:18 -0800"
-    },
-    "done": true
-  },
-  "cloudstorage:cloudstorage/loot_balloon": {
-    "criteria": {
-      "open_chest": "2024-02-19 14:53:50 -0800"
-    },
-    "done": true
-  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-02-19 15:01:12 -0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "has_log": "2024-02-19 14:56:18 -0800"
+      "lava_bucket": "2024-02-19 15:01:37 -0800"
+    },
+    "done": true
+  },
+  "surface:root": {
+    "criteria": {
+      "requirement": "2024-02-22 16:38:41 -0800"
+    },
+    "done": true
+  },
+  "surface:forest/forest": {
+    "criteria": {
+      "requirement": "2024-02-22 16:38:43 -0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-02-22 16:47:06 -0800"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/cave_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-02-22 16:47:06 -0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-02-22 16:47:06 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2024-02-22 16:47:06 -0800"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/redstone/season_sensor": {
+    "criteria": {
+      "has_calendar": "2024-02-22 16:54:55 -0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2024-02-22 17:02:18 -0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2024-02-22 17:02:18 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-02-22 17:02:18 -0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-02-22 17:02:18 -0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2024-02-22 17:02:18 -0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-02-22 17:02:43 -0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-02-22 17:02:43 -0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-02-22 17:02:43 -0800"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/tuff_castel_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-02-22 17:02:43 -0800"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/tuff_castel_tile_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-02-22 17:02:43 -0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-02-22 17:02:43 -0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-02-22 17:02:43 -0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-02-22 17:02:43 -0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-02-22 17:02:43 -0800"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/tuff_castel_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-02-22 17:02:43 -0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-02-22 17:02:43 -0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-02-22 17:02:43 -0800"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/tuff_castel_tile_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-02-22 17:02:43 -0800"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/tuff_castel_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-02-22 17:02:43 -0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall": {
+    "criteria": {
+      "has_cut_tuff": "2024-02-22 17:02:43 -0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-02-22 17:02:43 -0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-02-22 17:02:43 -0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-02-22 17:02:43 -0800"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/tuff_castel_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-02-22 17:02:43 -0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-02-22 17:02:43 -0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-02-22 17:02:43 -0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_slab": {
+    "criteria": {
+      "has_cut_tuff": "2024-02-22 17:02:43 -0800"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/tuff_castel_tiles_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-02-22 17:02:43 -0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-02-22 17:02:43 -0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_stairs": {
+    "criteria": {
+      "has_cut_tuff": "2024-02-22 17:02:43 -0800"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/tuff_castel_tile_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-02-22 17:02:43 -0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-02-22 17:02:43 -0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-02-22 17:02:43 -0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-02-22 17:02:43 -0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-02-22 17:02:43 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick_stairs": {
+    "criteria": {
+      "has_ash_bricks": "2024-02-22 17:02:49 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick_slab": {
+    "criteria": {
+      "has_ash_bricks": "2024-02-22 17:02:49 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/ash_brick_wall_from_bricks": {
+    "criteria": {
+      "has_ash_bricks": "2024-02-22 17:02:49 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/ash_brick_slab_from_bricks": {
+    "criteria": {
+      "has_ash_bricks": "2024-02-22 17:02:49 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick_wall": {
+    "criteria": {
+      "has_ash_bricks": "2024-02-22 17:02:49 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/ash_brick_stairs_from_bricks": {
+    "criteria": {
+      "has_ash_bricks": "2024-02-22 17:02:49 -0800"
     },
     "done": true
   },

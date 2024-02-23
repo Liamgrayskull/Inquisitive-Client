@@ -1,87 +1,6 @@
 {
 	"keep_scaling_on_conversion": true,
-	"minecraft:bat": 0.75,
-	"minecraft:iron_golem": {
-		"type": "gaussian",
-		"min_scaling": 0.5,
-		"max_scaling": 2.0
-	},
-	"minecraft:zombie": {
-		"type": "gaussian",
-		"min_scaling": 0.9,
-		"max_scaling": 1.2
-	},
-	"minecraft:chicken": {
-		"type": "gaussian",
-		"min_scaling": 0.5,
-		"max_scaling": 1.5
-	},
-	"minecraft:cat": {
-		"type": "gaussian",
-		"min_scaling": 0.9,
-		"max_scaling": 1.2
-	},
-	"alexsmobs:crimson_mosquito": {
-		"type": "gaussian",
-		"min_scaling": 0.5,
-		"max_scaling": 1.5
-	},
-	"minecraft:pig": {
-		"type": "gaussian",
-		"min_scaling": 0.5,
-		"max_scaling": 1.5
-	},
-	"minecraft:cow": {
-		"type": "uniform",
-		"min_scaling": 0.5,
-		"max_scaling": 1.5
-	},
-	"minecraft:polar_bear": {
-		"type": "gaussian",
-		"min_scaling": 0.9,
-		"max_scaling": 1.5
-	},
-	"sullysmod:jungle_spider": {
-		"type": "gaussian",
-		"min_scaling": 0.8,
-		"max_scaling": 1.3
-	},
-	"minecraft:wolf": {
-		"type": "gaussian",
-		"min_scaling": 0.9,
-		"max_scaling": 1.2
-	},
-	"minecraft:skeleton": {
-		"type": "gaussian",
-		"min_scaling": 0.9,
-		"max_scaling": 1.2
-	},
-	"gipples_galore:gipple": {
-		"type": "gaussian",
-		"min_scaling": 0.7,
-		"max_scaling": 1.3
-	},
-	"minecraft:cave_spider": {
-		"type": "gaussian",
-		"min_scaling": 0.8,
-		"max_scaling": 1.3
-	},
-	"alexscaves:nucleeper": {
-		"type": "gaussian",
-		"min_scaling": 0.9,
-		"max_scaling": 2.5
-	},
-	"alexsmobs:endergrade": {
-		"type": "gaussian",
-		"min_scaling": 0.5,
-		"max_scaling": 1.5
-	},
-	"alexsmobs:sunbird": {
-		"type": "gaussian",
-		"min_scaling": 2.0,
-		"max_scaling": 3.0
-	},
-	"minecraft:sheep": {
+	"minecraft:frog": {
 		"type": "gaussian",
 		"min_scaling": 0.5,
 		"max_scaling": 1.5
@@ -91,19 +10,39 @@
 		"min_scaling": 0.7,
 		"max_scaling": 1.5
 	},
+	"minecraft:spider": {
+		"type": "gaussian",
+		"min_scaling": 0.8,
+		"max_scaling": 1.3
+	},
 	"alexsmobs:farseer": {
 		"type": "gaussian",
 		"min_scaling": 1.5,
 		"max_scaling": 2.0
 	},
-	"minecraft:piglin_brute": {
+	"minecraft:panda": {
 		"type": "gaussian",
 		"min_scaling": 0.9,
-		"max_scaling": 2.0
+		"max_scaling": 1.5
 	},
-	"sullysmod:bouldering_zombie": {
+	"minecraft:cat": {
 		"type": "gaussian",
-		"min_scaling": 0.7,
+		"min_scaling": 0.9,
+		"max_scaling": 1.2
+	},
+	"minecraft:cave_spider": {
+		"type": "gaussian",
+		"min_scaling": 0.8,
+		"max_scaling": 1.3
+	},
+	"minecraft:sheep": {
+		"type": "gaussian",
+		"min_scaling": 0.5,
+		"max_scaling": 1.5
+	},
+	"minecraft:pig": {
+		"type": "gaussian",
+		"min_scaling": 0.5,
 		"max_scaling": 1.5
 	},
 	"minecraft:ghast": {
@@ -111,34 +50,95 @@
 		"min_scaling": 0.5,
 		"max_scaling": 1.5
 	},
-	"minecraft:wither_skeleton": {
+	"alexsmobs:sunbird": {
 		"type": "gaussian",
-		"min_scaling": 0.9,
-		"max_scaling": 2.0
-	},
-	"minecraft:frog": {
-		"type": "gaussian",
-		"min_scaling": 0.5,
-		"max_scaling": 1.5
-	},
-	"minecraft:spider": {
-		"type": "gaussian",
-		"min_scaling": 0.8,
-		"max_scaling": 1.3
+		"min_scaling": 2.0,
+		"max_scaling": 3.0
 	},
 	"alexscaves:tremorsaurus": {
 		"type": "gaussian",
 		"min_scaling": 0.9,
 		"max_scaling": 2.5
 	},
-	"minecraft:panda": {
+	"alexscaves:nucleeper": {
 		"type": "gaussian",
 		"min_scaling": 0.9,
+		"max_scaling": 2.5
+	},
+	"minecraft:chicken": {
+		"type": "gaussian",
+		"min_scaling": 0.5,
+		"max_scaling": 1.5
+	},
+	"minecraft:skeleton": {
+		"type": "gaussian",
+		"min_scaling": 0.9,
+		"max_scaling": 1.2
+	},
+	"minecraft:wolf": {
+		"type": "gaussian",
+		"min_scaling": 0.9,
+		"max_scaling": 1.2
+	},
+	"minecraft:polar_bear": {
+		"type": "gaussian",
+		"min_scaling": 0.9,
+		"max_scaling": 1.5
+	},
+	"minecraft:iron_golem": {
+		"type": "gaussian",
+		"min_scaling": 0.5,
+		"max_scaling": 2.0
+	},
+	"minecraft:wither_skeleton": {
+		"type": "gaussian",
+		"min_scaling": 0.9,
+		"max_scaling": 2.0
+	},
+	"sullysmod:jungle_spider": {
+		"type": "gaussian",
+		"min_scaling": 0.8,
+		"max_scaling": 1.3
+	},
+	"minecraft:piglin_brute": {
+		"type": "gaussian",
+		"min_scaling": 0.9,
+		"max_scaling": 2.0
+	},
+	"minecraft:bat": 0.75,
+	"alexsmobs:endergrade": {
+		"type": "gaussian",
+		"min_scaling": 0.5,
+		"max_scaling": 1.5
+	},
+	"alexsmobs:crimson_mosquito": {
+		"type": "gaussian",
+		"min_scaling": 0.5,
 		"max_scaling": 1.5
 	},
 	"minecraft:creeper": {
 		"type": "gaussian",
 		"min_scaling": 0.8,
 		"max_scaling": 1.4
+	},
+	"sullysmod:bouldering_zombie": {
+		"type": "gaussian",
+		"min_scaling": 0.7,
+		"max_scaling": 1.5
+	},
+	"minecraft:zombie": {
+		"type": "gaussian",
+		"min_scaling": 0.9,
+		"max_scaling": 1.2
+	},
+	"gipples_galore:gipple": {
+		"type": "gaussian",
+		"min_scaling": 0.7,
+		"max_scaling": 1.3
+	},
+	"minecraft:cow": {
+		"type": "uniform",
+		"min_scaling": 0.5,
+		"max_scaling": 1.5
 	}
 }

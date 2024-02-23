@@ -1,5 +1,3 @@
 {
-  "shouldLeavesFall": true,
-  "shouldFirefliesAppear": true,
-  "fireflyAmount": 250
+  "shouldLeavesFall": true
 }

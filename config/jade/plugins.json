@@ -65,6 +65,9 @@
     "registry_name": "OFF",
     "mod_name": false
   },
+  "waystones": {
+    "waystone": true
+  },
   "corpse": {
     "corpse": true
   }

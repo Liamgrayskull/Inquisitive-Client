@@ -1,0 +1,85 @@
+
+[light_sources]
+	entities = true
+	self = true
+	block_entities = true
+	water_sensitive_check = true
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				player = true
+				cow = true
+				pig = true
+				bat = true
+				sheep = true
+				arrow = true
+				item = true
+				cod = true
+				chicken = true
+				dolphin = true
+				tnt_minecart = true
+				cat = true
+				glow_squid = true
+				bee = true
+				chest_minecart = true
+				squid = true
+				egg = true
+				wolf = true
+				potion = true
+				experience_orb = true
+				tropical_fish = true
+				turtle = true
+				axolotl = true
+				painting = true
+
+			[light_sources.settings.entities.alexsmobs]
+				crow = true
+				cockroach = true
+				flying_fish = true
+				fly = true
+				seal = true
+				grizzly_bear = true
+				lobster = true
+				seagull = true
+				underminer = true
+				flutter = true
+				leafcutter_ant = true
+
+			[light_sources.settings.entities.spawn]
+				hamster = true
+				ant = true
+				tuna = true
+
+			[light_sources.settings.entities.enemyexpansion]
+				meature = true
+
+			[light_sources.settings.entities.spelunkers_charm]
+				sound_entity = true
+
+			[light_sources.settings.entities.quark]
+				torch_arrow = true
+				glass_frame = true
+
+			[light_sources.settings.entities.beansbackpacks]
+				backpack = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				rascal = true
+				glare = true
+
+			[light_sources.settings.entities.sullysmod]
+				lanternfish = true
+
+			[light_sources.settings.entities.species]
+				deepfish = true
+				birt = true
+
+			[light_sources.settings.entities.corpse]
+				corpse = true
+
+			[light_sources.settings.entities.alexscaves]
+				beholder_eye = true
+
