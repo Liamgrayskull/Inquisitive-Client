@@ -1,6 +1,6 @@
 #The time in ticks in which a player can still be rescued from death. 20 ticks are one second. Set to 0 to disable the timer.
 #Range: > -2147483648
-ticksUntilDeath = 4800
+ticksUntilDeath = 4200
 #If true, the timer until death continues even if the player logs out.
 continueTimerWhileOffline = false
 #The time in ticks it takes to rescue a player. 20 ticks are one second.
@@ -16,7 +16,7 @@ rescueRespawnFoodLevel = 5
 rescueRespawnEffects = ["minecraft:hunger|600|0", "minecraft:weakness|1200|0"]
 #The distance at which a player can rescue another.
 #Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
-rescueDistance = 3.0
+rescueDistance = 2.0
 #If true, knocked out players will glow, making them visible through blocks.
 glowOnKnockout = true
 #If true, knocked out players are still able to punch nearby enemies.

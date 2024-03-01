@@ -1,0 +1,1764 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "0",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "0",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "0",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "1",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "1",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "1",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "1",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "2",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "2",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "2",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "2",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "3",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "3",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "3",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "3",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "4",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "4",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "4",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "4",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "5",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "5",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "5",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "5",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "6",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "6",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "6",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "6",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "7",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "7",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "7",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "7",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "8",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "8",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "8",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "8",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "9",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "9",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "9",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "9",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "10",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "10",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "10",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "10",
+			"facing": "north"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "0",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "0",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "0",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "0",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "1",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "1",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "1",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "1",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "2",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "2",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "2",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "2",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "3",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "3",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "3",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "3",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "4",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "4",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "4",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "4",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "5",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "5",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "5",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "5",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "6",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "6",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "6",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "6",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "7",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "7",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "7",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "7",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "8",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "8",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "8",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "8",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "9",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "9",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "9",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "9",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "10",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "10",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "10",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "10",
+			"facing": "south"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "0",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "0",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "0",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "0",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "1",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "1",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "1",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "1",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "2",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "2",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "2",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "2",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "3",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "3",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "3",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "3",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "4",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "4",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "4",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "4",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "5",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "5",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "5",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "5",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "6",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "6",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "6",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "6",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "7",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "7",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "7",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "7",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "8",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "8",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "8",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "8",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "9",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "9",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "9",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "9",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "10",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "10",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "10",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "10",
+			"facing": "west"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "0",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "0",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "0",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "0",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "1",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "1",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "1",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "1",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "2",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "2",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "2",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "2",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "3",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "3",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "3",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "3",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "4",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "4",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "4",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "4",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "5",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "5",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "5",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "5",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "6",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "6",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "6",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "6",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "7",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "7",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "7",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "7",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "8",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "8",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "8",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "8",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "9",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "9",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "9",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "9",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "0",
+			"sand_age": "10",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "0",
+			"sand_age": "10",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"sandiness": "1",
+			"sand_age": "10",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"sandiness": "1",
+			"sand_age": "10",
+			"facing": "east"
+		},
+		"Name": "additionalplacements:immersive_weathering.sandy_stone_slab"
+	}
+]

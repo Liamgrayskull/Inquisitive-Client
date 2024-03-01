@@ -3628,12 +3628,6 @@
     },
     "done": true
   },
-  "surface:surface/root": {
-    "criteria": {
-      "requirement": "2024-02-21 22:15:01 -0800"
-    },
-    "done": true
-  },
   "idas:idas_root": {
     "criteria": {
       "always": "2024-02-21 22:15:01 -0800"
@@ -3727,6 +3721,18 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2024-02-21 22:28:09 -0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/raygun": {
+    "criteria": {
+      "raygun": "2024-02-26 17:50:01 -0800"
+    },
+    "done": true
+  },
+  "surface:root": {
+    "criteria": {
+      "requirement": "2024-02-26 17:41:27 -0800"
     },
     "done": true
   },

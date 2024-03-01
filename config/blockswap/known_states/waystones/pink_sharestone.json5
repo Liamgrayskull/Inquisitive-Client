@@ -1,0 +1,804 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "unknown",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "unknown",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "wilderness",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "wilderness",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "dungeon",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "dungeon",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "village",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "village",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "player",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "player",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "unknown",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "wilderness",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "wilderness",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "dungeon",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "dungeon",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "village",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "village",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "player",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "player",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "unknown",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "unknown",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "wilderness",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "wilderness",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "dungeon",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "dungeon",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "village",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "village",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "player",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "player",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "unknown",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "unknown",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "wilderness",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "wilderness",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "dungeon",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "dungeon",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "village",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "village",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "player",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "player",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "unknown",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "unknown",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "wilderness",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "wilderness",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "dungeon",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "dungeon",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "village",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "village",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "player",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "player",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "unknown",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "unknown",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "wilderness",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "wilderness",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "dungeon",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "dungeon",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "village",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "village",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "player",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "player",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "unknown",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "unknown",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "wilderness",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "wilderness",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "dungeon",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "dungeon",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "village",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "village",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "player",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "player",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "unknown",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "unknown",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "wilderness",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "wilderness",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "dungeon",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "dungeon",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "village",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "village",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"origin": "player",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "waystones:pink_sharestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"origin": "player",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "waystones:pink_sharestone"
+	}
+]

@@ -1,0 +1,964 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"charged": "true",
+			"charge_source": "north"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"charged": "true",
+			"charge_source": "north"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"charged": "true",
+			"charge_source": "north"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"charged": "true",
+			"charge_source": "north"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"charged": "true",
+			"charge_source": "north"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"charged": "true",
+			"charge_source": "north"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"charged": "true",
+			"charge_source": "north"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"charged": "true",
+			"charge_source": "north"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"charged": "false",
+			"charge_source": "north"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"charged": "false",
+			"charge_source": "north"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"charged": "false",
+			"charge_source": "north"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"charged": "false",
+			"charge_source": "north"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"charged": "false",
+			"charge_source": "north"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"charged": "false",
+			"charge_source": "north"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"charged": "false",
+			"charge_source": "north"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"charged": "true",
+			"charge_source": "east"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"charged": "true",
+			"charge_source": "east"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"charged": "true",
+			"charge_source": "east"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"charged": "true",
+			"charge_source": "east"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"charged": "true",
+			"charge_source": "east"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"charged": "true",
+			"charge_source": "east"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"charged": "true",
+			"charge_source": "east"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"charged": "true",
+			"charge_source": "east"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"charged": "false",
+			"charge_source": "east"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"charged": "false",
+			"charge_source": "east"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"charged": "false",
+			"charge_source": "east"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"charged": "false",
+			"charge_source": "east"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"charged": "false",
+			"charge_source": "east"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"charged": "false",
+			"charge_source": "east"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"charged": "false",
+			"charge_source": "east"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"charged": "false",
+			"charge_source": "east"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"charged": "true",
+			"charge_source": "south"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"charged": "true",
+			"charge_source": "south"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"charged": "true",
+			"charge_source": "south"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"charged": "true",
+			"charge_source": "south"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"charged": "true",
+			"charge_source": "south"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"charged": "true",
+			"charge_source": "south"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"charged": "true",
+			"charge_source": "south"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"charged": "true",
+			"charge_source": "south"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"charged": "false",
+			"charge_source": "south"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"charged": "false",
+			"charge_source": "south"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"charged": "false",
+			"charge_source": "south"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"charged": "false",
+			"charge_source": "south"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"charged": "false",
+			"charge_source": "south"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"charged": "false",
+			"charge_source": "south"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"charged": "false",
+			"charge_source": "south"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"charged": "false",
+			"charge_source": "south"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"charged": "true",
+			"charge_source": "west"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"charged": "true",
+			"charge_source": "west"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"charged": "true",
+			"charge_source": "west"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"charged": "true",
+			"charge_source": "west"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"charged": "true",
+			"charge_source": "west"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"charged": "true",
+			"charge_source": "west"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"charged": "true",
+			"charge_source": "west"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"charged": "true",
+			"charge_source": "west"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"charged": "false",
+			"charge_source": "west"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"charged": "false",
+			"charge_source": "west"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"charged": "false",
+			"charge_source": "west"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"charged": "false",
+			"charge_source": "west"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"charged": "false",
+			"charge_source": "west"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"charged": "false",
+			"charge_source": "west"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"charged": "false",
+			"charge_source": "west"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"charged": "false",
+			"charge_source": "west"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"charged": "true",
+			"charge_source": "up"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"charged": "true",
+			"charge_source": "up"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"charged": "true",
+			"charge_source": "up"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"charged": "true",
+			"charge_source": "up"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"charged": "true",
+			"charge_source": "up"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"charged": "true",
+			"charge_source": "up"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"charged": "true",
+			"charge_source": "up"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"charged": "true",
+			"charge_source": "up"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"charged": "false",
+			"charge_source": "up"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"charged": "false",
+			"charge_source": "up"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"charged": "false",
+			"charge_source": "up"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"charged": "false",
+			"charge_source": "up"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"charged": "false",
+			"charge_source": "up"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"charged": "false",
+			"charge_source": "up"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"charged": "false",
+			"charge_source": "up"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"charged": "false",
+			"charge_source": "up"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"charged": "true",
+			"charge_source": "down"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"charged": "true",
+			"charge_source": "down"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"charged": "true",
+			"charge_source": "down"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"charged": "true",
+			"charge_source": "down"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"charged": "true",
+			"charge_source": "down"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"charged": "true",
+			"charge_source": "down"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"charged": "true",
+			"charge_source": "down"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"charged": "true",
+			"charge_source": "down"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"charged": "false",
+			"charge_source": "down"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"charged": "false",
+			"charge_source": "down"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"charged": "false",
+			"charge_source": "down"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"charged": "false",
+			"charge_source": "down"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"charged": "false",
+			"charge_source": "down"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"charged": "false",
+			"charge_source": "down"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"charged": "false",
+			"charge_source": "down"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"charged": "false",
+			"charge_source": "down"
+		},
+		"Name": "additionalplacements:architects_palette.abyssaline_brick_slab"
+	}
+]

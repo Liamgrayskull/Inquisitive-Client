@@ -1,0 +1,150 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "quark:crafter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "triggered",
+			"facing": "north"
+		},
+		"Name": "quark:crafter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "on",
+			"facing": "north"
+		},
+		"Name": "quark:crafter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "off",
+			"facing": "east"
+		},
+		"Name": "quark:crafter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "triggered",
+			"facing": "east"
+		},
+		"Name": "quark:crafter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "on",
+			"facing": "east"
+		},
+		"Name": "quark:crafter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "off",
+			"facing": "south"
+		},
+		"Name": "quark:crafter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "triggered",
+			"facing": "south"
+		},
+		"Name": "quark:crafter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "on",
+			"facing": "south"
+		},
+		"Name": "quark:crafter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "off",
+			"facing": "west"
+		},
+		"Name": "quark:crafter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "triggered",
+			"facing": "west"
+		},
+		"Name": "quark:crafter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "on",
+			"facing": "west"
+		},
+		"Name": "quark:crafter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "off",
+			"facing": "up"
+		},
+		"Name": "quark:crafter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "triggered",
+			"facing": "up"
+		},
+		"Name": "quark:crafter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "on",
+			"facing": "up"
+		},
+		"Name": "quark:crafter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "off",
+			"facing": "down"
+		},
+		"Name": "quark:crafter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "triggered",
+			"facing": "down"
+		},
+		"Name": "quark:crafter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "on",
+			"facing": "down"
+		},
+		"Name": "quark:crafter"
+	}
+]

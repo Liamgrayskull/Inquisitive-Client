@@ -1,0 +1,102 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slimy": "true",
+			"facing": "north"
+		},
+		"Name": "habitat:slime_fern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slimy": "false",
+			"facing": "north"
+		},
+		"Name": "habitat:slime_fern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slimy": "true",
+			"facing": "east"
+		},
+		"Name": "habitat:slime_fern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slimy": "false",
+			"facing": "east"
+		},
+		"Name": "habitat:slime_fern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slimy": "true",
+			"facing": "south"
+		},
+		"Name": "habitat:slime_fern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slimy": "false",
+			"facing": "south"
+		},
+		"Name": "habitat:slime_fern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slimy": "true",
+			"facing": "west"
+		},
+		"Name": "habitat:slime_fern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slimy": "false",
+			"facing": "west"
+		},
+		"Name": "habitat:slime_fern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slimy": "true",
+			"facing": "up"
+		},
+		"Name": "habitat:slime_fern"
+	},
+	{
+		"Name": "habitat:slime_fern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slimy": "true",
+			"facing": "down"
+		},
+		"Name": "habitat:slime_fern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slimy": "false",
+			"facing": "down"
+		},
+		"Name": "habitat:slime_fern"
+	}
+]

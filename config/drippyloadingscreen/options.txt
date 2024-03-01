@@ -2,5 +2,5 @@
 
 B:early_fade_out_elements = 'false';
 B:fade_out_loading_screen = 'true';
-B:allow_universal_layouts = 'true';
+B:allow_universal_layouts = 'false';
 B:wait_for_textures_in_loading = 'true';

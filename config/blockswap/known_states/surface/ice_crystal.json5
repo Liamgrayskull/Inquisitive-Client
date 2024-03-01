@@ -1,0 +1,3844 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "north",
+			"absorbed_light": "0"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "north",
+			"absorbed_light": "0"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "north",
+			"absorbed_light": "0"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "north",
+			"absorbed_light": "0"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "east",
+			"absorbed_light": "0"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "east",
+			"absorbed_light": "0"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "east",
+			"absorbed_light": "0"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "east",
+			"absorbed_light": "0"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "south",
+			"absorbed_light": "0"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "south",
+			"absorbed_light": "0"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "south",
+			"absorbed_light": "0"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "south",
+			"absorbed_light": "0"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "west",
+			"absorbed_light": "0"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "west",
+			"absorbed_light": "0"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "west",
+			"absorbed_light": "0"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "west",
+			"absorbed_light": "0"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "up",
+			"absorbed_light": "0"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "up",
+			"absorbed_light": "0"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "up",
+			"absorbed_light": "0"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "up",
+			"absorbed_light": "0"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "down",
+			"absorbed_light": "0"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "down",
+			"absorbed_light": "0"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "down",
+			"absorbed_light": "0"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "down",
+			"absorbed_light": "0"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "north",
+			"absorbed_light": "1"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "north",
+			"absorbed_light": "1"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "north",
+			"absorbed_light": "1"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "north",
+			"absorbed_light": "1"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "east",
+			"absorbed_light": "1"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "east",
+			"absorbed_light": "1"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "east",
+			"absorbed_light": "1"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "east",
+			"absorbed_light": "1"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "south",
+			"absorbed_light": "1"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "south",
+			"absorbed_light": "1"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "south",
+			"absorbed_light": "1"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "south",
+			"absorbed_light": "1"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "west",
+			"absorbed_light": "1"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "west",
+			"absorbed_light": "1"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "west",
+			"absorbed_light": "1"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "west",
+			"absorbed_light": "1"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "up",
+			"absorbed_light": "1"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "up",
+			"absorbed_light": "1"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "up",
+			"absorbed_light": "1"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "up",
+			"absorbed_light": "1"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "down",
+			"absorbed_light": "1"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "down",
+			"absorbed_light": "1"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "down",
+			"absorbed_light": "1"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "down",
+			"absorbed_light": "1"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "north",
+			"absorbed_light": "2"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "north",
+			"absorbed_light": "2"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "north",
+			"absorbed_light": "2"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "north",
+			"absorbed_light": "2"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "east",
+			"absorbed_light": "2"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "east",
+			"absorbed_light": "2"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "east",
+			"absorbed_light": "2"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "east",
+			"absorbed_light": "2"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "south",
+			"absorbed_light": "2"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "south",
+			"absorbed_light": "2"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "south",
+			"absorbed_light": "2"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "south",
+			"absorbed_light": "2"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "west",
+			"absorbed_light": "2"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "west",
+			"absorbed_light": "2"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "west",
+			"absorbed_light": "2"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "west",
+			"absorbed_light": "2"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "up",
+			"absorbed_light": "2"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "up",
+			"absorbed_light": "2"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "up",
+			"absorbed_light": "2"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "up",
+			"absorbed_light": "2"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "down",
+			"absorbed_light": "2"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "down",
+			"absorbed_light": "2"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "down",
+			"absorbed_light": "2"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "down",
+			"absorbed_light": "2"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "north",
+			"absorbed_light": "3"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "north",
+			"absorbed_light": "3"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "north",
+			"absorbed_light": "3"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "north",
+			"absorbed_light": "3"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "east",
+			"absorbed_light": "3"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "east",
+			"absorbed_light": "3"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "east",
+			"absorbed_light": "3"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "east",
+			"absorbed_light": "3"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "south",
+			"absorbed_light": "3"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "south",
+			"absorbed_light": "3"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "south",
+			"absorbed_light": "3"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "south",
+			"absorbed_light": "3"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "west",
+			"absorbed_light": "3"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "west",
+			"absorbed_light": "3"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "west",
+			"absorbed_light": "3"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "west",
+			"absorbed_light": "3"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "up",
+			"absorbed_light": "3"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "up",
+			"absorbed_light": "3"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "up",
+			"absorbed_light": "3"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "up",
+			"absorbed_light": "3"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "down",
+			"absorbed_light": "3"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "down",
+			"absorbed_light": "3"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "down",
+			"absorbed_light": "3"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "down",
+			"absorbed_light": "3"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "north",
+			"absorbed_light": "4"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "north",
+			"absorbed_light": "4"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "north",
+			"absorbed_light": "4"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "north",
+			"absorbed_light": "4"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "east",
+			"absorbed_light": "4"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "east",
+			"absorbed_light": "4"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "east",
+			"absorbed_light": "4"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "east",
+			"absorbed_light": "4"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "south",
+			"absorbed_light": "4"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "south",
+			"absorbed_light": "4"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "south",
+			"absorbed_light": "4"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "south",
+			"absorbed_light": "4"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "west",
+			"absorbed_light": "4"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "west",
+			"absorbed_light": "4"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "west",
+			"absorbed_light": "4"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "west",
+			"absorbed_light": "4"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "up",
+			"absorbed_light": "4"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "up",
+			"absorbed_light": "4"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "up",
+			"absorbed_light": "4"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "up",
+			"absorbed_light": "4"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "down",
+			"absorbed_light": "4"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "down",
+			"absorbed_light": "4"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "down",
+			"absorbed_light": "4"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "down",
+			"absorbed_light": "4"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "north",
+			"absorbed_light": "5"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "north",
+			"absorbed_light": "5"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "north",
+			"absorbed_light": "5"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "north",
+			"absorbed_light": "5"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "east",
+			"absorbed_light": "5"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "east",
+			"absorbed_light": "5"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "east",
+			"absorbed_light": "5"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "east",
+			"absorbed_light": "5"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "south",
+			"absorbed_light": "5"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "south",
+			"absorbed_light": "5"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "south",
+			"absorbed_light": "5"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "south",
+			"absorbed_light": "5"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "west",
+			"absorbed_light": "5"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "west",
+			"absorbed_light": "5"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "west",
+			"absorbed_light": "5"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "west",
+			"absorbed_light": "5"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "up",
+			"absorbed_light": "5"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "up",
+			"absorbed_light": "5"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "up",
+			"absorbed_light": "5"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "down",
+			"absorbed_light": "5"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "down",
+			"absorbed_light": "5"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "down",
+			"absorbed_light": "5"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "down",
+			"absorbed_light": "5"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "north",
+			"absorbed_light": "6"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "north",
+			"absorbed_light": "6"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "north",
+			"absorbed_light": "6"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "north",
+			"absorbed_light": "6"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "east",
+			"absorbed_light": "6"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "east",
+			"absorbed_light": "6"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "east",
+			"absorbed_light": "6"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "east",
+			"absorbed_light": "6"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "south",
+			"absorbed_light": "6"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "south",
+			"absorbed_light": "6"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "south",
+			"absorbed_light": "6"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "south",
+			"absorbed_light": "6"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "west",
+			"absorbed_light": "6"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "west",
+			"absorbed_light": "6"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "west",
+			"absorbed_light": "6"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "west",
+			"absorbed_light": "6"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "up",
+			"absorbed_light": "6"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "up",
+			"absorbed_light": "6"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "up",
+			"absorbed_light": "6"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "up",
+			"absorbed_light": "6"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "down",
+			"absorbed_light": "6"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "down",
+			"absorbed_light": "6"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "down",
+			"absorbed_light": "6"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "down",
+			"absorbed_light": "6"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "north",
+			"absorbed_light": "7"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "north",
+			"absorbed_light": "7"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "north",
+			"absorbed_light": "7"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "north",
+			"absorbed_light": "7"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "east",
+			"absorbed_light": "7"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "east",
+			"absorbed_light": "7"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "east",
+			"absorbed_light": "7"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "east",
+			"absorbed_light": "7"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "south",
+			"absorbed_light": "7"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "south",
+			"absorbed_light": "7"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "south",
+			"absorbed_light": "7"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "south",
+			"absorbed_light": "7"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "west",
+			"absorbed_light": "7"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "west",
+			"absorbed_light": "7"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "west",
+			"absorbed_light": "7"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "west",
+			"absorbed_light": "7"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "up",
+			"absorbed_light": "7"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "up",
+			"absorbed_light": "7"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "up",
+			"absorbed_light": "7"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "up",
+			"absorbed_light": "7"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "down",
+			"absorbed_light": "7"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "down",
+			"absorbed_light": "7"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "down",
+			"absorbed_light": "7"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "down",
+			"absorbed_light": "7"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "north",
+			"absorbed_light": "8"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "north",
+			"absorbed_light": "8"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "north",
+			"absorbed_light": "8"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "north",
+			"absorbed_light": "8"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "east",
+			"absorbed_light": "8"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "east",
+			"absorbed_light": "8"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "east",
+			"absorbed_light": "8"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "east",
+			"absorbed_light": "8"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "south",
+			"absorbed_light": "8"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "south",
+			"absorbed_light": "8"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "south",
+			"absorbed_light": "8"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "south",
+			"absorbed_light": "8"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "west",
+			"absorbed_light": "8"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "west",
+			"absorbed_light": "8"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "west",
+			"absorbed_light": "8"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "west",
+			"absorbed_light": "8"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "up",
+			"absorbed_light": "8"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "up",
+			"absorbed_light": "8"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "up",
+			"absorbed_light": "8"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "up",
+			"absorbed_light": "8"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "down",
+			"absorbed_light": "8"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "down",
+			"absorbed_light": "8"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "down",
+			"absorbed_light": "8"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "down",
+			"absorbed_light": "8"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "north",
+			"absorbed_light": "9"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "north",
+			"absorbed_light": "9"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "north",
+			"absorbed_light": "9"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "north",
+			"absorbed_light": "9"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "east",
+			"absorbed_light": "9"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "east",
+			"absorbed_light": "9"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "east",
+			"absorbed_light": "9"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "east",
+			"absorbed_light": "9"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "south",
+			"absorbed_light": "9"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "south",
+			"absorbed_light": "9"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "south",
+			"absorbed_light": "9"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "south",
+			"absorbed_light": "9"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "west",
+			"absorbed_light": "9"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "west",
+			"absorbed_light": "9"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "west",
+			"absorbed_light": "9"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "west",
+			"absorbed_light": "9"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "up",
+			"absorbed_light": "9"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "up",
+			"absorbed_light": "9"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "up",
+			"absorbed_light": "9"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "up",
+			"absorbed_light": "9"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "down",
+			"absorbed_light": "9"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "down",
+			"absorbed_light": "9"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "down",
+			"absorbed_light": "9"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "down",
+			"absorbed_light": "9"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "north",
+			"absorbed_light": "10"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "north",
+			"absorbed_light": "10"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "north",
+			"absorbed_light": "10"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "north",
+			"absorbed_light": "10"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "east",
+			"absorbed_light": "10"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "east",
+			"absorbed_light": "10"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "east",
+			"absorbed_light": "10"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "east",
+			"absorbed_light": "10"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "south",
+			"absorbed_light": "10"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "south",
+			"absorbed_light": "10"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "south",
+			"absorbed_light": "10"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "south",
+			"absorbed_light": "10"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "west",
+			"absorbed_light": "10"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "west",
+			"absorbed_light": "10"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "west",
+			"absorbed_light": "10"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "west",
+			"absorbed_light": "10"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "up",
+			"absorbed_light": "10"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "up",
+			"absorbed_light": "10"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "up",
+			"absorbed_light": "10"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "up",
+			"absorbed_light": "10"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "down",
+			"absorbed_light": "10"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "down",
+			"absorbed_light": "10"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "down",
+			"absorbed_light": "10"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "down",
+			"absorbed_light": "10"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "north",
+			"absorbed_light": "11"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "north",
+			"absorbed_light": "11"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "north",
+			"absorbed_light": "11"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "north",
+			"absorbed_light": "11"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "east",
+			"absorbed_light": "11"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "east",
+			"absorbed_light": "11"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "east",
+			"absorbed_light": "11"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "east",
+			"absorbed_light": "11"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "south",
+			"absorbed_light": "11"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "south",
+			"absorbed_light": "11"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "south",
+			"absorbed_light": "11"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "south",
+			"absorbed_light": "11"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "west",
+			"absorbed_light": "11"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "west",
+			"absorbed_light": "11"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "west",
+			"absorbed_light": "11"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "west",
+			"absorbed_light": "11"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "up",
+			"absorbed_light": "11"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "up",
+			"absorbed_light": "11"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "up",
+			"absorbed_light": "11"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "up",
+			"absorbed_light": "11"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "down",
+			"absorbed_light": "11"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "down",
+			"absorbed_light": "11"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "down",
+			"absorbed_light": "11"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "down",
+			"absorbed_light": "11"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "north",
+			"absorbed_light": "12"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "north",
+			"absorbed_light": "12"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "north",
+			"absorbed_light": "12"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "north",
+			"absorbed_light": "12"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "east",
+			"absorbed_light": "12"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "east",
+			"absorbed_light": "12"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "east",
+			"absorbed_light": "12"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "east",
+			"absorbed_light": "12"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "south",
+			"absorbed_light": "12"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "south",
+			"absorbed_light": "12"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "south",
+			"absorbed_light": "12"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "south",
+			"absorbed_light": "12"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "west",
+			"absorbed_light": "12"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "west",
+			"absorbed_light": "12"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "west",
+			"absorbed_light": "12"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "west",
+			"absorbed_light": "12"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "up",
+			"absorbed_light": "12"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "up",
+			"absorbed_light": "12"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "up",
+			"absorbed_light": "12"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "up",
+			"absorbed_light": "12"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "down",
+			"absorbed_light": "12"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "down",
+			"absorbed_light": "12"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "down",
+			"absorbed_light": "12"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "down",
+			"absorbed_light": "12"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "north",
+			"absorbed_light": "13"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "north",
+			"absorbed_light": "13"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "north",
+			"absorbed_light": "13"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "north",
+			"absorbed_light": "13"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "east",
+			"absorbed_light": "13"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "east",
+			"absorbed_light": "13"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "east",
+			"absorbed_light": "13"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "east",
+			"absorbed_light": "13"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "south",
+			"absorbed_light": "13"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "south",
+			"absorbed_light": "13"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "south",
+			"absorbed_light": "13"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "south",
+			"absorbed_light": "13"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "west",
+			"absorbed_light": "13"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "west",
+			"absorbed_light": "13"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "west",
+			"absorbed_light": "13"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "west",
+			"absorbed_light": "13"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "up",
+			"absorbed_light": "13"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "up",
+			"absorbed_light": "13"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "up",
+			"absorbed_light": "13"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "up",
+			"absorbed_light": "13"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "down",
+			"absorbed_light": "13"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "down",
+			"absorbed_light": "13"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "down",
+			"absorbed_light": "13"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "down",
+			"absorbed_light": "13"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "north",
+			"absorbed_light": "14"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "north",
+			"absorbed_light": "14"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "north",
+			"absorbed_light": "14"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "north",
+			"absorbed_light": "14"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "east",
+			"absorbed_light": "14"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "east",
+			"absorbed_light": "14"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "east",
+			"absorbed_light": "14"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "east",
+			"absorbed_light": "14"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "south",
+			"absorbed_light": "14"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "south",
+			"absorbed_light": "14"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "south",
+			"absorbed_light": "14"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "south",
+			"absorbed_light": "14"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "west",
+			"absorbed_light": "14"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "west",
+			"absorbed_light": "14"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "west",
+			"absorbed_light": "14"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "west",
+			"absorbed_light": "14"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "up",
+			"absorbed_light": "14"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "up",
+			"absorbed_light": "14"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "up",
+			"absorbed_light": "14"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "up",
+			"absorbed_light": "14"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "down",
+			"absorbed_light": "14"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "down",
+			"absorbed_light": "14"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "down",
+			"absorbed_light": "14"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "down",
+			"absorbed_light": "14"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "north",
+			"absorbed_light": "15"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "north",
+			"absorbed_light": "15"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "north",
+			"absorbed_light": "15"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "north",
+			"absorbed_light": "15"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "east",
+			"absorbed_light": "15"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "east",
+			"absorbed_light": "15"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "east",
+			"absorbed_light": "15"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "east",
+			"absorbed_light": "15"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "south",
+			"absorbed_light": "15"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "south",
+			"absorbed_light": "15"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "south",
+			"absorbed_light": "15"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "south",
+			"absorbed_light": "15"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "west",
+			"absorbed_light": "15"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "west",
+			"absorbed_light": "15"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "west",
+			"absorbed_light": "15"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "west",
+			"absorbed_light": "15"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "up",
+			"absorbed_light": "15"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "up",
+			"absorbed_light": "15"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "up",
+			"absorbed_light": "15"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "up",
+			"absorbed_light": "15"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "true",
+			"facing": "down",
+			"absorbed_light": "15"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "true",
+			"facing": "down",
+			"absorbed_light": "15"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"waterlogged": "false",
+			"facing": "down",
+			"absorbed_light": "15"
+		},
+		"Name": "surface:ice_crystal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"waterlogged": "false",
+			"facing": "down",
+			"absorbed_light": "15"
+		},
+		"Name": "surface:ice_crystal"
+	}
+]

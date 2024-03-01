@@ -461,6 +461,151 @@
       "hex_color": "inherit"
     },
     {
+      "enchantment": "enchancement:assimilation",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchancement:perception",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchancement:veil",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchancement:amphibious",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchancement:strafe",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchancement:wardenspine",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchancement:dash",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchancement:slide",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchancement:bouncy",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchancement:buoy",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchancement:gale",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchancement:berserk",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchancement:frostbite",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchancement:chaos",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchancement:delay",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchancement:phasing",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchancement:brimstone",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchancement:scatter",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchancement:torch",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchancement:leech",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchancement:warp",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchancement:extracting",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchancement:molten",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchancement:beheading",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchancement:lumberjack",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchancement:bury",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchancement:scooping",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchancement:disarm",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
+      "enchantment": "enchancement:grapple",
+      "book_model": -1,
+      "hex_color": "inherit"
+    },
+    {
       "enchantment": "guarding:barbed",
       "book_model": -1,
       "hex_color": "inherit"

@@ -45,11 +45,11 @@
 		"speedMultiplier": 1.0
 	},
 	"crawling": {
-		"enabled": true,
+		"enabled": false,
 		"speedMultiplier": 1.0
 	},
 	"crawlingBackwards": {
-		"enabled": true,
+		"enabled": false,
 		"speedMultiplier": 1.0
 	},
 	"climbing": {

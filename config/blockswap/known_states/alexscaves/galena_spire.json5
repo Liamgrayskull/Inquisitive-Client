@@ -1,0 +1,149 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "0",
+			"down": "true"
+		},
+		"Name": "alexscaves:galena_spire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "0",
+			"down": "true"
+		},
+		"Name": "alexscaves:galena_spire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "1",
+			"down": "true"
+		},
+		"Name": "alexscaves:galena_spire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "1",
+			"down": "true"
+		},
+		"Name": "alexscaves:galena_spire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "2",
+			"down": "true"
+		},
+		"Name": "alexscaves:galena_spire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "2",
+			"down": "true"
+		},
+		"Name": "alexscaves:galena_spire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "3",
+			"down": "true"
+		},
+		"Name": "alexscaves:galena_spire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "3",
+			"down": "true"
+		},
+		"Name": "alexscaves:galena_spire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "0",
+			"down": "false"
+		},
+		"Name": "alexscaves:galena_spire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "0",
+			"down": "false"
+		},
+		"Name": "alexscaves:galena_spire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "1",
+			"down": "false"
+		},
+		"Name": "alexscaves:galena_spire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "1",
+			"down": "false"
+		},
+		"Name": "alexscaves:galena_spire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "2",
+			"down": "false"
+		},
+		"Name": "alexscaves:galena_spire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "2",
+			"down": "false"
+		},
+		"Name": "alexscaves:galena_spire"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "3",
+			"down": "false"
+		},
+		"Name": "alexscaves:galena_spire"
+	},
+	{
+		"Name": "alexscaves:galena_spire"
+	}
+]

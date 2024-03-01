@@ -1,3 +1,13 @@
 {
-  "hiddenMods": []
+  "version": 1,
+  "hiddenMods": [],
+  "globalModAliases": {
+    "cloth_config": "cloth-config2",
+    "embeddium": [
+      "sodium",
+      "magnesium"
+  
+  ],
+    "playeranimator": "player-animator" }
+  
 }

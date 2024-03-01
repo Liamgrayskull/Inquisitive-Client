@@ -1,0 +1,12 @@
+{
+  "pointer": {
+    "x": 1.0,
+    "y": 0.0,
+    "size": 32,
+    "enabled": false,
+    "identifier": {
+      "f_135804_": "minecraft",
+      "f_135805_": "textures/item/diamond_sword.png"
+    }
+  }
+}

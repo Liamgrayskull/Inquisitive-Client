@@ -47,9 +47,11 @@
       "quark:glimmering_weald": "2024-02-02 18:48:20 -0800",
       "minecraft:sunflower_plains": "2024-02-19 15:56:28 -0800",
       "minecraft:cherry_grove": "2024-02-21 17:07:52 -0800",
+      "minecraft:birch_forest": "2024-02-25 17:37:59 -0800",
       "minecraft:bamboo_jungle": "2024-02-19 21:10:47 -0800",
       "minecraft:savanna_plateau": "2024-02-03 16:29:00 -0800",
       "minecraft:beach": "2024-02-02 18:35:33 -0800",
+      "minecraft:dark_forest": "2024-02-25 17:33:48 -0800",
       "minecraft:sparse_jungle": "2024-02-19 21:10:34 -0800",
       "minecraft:lukewarm_ocean": "2024-02-02 18:36:05 -0800",
       "minecraft:river": "2024-02-02 18:30:42 -0800",
@@ -798,12 +800,6 @@
   "twigs:recipes/bone_meal_from_seashells": {
     "criteria": {
       "has_item": "2024-02-03 18:55:15 -0800"
-    },
-    "done": true
-  },
-  "surface:surface/root": {
-    "criteria": {
-      "requirement": "2024-02-06 16:43:26 -0800"
     },
     "done": true
   },
@@ -2529,6 +2525,234 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2024-02-21 21:50:08 -0800"
+    },
+    "done": true
+  },
+  "surface:root": {
+    "criteria": {
+      "requirement": "2024-02-22 19:27:14 -0800"
+    },
+    "done": true
+  },
+  "surface:forest/forest": {
+    "criteria": {
+      "requirement": "2024-02-22 19:27:41 -0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-02-22 19:29:33 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-02-22 19:29:33 -0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-02-22 19:29:33 -0800"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-02-22 19:33:11 -0800"
+    },
+    "done": true
+  },
+  "surface:savanna/savanna": {
+    "criteria": {
+      "requirement": "2024-02-22 19:34:37 -0800"
+    },
+    "done": true
+  },
+  "surface:meadow/meadow": {
+    "criteria": {
+      "requirement": "2024-02-22 19:35:21 -0800"
+    },
+    "done": true
+  },
+  "cloudstorage:cloudstorage/static_cloud": {
+    "criteria": {
+      "acacia_blossom": "2024-02-22 19:35:28 -0800"
+    },
+    "done": true
+  },
+  "cloudstorage:cloudstorage/cotton_candy": {
+    "criteria": {
+      "acacia_blossom": "2024-02-22 19:35:41 -0800"
+    },
+    "done": true
+  },
+  "surface:recipes/misc/hardened_snowball_from_packed_ice": {
+    "criteria": {
+      "has_snowball": "2024-02-22 19:35:42 -0800"
+    },
+    "done": true
+  },
+  "surface:recipes/misc/hardened_snowball_from_ice": {
+    "criteria": {
+      "has_snowball": "2024-02-22 19:35:42 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-02-22 19:35:42 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-02-22 19:35:42 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-02-22 19:36:09 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-02-22 19:36:09 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-02-22 19:36:09 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bomb": {
+    "criteria": {
+      "has_string": "2024-02-22 19:36:09 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2024-02-22 19:36:09 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2024-02-22 19:36:09 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-02-22 19:36:09 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-02-22 19:36:09 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-02-22 19:36:09 -0800"
+    },
+    "done": true
+  },
+  "spawn:recipes/hamster/roasted_sunflower_seeds_from_smoking": {
+    "criteria": {
+      "has_item": "2024-02-25 17:31:16 -0800"
+    },
+    "done": true
+  },
+  "spawn:recipes/hamster/roasted_sunflower_seeds": {
+    "criteria": {
+      "has_item": "2024-02-25 17:31:16 -0800"
+    },
+    "done": true
+  },
+  "spawn:recipes/hamster/roasted_sunflower_seeds_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2024-02-25 17:31:16 -0800"
+    },
+    "done": true
+  },
+  "spawn:recipes/hamster/yellow_dye_from_spawn_sunflower": {
+    "criteria": {
+      "has_sunflower": "2024-02-25 17:31:40 -0800"
+    },
+    "done": true
+  },
+  "surface:dark_forest/dark_forest": {
+    "criteria": {
+      "requirement": "2024-02-25 17:33:48 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-02-25 17:36:57 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-02-25 17:36:57 -0800"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2024-02-25 17:36:57 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2024-02-25 17:36:57 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-02-25 17:36:57 -0800"
+    },
+    "done": true
+  },
+  "twigs:recipes/copper_pillar/copper_pillar_stonecutting": {
+    "criteria": {
+      "has_cut_copper_slab": "2024-02-25 17:36:57 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2024-02-25 17:36:57 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2024-02-25 17:36:57 -0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-02-25 17:46:39 -0800"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rainbow_glass": {
+    "criteria": {
+      "gustmaker": "2024-02-25 17:45:30 -0800"
     },
     "done": true
   },

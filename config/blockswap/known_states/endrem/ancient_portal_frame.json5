@@ -1,0 +1,550 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eye": "empty"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eye": "empty"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eye": "empty"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eye": "old_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eye": "old_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eye": "old_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eye": "old_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eye": "rogue_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eye": "rogue_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eye": "rogue_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eye": "rogue_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eye": "nether_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eye": "nether_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eye": "nether_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eye": "nether_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eye": "cold_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eye": "cold_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eye": "cold_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eye": "cold_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eye": "corrupted_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eye": "corrupted_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eye": "corrupted_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eye": "corrupted_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eye": "magical_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eye": "magical_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eye": "magical_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eye": "magical_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eye": "black_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eye": "black_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eye": "black_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eye": "black_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eye": "lost_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eye": "lost_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eye": "lost_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eye": "lost_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eye": "wither_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eye": "wither_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eye": "wither_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eye": "wither_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eye": "guardian_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eye": "guardian_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eye": "guardian_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eye": "guardian_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eye": "witch_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eye": "witch_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eye": "witch_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eye": "witch_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eye": "cursed_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eye": "cursed_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eye": "cursed_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eye": "cursed_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eye": "exotic_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eye": "exotic_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eye": "exotic_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eye": "exotic_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eye": "evil_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eye": "evil_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eye": "evil_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eye": "evil_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eye": "undead_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eye": "undead_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eye": "undead_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eye": "undead_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"eye": "cryptic_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"eye": "cryptic_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"eye": "cryptic_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"eye": "cryptic_eye"
+		},
+		"Name": "endrem:ancient_portal_frame"
+	}
+]

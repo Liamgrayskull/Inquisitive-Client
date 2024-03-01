@@ -89,6 +89,9 @@
 				strophar = true
 				glacian = true
 
+			[general.types.wood_type.flying_stuff]
+				glaciated = true
+
 		[general.types.leaves_type]
 
 			[general.types.leaves_type.phantasm]

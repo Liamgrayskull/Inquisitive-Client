@@ -1,1 +1,3 @@
-[16:34:10] [WARN] [FabricLoader/Metadata]: Mod surface uses the version 1.5.1b-1.20.1 which isn't compatible with Loader's extended semantic version format (Could not parse version number component '1b'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[21:25:10] [WARN] [FabricLoader/Resolution]: Warnings were found!
+ - §Emod 'Debugify' (debugify)§r 1.20.1+1.1 recommends any 3.x version of §6yet-another-config-lib§r, which is missing!
+	 - You should install any 3.x version of §6yet-another-config-lib§r for the optimal experience.

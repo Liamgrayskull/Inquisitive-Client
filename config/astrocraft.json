@@ -1,0 +1,272 @@
+{
+  "magnitudeLimit": 5,
+  "enableStarColor": true,
+  "enableRealStars": true,
+  "baseSize": 0.3,
+  "maxSizeMultiplier": 1.3,
+  "starBrightnessBase": 8.0,
+  "starBrightnessModifier": 2.0,
+  "enableCustomStars": true,
+  "customStars": [],
+  "angledSky": true,
+  "latitude": -30.0,
+  "yearLength": 365.25,
+  "ambientLight": 10,
+  "monthLength": 29.53,
+  "moonLight": true,
+  "hideNewMoon": true,
+  "moonInclination": 12.875,
+  "enableEclipses": true,
+  "enablePlanets": true,
+  "sunDistance": 1.0,
+  "planets": [
+    {
+      "name": "Mercury",
+      "iMagnitude": 2.88,
+      "sMagnitude": -2.98,
+      "distance": 0.39,
+      "period": 0.240846,
+      "inclination": 7.01,
+      "color": {
+        "red": 223,
+        "green": 239,
+        "blue": 255,
+        "alpha": 1.0
+      },
+      "moons": []
+    },
+    {
+      "name": "Venus",
+      "iMagnitude": -4.92,
+      "sMagnitude": -2.98,
+      "distance": 0.723,
+      "period": 0.615198,
+      "inclination": 3.39,
+      "color": {
+        "red": 252,
+        "green": 250,
+        "blue": 160,
+        "alpha": 1.0
+      },
+      "moons": []
+    },
+    {
+      "name": "Mars",
+      "iMagnitude": -2.94,
+      "sMagnitude": 1.86,
+      "distance": 1.524,
+      "period": 1.88085,
+      "inclination": 1.85,
+      "color": {
+        "red": 255,
+        "green": 71,
+        "blue": 32,
+        "alpha": 1.0
+      },
+      "moons": []
+    },
+    {
+      "name": "Jupiter",
+      "iMagnitude": -2.94,
+      "sMagnitude": -1.66,
+      "distance": 5.2,
+      "period": 11.862,
+      "inclination": 1.31,
+      "color": {
+        "red": 255,
+        "green": 172,
+        "blue": 77,
+        "alpha": 1.0
+      },
+      "moons": [
+        {
+          "name": "Io",
+          "iMagnitude": 5.0,
+          "sMagnitude": 6.0,
+          "distance": 0.0112782354,
+          "period": 0.0048436,
+          "inclination": 0.05,
+          "color": {
+            "red": 255,
+            "green": 255,
+            "blue": 64,
+            "alpha": 1.0
+          },
+          "moons": []
+        },
+        {
+          "name": "Europa",
+          "iMagnitude": 5.3,
+          "sMagnitude": 6.3,
+          "distance": 0.017944105672,
+          "period": 0.0097226,
+          "inclination": 0.471,
+          "color": {
+            "red": 239,
+            "green": 239,
+            "blue": 255,
+            "alpha": 1.0
+          },
+          "moons": []
+        },
+        {
+          "name": "Ganymede",
+          "iMagnitude": 4.6,
+          "sMagnitude": 5.6,
+          "distance": 0.028620728224,
+          "period": 0.0195881,
+          "inclination": 0.204,
+          "color": {
+            "red": 255,
+            "green": 239,
+            "blue": 223,
+            "alpha": 1.0
+          },
+          "moons": []
+        },
+        {
+          "name": "Castillo",
+          "iMagnitude": 5.65,
+          "sMagnitude": 6.65,
+          "distance": 0.0503402887,
+          "period": 0.045692,
+          "inclination": 0.205,
+          "color": {
+            "red": 143,
+            "green": 159,
+            "blue": 175,
+            "alpha": 1.0
+          },
+          "moons": []
+        }
+      ]
+    },
+    {
+      "name": "Saturn",
+      "iMagnitude": -0.55,
+      "sMagnitude": 1.17,
+      "distance": 9.54,
+      "period": 29.4475,
+      "inclination": 2.49,
+      "color": {
+        "red": 183,
+        "green": 199,
+        "blue": 151,
+        "alpha": 1.0
+      },
+      "moons": [
+        {
+          "name": "Titan",
+          "iMagnitude": 8.0,
+          "sMagnitude": 9.0,
+          "distance": 0.032670785868,
+          "period": 0.043655,
+          "inclination": 0.34854,
+          "color": {
+            "red": 255,
+            "green": 127,
+            "blue": 0,
+            "alpha": 1.0
+          },
+          "moons": []
+        }
+      ]
+    },
+    {
+      "name": "Uranus",
+      "iMagnitude": 5.38,
+      "sMagnitude": 6.03,
+      "distance": 19.8,
+      "period": 84.0205,
+      "inclination": 0.77,
+      "color": {
+        "red": 47,
+        "green": 208,
+        "blue": 255,
+        "alpha": 1.0
+      },
+      "moons": []
+    },
+    {
+      "name": "Neptune",
+      "iMagnitude": 7.67,
+      "sMagnitude": 8.0,
+      "distance": 30.0,
+      "period": 164.8,
+      "inclination": 1.77,
+      "color": {
+        "red": 47,
+        "green": 64,
+        "blue": 255,
+        "alpha": 1.0
+      },
+      "moons": []
+    },
+    {
+      "name": "Pluto",
+      "iMagnitude": 13.65,
+      "sMagnitude": 16.3,
+      "distance": 39.48,
+      "period": 247.94,
+      "inclination": 17.14,
+      "color": {
+        "red": 255,
+        "green": 255,
+        "blue": 255,
+        "alpha": 1.0
+      },
+      "moons": []
+    },
+    {
+      "name": "",
+      "iMagnitude": 7.6,
+      "sMagnitude": 7.6,
+      "distance": 2.77,
+      "period": 4.6,
+      "inclination": 10.6,
+      "color": {
+        "red": 255,
+        "green": 255,
+        "blue": 255,
+        "alpha": 1.0
+      },
+      "moons": []
+    },
+    {
+      "name": "",
+      "iMagnitude": 6.49,
+      "sMagnitude": 10.65,
+      "distance": 2.77,
+      "period": 5.557,
+      "inclination": 34.83,
+      "color": {
+        "red": 255,
+        "green": 255,
+        "blue": 255,
+        "alpha": 1.0
+      },
+      "moons": []
+    },
+    {
+      "name": "",
+      "iMagnitude": 5.1,
+      "sMagnitude": 8.48,
+      "distance": 2.36,
+      "period": 3.629,
+      "inclination": 7.14,
+      "color": {
+        "red": 255,
+        "green": 255,
+        "blue": 255,
+        "alpha": 1.0
+      },
+      "moons": []
+    }
+  ],
+  "deadzone": true,
+  "updateTime": 2000,
+  "updateOffset": 0,
+  "copyCount": 64.0,
+  "copyRange": 0.004,
+  "seasonOffset": 0.0
+}

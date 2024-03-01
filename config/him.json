@@ -1,0 +1,21 @@
+{
+  "minSecondsStalk": 60,
+  "maxSecondsStalk": 600,
+  "minSecondsHaunt": 60,
+  "maxSecondsHaunt": 720,
+  "minSecondsGrief": 60,
+  "maxSecondsGrief": 720,
+  "enablePhantomAudio": true,
+  "enableManipulateBlocks": true,
+  "enableChatMessage": true,
+  "enableCreateParticle": true,
+  "enableSleepScare": true,
+  "enableSpawnTunnel": true,
+  "enableSpawnShaft": true,
+  "enableSpawnDirtTower": true,
+  "enableSpawnSandPyramid": true,
+  "enablePlaceSign": true,
+  "enablePlaceTorch": true,
+  "enableTrimTrees": true,
+  "enableSetFire": true
+}

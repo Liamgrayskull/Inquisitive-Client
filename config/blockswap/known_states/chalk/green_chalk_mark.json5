@@ -1,0 +1,8644 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "center",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "north",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "northeast",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "east",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "southeast",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "south",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "southwest",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "west",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "northwest",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "center",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "north",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "northeast",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "east",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "southeast",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "south",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "southwest",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "west",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "center",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "arrow",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "cross",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "check",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "skull",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "house",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "heart",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"symbol": "pickaxe",
+			"orientation": "northwest",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "chalk:green_chalk_mark"
+	}
+]

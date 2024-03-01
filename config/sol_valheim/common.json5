@@ -238,7 +238,7 @@
 		},
 		"minecraft:golden_apple": {
 			"nutrition": 10,
-			"saturationModifier": 1.2000000476837158,
+			"saturationModifier": 0.75,
 			"healthRegenModifier": 1.5,
 			"extraEffects": []
 		},
