@@ -32,7 +32,9 @@
     "de.maxhenkel.corpse.gui.DeathHistoryScreen": true,
     "moriyashiine.enchancement.client.screen.EnchantingTableScreen": true,
     "io.github.kosmx.emotes.arch.gui.screen.ingame.FastChosseScreen": true,
-    "com.codinglitch.simpleradio.client.screens.RadiosmitherScreen": true
+    "com.codinglitch.simpleradio.client.screens.RadiosmitherScreen": true,
+    "net.minecraft.client.gui.screens.packs.PackSelectionScreen": true,
+    "de.maxhenkel.voicechat.gui.VoiceChatSettingsScreen": true
   },
   "hideBackground": {
     "net.mehvahdjukaar.supplementaries.client.screens.TrappedPresentScreen": true,

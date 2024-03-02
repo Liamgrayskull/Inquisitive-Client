@@ -71,6 +71,7 @@
 				trader_llama = true
 				warden = true
 				fishing_bobber = true
+				fox = true
 
 			[light_sources.settings.entities.alexsmobs]
 				crow = true
@@ -117,6 +118,11 @@
 				rhinoceros = true
 				gazelle = true
 				platypus = true
+				bald_eagle = true
+				skreecher = true
+				snow_leopard = true
+				frilled_shark = true
+				cosmic_cod = true
 
 			[light_sources.settings.entities.spawn]
 				hamster = true
@@ -142,6 +148,7 @@
 				starved = true
 				botfly = true
 				flutterfly = true
+				ladybug = true
 
 			[light_sources.settings.entities.spelunkers_charm]
 				sound_entity = true
@@ -187,6 +194,9 @@
 				beholder_eye = true
 				gloomoth = true
 				subterranodon = true
+				nuclear_explosion = true
+				dinosaur_spirit = true
+				extinction_spear = true
 
 			[light_sources.settings.entities.habitat]
 				passerine = true
@@ -290,4 +300,7 @@
 				brimstone = true
 				torch = true
 				ice_shard = true
+
+			[light_sources.settings.entities.weather2]
+				lightning_bolt = true
 

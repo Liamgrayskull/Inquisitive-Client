@@ -1,6 +1,22 @@
 {
   "favorites": [],
   "lookup_history": [
+    {
+      "type": "jemi",
+      "uid": "effect:alexsmobs:exsanguination"
+    },
+    "item:flying_stuff:celestium",
+    "item:alexscaves:fertilizer",
+    {
+      "type": "item",
+      "id": "spelunkery:red_glowstick",
+      "amount": 9
+    },
+    {
+      "type": "jemi",
+      "uid": "effect:spellbound:pestilence"
+    },
+    "item:minecraft:deepslate",
     "item:vanity:styling_table",
     "item:vanity:design{Design:{Id:\"ancient_tools:ancient\"}}",
     "item:simpleradio:transceiver{frequency:\"000.02\",modulation:\"FM\"}",
@@ -42,11 +58,6 @@
     "item:immersive_weathering:charred_planks",
     "item:padlock:key{keyCode:\"1598631\"}",
     "item:padlock:lock_smith_station",
-    {
-      "type": "item",
-      "id": "flying_stuff:celestium",
-      "amount": 14
-    },
     "item:flying_stuff:gen_launch_0",
     "item:flying_stuff:cobbled_skyrock",
     "item:flying_stuff:mossy_tiled_skyrock",
@@ -577,10 +588,6 @@
     {
       "type": "jemi",
       "uid": "effect:alexsmobs:clinging"
-    },
-    {
-      "type": "jemi",
-      "uid": "effect:alexsmobs:exsanguination"
     },
     {
       "type": "jemi",
