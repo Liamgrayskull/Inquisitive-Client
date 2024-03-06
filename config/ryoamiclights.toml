@@ -72,6 +72,30 @@
 				warden = true
 				fishing_bobber = true
 				fox = true
+				polar_bear = true
+				stray = true
+				frog = true
+				vex = true
+				snow_golem = true
+				illusioner = true
+				zoglin = true
+				elder_guardian = true
+				wither_skeleton = true
+				phantom = true
+				hoglin = true
+				parrot = true
+				evoker_fangs = true
+				trident = true
+				evoker = true
+				spectral_arrow = true
+				endermite = true
+				ghast = true
+				ravager = true
+				piglin = true
+				piglin_brute = true
+				zombified_piglin = true
+				zombie_horse = true
+				llama_spit = true
 
 			[light_sources.settings.entities.alexsmobs]
 				crow = true
@@ -123,6 +147,17 @@
 				snow_leopard = true
 				frilled_shark = true
 				cosmic_cod = true
+				comb_jelly = true
+				banana_slug = true
+				moose = true
+				tusklin = true
+				elephant = true
+				alligator_snapping_turtle = true
+				anaconda_part = true
+				anaconda = true
+				blobfish = true
+				giant_squid = true
+				cachalot_whale = true
 
 			[light_sources.settings.entities.spawn]
 				hamster = true
@@ -168,6 +203,7 @@
 			[light_sources.settings.entities.beansbackpacks]
 				backpack = true
 				ender_backpack = true
+				winged_backpack = true
 
 			[light_sources.settings.entities.friendsandfoes]
 				rascal = true
@@ -176,6 +212,8 @@
 				mauler = true
 				moobloom = true
 				tuff_golem = true
+				iceologer = true
+				wildfire = true
 
 			[light_sources.settings.entities.sullysmod]
 				lanternfish = true
@@ -186,6 +224,7 @@
 			[light_sources.settings.entities.species]
 				deepfish = true
 				birt = true
+				roombug = true
 
 			[light_sources.settings.entities.corpse]
 				corpse = true
@@ -197,6 +236,12 @@
 				nuclear_explosion = true
 				dinosaur_spirit = true
 				extinction_spear = true
+				quarry_smasher = true
+				vallumraptor = true
+				tremorsaurus = true
+				grottoceratops = true
+				relicheirus = true
+				trilocaris = true
 
 			[light_sources.settings.entities.habitat]
 				passerine = true
@@ -217,10 +262,12 @@
 			[light_sources.settings.entities.create]
 				super_glue = true
 				stationary_contraption = true
+				contraption = true
 
 			[light_sources.settings.entities.flying_stuff]
 				sky_automaton = true
 				sky_automaton_boss = true
+				projectile_smoke_flower_proj = true
 
 			[light_sources.settings.entities.sihywtcamd]
 				cobweb = true
@@ -303,4 +350,20 @@
 
 			[light_sources.settings.entities.weather2]
 				lightning_bolt = true
+
+			[light_sources.settings.entities.cnc]
+				chupacabra = true
+				cougar = true
+				wolverine = true
+				wendigo = true
+				ringtail = true
+				greywolf = true
+				coyote = true
+				whitetail = true
+				elk = true
+				skinwalker = true
+				bewitched_greywolf = true
+
+			[light_sources.settings.entities.conjuring]
+				soul_projectile = true
 

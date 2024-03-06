@@ -3,14 +3,14 @@ type = fancymenu_layout
 layout-meta {
   identifier = title_screen
   render_custom_elements_behind_vanilla = true
-  last_edited_time = 1709342198804
+  last_edited_time = 1709425059791
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 1
   custom_menu_title = Inquisitive: Blurry
-  [loading_requirement_container_meta:2e02630c-6d60-4809-8686-869da258f916-1709342022279] = [groups:][instances:]
+  [loading_requirement_container_meta:20cc9b30-a593-4cdc-a4d4-d0681a68dfa7-1709425047437] = [groups:][instances:]
 }
 
 customization {

@@ -1,0 +1,9 @@
+
+[sneakspeed]
+	#This changes the speed of the sneak
+	"Sneak Speed" = 0.04
+
+["Monster Follow Range"]
+	#This sets the distance in blocks (square cube)  monsters can detect you while sneaking
+	"Monster Follow Range" = 3.0
+

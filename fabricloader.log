@@ -1,3 +1,4 @@
-[21:25:10] [WARN] [FabricLoader/Resolution]: Warnings were found!
- - §Emod 'Debugify' (debugify)§r 1.20.1+1.1 recommends any 3.x version of §6yet-another-config-lib§r, which is missing!
-	 - You should install any 3.x version of §6yet-another-config-lib§r for the optimal experience.
+[22:32:01] [WARN] [FabricLoader/Resolution]: Mod resolution failed
+[22:32:01] [INFO] [FabricLoader/Resolution]: Immediate reason: [HARD_DEP_NO_CANDIDATE chunksfadein 1.0.5-1.20.1 {depends sodium @ [0.5.x]}, ROOT_FORCELOAD_SINGLE chunksfadein 1.0.5-1.20.1]
+[22:32:01] [INFO] [FabricLoader/Resolution]: Reason: [HARD_DEP chunksfadein 1.0.5-1.20.1 {depends sodium @ [0.5.x]}]
+[22:32:01] [INFO] [FabricLoader/Resolution]: Fix: add [], remove [], replace [[embeddium 0.3.7+mc1.20.1] -> add:sodium 0.5- ([[0.5-,0.6-)])]

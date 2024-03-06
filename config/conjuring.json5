@@ -1,0 +1,35 @@
+{
+	"conjurer_config": {
+		"fortuneEnabled": false,
+		"respectSilkTouch": false,
+		"abundance_multiplier": 2,
+		"haste_multiplier": 93.75,
+		"scope_multiplier": 6,
+		"ignorance_multiplier": 2,
+		"conjurer_blacklist": [
+			"minecraft:wither",
+			"minecraft:ender_dragon"
+		]
+	},
+	"tools_config": {
+		"sword_scope_damage_multiplier": 0.30000001192092896,
+		"sword_scope_max_entities": 15,
+		"sword_ignorance_multiplier": 0.10000000149011612,
+		"sword_haste_exponent": 1.5,
+		"sword_secondary_durability_cost": 20,
+		"sword_secondary_cooldown": 30,
+		"sword_projectile_damage_multiplier": 0.20000000298023224,
+		"axe_scope_exponent": 3.0,
+		"axe_secondary_base_durability_cost": 10,
+		"axe_secondary_per_scope_durability_cost": 5,
+		"axe_secondary_cooldown": 15,
+		"scythe_scope_exponent": 3.0,
+		"scythe_secondary_base_durability_cost": 10,
+		"scythe_secondary_per_scope_durability_cost": 5,
+		"scythe_secondary_cooldown": 15,
+		"pickaxe_secondary_durability_cost": 15,
+		"pickaxe_secondary_cooldown": 15,
+		"pickaxe_veinmine_max_blocks": 32,
+		"shovel_magnet_range": 4
+	}
+}

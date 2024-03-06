@@ -34,7 +34,22 @@
     "io.github.kosmx.emotes.arch.gui.screen.ingame.FastChosseScreen": true,
     "com.codinglitch.simpleradio.client.screens.RadiosmitherScreen": true,
     "net.minecraft.client.gui.screens.packs.PackSelectionScreen": true,
-    "de.maxhenkel.voicechat.gui.VoiceChatSettingsScreen": true
+    "de.maxhenkel.voicechat.gui.VoiceChatSettingsScreen": true,
+    "com.mrcrayfish.catalogue.client.screen.CatalogueModListScreen": true,
+    "fuzs.forgeconfigscreens.client.gui.screens.ConfigScreen$Main": true,
+    "fuzs.forgeconfigscreens.client.gui.screens.ConfigScreen$Sub": true,
+    "pepjebs.mapatlases.client.screen.AtlasOverviewScreen": true,
+    "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
+    "dev.emi.emi.screen.BoMScreen": true,
+    "io.github.mortuusars.exposure.gui.screen.camera.CameraAttachmentsScreen": true,
+    "io.github.mortuusars.exposure.gui.screen.camera.ViewfinderControlsScreen": true,
+    "io.github.mortuusars.exposure.gui.screen.LightroomScreen": true,
+    "com.github.alexmodguy.alexscaves.client.gui.book.CaveBookScreen": true,
+    "earth.terrarium.adastra.client.radio.screen.RadioScreen": true,
+    "com.beansgalaxy.backpacks.screen.BackpackScreen": true,
+    "io.wispforest.lavender.client.LavenderBookScreen": true,
+    "org.dimdev.dimdoors.client.screen.TesselatingLoomScreen": true,
+    "com.glisco.conjuring.client.ui.ConjurerScreen": true
   },
   "hideBackground": {
     "net.mehvahdjukaar.supplementaries.client.screens.TrappedPresentScreen": true,
@@ -55,6 +70,14 @@
     "me.codexadrian.tempad.client.gui.ConsolidatedScreen": true,
     "de.maxhenkel.corpse.gui.DeathHistoryScreen": true,
     "moriyashiine.enchancement.client.screen.EnchantingTableScreen": true,
-    "io.github.kosmx.emotes.arch.gui.screen.ingame.FastChosseScreen": true
+    "io.github.kosmx.emotes.arch.gui.screen.ingame.FastChosseScreen": true,
+    "pepjebs.mapatlases.client.screen.AtlasOverviewScreen": true,
+    "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
+    "io.github.mortuusars.exposure.gui.screen.camera.CameraAttachmentsScreen": true,
+    "io.github.mortuusars.exposure.gui.screen.LightroomScreen": true,
+    "earth.terrarium.adastra.client.radio.screen.RadioScreen": true,
+    "com.beansgalaxy.backpacks.screen.BackpackScreen": true,
+    "org.dimdev.dimdoors.client.screen.TesselatingLoomScreen": true,
+    "com.glisco.conjuring.client.ui.ConjurerScreen": true
   }
 }

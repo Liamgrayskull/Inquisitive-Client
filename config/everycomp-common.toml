@@ -84,13 +84,13 @@
 				ancient = true
 				blossom = true
 
+			[general.types.wood_type.flying_stuff]
+				glaciated = true
+
 			[general.types.wood_type.ad_astra]
 				aeronos = true
 				strophar = true
 				glacian = true
-
-			[general.types.wood_type.flying_stuff]
-				glaciated = true
 
 		[general.types.leaves_type]
 

@@ -1,5 +1,5 @@
 
 [Clouds]
 	ShowCloudsInBiome = true
-	ShowCloudsOutsideBiome = true
+	ShowCloudsOutsideBiome = false
 

@@ -32,13 +32,12 @@
     "minecraft:thorns",
     "minecraft:unbreaking",
     "minecraft:vanishing_curse",
-    "spellbound:phase_strafe",
     "enchancement:scatter",
     "enchancement:assimilation"
   ],
   "invertedList": false,
   "overhaulEnchantingTable": false,
-  "allowTreasureEnchantmentsInEnchantingTable": true,
+  "allowTreasureEnchantmentsInEnchantingTable": false,
   "singleLevelMode": true,
   "enchantmentLimit": 3,
   "accurateFishingBobbers": true,
@@ -61,7 +60,7 @@
   "maxExtractingBlocks": 64,
   "maxLumberjackBlocks": 100,
   "maxLumberjackHorizontalLength": 7,
-  "unbreakingChangesFlag": 0,
+  "unbreakingChangesFlag": 1,
   "enchantmentDescriptions": true,
   "coloredEnchantmentNames": true
 }

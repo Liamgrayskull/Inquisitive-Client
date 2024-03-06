@@ -11,6 +11,7 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waxed": "true",
 			"powered": "true",
 			"facing": "north"
 		},
@@ -19,6 +20,16 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waxed": "false",
+			"powered": "true",
+			"facing": "north"
+		},
+		"Name": "quark:magnet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
 			"powered": "false",
 			"facing": "north"
 		},
@@ -27,6 +38,16 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waxed": "false",
+			"powered": "false",
+			"facing": "north"
+		},
+		"Name": "quark:magnet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
 			"powered": "true",
 			"facing": "east"
 		},
@@ -35,6 +56,16 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waxed": "false",
+			"powered": "true",
+			"facing": "east"
+		},
+		"Name": "quark:magnet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
 			"powered": "false",
 			"facing": "east"
 		},
@@ -43,6 +74,16 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waxed": "false",
+			"powered": "false",
+			"facing": "east"
+		},
+		"Name": "quark:magnet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
 			"powered": "true",
 			"facing": "south"
 		},
@@ -51,6 +92,16 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waxed": "false",
+			"powered": "true",
+			"facing": "south"
+		},
+		"Name": "quark:magnet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
 			"powered": "false",
 			"facing": "south"
 		},
@@ -59,6 +110,16 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waxed": "false",
+			"powered": "false",
+			"facing": "south"
+		},
+		"Name": "quark:magnet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
 			"powered": "true",
 			"facing": "west"
 		},
@@ -67,6 +128,16 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waxed": "false",
+			"powered": "true",
+			"facing": "west"
+		},
+		"Name": "quark:magnet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
 			"powered": "false",
 			"facing": "west"
 		},
@@ -75,6 +146,16 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waxed": "false",
+			"powered": "false",
+			"facing": "west"
+		},
+		"Name": "quark:magnet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
 			"powered": "true",
 			"facing": "up"
 		},
@@ -83,6 +164,16 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waxed": "false",
+			"powered": "true",
+			"facing": "up"
+		},
+		"Name": "quark:magnet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
 			"powered": "false",
 			"facing": "up"
 		},
@@ -91,7 +182,35 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waxed": "false",
+			"powered": "false",
+			"facing": "up"
+		},
+		"Name": "quark:magnet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
 			"powered": "true",
+			"facing": "down"
+		},
+		"Name": "quark:magnet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "false",
+			"powered": "true",
+			"facing": "down"
+		},
+		"Name": "quark:magnet"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waxed": "true",
+			"powered": "false",
 			"facing": "down"
 		},
 		"Name": "quark:magnet"

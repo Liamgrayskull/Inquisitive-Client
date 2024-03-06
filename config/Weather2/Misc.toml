@@ -8,7 +8,7 @@
 	#Range: > -2147483648
 	Misc_simBoxRadiusSpawn = 1024
 	#If true, lets server side do vanilla weather rules, weather2 will only make storms when server side says 'rain' is on
-	overcastMode = false
+	overcastMode = true
 	#Used if overcastMode is off, 1 = lock weather on, 0 = lock weather off, -1 = dont lock anything, let server do whatever
 	#Range: > -2147483648
 	lockServerWeatherMode = 0
@@ -19,10 +19,10 @@
 	#Range: > -2147483648
 	Cloud_Formation_MinDistBetweenSpawned = 1200
 	#For a second layer of passive non storm progressing cloudOption
-	Cloud_Layer1_Enable = false
+	Cloud_Layer1_Enable = true
 	#-
 	#Range: > -2147483648
-	Cloud_Layer0_Height = 364
+	Cloud_Layer0_Height = 294
 	#-
 	#Range: > -2147483648
 	Cloud_Layer1_Height = 414
@@ -52,7 +52,7 @@
 	#-
 	blockBreakingInvokesCancellableEvent = false
 	#Server and client side, Locks down the mod to only do wind, leaves, foliage shader if on, etc. No weather systems, turns overcast mode on
-	Aesthetic_Only_Mode = false
+	Aesthetic_Only_Mode = true
 	#Runs regardless of Aesthetic_Only_Mode, makes snowstorms possible everywhere
 	Winter_Wonderland = false
 

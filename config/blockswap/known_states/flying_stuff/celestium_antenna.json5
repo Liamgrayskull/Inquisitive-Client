@@ -11,6 +11,7 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "true",
 			"facing": "north",
 			"face": "floor"
 		},
@@ -19,6 +20,16 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"face": "floor"
+		},
+		"Name": "flying_stuff:celestium_antenna"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"facing": "south",
 			"face": "floor"
 		},
@@ -27,6 +38,16 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"face": "floor"
+		},
+		"Name": "flying_stuff:celestium_antenna"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"facing": "west",
 			"face": "floor"
 		},
@@ -35,8 +56,36 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"face": "floor"
+		},
+		"Name": "flying_stuff:celestium_antenna"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"facing": "east",
 			"face": "floor"
+		},
+		"Name": "flying_stuff:celestium_antenna"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"face": "floor"
+		},
+		"Name": "flying_stuff:celestium_antenna"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"face": "wall"
 		},
 		"Name": "flying_stuff:celestium_antenna"
 	},
@@ -46,6 +95,7 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "true",
 			"facing": "south",
 			"face": "wall"
 		},
@@ -54,6 +104,16 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"face": "wall"
+		},
+		"Name": "flying_stuff:celestium_antenna"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"facing": "west",
 			"face": "wall"
 		},
@@ -62,6 +122,16 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"face": "wall"
+		},
+		"Name": "flying_stuff:celestium_antenna"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"facing": "east",
 			"face": "wall"
 		},
@@ -70,6 +140,16 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"face": "wall"
+		},
+		"Name": "flying_stuff:celestium_antenna"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"facing": "north",
 			"face": "ceiling"
 		},
@@ -78,6 +158,16 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"face": "ceiling"
+		},
+		"Name": "flying_stuff:celestium_antenna"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"facing": "south",
 			"face": "ceiling"
 		},
@@ -86,6 +176,16 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"face": "ceiling"
+		},
+		"Name": "flying_stuff:celestium_antenna"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"facing": "west",
 			"face": "ceiling"
 		},
@@ -94,6 +194,25 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"face": "ceiling"
+		},
+		"Name": "flying_stuff:celestium_antenna"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"face": "ceiling"
+		},
+		"Name": "flying_stuff:celestium_antenna"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
 			"facing": "east",
 			"face": "ceiling"
 		},

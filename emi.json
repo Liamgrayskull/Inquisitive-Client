@@ -1,24 +1,63 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:scriptor:casting_crystal",
+    "item:conjuring:enchiridion{}",
+    "item:beansbackpacks:winged_backpack{Damage:1,display:{key:\"winged\"}}",
+    "item:minecraft:elytra{Damage:0,SimpleInsulation:[]}",
+    {
+      "type": "jemi",
+      "uid": "effect:gipples_galore:gipple"
+    },
+    "item:everycomp:ap/quark/ancient_board_stairs",
+    "item:beansbackpacks:backpack{display:{key:\"leather\"}}",
+    "item:minecraft:stone_bricks",
+    "item:flying_stuff:celestium_block",
+    {
+      "type": "item",
+      "id": "flying_stuff:celestium",
+      "amount": 64
+    },
+    "item:create_connected:control_chip",
+    "item:immersive_aircraft:engine",
+    "item:sereneseasons:calendar",
+    "item:waystones:warp_stone{Damage:0}",
+    "item:scriptor:chalk",
+    "item:scriptor:spellbook_binder",
+    "item:scriptor:leather_binder",
+    "item:scriptor:player_casting_crystal",
+    "item:exposure:lightroom",
+    "item:immersive_weathering:ice_sickle{Damage:0}",
+    {
+      "type": "item",
+      "id": "alexscaves:bioluminescent_torch",
+      "amount": 64
+    },
+    "item:thigh_highs_etc:white_thigh_highs{}",
+    "#item:thigh_highs_etc:thigh_highs",
+    "item:thigh_highs_etc:cyan_thigh_highs{}",
+    "item:vanity:design{Design:{Id:\"vanity_invisible_armory:invisibility\"}}",
+    {
+      "type": "jemi",
+      "uid": "effect:flying_stuff:hidden"
+    },
+    "item:zetter:easel",
+    "item:exposure:developed_black_and_white_film",
+    "item:exposure:developed_color_film",
+    "item:morevillagers:purpur_altar",
+    "item:weather2:tornado_siren",
     {
       "type": "jemi",
       "uid": "effect:alexsmobs:exsanguination"
     },
-    "item:flying_stuff:celestium",
     "item:alexscaves:fertilizer",
     {
       "type": "item",
       "id": "spelunkery:red_glowstick",
       "amount": 9
     },
-    {
-      "type": "jemi",
-      "uid": "effect:spellbound:pestilence"
-    },
     "item:minecraft:deepslate",
     "item:vanity:styling_table",
-    "item:vanity:design{Design:{Id:\"ancient_tools:ancient\"}}",
     "item:simpleradio:transceiver{frequency:\"000.02\",modulation:\"FM\"}",
     "item:simpleradio:speaker_module",
     "item:simpleradio:receiving_module",
@@ -80,7 +119,6 @@
     "item:crabbersdelight:clawster_barrel",
     "item:another_furniture:red_lamp",
     "item:another_furniture:red_tall_stool",
-    "item:waystones:warp_stone{Damage:0}",
     {
       "type": "item",
       "id": "waystones:sharestone",
@@ -108,8 +146,6 @@
     "item:cold_sweat:hearth",
     "item:quark:gravisand",
     "item:quark:seed_pouch{itemCount:640,storedItem:{Count:1b,id:\"minecraft:red_mushroom\"}}",
-    "item:ad_astra:tier_1_rocket{}",
-    "item:wikizoomer:entity_binder",
     "item:weather2:wind_vane",
     "item:weather2:anemometer",
     "item:weather2:sand_layer",
@@ -121,7 +157,6 @@
     "item:minecraft:wither_rose",
     "item:cloudstorage:balloon{HideFlags:64,LootBalloon:1b,display:{color:5366183}}",
     "item:cloudstorage:cloud_blower{PrevUseTime:0,UseTime:0}",
-    "item:ad_astra:energizer",
     "item:cold_sweat:hoglin_headpiece{Damage:0}",
     "item:minecraft:potion{Potion:\"cold_sweat:ice_resistance\"}",
     {
@@ -149,43 +184,7 @@
       "type": "jemi",
       "uid": "effect:species:wither_resistance"
     },
-    {
-      "type": "item",
-      "id": "ad_astra:aeronos_ladder",
-      "amount": 64
-    },
-    "item:ad_astra:steel_factory_block",
     "item:oreganized:electrum_upgrade_smithing_template",
-    "item:ad_astra:space_suit{Damage:0}",
-    "item:ad_astra:jet_suit_pants{Damage:0}",
-    "item:ad_astra:wheel",
-    "item:ad_astra:tier_1_rover{BotariumData:{StoredFluids:[{Amount:3000L,Fluid:\"ad_astra:fuel\"}]}}",
-    "item:ad_astra:ostrum_ingot",
-    "item:ad_astra:ostrum_plate",
-    "item:ad_astra:netherite_space_suit{Damage:0}",
-    "item:ad_astra:netherite_space_suit{BotariumData:{StoredFluids:[{Amount:2000L,Fluid:\"ad_astra:oxygen\"}]},Damage:0}",
-    "item:ad_astra:raw_calorite",
-    "item:ad_astra:calorite_ingot",
-    "item:ad_astra:calorite_block",
-    "item:ad_astra:jet_suit_helmet{Damage:0}",
-    "item:ad_astra:iron_plating",
-    "item:ad_astra:tier_1_rocket{BotariumData:{StoredFluids:[{Amount:3000L,Fluid:\"ad_astra:fuel\"}]}}",
-    {
-      "type": "item",
-      "id": "ad_astra:ice_shard",
-      "amount": 4
-    },
-    {
-      "type": "item",
-      "id": "ad_astra:strophar_planks",
-      "amount": 4
-    },
-    "item:ad_astra:strophar_stem",
-    {
-      "type": "item",
-      "id": "ad_astra:desh_ingot",
-      "amount": 11
-    },
     {
       "type": "jemi",
       "uid": "effect:minecraft:regeneration"
@@ -194,11 +193,6 @@
       "type": "item",
       "id": "minecraft:iron_bars",
       "amount": 8
-    },
-    {
-      "type": "item",
-      "id": "scriptor:spellbook_binder",
-      "amount": 16
     },
     "item:scriptor:spellbook{author:\"Tulin\",pages:[\u0027{\"text\":\"gaoxi ldiolkeefaprup \"}\u0027],scriptor:{identified:{\"action:explosion\":1b,\"subject:hitscan\":1b}},title:\"Arcane Sniper\"}",
     "item:scriptor:artifact_3{}",
@@ -234,7 +228,6 @@
     "item:quark:pathfinders_quill{targetBiome:\"minecraft:desert\",targetBiomeColor:13416782,targetBiomeUnderground:0b}",
     "item:minecraft:armor_stand",
     "item:quark:polished_deepslate_vertical_slab",
-    "item:minecraft:elytra{Damage:0}",
     "item:alexsmobs:tarantula_hawk_elytra{Damage:0}",
     "item:create_dd:shimmer_bucket",
     {
@@ -992,54 +985,6 @@
       "type": "fluid",
       "id": "spelunkery:portal_fluid",
       "amount": 0
-    },
-    {
-      "type": "jemi",
-      "uid": "effect:xaerominimap:no_entity_radar"
-    },
-    {
-      "type": "jemi",
-      "uid": "effect:xaerominimap:no_entity_radar_harmful"
-    },
-    {
-      "type": "jemi",
-      "uid": "effect:xaerominimap:no_waypoints"
-    },
-    {
-      "type": "jemi",
-      "uid": "effect:xaerominimap:no_waypoints_harmful"
-    },
-    {
-      "type": "jemi",
-      "uid": "effect:xaerominimap:no_cave_maps"
-    },
-    {
-      "type": "jemi",
-      "uid": "effect:xaerominimap:no_cave_maps_harmful"
-    },
-    {
-      "type": "jemi",
-      "uid": "effect:xaeroworldmap:no_world_map"
-    },
-    {
-      "type": "jemi",
-      "uid": "effect:xaerominimap:no_minimap_harmful"
-    },
-    {
-      "type": "jemi",
-      "uid": "effect:xaerominimap:no_minimap"
-    },
-    {
-      "type": "jemi",
-      "uid": "effect:xaeroworldmap:no_cave_maps_harmful"
-    },
-    {
-      "type": "jemi",
-      "uid": "effect:xaeroworldmap:no_cave_maps"
-    },
-    {
-      "type": "jemi",
-      "uid": "effect:xaeroworldmap:no_world_map_harmful"
     },
     {
       "type": "fluid",
@@ -2825,50 +2770,6 @@
     "item:outer_end:himmelite_spawn_egg",
     {
       "type": "jemi",
-      "uid": "effect:spellbound:primed"
-    },
-    {
-      "type": "jemi",
-      "uid": "effect:spellbound:polygamy"
-    },
-    {
-      "type": "jemi",
-      "uid": "effect:spellbound:bravados"
-    },
-    {
-      "type": "jemi",
-      "uid": "effect:spellbound:dying"
-    },
-    {
-      "type": "jemi",
-      "uid": "effect:spellbound:shields_down"
-    },
-    {
-      "type": "jemi",
-      "uid": "effect:spellbound:shielded"
-    },
-    {
-      "type": "jemi",
-      "uid": "effect:spellbound:green_sparkles"
-    },
-    {
-      "type": "jemi",
-      "uid": "effect:spellbound:tethered"
-    },
-    {
-      "type": "jemi",
-      "uid": "effect:spellbound:hovering"
-    },
-    {
-      "type": "jemi",
-      "uid": "effect:spellbound:monogamy"
-    },
-    {
-      "type": "jemi",
-      "uid": "effect:spellbound:pestilence"
-    },
-    {
-      "type": "jemi",
       "uid": "effect:quark:resilience"
     },
     "item:moonlight:placeable_item{}",
@@ -2888,13 +2789,6 @@
     "item:structure_gel:orange_gel{}",
     "item:scribe:default_boat{}",
     "item:scribe:default_chest_boat{}",
-    "item:spellbound:emerald_shard{}",
-    "item:spellbound:diamond_shard{}",
-    "item:spellbound:gold_pebble{}",
-    "item:spellbound:iron_pebble{}",
-    "item:spellbound:copper_pebble{}",
-    "item:spellbound:bag_of_rocks{spellboundRockCollector:{}}",
-    "item:spellbound:bag_of_trophies{spellboundTrophyCollector:{}}",
     "item:species:roombug_spawn_egg{}",
     "item:species:birt_spawn_egg{}",
     "item:spawn:snail_spawn_egg{}",
@@ -3561,31 +3455,6 @@
       "type": "jemi",
       "uid": "effect:cold_sweat:grace"
     },
-    {
-      "type": "fluid",
-      "id": "ad_astra:oil",
-      "amount": 0
-    },
-    {
-      "type": "fluid",
-      "id": "ad_astra:fuel",
-      "amount": 0
-    },
-    {
-      "type": "fluid",
-      "id": "ad_astra:cryo_fuel",
-      "amount": 0
-    },
-    {
-      "type": "fluid",
-      "id": "ad_astra:oxygen",
-      "amount": 0
-    },
-    {
-      "type": "fluid",
-      "id": "ad_astra:hydrogen",
-      "amount": 0
-    },
     "item:plonk:placed_items",
     "item:minecraft:light{BlockStateTag:{level:\"0\"}}",
     "item:minecraft:light{BlockStateTag:{level:\"1\"}}",
@@ -3773,11 +3642,6 @@
     "item:minecraft:painting{EntityTag:{variant:\"minecraft:earth\"}}",
     "item:minecraft:painting{EntityTag:{variant:\"minecraft:wind\"}}",
     "item:minecraft:painting{EntityTag:{variant:\"minecraft:water\"}}",
-    "item:spellbound:emerald_shard",
-    "item:spellbound:diamond_shard",
-    "item:spellbound:gold_pebble",
-    "item:spellbound:iron_pebble",
-    "item:spellbound:copper_pebble",
     "item:delightful:quartz_cabinet",
     "item:delightful:basalt_cabinet",
     "item:create:black_toolbox",
@@ -4065,8 +3929,6 @@
     "item:waystones:warp_dust",
     "item:waystones:red_sharestone",
     "item:waystones:gray_sharestone",
-    "item:extra_compat:reinforced_gold_machete{Damage:0}",
-    "item:extra_compat:reinforced_gold_knife{Damage:0}",
     "item:waystones:lime_sharestone",
     "item:waystones:warp_plate",
     "item:waystones:portstone",
@@ -4447,24 +4309,6 @@
     "item:hearth_and_home:brown_shingle_stairs",
     "item:hearth_and_home:brown_shingle_slab",
     "item:hearth_and_home:green_shingles",
-    "item:ad_astra:lunarian_wandering_trader_spawn_egg",
-    "item:ad_astra:pygro_spawn_egg",
-    "item:ad_astra:zombified_pygro_spawn_egg",
-    "item:ad_astra:pygro_brute_spawn_egg",
-    "item:ad_astra:mogler_spawn_egg",
-    "item:ad_astra:lunarian_spawn_egg",
-    "item:ad_astra:corrupted_lunarian_spawn_egg",
-    "item:ad_astra:zombified_mogler_spawn_egg",
-    "item:ad_astra:sulfur_creeper_spawn_egg",
-    "item:ad_astra:star_crawler_spawn_egg",
-    "item:ad_astra:martian_raptor_spawn_egg",
-    "item:ad_astra:glacian_ram_spawn_egg",
-    "item:ad_astra:mars_ice_shard_ore",
-    "item:ad_astra:deepslate_ostrum_ore",
-    "item:ad_astra:mars_ostrum_ore",
-    "item:ad_astra:venus_calorite_ore",
-    "item:ad_astra:deepslate_calorite_ore",
-    "item:ad_astra:infernal_spire_block",
     "item:design_decor:moyai_sign",
     "item:design_decor:warning_sign",
     "item:design_decor:tap_sign",
@@ -4566,9 +4410,6 @@
     "item:immersive_weathering:create_dd/spirit_scales",
     "item:immersive_weathering:create_dd/smoked_bark",
     "item:immersive_weathering:create_dd/rose_bark",
-    "item:immersive_weathering:ad_astra/glacian_bark",
-    "item:immersive_weathering:ad_astra/strophar_scales",
-    "item:immersive_weathering:ad_astra/aeronos_scales",
     "item:immersive_weathering:natures_spirit/saxaul_bark",
     "item:immersive_weathering:natures_spirit/joshua_bark",
     "item:immersive_weathering:natures_spirit/wisteria_bark",
@@ -5099,8 +4940,6 @@
     "item:minecraft:tipped_arrow{Potion:\"quark:strong_resilience\"}",
     "item:minecraft:tipped_arrow{Potion:\"cold_sweat:ice_resistance\"}",
     "item:minecraft:tipped_arrow{Potion:\"cold_sweat:long_ice_resistance\"}",
-    "item:wikizoomer:data_copier",
-    "item:wikizoomer:entity_binder",
     "item:chalk:lime_chalk{Damage:0}",
     "item:chalk:light_gray_chalk{Damage:0}",
     "item:chalk:gray_chalk{Damage:0}",

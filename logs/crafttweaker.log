@@ -1,12 +1,68 @@
-[17:13:40.187][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production client modded with platform Forge
-[17:13:40.310][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
-[17:13:40.459][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
-[17:13:40.484][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
-[17:13:40.496][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
-[17:13:42.570][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
-[17:13:42.571][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.36'
-[17:13:42.572][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.4'
-[17:13:55.633][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
-[17:13:56.026][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[17:13:56.058][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
-[17:13:56.161][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
+[18:27:20.875][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production client modded with platform Forge
+[18:27:21.001][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[18:27:21.144][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[18:27:21.149][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[18:27:21.160][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
+[18:27:23.406][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[18:27:23.407][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.36'
+[18:27:23.408][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.4'
+[18:27:36.862][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
+[18:27:37.440][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[18:27:37.484][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[18:27:37.573][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
+[18:29:00.637][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
+[18:29:00.656][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[18:29:00.672][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[18:29:00.681][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
+[18:29:03.670][INFO][CraftTweaker]: CraftTweaker reload starting!
+[18:29:03.680][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
+[18:29:03.695][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[18:29:04.080][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[18:29:04.081][INFO][CraftTweaker-ZenCode]: Loading file 'crafttweaker_removals.zs' with priority 0
+[18:29:04.081][INFO][CraftTweaker-ZenCode]: Loading file 'crafttweaker_tags.zs' with priority 0
+[18:29:04.086][INFO][CraftTweaker-ZenCode]: Loading file 'electrum_upgrade_smithing_template.zs' with priority 0
+[18:29:04.086][INFO][CraftTweaker-ZenCode]: Loading file 'jade_upgrade_smithing_template.zs' with priority 0
+[18:29:04.086][INFO][CraftTweaker-ZenCode]: Loading file 'netherite_upgrade_smithing_template.zs' with priority 0
+[18:29:04.086][INFO][CraftTweaker-ZenCode]: Loading file 'silver_upgrade_smithing_template.zs' with priority 0
+[18:29:04.087][INFO][CraftTweaker-ZenCode]: Loading file 'spawner.zs' with priority 0
+[18:29:04.127][INFO][CraftTweaker]: Removing "minecraft:crafting" recipes with modid: "waystones"
+[18:29:04.138][INFO][CraftTweaker]: Adding: [farmersdelight:flint_knife] to tag: <tag:items:forge:tools/knives>
+[18:29:04.140][INFO][CraftTweaker]: Adding: [farmersdelight:flint_knife] to tag: <tag:items:forge:tools>
+[18:29:04.141][INFO][CraftTweaker]: Adding: [farmersdelight:flint_knife] to tag: <tag:items:farmersdelight:tools/knives>
+[18:29:04.141][INFO][CraftTweaker]: Adding: [farmersdelight:flint_knife] to tag: <tag:items:farmersdelight:straw_harvesters>
+[18:29:04.141][INFO][CraftTweaker]: Adding: [farmersdelight:iron_knife] to tag: <tag:items:forge:tools/knives>
+[18:29:04.141][INFO][CraftTweaker]: Adding: [farmersdelight:iron_knife] to tag: <tag:items:forge:tools>
+[18:29:04.141][INFO][CraftTweaker]: Adding: [farmersdelight:iron_knife] to tag: <tag:items:farmersdelight:tools/knives>
+[18:29:04.142][INFO][CraftTweaker]: Adding: [farmersdelight:iron_knife] to tag: <tag:items:farmersdelight:straw_harvesters>
+[18:29:04.142][INFO][CraftTweaker]: Adding: [farmersdelight:golden_knife] to tag: <tag:items:forge:tools/knives>
+[18:29:04.142][INFO][CraftTweaker]: Adding: [farmersdelight:golden_knife] to tag: <tag:items:forge:tools>
+[18:29:04.142][INFO][CraftTweaker]: Adding: [farmersdelight:golden_knife] to tag: <tag:items:farmersdelight:tools/knives>
+[18:29:04.142][INFO][CraftTweaker]: Adding: [farmersdelight:golden_knife] to tag: <tag:items:farmersdelight:straw_harvesters>
+[18:29:04.143][INFO][CraftTweaker]: Adding: [farmersdelight:diamond_knife] to tag: <tag:items:forge:tools/knives>
+[18:29:04.143][INFO][CraftTweaker]: Adding: [farmersdelight:diamond_knife] to tag: <tag:items:forge:tools>
+[18:29:04.143][INFO][CraftTweaker]: Adding: [farmersdelight:diamond_knife] to tag: <tag:items:farmersdelight:tools/knives>
+[18:29:04.143][INFO][CraftTweaker]: Adding: [farmersdelight:diamond_knife] to tag: <tag:items:farmersdelight:straw_harvesters>
+[18:29:04.143][INFO][CraftTweaker]: Adding: [farmersdelight:netherite_knife] to tag: <tag:items:forge:tools/knives>
+[18:29:04.143][INFO][CraftTweaker]: Adding: [farmersdelight:netherite_knife] to tag: <tag:items:forge:tools>
+[18:29:04.144][INFO][CraftTweaker]: Adding: [farmersdelight:netherite_knife] to tag: <tag:items:farmersdelight:tools/knives>
+[18:29:04.144][INFO][CraftTweaker]: Adding: [farmersdelight:netherite_knife] to tag: <tag:items:farmersdelight:straw_harvesters>
+[18:29:04.145][INFO][CraftTweaker]: Adding: [delightful:electrum_knife] to tag: <tag:items:forge:tools/knives>
+[18:29:04.145][INFO][CraftTweaker]: Adding: [delightful:electrum_knife] to tag: <tag:items:forge:tools>
+[18:29:04.145][INFO][CraftTweaker]: Adding: [delightful:electrum_knife] to tag: <tag:items:farmersdelight:tools/knives>
+[18:29:04.145][INFO][CraftTweaker]: Adding: [delightful:electrum_knife] to tag: <tag:items:farmersdelight:straw_harvesters>
+[18:29:04.146][INFO][CraftTweaker]: Adding: [delightful:crystalline_knife] to tag: <tag:items:forge:tools/knives>
+[18:29:04.146][INFO][CraftTweaker]: Adding: [delightful:crystalline_knife] to tag: <tag:items:forge:tools>
+[18:29:04.146][INFO][CraftTweaker]: Adding: [delightful:crystalline_knife] to tag: <tag:items:farmersdelight:tools/knives>
+[18:29:04.146][INFO][CraftTweaker]: Adding: [delightful:crystalline_knife] to tag: <tag:items:farmersdelight:straw_harvesters>
+[18:29:04.146][INFO][CraftTweaker]: Adding: [enlightened_end:adamantite_knife] to tag: <tag:items:forge:tools/knives>
+[18:29:04.146][INFO][CraftTweaker]: Adding: [enlightened_end:adamantite_knife] to tag: <tag:items:forge:tools>
+[18:29:04.147][INFO][CraftTweaker]: Adding: [enlightened_end:adamantite_knife] to tag: <tag:items:farmersdelight:tools/knives>
+[18:29:04.147][INFO][CraftTweaker]: Adding: [enlightened_end:adamantite_knife] to tag: <tag:items:farmersdelight:straw_harvesters>
+[18:29:04.153][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:electrumsmith' that outputs: '<item:oreganized:electrum_upgrade_smithing_template>'
+[18:29:04.154][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:jadesmith' that outputs: '<item:sullysmod:jade_upgrade_smithing_template>'
+[18:29:04.154][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:netheritesmith' that outputs: '<item:minecraft:netherite_upgrade_smithing_template>'
+[18:29:04.155][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:silversmith' that outputs: '<item:galosphere:silver_upgrade_smithing_template>'
+[18:29:04.155][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:spawnerrecipe' that outputs: '<item:minecraft:spawner>'
+[18:29:04.155][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
+[18:29:04.160][INFO][CraftTweaker]: CraftTweaker reload complete!
+[18:29:04.160][INFO][CraftTweaker]: This reload was made possible by Jessie Sims and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod

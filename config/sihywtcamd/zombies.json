@@ -3,7 +3,8 @@
     "attackHeal": true,
     "moreKnockbackResistance": true,
     "spawnMoreReinforcement": true,
-    "attributeVariations": false
+    "attributeVariations": false,
+    "babyTowerHeight": 4
   },
   "husk": {
     "fireResistant": true

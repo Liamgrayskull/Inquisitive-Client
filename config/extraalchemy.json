@@ -21,8 +21,8 @@
     "gravity": true,
     "combustion": true,
     "pacifism": true,
-    "shrinking": false,
-    "growing": false,
+    "shrinking": true,
+    "growing": true,
     "detection": true,
     "piper": true
   }

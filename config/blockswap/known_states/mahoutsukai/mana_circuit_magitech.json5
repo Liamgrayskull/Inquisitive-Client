@@ -1,0 +1,198 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "mahoutsukai:mana_circuit_magitech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opposite": "up",
+			"facing": "north"
+		},
+		"Name": "mahoutsukai:mana_circuit_magitech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opposite": "north",
+			"facing": "north"
+		},
+		"Name": "mahoutsukai:mana_circuit_magitech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opposite": "south",
+			"facing": "north"
+		},
+		"Name": "mahoutsukai:mana_circuit_magitech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opposite": "west",
+			"facing": "north"
+		},
+		"Name": "mahoutsukai:mana_circuit_magitech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opposite": "east",
+			"facing": "north"
+		},
+		"Name": "mahoutsukai:mana_circuit_magitech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opposite": "down",
+			"facing": "south"
+		},
+		"Name": "mahoutsukai:mana_circuit_magitech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opposite": "up",
+			"facing": "south"
+		},
+		"Name": "mahoutsukai:mana_circuit_magitech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opposite": "north",
+			"facing": "south"
+		},
+		"Name": "mahoutsukai:mana_circuit_magitech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opposite": "south",
+			"facing": "south"
+		},
+		"Name": "mahoutsukai:mana_circuit_magitech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opposite": "west",
+			"facing": "south"
+		},
+		"Name": "mahoutsukai:mana_circuit_magitech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opposite": "east",
+			"facing": "south"
+		},
+		"Name": "mahoutsukai:mana_circuit_magitech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opposite": "down",
+			"facing": "west"
+		},
+		"Name": "mahoutsukai:mana_circuit_magitech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opposite": "up",
+			"facing": "west"
+		},
+		"Name": "mahoutsukai:mana_circuit_magitech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opposite": "north",
+			"facing": "west"
+		},
+		"Name": "mahoutsukai:mana_circuit_magitech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opposite": "south",
+			"facing": "west"
+		},
+		"Name": "mahoutsukai:mana_circuit_magitech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opposite": "west",
+			"facing": "west"
+		},
+		"Name": "mahoutsukai:mana_circuit_magitech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opposite": "east",
+			"facing": "west"
+		},
+		"Name": "mahoutsukai:mana_circuit_magitech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opposite": "down",
+			"facing": "east"
+		},
+		"Name": "mahoutsukai:mana_circuit_magitech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opposite": "up",
+			"facing": "east"
+		},
+		"Name": "mahoutsukai:mana_circuit_magitech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opposite": "north",
+			"facing": "east"
+		},
+		"Name": "mahoutsukai:mana_circuit_magitech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opposite": "south",
+			"facing": "east"
+		},
+		"Name": "mahoutsukai:mana_circuit_magitech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opposite": "west",
+			"facing": "east"
+		},
+		"Name": "mahoutsukai:mana_circuit_magitech"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"opposite": "east",
+			"facing": "east"
+		},
+		"Name": "mahoutsukai:mana_circuit_magitech"
+	}
+]

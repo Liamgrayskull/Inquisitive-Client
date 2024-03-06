@@ -10,5 +10,19 @@ to make editing this file much easier.
 [
 	{
 		"Name": "oreganized:lead_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"goopyness": "1"
+		},
+		"Name": "oreganized:lead_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"goopyness": "2"
+		},
+		"Name": "oreganized:lead_block"
 	}
 ]

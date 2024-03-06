@@ -10,7 +10,8 @@
   },
   "phantom": {
     "throughBlocks": true,
-    "lightFear": true
+    "lightFear": true,
+    "spawnInEndCities": true
   },
   "slime": {
     "biggerSize": true,

@@ -77,15 +77,15 @@
 		"speedMultiplier": 1.0
 	},
 	"minecartIdle": {
-		"enabled": true,
+		"enabled": false,
 		"speedMultiplier": 1.0
 	},
 	"horseIdle": {
-		"enabled": true,
+		"enabled": false,
 		"speedMultiplier": 1.0
 	},
 	"horseRunning": {
-		"enabled": true,
+		"enabled": false,
 		"speedMultiplier": 1.0
 	},
 	"boat": {

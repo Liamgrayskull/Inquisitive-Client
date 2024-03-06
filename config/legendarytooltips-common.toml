@@ -22,7 +22,7 @@
 		# If enabled, tooltip border colors will match item rarity colors (except for custom borders).
 		borders_match_rarity = true
 		# If enabled, tooltips will display a drop shadow.
-		tooltip_shadow = true
+		tooltip_shadow = false
 		# If enabled, items showing a custom border will have a special shine effect when hovered over.
 		shine_effect = true
 		# If enabled, tooltip titles will be drawn centered.
