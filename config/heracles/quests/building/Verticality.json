@@ -1,0 +1,40 @@
+{
+  "dependencies": [],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Vertical.. slabs?"
+    },
+    "description": [
+      "",
+      "/e/https://modrinth.com/mod/additional-placements/e/"
+    ],
+    "groups": {
+      "Building": {
+        "position": [
+          -99,
+          49
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:spectral_arrow",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/pentagons.png",
+    "title": {
+      "translate": "Verticality"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

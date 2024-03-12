@@ -1,4 +1,4 @@
-[22:32:01] [WARN] [FabricLoader/Resolution]: Mod resolution failed
-[22:32:01] [INFO] [FabricLoader/Resolution]: Immediate reason: [HARD_DEP_NO_CANDIDATE chunksfadein 1.0.5-1.20.1 {depends sodium @ [0.5.x]}, ROOT_FORCELOAD_SINGLE chunksfadein 1.0.5-1.20.1]
-[22:32:01] [INFO] [FabricLoader/Resolution]: Reason: [HARD_DEP chunksfadein 1.0.5-1.20.1 {depends sodium @ [0.5.x]}]
-[22:32:01] [INFO] [FabricLoader/Resolution]: Fix: add [], remove [], replace [[embeddium 0.3.7+mc1.20.1] -> add:sodium 0.5- ([[0.5-,0.6-)])]
+[19:14:27] [WARN] [FabricLoader/Resolution]: Mod resolution failed
+[19:14:27] [INFO] [FabricLoader/Resolution]: Immediate reason: [HARD_DEP_NO_CANDIDATE antique_fwaystones 1.1.0+1.19 {depends fwaystones @ [>=3.0.3+MC1.19.2]}, ROOT_FORCELOAD_SINGLE antique_fwaystones 1.1.0+1.19]
+[19:14:27] [INFO] [FabricLoader/Resolution]: Reason: [HARD_DEP antique_fwaystones 1.1.0+1.19 {depends fwaystones @ [>=3.0.3+MC1.19.2]}]
+[19:14:27] [INFO] [FabricLoader/Resolution]: Fix: add [add:fwaystones 3.0.3+MC1.19.2 ([[3.0.3+MC1.19.2,∞)])], remove [], replace []

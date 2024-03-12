@@ -1,0 +1,50 @@
+{
+  "dependencies": [],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Plonk a donk!"
+    },
+    "description": [
+      "Pressing P on a block with any item will 'Plonk' it down!",
+      "This maintains animations.",
+      "",
+      "> Place up to 4 stacks of items on the side of any block using the Place Item key (defaults to P). (Max size of each stack is configurable and supports StackUp!)",
+      "> ",
+      "> Items can be individually rotated to 16 different directions (Sneak + Right Click using empty hand).",
+      "> ",
+      "> The whole tile of items can be rotated as a whole to 4 different directions (Sneak + Place Item key using empty hand).",
+      "> ",
+      "> Items can be extracted by automation but not inserted.",
+      "",
+      "/5/https://modrinth.com/mod/plonk/5/"
+    ],
+    "groups": {
+      "Misc": {
+        "position": [
+          -115,
+          -72
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "plonk:placed_items",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/rounded_squares.png",
+    "title": {
+      "translate": "Plonk"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

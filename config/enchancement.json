@@ -33,7 +33,10 @@
     "minecraft:unbreaking",
     "minecraft:vanishing_curse",
     "enchancement:scatter",
-    "enchancement:assimilation"
+    "enchancement:assimilation",
+    "enchancement:slide",
+    "enchancement:bouncy",
+    "minecraft:feather_falling"
   ],
   "invertedList": false,
   "overhaulEnchantingTable": false,

@@ -1,0 +1,84 @@
+{
+  "dependencies": [],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "So many additions it's hard to sum up."
+    },
+    "description": [
+      "Cauldrons",
+      "",
+      "Can store ANY liquid Can be used to Mix Potions and Dyes When clicked on will attempt to craft the item in your hand with the liquid they contain Have improved animations with splash and bubble particles when falling on as well as missing sounds When holding water or a potion can Boil if they have a heat source below Boiling cauldrons can inflict boiling damage Stepping into a splash or lingering potion cauldron will apply that potion Improved model with Translucency and Ambient Occlusion",
+      "",
+      "Lecterns",
+      "",
+      "When holding a Book and Quill will have a new GUI that adds a Quill button and an Ink Well button Click on the Ink Well to cycle between available font colors Click on the Quill to cycle between available fonts Can now interact with hoppers!",
+      "",
+      "Lanterns",
+      "",
+      "Have a new 3D animation when held in hand Works both in first and third person Can be hung on walls. Works with ANY lantern When hanging will have pendulum physics!",
+      "",
+      "Hanging Signs",
+      "",
+      "Can hold any item on both their faces Can also display a banner patterns (requires Supplementaries) When attached to walls will swing with physics! Will display a visual connection when attached to fence, walls or similar blocks",
+      "",
+      "Jukeboxes",
+      "",
+      "Now visually show the disc they are playing They come with new and improved model Disc show will also spin while it's playing Works with ANY disc, modded or not",
+      "",
+      "Carpets Can be placed on Slabs Can be placed on Stairs Same goes for moss carpets",
+      "",
+      "Cakes Can be stacked by placing two ontop of eachother. Works with ANY cake Vanilla cakes can also be rotated",
+      "",
+      "Lilypads",
+      "",
+      "Can have any block placed on them This works by making them occupy the block below, turning them into a waterlogged block Will revert back when the block is removed Can be made to work with any lilypad (feedback needed)",
+      "",
+      "Mob Skulls",
+      "",
+      "Can be stacked. Works with ANY skull in any combination Can have candles placed ontop Candle will leave a wax overlay on the skull",
+      "",
+      "Brewing Stands",
+      "",
+      "Now will have their potion bottles colored according to what they are holding",
+      "",
+      "Banners &  Pots",
+      "",
+      "Can be placed on ceilings",
+      "",
+      "Bells Can visually connect to chains and ropes below them Can be ring by clicking chairn / rope below them",
+      "",
+      "",
+      "",
+      "",
+      "/6/https://modrinth.com/mod/amendments/6/"
+    ],
+    "groups": {
+      "Reworks": {
+        "position": [
+          -243,
+          51
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:skeleton_skull",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/octagons.png",
+    "title": {
+      "translate": "Amendments"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

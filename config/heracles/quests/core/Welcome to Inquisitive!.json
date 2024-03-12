@@ -1,0 +1,56 @@
+{
+  "dependencies": [
+    "Community"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Here is a guide to the entire modpack."
+    },
+    "description": [
+      "/5/--Welcome to Inqusitive!--/5/",
+      "",
+      "Grown from the remains of a cookie-cutter vanilla+ modpack, Inquisitive aims to be a unique, tailored experience- not just compared to vanilla, but modpacks in general. It's foundations laid in Sinytra Connector, which builds a bridge across the Forge & Fabric loader gap, Inquisitive urges you to ask questions; find your niche, discover lore of varying breadth, and learn about everything the pack has to offer that appeals to how you want to play.",
+      "",
+      "- Explore without worrying about Forge or Fabric",
+      "- See all of vanilla given a face-lift",
+      "- Explore new mechanics curtailed to the pack",
+      "- Revamped menus with the loose space theme of   Inquisitive",
+      "- A designated hosted server hosting even more custom configuration, 24 hour uptime",
+      "- Player-submitted photography, guidebooks, and even panoramas",
+      "- Beautiful ambience that doesn't necessitate shaders to look good (but it still does)",
+      "- Active development & polish to make it the best it can be",
+      "",
+      "",
+      "",
+      "--These guides will detail (hopefully) most everything you need to know to get started, but won't give you all the answers. Hopefully you find it enjoyable, and we give you the best of luck in staking your claim across a varied horizon!--"
+    ],
+    "groups": {
+      "Core": {
+        "position": [
+          -165,
+          -37
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "enlightened_end:stardust",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Welcome to Inquisitive!"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

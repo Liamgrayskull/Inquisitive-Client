@@ -4,12 +4,12 @@
 	#Day is defined as any time between 23500 (middle of dawn) and 12500 (middle of dusk) the next day.
 	#Vanilla speed: 1.0
 	#Range: 0.0 ~ 24000.0
-	daySpeed = 0.5
+	daySpeed = 0.3
 	#The speed at which time passes during the night.
 	#Night is defined as any time between 12500 (middle of dusk) and 23500 (middle of dawn).
 	#Vanilla speed: 1.0
 	#Range: 0.0 ~ 24000.0
-	nightSpeed = 0.5
+	nightSpeed = 0.3
 	#A reimplementation of 'Serene Seasons Fix' that overrides the fact that Serene Seasons doesn't honor the minecraft clock.
 	#If using this, Serene Seasons config value day_duration is set to 24000
 	#Set to true to override.
@@ -62,7 +62,7 @@
 	#The maximum speed at which time passes when all players are sleeping.
 	#A value of 110 is nearly equal to the time it takes to sleep in vanilla.
 	#Range: 0.0 ~ 24000.0
-	sleepSpeedMax = 110.0
+	sleepSpeedMax = 90.0
 	#The minimum speed at which time passes when only 1 player is sleeping in a full server.
 	#Range: 0.0 ~ 24000.0
 	sleepSpeedMin = 1.0
@@ -82,7 +82,7 @@
 	#Set to 'true' for the weather to clear when players wake up in the morning as it does in vanilla.
 	#Set to 'false' to force weather to pass naturally. Adds realism when accelerateWeather is enabled.
 	#Note: This setting is ignored if game rule doWeatherCycle is false.
-	clearWeatherOnWake = true
+	clearWeatherOnWake = false
 	#When true, players are allowed to sleep at all times of day in dimensions controlled by Better Days.
 	#Note: Other mods may override this ability.
 	allowDaySleep = false
@@ -114,7 +114,7 @@
 			#Sets to whom this message is sent.
 			#A target of 'SLEEPING' will send the message to all players who just woke up.
 			#Allowed Values: ALL, DIMENSION, SLEEPING
-			target = "DIMENSION"
+			target = "SLEEPING"
 
 		#This message is sent when a player enters their bed.
 		[sleep.messages.enterBed]
@@ -129,7 +129,7 @@
 			type = "GAME_INFO"
 			#Sets to whom this message is sent.
 			#Allowed Values: ALL, DIMENSION, SLEEPING
-			target = "DIMENSION"
+			target = "SLEEPING"
 
 		#This message is sent when a player leaves their bed (without being woken up naturally by morning).
 		[sleep.messages.leaveBed]
@@ -144,5 +144,5 @@
 			type = "GAME_INFO"
 			#Sets to whom this message is sent. 
 			#Allowed Values: ALL, DIMENSION, SLEEPING
-			target = "DIMENSION"
+			target = "SLEEPING"
 

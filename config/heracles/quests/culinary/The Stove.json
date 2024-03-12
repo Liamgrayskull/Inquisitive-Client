@@ -1,0 +1,45 @@
+{
+  "dependencies": [],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "The Stove is a direct upgrade to the Campfire's cooking features, and a suitable heat source for the Cooking Pot."
+    },
+    "description": [
+      "To add items to its grill, simply right-click the Stove when it has no objects blocking its top face. Stoves detect campfire recipes to cook, meaning they usually also take 30 seconds to fully prepare items. Stoves cannot be automated through item transferring blocks (e.g. Hoppers), but require no fuel to cook items, much like a Campfire.",
+      "",
+      "Stoves can hold six (6) items on its grill, and will gently pop cooked outputs above its surface, instead of throwing them around.",
+      "",
+      "If the middle of the Stove's grill is obstructed by any block, such as a closed Trapdoor or a Cooking Pot, all foods on the grill will be flung away, and the Stove will be unable to receive ingredients until the obstruction is removed.",
+      "",
+      "Stoves can be put out using shovels or buckets of water, and reignited with Flint and Steel."
+    ],
+    "groups": {
+      "Culinary": {
+        "position": [
+          -95,
+          -68
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "farmersdelight:stove",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/rounded_squares.png",
+    "title": {
+      "translate": "The Stove"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

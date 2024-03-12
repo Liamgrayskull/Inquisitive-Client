@@ -1,0 +1,57 @@
+{
+  "dependencies": [
+    "Caves of Yore"
+  ],
+  "tasks": {
+    "findforlorn": {
+      "title": "The Forlorn Hollows",
+      "icon": {
+        "item": {
+          "id": "alexscaves:totem_of_possession",
+          "count": 1,
+          "nbt": {
+            "Damage": 0
+          }
+        },
+        "type": "heracles:item"
+      },
+      "biomes": "alexscaves:forlorn_hollows",
+      "type": "heracles:biome"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Forgotten, dried up caves home to mystics beyond even the illager's belief."
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          -105,
+          -98
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "alexscaves:pure_darkness",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/rounded_squares.png",
+    "title": {
+      "translate": "The Forlorn"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "COMPLETED"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "dependencies": [
+    "Caves of Yore"
+  ],
+  "tasks": {
+    "findmagneticcaves": {
+      "title": "The Magnetic Caves",
+      "icon": {
+        "item": {
+          "id": "alexscaves:scarlet_magnet",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "biomes": "alexscaves:magnetic_caves",
+      "type": "heracles:biome"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Caves filled with a peculiar and incredibly beneficial amount of magnetic materials- and creatures, that allow you to manipulate the world around you in a number of unique ways."
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          -111,
+          -2
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "spelunkery:item_magnet",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/rounded_squares.png",
+    "title": {
+      "translate": "The Charged"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "COMPLETED"
+  }
+}

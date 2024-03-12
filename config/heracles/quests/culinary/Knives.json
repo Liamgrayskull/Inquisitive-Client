@@ -1,0 +1,45 @@
+{
+  "dependencies": [],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Knives are scavenging tools: they allow you to obtain a few more resources from both fauna and flora."
+    },
+    "description": [
+      "Any animals you slay using a Knife are guaranteed to drop secondary items, such as Leather and Feathers;",
+      "Grassy plants (grass, wheat, rice etc) cut with a Knife will occasionally yield Straw, a firm and useful fiber;",
+      "They act as a modest melee weapon: swings faster than a sword for lesser damage;",
+      "Later on, they are also useful for cutting and portioning ingredients when preparing meals."
+    ],
+    "groups": {
+      "Culinary": {
+        "position": [
+          -97,
+          -13
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "farmersdelight:iron_knife",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/rounded_squares.png",
+    "title": {
+      "translate": "Knives"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

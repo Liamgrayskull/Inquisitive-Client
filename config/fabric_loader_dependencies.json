@@ -5,6 +5,11 @@
       "-breaks": {
         "sodium": "NONE"
       }
+    },
+    "debugify": {
+      "-recommends": {
+        "yet-another-config-lib": "*"
+      }
     }
   }
 }

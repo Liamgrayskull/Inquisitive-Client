@@ -49,6 +49,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-03-06 20:25:21 -0800",
       "minecraft:taiga": "2024-03-03 18:51:16 -0800",
       "minecraft:deep_ocean": "2024-02-18 17:19:27 -0800",
       "minecraft:frozen_river": "2024-03-03 18:38:20 -0800",
@@ -56,6 +57,7 @@
       "minecraft:sunflower_plains": "2024-03-03 16:50:20 -0800",
       "minecraft:birch_forest": "2024-02-18 17:22:03 -0800",
       "minecraft:wooded_badlands": "2024-01-12 19:34:39 -0800",
+      "minecraft:bamboo_jungle": "2024-03-08 22:46:22 -0800",
       "minecraft:badlands": "2024-01-10 17:35:23 -0800",
       "minecraft:beach": "2024-01-16 22:13:21 -0800",
       "minecraft:dark_forest": "2024-03-03 18:04:11 -0800",
@@ -64,9 +66,11 @@
       "minecraft:river": "2024-01-10 17:35:22 -0800",
       "minecraft:lukewarm_ocean": "2024-01-16 22:13:51 -0800",
       "minecraft:stony_shore": "2024-01-14 15:21:13 -0800",
+      "minecraft:snowy_plains": "2024-03-06 20:30:51 -0800",
       "minecraft:dripstone_caves": "2024-01-12 22:12:33 -0800",
       "minecraft:snowy_taiga": "2024-03-03 18:38:35 -0800",
       "minecraft:swamp": "2024-01-31 18:24:41 -0800",
+      "minecraft:grove": "2024-03-06 17:46:49 -0800",
       "minecraft:cold_ocean": "2024-03-03 18:18:51 -0800",
       "minecraft:forest": "2024-01-12 19:32:39 -0800",
       "minecraft:lush_caves": "2024-02-22 17:41:47 -0800",
@@ -77,8 +81,10 @@
       "minecraft:deep_frozen_ocean": "2024-03-03 18:34:14 -0800",
       "minecraft:jungle": "2024-01-12 19:32:38 -0800",
       "minecraft:ocean": "2024-02-18 17:19:16 -0800",
+      "minecraft:snowy_beach": "2024-03-08 21:55:20 -0800",
       "minecraft:warm_ocean": "2024-01-12 21:40:29 -0800",
       "minecraft:flower_forest": "2024-02-25 18:30:18 -0800",
+      "minecraft:frozen_peaks": "2024-03-06 20:34:34 -0800",
       "minecraft:old_growth_birch_forest": "2024-01-31 18:24:39 -0800",
       "minecraft:deep_dark": "2024-01-12 22:12:39 -0800",
       "minecraft:meadow": "2024-02-25 21:18:40 -0800",
@@ -1644,6 +1650,8 @@
       "beef": "2024-03-03 18:21:28 -0800",
       "apple": "2024-02-18 17:14:49 -0800",
       "potato": "2024-03-03 19:14:34 -0800",
+      "bread": "2024-03-06 17:54:04 -0800",
+      "rotten_flesh": "2024-03-07 19:03:25 -0800",
       "dried_kelp": "2024-02-16 16:24:33 -0800",
       "cooked_rabbit": "2024-02-25 21:10:01 -0800",
       "enchanted_golden_apple": "2024-02-25 21:10:06 -0800"
@@ -4111,24 +4119,6 @@
     },
     "done": true
   },
-  "cold_sweat:root": {
-    "criteria": {
-      "requirement": "2024-03-03 17:44:57 -0800"
-    },
-    "done": true
-  },
-  "cold_sweat:recipes/thermometer": {
-    "criteria": {
-      "temperature": "2024-03-03 17:44:58 -0800"
-    },
-    "done": true
-  },
-  "cold_sweat:extreme_temps": {
-    "criteria": {
-      "requirement": "2024-03-03 17:44:58 -0800"
-    },
-    "done": true
-  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2024-03-03 17:55:59 -0800"
@@ -4576,18 +4566,6 @@
   "another_furniture:recipes/black_curtain": {
     "criteria": {
       "has_wool": "2024-03-04 16:51:07 -0800"
-    },
-    "done": true
-  },
-  "cold_sweat:huddle_close": {
-    "criteria": {
-      "requirement": "2024-03-04 17:12:21 -0800"
-    },
-    "done": true
-  },
-  "cold_sweat:recipes/waterskin": {
-    "criteria": {
-      "temperature": "2024-03-04 17:12:51 -0800"
     },
     "done": true
   },
@@ -5143,51 +5121,9 @@
     },
     "done": true
   },
-  "beansbackpacks:beansbackpacks": {
-    "criteria": {
-      "requirement": "2024-03-05 17:11:21 -0800"
-    },
-    "done": true
-  },
-  "beansbackpacks:recipes/leather_backpack": {
-    "criteria": {
-      "has_backpack": "2024-03-05 17:11:21 -0800"
-    },
-    "done": true
-  },
   "minecraft:sihywtcamd/root": {
     "criteria": {
       "killed_by_something": "2024-03-05 17:11:57 -0800"
-    },
-    "done": true
-  },
-  "beansbackpacks:place_backpack": {
-    "criteria": {
-      "requirement": "2024-03-05 17:13:12 -0800"
-    },
-    "done": true
-  },
-  "beansbackpacks:new_duds": {
-    "criteria": {
-      "requirement": "2024-03-05 17:13:31 -0800"
-    },
-    "done": true
-  },
-  "conjuring:conjurer": {
-    "criteria": {
-      "conjurer": "2024-03-05 17:18:51 -0800"
-    },
-    "done": true
-  },
-  "conjuring:soul_alloy_tools": {
-    "criteria": {
-      "soul_alloy_tool": "2024-03-05 17:18:57 -0800"
-    },
-    "done": true
-  },
-  "conjuring:conjuring_scepter": {
-    "criteria": {
-      "conjuring_scepter": "2024-03-05 17:19:03 -0800"
     },
     "done": true
   },
@@ -5221,33 +5157,646 @@
     },
     "done": false
   },
-  "beansbackpacks:decorated_pot": {
+  "nova_structures:adventure/find_tavern": {
     "criteria": {
-      "requirement": "2024-03-05 18:31:21 -0800"
+      "nova_structures:tavern_snowy": "2024-03-06 17:50:00 -0800"
     },
     "done": true
   },
-  "beansbackpacks:netherite_backpack": {
+  "nova_structures:root": {
     "criteria": {
-      "requirement": "2024-03-05 18:30:39 -0800"
+      "nova_structures:adventure/find_tavern": "2024-03-06 17:50:00 -0800"
     },
     "done": true
   },
-  "conjuring:soul_alloy_scythe": {
+  "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
-      "soul_alloy_scythe": "2024-03-05 18:35:32 -0800"
+      "has_wheat": "2024-03-06 17:50:31 -0800"
     },
     "done": true
   },
-  "conjuring:conjuring_focus": {
+  "hearth_and_home:recipes/thatch": {
     "criteria": {
-      "conjuring_focus": "2024-03-05 18:36:21 -0800"
+      "has_item": "2024-03-06 17:50:31 -0800"
     },
     "done": true
   },
-  "conjuring:superior_conjuring_scepter": {
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
-      "superior_conjuring_scepter": "2024-03-05 18:36:15 -0800"
+      "has_wheat": "2024-03-06 17:50:31 -0800"
+    },
+    "done": true
+  },
+  "architects_palette:recipes/building_blocks/bread_block": {
+    "criteria": {
+      "has_wheat": "2024-03-06 17:50:31 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2024-03-06 17:50:31 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-03-06 17:50:31 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-03-06 17:50:31 -0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-03-06 17:50:31 -0800"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2024-03-06 17:52:33 -0800"
+    },
+    "done": true
+  },
+  "surface:recipes/misc/hardened_snowball_from_packed_ice": {
+    "criteria": {
+      "has_snowball": "2024-03-06 18:03:49 -0800"
+    },
+    "done": true
+  },
+  "surface:recipes/misc/hardened_snowball_from_ice": {
+    "criteria": {
+      "has_snowball": "2024-03-06 18:03:49 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-03-06 18:03:49 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-03-06 18:03:49 -0800"
+    },
+    "done": true
+  },
+  "monobank:adventure/monobank": {
+    "criteria": {
+      "monobank_get": "2024-03-06 20:05:43 -0800"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-03-06 20:12:34 -0800"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/mining_bench": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-03-06 20:12:34 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/permafrost_pillar": {
+    "criteria": {
+      "has_permafrost_pillar": "2024-03-06 20:25:27 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/permafrost_pillar_from_permafrost_stonecutting": {
+    "criteria": {
+      "has_permafrost_pillar": "2024-03-06 20:25:27 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/permafrost_bricks": {
+    "criteria": {
+      "has_permafrost_bricks": "2024-03-06 20:25:27 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/polished_permafrost": {
+    "criteria": {
+      "has_polished_permafrost": "2024-03-06 20:25:27 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/permafrost_brick_wall_from_permafrost_bricks_stonecutting": {
+    "criteria": {
+      "has_permafrost_brick_wall": "2024-03-06 20:29:34 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/permafrost_brick_stairs_from_permafrost_bricks_stonecutting": {
+    "criteria": {
+      "has_permafrost_brick_stairs": "2024-03-06 20:29:34 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/permafrost_tiles_from_permafrost_bricks_stonecutting": {
+    "criteria": {
+      "has_permafrost_tiles": "2024-03-06 20:29:34 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/smelting/cracked_permafrost_bricks_from_smelting_permafrost_bricks": {
+    "criteria": {
+      "has_cracked_permafrost_bricks": "2024-03-06 20:29:34 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/permafrost_tiles": {
+    "criteria": {
+      "has_permafrost_tiles": "2024-03-06 20:29:34 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/permafrost_brick_slab": {
+    "criteria": {
+      "has_permafrost_brick_slab": "2024-03-06 20:29:34 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-03-06 20:29:34 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-03-06 20:29:34 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/permafrost_brick_wall": {
+    "criteria": {
+      "has_permafrost_brick_wall": "2024-03-06 20:29:34 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/permafrost_brick_stairs": {
+    "criteria": {
+      "has_permafrost_brick_stairs": "2024-03-06 20:29:34 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/polished_permafrost_from_permafrost_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_permafrost": "2024-03-06 20:29:34 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-03-06 20:29:34 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/chiseled_permafrost_bricks_from_permafrost_bricks_stonecutting": {
+    "criteria": {
+      "has_chiseled_permafrost_bricks": "2024-03-06 20:29:34 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/permafrost_brick_slab_from_permafrost_bricks_stonecutting": {
+    "criteria": {
+      "has_permafrost_brick_slab": "2024-03-06 20:29:34 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/chiseled_permafrost_brick_stairs": {
+    "criteria": {
+      "has_chiseled_permafrost_brick_stairs": "2024-03-06 20:29:48 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/chiseled_permafrost_brick_slab_from_chiseled_permafrost_bricks_stonecutting": {
+    "criteria": {
+      "has_chiseled_permafrost_brick_slab": "2024-03-06 20:29:48 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/chiseled_permafrost_brick_slab": {
+    "criteria": {
+      "has_chiseled_permafrost_brick_slab": "2024-03-06 20:29:48 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/chiseled_permafrost_brick_stairs_from_chiseled_permafrost_bricks_stonecutting": {
+    "criteria": {
+      "has_chiseled_permafrost_brick_stairs": "2024-03-06 20:29:48 -0800"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-03-06 20:34:19 -0800"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2024-03-07 16:13:09 -0800"
+    },
+    "done": false
+  },
+  "sawmill:recipes/sawmill": {
+    "criteria": {
+      "has_fences": "2024-03-07 16:47:26 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:tier_4_rocket": {
+    "criteria": {
+      "has_tier_4_rocket": "2024-03-07 16:58:16 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/glacio_stone_stairs": {
+    "criteria": {
+      "has_glacio_stone_stairs": "2024-03-07 17:01:56 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/glacio_stone_slab": {
+    "criteria": {
+      "has_glacio_stone_slab": "2024-03-07 17:01:56 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/glacio_pillar": {
+    "criteria": {
+      "has_glacio_pillar": "2024-03-07 17:01:56 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/glacio_stone_bricks_from_glacio_stone_stonecutting": {
+    "criteria": {
+      "has_glacio_stone_bricks": "2024-03-07 17:01:56 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/polished_glacio_stone_slab_from_glacio_stone_stonecutting": {
+    "criteria": {
+      "has_polished_glacio_stone_slab": "2024-03-07 17:01:56 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/glacio_stone_brick_wall_from_glacio_stone_stonecutting": {
+    "criteria": {
+      "has_glacio_stone_brick_wall": "2024-03-07 17:01:56 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/polished_glacio_stone_from_glacio_stone_stonecutting": {
+    "criteria": {
+      "has_polished_glacio_stone": "2024-03-07 17:01:56 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/glacio_stone_stairs_from_glacio_stone_stonecutting": {
+    "criteria": {
+      "has_glacio_stone_stairs": "2024-03-07 17:01:56 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/glacio_stone_bricks": {
+    "criteria": {
+      "has_glacio_stone_bricks": "2024-03-07 17:01:56 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/glacio_stone_slab_from_glacio_stone_stonecutting": {
+    "criteria": {
+      "has_glacio_stone_slab": "2024-03-07 17:01:56 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/glacio_pillar_from_glacio_stone_stonecutting": {
+    "criteria": {
+      "has_glacio_pillar": "2024-03-07 17:01:56 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/polished_glacio_stone_stairs_from_glacio_stone_stonecutting": {
+    "criteria": {
+      "has_polished_glacio_stone_stairs": "2024-03-07 17:01:56 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/glacio_stone_brick_stairs_from_glacio_stone_stonecutting": {
+    "criteria": {
+      "has_glacio_stone_brick_stairs": "2024-03-07 17:01:56 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/glacio_stone_brick_slab_from_glacio_stone_stonecutting": {
+    "criteria": {
+      "has_glacio_stone_brick_slab": "2024-03-07 17:01:56 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/chiseled_glacio_stone_bricks_from_glacio_stone_stonecutting": {
+    "criteria": {
+      "has_chiseled_glacio_stone_bricks": "2024-03-07 17:01:56 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/moon_stone_brick_slab_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_moon_stone_brick_slab": "2024-03-07 17:02:16 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/moon_pillar": {
+    "criteria": {
+      "has_moon_pillar": "2024-03-07 17:02:16 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/polished_moon_stone_slab_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_polished_moon_stone_slab": "2024-03-07 17:02:16 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/moon_stone_bricks": {
+    "criteria": {
+      "has_moon_stone_bricks": "2024-03-07 17:02:16 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/chiseled_moon_stone_bricks_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_chiseled_moon_stone_bricks": "2024-03-07 17:02:16 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/moon_stone_bricks_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_moon_stone_bricks": "2024-03-07 17:02:16 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/moon_stone_brick_wall_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_moon_stone_brick_wall": "2024-03-07 17:02:16 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/moon_stone_stairs": {
+    "criteria": {
+      "has_moon_stone_stairs": "2024-03-07 17:02:16 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/moon_stone_stairs_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_moon_stone_stairs": "2024-03-07 17:02:16 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/polished_moon_stone_stairs_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_polished_moon_stone_stairs": "2024-03-07 17:02:16 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/moon_stone_brick_stairs_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_moon_stone_brick_stairs": "2024-03-07 17:02:16 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/moon_pillar_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_moon_pillar": "2024-03-07 17:02:16 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/polished_moon_stone_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_polished_moon_stone": "2024-03-07 17:02:16 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/sky_stone": {
+    "criteria": {
+      "has_sky_stone": "2024-03-07 17:02:16 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/moon_stone_slab": {
+    "criteria": {
+      "has_moon_stone_slab": "2024-03-07 17:02:16 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/moon_stone_slab_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_moon_stone_slab": "2024-03-07 17:02:16 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/mercury_stone_brick_stairs_from_mercury_stone_stonecutting": {
+    "criteria": {
+      "has_mercury_stone_brick_stairs": "2024-03-07 17:04:07 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/mercury_stone_bricks_from_mercury_stone_stonecutting": {
+    "criteria": {
+      "has_mercury_stone_bricks": "2024-03-07 17:04:07 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/polished_mercury_stone_stairs_from_mercury_stone_stonecutting": {
+    "criteria": {
+      "has_polished_mercury_stone_stairs": "2024-03-07 17:04:07 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/mercury_stone_bricks": {
+    "criteria": {
+      "has_mercury_stone_bricks": "2024-03-07 17:04:07 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/chiseled_mercury_stone_bricks_from_mercury_stone_stonecutting": {
+    "criteria": {
+      "has_chiseled_mercury_stone_bricks": "2024-03-07 17:04:07 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/mercury_stone_brick_slab_from_mercury_stone_stonecutting": {
+    "criteria": {
+      "has_mercury_stone_brick_slab": "2024-03-07 17:04:07 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/mercury_pillar_from_mercury_stone_stonecutting": {
+    "criteria": {
+      "has_mercury_pillar": "2024-03-07 17:04:07 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/mercury_stone_slab_from_mercury_stone_stonecutting": {
+    "criteria": {
+      "has_mercury_stone_slab": "2024-03-07 17:04:07 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/polished_mercury_stone_from_mercury_stone_stonecutting": {
+    "criteria": {
+      "has_polished_mercury_stone": "2024-03-07 17:04:07 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/mercury_pillar": {
+    "criteria": {
+      "has_mercury_pillar": "2024-03-07 17:04:07 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/mercury_stone_slab": {
+    "criteria": {
+      "has_mercury_stone_slab": "2024-03-07 17:04:07 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/polished_mercury_stone_slab_from_mercury_stone_stonecutting": {
+    "criteria": {
+      "has_polished_mercury_stone_slab": "2024-03-07 17:04:07 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/mercury_stone_stairs_from_mercury_stone_stonecutting": {
+    "criteria": {
+      "has_mercury_stone_stairs": "2024-03-07 17:04:07 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/mercury_stone_stairs": {
+    "criteria": {
+      "has_mercury_stone_stairs": "2024-03-07 17:04:07 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/mercury_stone_brick_wall_from_mercury_stone_stonecutting": {
+    "criteria": {
+      "has_mercury_stone_brick_wall": "2024-03-07 17:04:07 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-03-07 18:59:11 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_redstone_block": "2024-03-07 18:59:11 -0800"
+    },
+    "done": true
+  },
+  "copperative:recipes/misc/exposed_copper_door_from_patina": {
+    "criteria": {
+      "has_unweathered": "2024-03-07 19:00:24 -0800"
+    },
+    "done": true
+  },
+  "copperative:recipes/misc/waxed_copper_door_from_honeycomb": {
+    "criteria": {
+      "has_unwaxed": "2024-03-07 19:00:24 -0800"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2024-03-07 19:01:31 -0800"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2024-03-07 19:01:31 -0800"
+    },
+    "done": true
+  },
+  "spawn:recipes/ant/ant_farm_from_coarse_dirt": {
+    "criteria": {
+      "has_raw_item": "2024-03-07 19:02:57 -0800"
+    },
+    "done": true
+  },
+  "salt:recipes/misc/raw_rock_salt": {
+    "criteria": {
+      "has_rock_salt": "2024-03-08 18:25:01 -0800"
+    },
+    "done": true
+  },
+  "salt:recipes/misc/salt_from_raw_rock_salt": {
+    "criteria": {
+      "has_rock_salt": "2024-03-08 18:25:01 -0800"
+    },
+    "done": true
+  },
+  "salt:recipes/decorations/raw_rock_salt_block": {
+    "criteria": {
+      "has_rock_salt": "2024-03-08 18:25:01 -0800"
+    },
+    "done": true
+  },
+  "salt:recipes/decorations/salt_lamp": {
+    "criteria": {
+      "has_rock_salt": "2024-03-08 18:25:01 -0800"
+    },
+    "done": true
+  },
+  "ad_astra:energizer": {
+    "criteria": {
+      "has_energizer": "2024-03-08 18:25:38 -0800"
+    },
+    "done": true
+  },
+  "cloudstorage:cloudstorage/all_balloon_buddies": {
+    "criteria": {
+      "personality8": "2024-03-08 18:32:13 -0800",
+      "personality9": "2024-03-08 18:32:12 -0800",
+      "personality6": "2024-03-08 18:32:14 -0800",
+      "personality7": "2024-03-08 18:32:13 -0800",
+      "personality4": "2024-03-08 18:32:15 -0800",
+      "personality5": "2024-03-08 18:32:14 -0800",
+      "personality3": "2024-03-08 18:32:15 -0800",
+      "personality10": "2024-03-08 18:32:12 -0800"
+    },
+    "done": true
+  },
+  "cloudstorage:cloudstorage/balloon_buddy": {
+    "criteria": {
+      "acacia_blossom": "2024-03-08 18:32:12 -0800"
+    },
+    "done": true
+  },
+  "hopo:minecraft/adventure/locate_all_underwater_structures": {
+    "criteria": {
+      "locate_underwater_warm_small_ruins": "2024-03-09 14:06:49 -0800"
+    },
+    "done": false
+  },
+  "surface:swamp/swamp": {
+    "criteria": {
+      "requirement": "2024-03-09 14:01:33 -0800"
     },
     "done": true
   },

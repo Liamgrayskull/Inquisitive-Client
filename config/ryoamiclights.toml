@@ -96,6 +96,19 @@
 				zombified_piglin = true
 				zombie_horse = true
 				llama_spit = true
+				snowball = true
+				goat = true
+				allay = true
+				hopper_minecart = true
+				strider = true
+				shulker = true
+				ender_pearl = true
+				boat = true
+				leash_knot = true
+				skeleton_horse = true
+				panda = true
+				glow_item_frame = true
+				camel = true
 
 			[light_sources.settings.entities.alexsmobs]
 				crow = true
@@ -158,6 +171,26 @@
 				blobfish = true
 				giant_squid = true
 				cachalot_whale = true
+				dropbear = true
+				crimson_mosquito = true
+				laviathan = true
+				bone_serpent = true
+				bone_serpent_part = true
+				stradpole = true
+				straddler = true
+				enderiophage = true
+				spectre = true
+				endergrade = true
+				komodo_dragon = true
+				gorilla = true
+				mudskipper = true
+				caiman = true
+				mantis_shrimp = true
+				triops = true
+				tarantula_hawk = true
+				mimic_octopus = true
+				guster = true
+				maned_wolf = true
 
 			[light_sources.settings.entities.spawn]
 				hamster = true
@@ -165,6 +198,7 @@
 				tuna = true
 				angler_fish = true
 				snail = true
+				seahorse = true
 
 			[light_sources.settings.entities.enemyexpansion]
 				meature = true
@@ -199,6 +233,7 @@
 				wraith = true
 				forgotten = true
 				stoneling = true
+				foxhound = true
 
 			[light_sources.settings.entities.beansbackpacks]
 				backpack = true
@@ -225,6 +260,7 @@
 				deepfish = true
 				birt = true
 				roombug = true
+				wraptor = true
 
 			[light_sources.settings.entities.corpse]
 				corpse = true
@@ -242,6 +278,13 @@
 				grottoceratops = true
 				relicheirus = true
 				trilocaris = true
+				raycat = true
+				gammaroach = true
+				radgill = true
+				nucleeper = true
+				underzealot = true
+				corrodent = true
+				vesper = true
 
 			[light_sources.settings.entities.habitat]
 				passerine = true
@@ -249,12 +292,14 @@
 
 			[light_sources.settings.entities.galosphere]
 				sparkle = true
+				spectre = true
 
 			[light_sources.settings.entities.cloudstorage]
 				balloon = true
 				balloon_tie = true
 				badloon = true
 				bloviator = true
+				balloon_buddy = true
 
 			[light_sources.settings.entities.supplementaries]
 				dispenser_minecart = true
@@ -300,6 +345,15 @@
 
 			[light_sources.settings.entities.ad_astra]
 				glacian_ram = true
+				tier_4_rocket = true
+				lander = true
+				zombified_pygro = true
+				corrupted_lunarian = true
+				star_crawler = true
+				lunarian = true
+				martian_raptor = true
+				pygro = true
+				mogler = true
 
 			[light_sources.settings.entities.undergarden]
 				forgotten_guardian = true
@@ -366,4 +420,31 @@
 
 			[light_sources.settings.entities.conjuring]
 				soul_projectile = true
+
+			[light_sources.settings.entities.polars_mad_tweaks]
+				silverfish = true
+
+			[light_sources.settings.entities.enlightened_end]
+				gloop = true
+				fumesplat = true
+				stalker = true
+				ooze_bubble = true
+				void_leviathan = true
+
+			[light_sources.settings.entities.outer_end]
+				sinker = true
+				sinker_laser = true
+
+			[light_sources.settings.entities.cold_sweat]
+				chameleon = true
+
+			[light_sources.settings.entities.crabbersdelight]
+				crab = true
+
+			[light_sources.settings.entities.apugli]
+				custom_projectile = true
+				custom_area_effect_cloud = true
+
+			[light_sources.settings.entities.origins]
+				enderian_pearl = true
 

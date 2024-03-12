@@ -1,0 +1,54 @@
+{
+  "dependencies": [
+    "Caves of Yore"
+  ],
+  "tasks": {
+    "finddeepdark": {
+      "title": "The Deep Dark",
+      "icon": {
+        "item": {
+          "id": "minecraft:ward_armor_trim_smithing_template",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "biomes": "minecraft:deep_dark",
+      "type": "heracles:biome"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Crumbling Ruins of an Ancient City."
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          -54,
+          -121
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "alexsmobs:sculk_boomer",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/rounded_squares.png",
+    "title": {
+      "translate": "The Deep"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "COMPLETED"
+  }
+}

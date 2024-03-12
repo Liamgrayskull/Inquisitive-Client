@@ -1,0 +1,41 @@
+{
+  "dependencies": [
+    "Welcome to Inquisitive!"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Read more about Inquisitive's Community."
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Core": {
+        "position": [
+          -165,
+          -86
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "etched:portal_radio",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Community"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

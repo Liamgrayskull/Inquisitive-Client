@@ -41,7 +41,10 @@
         "patchouli:fauna",
         "patchouli:cookingI",
         "patchouli:cookingII",
-        "patchouli:cookingIII"
+        "patchouli:cookingIII",
+        "patchouli:fermenting",
+        "patchouli:flora",
+        "patchouli:foraging"
       ],
       "bookmarks": [],
       "completedManualQuests": []
@@ -60,7 +63,10 @@
         "ad_astra:the_first_launch/oxygen",
         "ad_astra:the_first_launch/fuel",
         "ad_astra:the_hot_planets/proxima_centauri",
-        "ad_astra:the_hot_planets/jet_suit"
+        "ad_astra:the_hot_planets/jet_suit",
+        "ad_astra:the_moon/space_station",
+        "ad_astra:surviving_mars/detection",
+        "ad_astra:the_moon/lunarians"
       ],
       "bookmarks": [],
       "completedManualQuests": []

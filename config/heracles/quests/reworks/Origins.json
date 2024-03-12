@@ -1,0 +1,41 @@
+{
+  "dependencies": [],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Rebalanced beyond the standard."
+    },
+    "description": [
+      "Origins enables you to select your roots, rewriting some of the core elements of how you play. These changes, while initially permanent, can be switched over time upon obtaining an orb of origin.",
+      "",
+      "Along with origin, height is a variable that can be switched, with accomodations and benefits to all."
+    ],
+    "groups": {
+      "Reworks": {
+        "position": [
+          -74,
+          2
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "origins:orb_of_origin",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Origins"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

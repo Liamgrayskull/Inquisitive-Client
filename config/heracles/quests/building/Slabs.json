@@ -1,0 +1,39 @@
+{
+  "dependencies": [
+    "Verticality"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Place slabs in any direction you can think of!"
+    },
+    "description": [],
+    "groups": {
+      "Building": {
+        "position": [
+          -118,
+          17
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:quartz_slab",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/rounded_squares.png",
+    "title": {
+      "translate": "Slabs"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

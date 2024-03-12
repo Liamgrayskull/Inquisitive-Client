@@ -1,0 +1,54 @@
+{
+  "dependencies": [
+    "Caves of Yore"
+  ],
+  "tasks": {
+    "gototoxiccave": {
+      "title": "The Toxic Caves",
+      "icon": {
+        "item": {
+          "id": "alexscaves:waste_drum",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "biomes": "alexscaves:toxic_caves",
+      "type": "heracles:biome"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "A crumbling city plagued by the might of an ancient civilization."
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          2,
+          -92
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "alexscaves:nuclear_bomb",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/rounded_squares.png",
+    "title": {
+      "translate": "The Irradiated"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "COMPLETED"
+  }
+}

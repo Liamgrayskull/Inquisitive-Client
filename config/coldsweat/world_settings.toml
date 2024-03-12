@@ -16,7 +16,7 @@
 	#Applies an offset to the temperature of a biome
 	"Biome Temperature Offsets" = []
 	#Defines the temperature of a biome, overriding existing biome temperatures & offsets.
-	"Biome Temperatures" = []
+	"Biome Temperatures" = [["minecraft:soul_sand_valley", 53, 53, "F"], ["minecraft:old_growth_birch_forest", 58, 72, "F"], ["minecraft:river", 60, 70, "F"], ["minecraft:swamp", 72, 84, "F"], ["minecraft:savanna", 70, 95, "F"], ["minecraft:savanna_plateau", 76, 98, "F"], ["minecraft:windswept_savanna", 67, 90, "F"], ["minecraft:taiga", 44, 62, "F"], ["minecraft:snowy_taiga", 19, 48, "F"], ["minecraft:old_growth_pine_taiga", 48, 62, "F"], ["minecraft:old_growth_spruce_taiga", 48, 62, "F"], ["minecraft:desert", 48, 115, "F"], ["minecraft:stony_shore", 50, 64, "F"], ["minecraft:snowy_beach", 38, 52, "F"], ["minecraft:snowy_slopes", 24, 38, "F"], ["minecraft:windswept_forest", 48, 66, "F"], ["minecraft:frozen_peaks", 15, 33, "F"], ["minecraft:warm_ocean", 67, 76, "F"], ["minecraft:deep_frozen_ocean", 56, 65, "F"], ["minecraft:jungle", 76, 87, "F"], ["minecraft:bamboo_jungle", 76, 87, "F"], ["minecraft:badlands", 84, 120, "F"], ["minecraft:wooded_badlands", 80, 108, "F"], ["minecraft:eroded_badlands", 88, 120, "F"], ["minecraft:deep_dark", 63, 63, "F"]]
 
 ["Block Temperature"]
 	#Allows for adding simple BlockTemps without the use of Java mods
@@ -47,7 +47,7 @@
 [Hearth]
 	#How strong the hearth is
 	#Range: 0.0 ~ 1.0
-	"Hearth Strength" = 0.5
+	"Hearth Strength" = 1.0
 	#List of additional blocks that the hearth can spread through
 	#Use this list if the hearth isn't spreading through particular blocks that it should
 	"Hearth Spread Whitelist" = ["minecraft:iron_bars", "create:encased_fluid_pipe"]

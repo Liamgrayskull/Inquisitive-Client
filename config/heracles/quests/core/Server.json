@@ -1,0 +1,55 @@
+{
+  "dependencies": [
+    "Community"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Discord, MC server, issue tracker, you name it."
+    },
+    "description": [
+      "--Inquisitive comes with an official server!--",
+      "",
+      "- Regular updates about the pack's development",
+      "- Issue trackers",
+      "- Suggestions",
+      "- Beta testing",
+      "- Support & guides",
+      "- Polls to influence it's future",
+      "- Applications to join the team",
+      "- A place to submit photography for the pack",
+      "- Custom-developed with more features than the standalone pack",
+      "- A welcoming community",
+      "",
+      "/d/--Join through the discord!--/d/",
+      "https://discord.gg/6qF5U6sdKJ"
+    ],
+    "groups": {
+      "Core": {
+        "position": [
+          -123,
+          -57
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "alexscaves:game_controller",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Server"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

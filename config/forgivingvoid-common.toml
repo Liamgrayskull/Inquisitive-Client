@@ -18,7 +18,7 @@ triggerInEnd = true
 #Set to true if players are rubber-banding while falling through the void. If you're hosting a public server, you should only do this if you have proper anti-cheat installed.
 disableVanillaAntiCheatWhileFalling = true
 #List of dimension ids to be allowed for Forgiving Void. Options triggerInOverworld etc. take priority.
-dimensionAllowList = []
+dimensionAllowList = ["minecraft:overworld", "minecraft:end"]
 #List of additional dimension ids to be deny-listed from Forgiving Void. Options triggerInOverworld etc. take priority. Ignored if dimensionAllowList is set.
 dimensionDenyList = []
 

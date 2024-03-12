@@ -1,0 +1,48 @@
+{
+  "dependencies": [
+    "Knives"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "When exploring, keep an eye out for certain flowering plants."
+    },
+    "description": [
+      "When exploring, keep an eye out for certain flowering plants. All crops, from both this mod and vanilla, now spawn in nature as Wild Crops. These wild variants are rather rough, and not very suitable for eating, so you'll only be able to forage one sample or seed out of them. However, this might be more than enough to kickstart a humble farm once you settle down somewhere.",
+      "",
+      "Each wild crop depends on certain biomes or temperatures, so make sure to cover as many places as you can!",
+      "",
+      "If you can't seem to find these elusive plants anywhere, you can resort to other means:",
+      "",
+      "Village Houses may contain samples of the new crops in a chest. I'm sure the Villagers won't mind sharing a few samples with you;",
+      "Shipwreck Supplies are often rumored to contain a few remnants of cargo left behind. Who knows, maybe you'll find some food in there..."
+    ],
+    "groups": {
+      "Culinary": {
+        "position": [
+          -180,
+          -40
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "farmersdelight:wild_onions",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/rounded_squares.png",
+    "title": {
+      "translate": "Wild Crops"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

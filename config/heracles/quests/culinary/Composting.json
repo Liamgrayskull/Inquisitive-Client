@@ -1,0 +1,41 @@
+{
+  "dependencies": [
+    "Wild Crops"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Farmers are no strangers to composting, as one would expect; sometimes you may see Villagers experimenting with a larger-scale form of composting their leftovers."
+    },
+    "description": [
+      "Compost Heaps are houses dedicated to treating and processing a pile of Organic Compost, made from organic leftovers, straw and dirt. This rather smelly mixture may seem strange at first, but given enough sunshine and moisture, will eventually become a valuable farming resource: Rich Soil!"
+    ],
+    "groups": {
+      "Culinary": {
+        "position": [
+          -155,
+          -83
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "farmersdelight:organic_compost",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/rounded_squares.png",
+    "title": {
+      "translate": "Composting"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

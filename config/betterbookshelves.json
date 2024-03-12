@@ -1,5 +1,5 @@
 {
-  "per_book_texture": true,
+  "per_book_texture": false,
   "text_preview": "on",
   "text_size": 10,
   "book_textures": [

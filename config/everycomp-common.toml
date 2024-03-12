@@ -175,13 +175,6 @@
 			[general.entries.wood_type.friendsandfoes]
 				beehive = true
 
-			[general.entries.wood_type.hearth_and_home]
-				parquet = true
-				vertical_trim = true
-				trim = true
-				sanded_wood = true
-				lattice = true
-
 			[general.entries.wood_type.create]
 				window = true
 				window_pane = true
@@ -205,6 +198,13 @@
 				chest = true
 				stripped_post = true
 				ladder = true
+
+			[general.entries.wood_type.hearth_and_home]
+				lattice = true
+				parquet = true
+				vertical_trim = true
+				trim = true
+				sanded_wood = true
 
 		[general.entries.leaves_type]
 

@@ -43,3 +43,4 @@ import stdlib.List;
 <tag:items:forge:tools>.add(<item:enlightened_end:adamantite_knife>);
 <tag:items:farmersdelight:tools/knives>.add(<item:enlightened_end:adamantite_knife>);
 <tag:items:farmersdelight:straw_harvesters>.add(<item:enlightened_end:adamantite_knife>);
+

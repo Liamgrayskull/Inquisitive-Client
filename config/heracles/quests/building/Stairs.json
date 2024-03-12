@@ -1,0 +1,39 @@
+{
+  "dependencies": [
+    "Verticality"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Place stairs each way you like!"
+    },
+    "description": [],
+    "groups": {
+      "Building": {
+        "position": [
+          -79,
+          21
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:purpur_stairs",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/rounded_squares.png",
+    "title": {
+      "translate": "Stairs"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "findcavecompendiumyore": {
+      "type": "heracles:item",
+      "item": "alexscaves:cave_book",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Locate A Compendium",
+      "icon": {
+        "item": {
+          "id": "alexscaves:cave_book",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Through this wide world, you will find many a book. However, Alex's famous Cave Compendium is perhaps one of the oldest, and most coveted books discoverable.. As it is a guide to each charted cave in our overworld, from the rare to the common."
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          -55,
+          -45
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "alexscaves:cave_book",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/hexagons.png",
+    "title": {
+      "translate": "Caves of Yore"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "COMPLETED"
+  }
+}

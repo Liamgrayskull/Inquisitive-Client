@@ -16,7 +16,7 @@
 	#Range: > -2147483648
 	Storm_LightningStrikeBaseValueOddsTo1 = 200
 	#-
-	Storm_NoRainVisual = false
+	Storm_NoRainVisual = true
 	#-
 	#Range: > -2147483648
 	Storm_MaxRadius = 300

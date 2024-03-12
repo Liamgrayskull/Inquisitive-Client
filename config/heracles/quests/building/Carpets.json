@@ -1,0 +1,41 @@
+{
+  "dependencies": [
+    "Verticality"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Place carpets on all faces! Even your own! (with mimification)"
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Building": {
+        "position": [
+          -134,
+          61
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:black_carpet",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/rounded_squares.png",
+    "title": {
+      "translate": "Carpets"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

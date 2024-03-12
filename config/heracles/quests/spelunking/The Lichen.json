@@ -1,0 +1,54 @@
+{
+  "dependencies": [
+    "Caves of Yore"
+  ],
+  "tasks": {
+    "findlichencave": {
+      "title": "The Lichen Caves",
+      "icon": {
+        "item": {
+          "id": "galosphere:lichen_shelf",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "biomes": "galosphere:lichen_caves",
+      "type": "heracles:biome"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Spiraling masses of moss overtake these crevices."
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          -139,
+          -45
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "twigs:petrified_lichen",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/rounded_squares.png",
+    "title": {
+      "translate": "The Lichen"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "COMPLETED"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "dependencies": [
+    "Caves of Yore"
+  ],
+  "tasks": {
+    "findabyssalchasm": {
+      "title": "The Abyssal Chasm",
+      "icon": {
+        "item": {
+          "id": "architects_palette:chiseled_abyssaline_bricks",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "biomes": "alexscaves:abyssal_chasm",
+      "type": "heracles:biome"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "A massive depth of almost straight underwater terror, along with a species often unspoken about that is mindful of your every move."
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          -51,
+          31
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "alexscaves:submarine",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/rounded_squares.png",
+    "title": {
+      "translate": "The Abyss"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "COMPLETED"
+  }
+}

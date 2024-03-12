@@ -1,0 +1,54 @@
+{
+  "dependencies": [
+    "Caves of Yore"
+  ],
+  "tasks": {
+    "finddinosaorus": {
+      "title": "The Primordial Caves",
+      "icon": {
+        "item": {
+          "id": "alexscaves:dinosaur_nugget",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "biomes": "alexscaves:primordial_caves",
+      "type": "heracles:biome"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Isolated, sustaining caverns that have fostered ancient life for beyond thousands of years."
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          -3,
+          3
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "alexscaves:dinosaur_train",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/rounded_squares.png",
+    "title": {
+      "translate": "The Forgotten"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "COMPLETED"
+  }
+}

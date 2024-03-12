@@ -43,5 +43,5 @@
 	#Range: > -2147483648
 	screenTypingCharacterLimit = 50
 	#String to use when too many people are typing determined by screenTypingCharacterLimit
-	screenTypingMultiplePlayersText = "Several people are typing"
+	screenTypingMultiplePlayersText = "A lotta people are typing"
 

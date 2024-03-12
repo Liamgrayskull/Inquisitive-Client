@@ -1,0 +1,54 @@
+{
+  "dependencies": [
+    "Caves of Yore"
+  ],
+  "tasks": {
+    "findcrystalcaverns": {
+      "title": "The Crystal Canyons",
+      "icon": {
+        "item": {
+          "id": "galosphere:icon_item",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "biomes": "galosphere:crystal_canyons",
+      "type": "heracles:biome"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Crystal Caverns that have dual crystals of almost magical properties."
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          24,
+          -41
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "galosphere:glinted_allurite_cluster",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/rounded_squares.png",
+    "title": {
+      "translate": "The Canyon"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "COMPLETED"
+  }
+}

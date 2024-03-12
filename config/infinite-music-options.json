@@ -1,0 +1,29 @@
+{
+  "main_menu_music": {
+    "enabled": true,
+    "delay": 5,
+    "randomness": 0
+  },
+  "gameplay_music": {
+    "enabled": true,
+    "delay": 0,
+    "randomness": 0
+  },
+  "creative_music": {
+    "enabled": true,
+    "delay": 0,
+    "randomness": 0
+  },
+  "underwater_music": {
+    "enabled": true,
+    "delay": 0,
+    "randomness": 0
+  },
+  "end_music": {
+    "enabled": true,
+    "delay": 0,
+    "randomness": 0
+  },
+  "pause_for_disc_music": true,
+  "enable_sound_options_button": true
+}

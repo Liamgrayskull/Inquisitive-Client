@@ -22,6 +22,7 @@
   "acceptVanillaFuel": true,
   "useCustomKeybindSystem": true,
   "showHotbarEngineGauge": true,
+  "weaponsAreDestructive": false,
   "fuelList": {
     "minecraft:blaze_powder": 1200
   },

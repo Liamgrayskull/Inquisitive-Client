@@ -5,7 +5,7 @@
 	autoDeathMarker = true
 	# Whether to add global markers for NPC villages.
 	# default: false
-	autoVillageMarkers = false
+	autoVillageMarkers = true
 	# Whether to add global markers for Nether Portals.
 	# default: true
 	autoNetherPortalMarkers = true

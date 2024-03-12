@@ -74,12 +74,6 @@
 			"healthRegenModifier": 1.0,
 			"extraEffects": []
 		},
-		"conjuring:pizza": {
-			"nutrition": 20,
-			"saturationModifier": 0.75,
-			"healthRegenModifier": 1.0,
-			"extraEffects": []
-		},
 		"minecraft:cooked_chicken": {
 			"nutrition": 6,
 			"saturationModifier": 0.6000000238418579,
@@ -203,12 +197,6 @@
 		"minecraft:cod": {
 			"nutrition": 2,
 			"saturationModifier": 0.10000000149011612,
-			"healthRegenModifier": 1.0,
-			"extraEffects": []
-		},
-		"conjuring:distilled_spirit": {
-			"nutrition": 2,
-			"saturationModifier": 0.5,
 			"healthRegenModifier": 1.0,
 			"extraEffects": []
 		},
