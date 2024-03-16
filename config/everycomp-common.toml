@@ -92,6 +92,9 @@
 				strophar = true
 				glacian = true
 
+			[general.types.wood_type.createdieselgenerators]
+				chip_wood = true
+
 		[general.types.leaves_type]
 
 			[general.types.leaves_type.phantasm]

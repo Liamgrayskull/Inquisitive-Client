@@ -113,6 +113,18 @@
     "fuzs.armorstatues.client.gui.screens.armorstand.ArmorStandAlignmentsScreen": true,
     "fuzs.puzzlesapi.api.client.statues.v1.gui.screens.armorstand.ArmorStandEquipmentScreen": true,
     "earth.terrarium.cadmus.client.claims.ClaimScreen": true,
-    "vazkii.patchouli.client.book.gui.GuiBookIndex": true
+    "vazkii.patchouli.client.book.gui.GuiBookIndex": true,
+    "com.simibubi.create.content.schematics.table.SchematicTableScreen": true,
+    "com.momosoftworks.coldsweat.client.gui.HearthScreen": true,
+    "net.mcreator.rubyexchange.client.gui.TradeBlockGUIScreen": true,
+    "net.mcreator.rubyexchange.client.gui.ExchangeBlockGUIScreen": true,
+    "net.mcreator.rubyexchange.client.gui.AdminExchangeGUIScreen": true,
+    "vazkii.patchouli.client.book.gui.GuiBookCategory": true,
+    "fuzs.puzzlesapi.api.client.statues.v1.gui.screens.armorstand.ArmorStandStyleScreen": true,
+    "fuzs.puzzlesapi.api.client.statues.v1.gui.screens.armorstand.ArmorStandPosesScreen": true,
+    "net.createteleporters.client.gui.ADVTPGUIScreen": true,
+    "dan200.computercraft.client.gui.ComputerScreen": true,
+    "dan200.computercraft.client.gui.DiskDriveScreen": true,
+    "com.hidoni.transmog.gui.TransmogScreen": true
   }
 }

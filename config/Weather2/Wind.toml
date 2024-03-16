@@ -8,7 +8,7 @@
 	#-
 	Wind_HighWindEvents = true
 	#-
-	Wind_UsePerlinNoise = false
+	Wind_UsePerlinNoise = true
 	#-
 	#Range: > -2147483648
 	lowWindTimerEnableAmountBase = 2400

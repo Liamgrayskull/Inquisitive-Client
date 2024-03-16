@@ -73,6 +73,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-03-13 19:49:05 -0700",
       "minecraft:deep_ocean": "2024-03-07 18:31:20 -0800",
       "minecraft:birch_forest": "2024-03-07 17:43:22 -0800",
       "minecraft:beach": "2024-03-07 17:46:48 -0800",
@@ -156,12 +157,6 @@
   "xercamusic:achievements/root": {
     "criteria": {
       "crafting_table": "2024-03-07 17:45:08 -0800"
-    },
-    "done": true
-  },
-  "create_connected:root": {
-    "criteria": {
-      "0": "2024-03-07 17:45:08 -0800"
     },
     "done": true
   },
@@ -279,12 +274,6 @@
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/brake": {
-    "criteria": {
-      "has_item": "2024-03-07 18:14:28 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2024-03-07 18:14:28 -0800"
@@ -341,66 +330,27 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
-    "criteria": {
-      "has_any_ingredient": "2024-03-07 18:40:00 -0800"
-    },
-    "done": true
-  },
-  "hopo:minecraft/adventure/all_mineshaft": {
-    "criteria": {
-      "locate_deepslate_mineshaft": "2024-03-07 18:38:23 -0800",
-      "locate_birch_mineshaft": "2024-03-07 18:29:21 -0800",
-      "locate_vanilla_mineshaft": "2024-03-07 18:38:47 -0800"
-    },
-    "done": false
-  },
   "alexscaves:alexscaves/bioluminescent_torch": {
     "criteria": {
       "bioluminescent_torch": "2024-03-07 18:30:04 -0800"
     },
     "done": true
   },
-  "miners_delight:recipes/cooking/cave_soup": {
+  "betterdungeons:all_dungeons": {
     "criteria": {
-      "has_any_ingredient": "2024-03-07 18:40:00 -0800"
+      "in_better_spider_dungeon": "2024-03-07 18:30:18 -0800"
     },
-    "done": true
+    "done": false
   },
-  "miners_delight:recipes/food/vegan_hamburger": {
+  "betterdungeons:spider_dungeon": {
     "criteria": {
-      "has_cave_carrot": "2024-03-07 18:40:54 -0800"
+      "in_better_spider_dungeon": "2024-03-07 18:30:18 -0800"
     },
     "done": true
   },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-03-07 18:31:39 -0800"
-    },
-    "done": true
-  },
-  "hopo:minecraft/adventure/locate_all_underwater_structures": {
-    "criteria": {
-      "locate_underwater_small_ruins": "2024-03-07 18:32:46 -0800",
-      "locate_underwater_city": "2024-03-07 18:31:43 -0800"
-    },
-    "done": false
-  },
-  "hopo:minecraft/adventure/locate_mineshaft": {
-    "criteria": {
-      "locate_birch_mineshaft": "2024-03-07 18:29:21 -0800"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/food/baked_cave_carrot": {
-    "criteria": {
-      "has_cave_carrot": "2024-03-07 18:40:54 -0800"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/food/cave_carrots_from_crate": {
-    "criteria": {
-      "has_cave_carrot": "2024-03-07 18:40:54 -0800"
     },
     "done": true
   },
@@ -428,21 +378,9 @@
     },
     "done": true
   },
-  "hopo:minecraft/adventure/locate_underwater_city": {
-    "criteria": {
-      "locate_underwater_city": "2024-03-07 18:31:43 -0800"
-    },
-    "done": true
-  },
   "natures_spirit:recipes/transportation/saxaul_boat": {
     "criteria": {
       "in_water": "2024-03-07 18:31:39 -0800"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/misc/string_from_gossypium": {
-    "criteria": {
-      "has_gossypium": "2024-03-07 18:40:54 -0800"
     },
     "done": true
   },
@@ -464,45 +402,15 @@
     },
     "done": true
   },
-  "miners_delight:recipes/building_blocks/cave_carrot_crate": {
-    "criteria": {
-      "has_cave_carrot": "2024-03-07 18:40:54 -0800"
-    },
-    "done": true
-  },
-  "betterdungeons:all_dungeons": {
-    "criteria": {
-      "in_better_spider_dungeon": "2024-03-07 18:30:18 -0800"
-    },
-    "done": false
-  },
   "natures_spirit:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2024-03-07 18:31:39 -0800"
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_red_mushroom": "2024-03-07 18:40:00 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-03-07 18:31:39 -0800"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/rabbit_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-03-07 18:40:00 -0800"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-03-07 18:40:00 -0800"
     },
     "done": true
   },
@@ -515,12 +423,6 @@
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2024-03-07 18:31:39 -0800"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/food/baked_cave_carrot_campfire": {
-    "criteria": {
-      "has_cave_carrot": "2024-03-07 18:40:54 -0800"
     },
     "done": true
   },
@@ -554,33 +456,9 @@
     },
     "done": true
   },
-  "miners_delight:recipes/food/vegan_wrap": {
-    "criteria": {
-      "has_cave_carrot": "2024-03-07 18:40:54 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_red_mushroom": "2024-03-07 18:40:00 -0800"
-    },
-    "done": true
-  },
   "natures_spirit:recipes/transportation/aspen_boat": {
     "criteria": {
       "in_water": "2024-03-07 18:31:39 -0800"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/food/baked_cave_carrot_smoking": {
-    "criteria": {
-      "has_cave_carrot": "2024-03-07 18:40:54 -0800"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/cooking/pasta_with_veggieballs": {
-    "criteria": {
-      "has_any_ingredient": "2024-03-07 18:40:54 -0800"
     },
     "done": true
   },
@@ -614,6 +492,121 @@
     },
     "done": true
   },
+  "natures_spirit:recipes/transportation/cedar_boat": {
+    "criteria": {
+      "in_water": "2024-03-07 18:31:39 -0800"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/larch_boat": {
+    "criteria": {
+      "in_water": "2024-03-07 18:31:39 -0800"
+    },
+    "done": true
+  },
+  "hopo:minecraft/adventure/locate_all_underwater_structures": {
+    "criteria": {
+      "locate_underwater_small_ruins": "2024-03-07 18:32:46 -0800",
+      "locate_underwater_city": "2024-03-07 18:31:43 -0800"
+    },
+    "done": false
+  },
+  "hopo:minecraft/adventure/locate_underwater_city": {
+    "criteria": {
+      "locate_underwater_city": "2024-03-07 18:31:43 -0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-03-07 18:40:00 -0800"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/cave_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-03-07 18:40:00 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2024-03-07 18:40:00 -0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-03-07 18:40:00 -0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-03-07 18:40:00 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2024-03-07 18:40:00 -0800"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/vegan_hamburger": {
+    "criteria": {
+      "has_cave_carrot": "2024-03-07 18:40:54 -0800"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/baked_cave_carrot": {
+    "criteria": {
+      "has_cave_carrot": "2024-03-07 18:40:54 -0800"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/cave_carrots_from_crate": {
+    "criteria": {
+      "has_cave_carrot": "2024-03-07 18:40:54 -0800"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/misc/string_from_gossypium": {
+    "criteria": {
+      "has_gossypium": "2024-03-07 18:40:54 -0800"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/building_blocks/cave_carrot_crate": {
+    "criteria": {
+      "has_cave_carrot": "2024-03-07 18:40:54 -0800"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/baked_cave_carrot_campfire": {
+    "criteria": {
+      "has_cave_carrot": "2024-03-07 18:40:54 -0800"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/vegan_wrap": {
+    "criteria": {
+      "has_cave_carrot": "2024-03-07 18:40:54 -0800"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/baked_cave_carrot_smoking": {
+    "criteria": {
+      "has_cave_carrot": "2024-03-07 18:40:54 -0800"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/pasta_with_veggieballs": {
+    "criteria": {
+      "has_any_ingredient": "2024-03-07 18:40:54 -0800"
+    },
+    "done": true
+  },
   "miners_delight:recipes/food/improvised_barbecue_stick": {
     "criteria": {
       "has_cave_carrot": "2024-03-07 18:40:54 -0800"
@@ -626,21 +619,39 @@
     },
     "done": true
   },
-  "natures_spirit:recipes/transportation/cedar_boat": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "in_water": "2024-03-07 18:31:39 -0800"
+      "has_lots_of_items": "2024-03-13 18:26:42 -0700"
     },
     "done": true
   },
-  "betterdungeons:spider_dungeon": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "in_better_spider_dungeon": "2024-03-07 18:30:18 -0800"
+      "killed_by_something": "2024-03-13 19:06:54 -0700"
     },
     "done": true
   },
-  "natures_spirit:recipes/transportation/larch_boat": {
+  "minecraft:sihywtcamd/root": {
     "criteria": {
-      "in_water": "2024-03-07 18:31:39 -0800"
+      "killed_by_something": "2024-03-13 19:06:54 -0700"
+    },
+    "done": true
+  },
+  "surface:taiga/taiga": {
+    "criteria": {
+      "requirement": "2024-03-13 19:49:05 -0700"
+    },
+    "done": true
+  },
+  "totw_reworked:root": {
+    "criteria": {
+      "sample_trigger": "2024-03-13 19:50:17 -0700"
+    },
+    "done": true
+  },
+  "totw_modded:root": {
+    "criteria": {
+      "sample_trigger": "2024-03-13 19:50:17 -0700"
     },
     "done": true
   },

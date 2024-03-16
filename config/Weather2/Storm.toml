@@ -49,10 +49,10 @@
 	Storm_OddsTo1OfOceanBasedStorm = 300
 	#-
 	#Range: > -2147483648
-	Storm_PercentChanceOf_HighWind = 90
+	Storm_PercentChanceOf_HighWind = 70
 	#-
 	#Range: > -2147483648
-	Storm_PercentChanceOf_Hail = 80
+	Storm_PercentChanceOf_Hail = 0
 	#-
 	#Range: > -2147483648
 	Storm_PercentChanceOf_F0_Tornado = 70

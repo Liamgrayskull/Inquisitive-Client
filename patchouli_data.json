@@ -30,7 +30,9 @@
         "scriptor:advanced/crystals",
         "scriptor:discovery/scraps",
         "scriptor:discovery/identify",
-        "scriptor:casting/verbal"
+        "scriptor:casting/verbal",
+        "scriptor:casting/lecterns",
+        "scriptor:discovery/tomes"
       ],
       "bookmarks": [],
       "completedManualQuests": []

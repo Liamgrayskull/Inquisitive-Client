@@ -101,12 +101,6 @@
     },
     "done": true
   },
-  "create_connected:root": {
-    "criteria": {
-      "0": "2024-03-10 19:59:48 -0700"
-    },
-    "done": true
-  },
   "etched:recipes/misc/boombox": {
     "criteria": {
       "has_jukebox": "2024-03-10 19:59:48 -0700"
@@ -917,30 +911,6 @@
     },
     "done": true
   },
-  "cold_sweat:huddle_close": {
-    "criteria": {
-      "requirement": "2024-03-11 16:49:43 -0700"
-    },
-    "done": true
-  },
-  "cold_sweat:root": {
-    "criteria": {
-      "requirement": "2024-03-11 16:49:43 -0700"
-    },
-    "done": true
-  },
-  "cold_sweat:recipes/thermometer": {
-    "criteria": {
-      "temperature": "2024-03-11 16:49:43 -0700"
-    },
-    "done": true
-  },
-  "cold_sweat:extreme_temps": {
-    "criteria": {
-      "requirement": "2024-03-11 16:49:43 -0700"
-    },
-    "done": true
-  },
   "minecraft:sihywtcamd/enter_messy_cobweb": {
     "criteria": {
       "enter_messy_cobweb": "2024-03-11 16:54:48 -0700"
@@ -1193,12 +1163,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/sculk_boomer": {
-    "criteria": {
-      "capsid": "2024-03-11 18:41:24 -0700"
-    },
-    "done": true
-  },
   "spelunkery:recipes/sculk_vein": {
     "criteria": {
       "has_item": "2024-03-11 18:41:21 -0700"
@@ -1208,6 +1172,36 @@
   "spelunkery:recipes/sculk": {
     "criteria": {
       "has_item": "2024-03-11 18:41:21 -0700"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sculk_boomer": {
+    "criteria": {
+      "capsid": "2024-03-11 18:41:24 -0700"
+    },
+    "done": true
+  },
+  "cold_sweat:root": {
+    "criteria": {
+      "requirement": "2024-03-12 17:36:01 -0700"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/thermometer": {
+    "criteria": {
+      "temperature": "2024-03-12 17:36:01 -0700"
+    },
+    "done": true
+  },
+  "cold_sweat:extreme_temps": {
+    "criteria": {
+      "requirement": "2024-03-12 17:36:01 -0700"
+    },
+    "done": true
+  },
+  "goety:goety/root": {
+    "criteria": {
+      "tick": "2024-03-12 17:42:32 -0700"
     },
     "done": true
   },

@@ -10,8 +10,9 @@ sortReversed:false
 ignoreHeightmaps:false
 
 //dimension types (DO NOT EDIT)
+dimensionType:minecraft$the_nether:minecraft$the_nether
+dimensionType:createteleporters$pocket_dimension:createteleporters$pocket_dimension
 dimensionType:ad_astra$moon:ad_astra$moon
 dimensionType:planetsplus$diater:planetsplus$diater
 dimensionType:planetsplus$vulcan:planetsplus$vulcan
 dimensionType:minecraft$overworld:minecraft$overworld
-dimensionType:minecraft$the_nether:minecraft$the_nether

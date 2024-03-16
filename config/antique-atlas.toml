@@ -59,7 +59,7 @@
 	# This is useful in case of changes in coastline (including small ponds of water and lava), or if land disappears completely (for sky worlds).
 	# Disable for better performance.
 	# default: true
-	doRescan = true
+	doRescan = false
 	# The number of area scans between full rescans.
 	# Higher value gives better performance.
 	# range[1, 1000]

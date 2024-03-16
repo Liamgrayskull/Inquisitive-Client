@@ -109,6 +109,8 @@
 				panda = true
 				glow_item_frame = true
 				camel = true
+				blaze = true
+				chest_boat = true
 
 			[light_sources.settings.entities.alexsmobs]
 				crow = true
@@ -191,6 +193,9 @@
 				mimic_octopus = true
 				guster = true
 				maned_wolf = true
+				void_portal = true
+				hammerhead_shark = true
+				jerboa = true
 
 			[light_sources.settings.entities.spawn]
 				hamster = true
@@ -377,6 +382,10 @@
 
 			[light_sources.settings.entities.immersive_aircraft]
 				gyrodyne = true
+				biplane = true
+				quadrocopter = true
+				airship = true
+				cargo_airship = true
 
 			[light_sources.settings.entities.sculkhorde]
 				sculk_enderman = true
@@ -447,4 +456,14 @@
 
 			[light_sources.settings.entities.origins]
 				enderian_pearl = true
+
+			[light_sources.settings.entities.exposure]
+				photograph = true
+
+			[light_sources.settings.entities.natures_spirit]
+				cypress_boat = true
+				fir_boat = true
+
+			[light_sources.settings.entities.etcetera]
+				chapple = true
 

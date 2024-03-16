@@ -7,8 +7,8 @@ B:force_fullscreen = 'false';
 
 ##[customization]
 
-B:show_customization_overlay = 'true';
-B:advanced_customization_mode = 'false';
+B:show_customization_overlay = 'false';
+B:advanced_customization_mode = 'true';
 
 
 ##[loading]

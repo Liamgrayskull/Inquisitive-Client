@@ -1,4 +1,4 @@
-[19:14:27] [WARN] [FabricLoader/Resolution]: Mod resolution failed
-[19:14:27] [INFO] [FabricLoader/Resolution]: Immediate reason: [HARD_DEP_NO_CANDIDATE antique_fwaystones 1.1.0+1.19 {depends fwaystones @ [>=3.0.3+MC1.19.2]}, ROOT_FORCELOAD_SINGLE antique_fwaystones 1.1.0+1.19]
-[19:14:27] [INFO] [FabricLoader/Resolution]: Reason: [HARD_DEP antique_fwaystones 1.1.0+1.19 {depends fwaystones @ [>=3.0.3+MC1.19.2]}]
-[19:14:27] [INFO] [FabricLoader/Resolution]: Fix: add [add:fwaystones 3.0.3+MC1.19.2 ([[3.0.3+MC1.19.2,∞)])], remove [], replace []
+[17:39:24] [WARN] [FabricLoader/Resolution]: Mod resolution failed
+[17:39:24] [INFO] [FabricLoader/Resolution]: Immediate reason: [HARD_DEP_NO_CANDIDATE jewelry 1.2.3+1.20.1 {depends spell_power @ [*]}, ROOT_FORCELOAD_SINGLE jewelry 1.2.3+1.20.1]
+[17:39:24] [INFO] [FabricLoader/Resolution]: Reason: [HARD_DEP jewelry 1.2.3+1.20.1 {depends spell_power @ [*]}, HARD_DEP jewelry 1.2.3+1.20.1 {depends projectile_damage @ [*]}]
+[17:39:24] [INFO] [FabricLoader/Resolution]: Fix: add [add:spell_power 1 ([(-∞,∞)]), add:projectile_damage 1 ([(-∞,∞)])], remove [], replace []

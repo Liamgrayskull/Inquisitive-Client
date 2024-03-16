@@ -242,3 +242,15 @@
 		#Whether Warped Toads cant impossibly eat Warped Moscos
 		moscoconsume = true
 
+	[Mobs.Skreecher]
+		#Whether Skreecher's soul can be used on a Screacher to allow it to spawn wardens
+		skreecherward = true
+
+	[Mobs."Snow Leopard"]
+		#Whether Snow Leopards can get rare items when killing specific mobs
+		snowluck = true
+
+	[Mobs."Soul Vulture"]
+		#Whether Soul Vultures increase soul level no matter what when attacking
+		soulbuff = true
+

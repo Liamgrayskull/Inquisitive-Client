@@ -19,7 +19,7 @@
 	#Range: > -2147483648
 	Cloud_Formation_MinDistBetweenSpawned = 1200
 	#For a second layer of passive non storm progressing cloudOption
-	Cloud_Layer1_Enable = true
+	Cloud_Layer1_Enable = false
 	#-
 	#Range: > -2147483648
 	Cloud_Layer0_Height = 294

@@ -1,6 +1,26 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:ruby_exchange:ruby_card",
+    "item:immersive_aircraft:quadrocopter",
+    "item:scriptor:casting_crystal",
+    "item:natures_spirit:chalk_powder",
+    "item:scriptor:chalk",
+    "item:scriptor:spellbook_binder",
+    "item:scriptor:leather_binder",
+    "item:scriptor:book_of_books{}",
+    "item:minecraft:tuff",
+    "item:flying_stuff:celestium_block",
+    {
+      "type": "jemi",
+      "uid": "effect:cold_sweat:insulated"
+    },
+    {
+      "type": "fluid",
+      "id": "ad_astra:oil",
+      "amount": 1000
+    },
+    "item:ad_astra:oil_bucket",
     "item:minecraft:oak_button",
     "item:alexscaves:coprolith",
     "item:enlightened_end:stardust",
@@ -11,7 +31,6 @@
     "item:alexscaves:pure_darkness",
     "item:galosphere:lichen_moss",
     "item:minecraft:stone",
-    "item:alexsmobsinteraction:swatter{Damage:0}",
     "item:cloudstorage:guide_book",
     "item:natures_spirit:chert",
     "item:minecraft:bamboo_block",
@@ -65,7 +84,6 @@
     "item:minecraft:leather_chestplate{Damage:0}",
     "item:sullysmod:jade_shield{Damage:0,HideFlags:2}",
     "item:galosphere:sterling_helmet{Damage:0}",
-    "item:scriptor:casting_crystal",
     "item:minecraft:elytra{Damage:0,SimpleInsulation:[]}",
     {
       "type": "jemi",
@@ -73,14 +91,9 @@
     },
     "item:everycomp:ap/quark/ancient_board_stairs",
     "item:minecraft:stone_bricks",
-    "item:flying_stuff:celestium_block",
-    "item:create_connected:control_chip",
     "item:immersive_aircraft:engine",
     "item:sereneseasons:calendar",
     "item:waystones:warp_stone{Damage:0}",
-    "item:scriptor:chalk",
-    "item:scriptor:spellbook_binder",
-    "item:scriptor:leather_binder",
     "item:scriptor:player_casting_crystal",
     "item:exposure:lightroom",
     "item:immersive_weathering:ice_sickle{Damage:0}",
@@ -5389,7 +5402,6 @@
     "item:integrated_stronghold:music_disc_forlorn",
     "item:etcetera:trader_hood{}",
     "item:etcetera:trader_robe{}",
-    "item:create_connected:incomplete_control_chip",
     "item:railways:white_conductor_cap{}",
     {
       "type": "jemi",
@@ -5406,11 +5418,6 @@
     {
       "type": "fluid",
       "id": "ad_astra:cryo_fuel",
-      "amount": 0
-    },
-    {
-      "type": "fluid",
-      "id": "ad_astra:fuel",
       "amount": 0
     },
     {
@@ -6448,13 +6455,6 @@
     "item:ad_astra:martian_raptor_spawn_egg",
     "item:ad_astra:star_crawler_spawn_egg",
     "item:ad_astra:sulfur_creeper_spawn_egg",
-    "item:create_connected:control_chip",
-    "item:create_connected:music_disc_interlude",
-    "item:create_connected:music_disc_elevator",
-    "item:create_connected:cherry_window",
-    "item:create_connected:bamboo_window",
-    "item:create_connected:cherry_window_pane",
-    "item:create_connected:bamboo_window_pane",
     "item:mighty_mail:cherry_mail_box",
     "item:mighty_mail:mangrove_mail_box",
     "item:mighty_mail:dark_oak_mail_box",
@@ -8933,6 +8933,112 @@
     "item:twigs:mossy_brick_wall",
     "item:twigs:smooth_basalt_brick_stairs",
     "item:twigs:smooth_basalt_brick_slab",
-    "item:twigs:smooth_basalt_brick_wall"
+    "item:twigs:smooth_basalt_brick_wall",
+    {
+      "type": "jemi",
+      "uid": "effect:cold_sweat:insulated"
+    },
+    {
+      "type": "jemi",
+      "uid": "effect:cold_sweat:grace"
+    },
+    {
+      "type": "jemi",
+      "uid": "effect:cold_sweat:ice_resistance"
+    },
+    {
+      "type": "jemi",
+      "uid": "effect:xaeroworldmap:no_cave_maps_harmful"
+    },
+    {
+      "type": "jemi",
+      "uid": "effect:xaeroworldmap:no_cave_maps"
+    },
+    {
+      "type": "jemi",
+      "uid": "effect:xaeroworldmap:no_world_map_harmful"
+    },
+    {
+      "type": "jemi",
+      "uid": "effect:xaerominimap:no_entity_radar"
+    },
+    {
+      "type": "jemi",
+      "uid": "effect:xaerominimap:no_entity_radar_harmful"
+    },
+    {
+      "type": "jemi",
+      "uid": "effect:xaerominimap:no_waypoints"
+    },
+    {
+      "type": "jemi",
+      "uid": "effect:xaerominimap:no_waypoints_harmful"
+    },
+    {
+      "type": "jemi",
+      "uid": "effect:xaerominimap:no_cave_maps"
+    },
+    {
+      "type": "jemi",
+      "uid": "effect:xaerominimap:no_cave_maps_harmful"
+    },
+    {
+      "type": "jemi",
+      "uid": "effect:xaerominimap:no_minimap"
+    },
+    {
+      "type": "jemi",
+      "uid": "effect:xaerominimap:no_minimap_harmful"
+    },
+    {
+      "type": "jemi",
+      "uid": "effect:xaeroworldmap:no_world_map"
+    },
+    {
+      "type": "fluid",
+      "id": "ad_astra:fuel",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "createdieselgenerators:ethanol",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "createdieselgenerators:plant_oil",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "createdieselgenerators:crude_oil",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "createdieselgenerators:biodiesel",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "createdieselgenerators:diesel",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "createdieselgenerators:gasoline",
+      "amount": 0
+    },
+    "item:vanity:design{Design:{Id:\"elemental:subzero\"}}",
+    "item:vanity:design{Design:{Id:\"ornate_weaponry:ornate\"}}",
+    "item:vanity:design{Design:{Id:\"vanity_invisible_armory:invisibility\"}}",
+    "item:vanity:design{Design:{Id:\"vanity_aesthetic_armory:fine_swordsmithing\"}}",
+    "item:vanity:design{Design:{Id:\"vanity_aesthetic_armory:polearm\"}}",
+    "item:vanity:design{Design:{Id:\"elemental:thunder\"}}",
+    "item:vanity:design{Design:{Id:\"ancient_tools:ancient\"}}",
+    "item:vanity:design{Design:{Id:\"vanity_colossal_weapons:heavy_blacksmithing\"}}",
+    "item:vanity:design{Design:{Id:\"vanity_aesthetic_armory:blacksmithing\"}}",
+    "item:vanity:design{Design:{Id:\"elemental:molten\"}}",
+    "item:vanity:design{Design:{Id:\"elemental:terra\"}}"
   ]
 }
