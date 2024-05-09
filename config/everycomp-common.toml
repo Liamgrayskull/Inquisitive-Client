@@ -24,47 +24,12 @@
 
 		[general.types.wood_type]
 
-			[general.types.wood_type.gardens_of_the_dead]
-				soulblight = true
-				whistlecane = true
-
 			[general.types.wood_type.habitat]
-				fairy_ring_mushroom = true
-
-			[general.types.wood_type.phantasm]
-				pream = true
-
-			[general.types.wood_type.natures_spirit]
-				redwood = true
-				sugi = true
-				wisteria = true
-				fir = true
-				willow = true
-				aspen = true
-				maple = true
-				cypress = true
-				olive = true
-				joshua = true
-				ghaf = true
-				palo_verde = true
-				coconut = true
-				cedar = true
-				larch = true
-				mahogany = true
-				saxaul = true
-
-			[general.types.wood_type.create_dd]
-				rose = true
-				smoked = true
-				spirit = true
-				rubber = true
+				fairy_ring_mushroom = false
 
 			[general.types.wood_type.enlightened_end]
 				indigo = true
 				cerulean = true
-
-			[general.types.wood_type.betterarcheology]
-				rotten = true
 
 			[general.types.wood_type.spawn]
 				rotten = true
@@ -76,16 +41,14 @@
 			[general.types.wood_type.architects_palette]
 				twisted = true
 
-			[general.types.wood_type.outer_end]
-				azure = true
-
 			[general.types.wood_type.quark]
-				azalea = true
+				azalea = false
 				ancient = true
 				blossom = true
 
 			[general.types.wood_type.flying_stuff]
-				glaciated = true
+				glaciated = false
+				lavic = false
 
 			[general.types.wood_type.ad_astra]
 				aeronos = true
@@ -93,54 +56,30 @@
 				glacian = true
 
 			[general.types.wood_type.createdieselgenerators]
-				chip_wood = true
+				chip_wood = false
+
+			[general.types.wood_type.bountifulfares]
+				hoary = true
+				walnut = true
+
+			[general.types.wood_type.autumnity]
+				maple = true
+
+			[general.types.wood_type.goodending]
+				muddy_oak = true
+				cypress = true
+
+			[general.types.wood_type.upgrade_aquatic]
+				driftwood = true
+				river = true
 
 		[general.types.leaves_type]
-
-			[general.types.leaves_type.phantasm]
-				pream = true
-
-			[general.types.leaves_type.natures_spirit]
-				redwood = true
-				sugi = true
-				wisteria = true
-				white_wisteria = true
-				blue_wisteria = true
-				pink_wisteria = true
-				purple_wisteria = true
-				part_white_wisteria = true
-				part_blue_wisteria = true
-				part_pink_wisteria = true
-				part_purple_wisteria = true
-				fir = true
-				willow = true
-				aspen = true
-				red_maple = true
-				orange_maple = true
-				yellow_maple = true
-				cypress = true
-				olive = true
-				joshua = true
-				ghaf = true
-				palo_verde = true
-				coconut = true
-				cedar = true
-				larch = true
-				yellow_larch = true
-				mahogany = true
-				saxaul = true
-
-			[general.types.leaves_type.create_dd]
-				rubber = true
 
 			[general.types.leaves_type.alexscaves]
 				ancient = true
 
 			[general.types.leaves_type.architects_palette]
 				twisted = true
-
-			[general.types.leaves_type.outer_end]
-				azure = true
 
 			[general.types.leaves_type.quark]
 				ancient = true
@@ -153,10 +92,64 @@
 			[general.types.leaves_type.ad_astra]
 				glacian = true
 
+			[general.types.leaves_type.bountifulfares]
+				apple = true
+				flowering_apple = true
+				orange = true
+				flowering_orange = true
+				lemon = true
+				flowering_lemon = true
+				plum = true
+				flowering_plum = true
+				hoary = true
+				walnut = true
+
+			[general.types.leaves_type.autumnity]
+				maple = true
+				yellow_maple = true
+				orange_maple = true
+				red_maple = true
+
+			[general.types.leaves_type.goodending]
+				cypress = true
+				dense_birch = true
+				dense_dark_oak = true
+
+			[general.types.leaves_type.upgrade_aquatic]
+				river = true
+
 		[general.types.cake]
 
-			[general.types.cake.natures_spirit]
-				cheese_block = true
+			[general.types.cake.createaddition]
+				chocolate_cake = true
+				honey_cake = true
+
+			[general.types.cake.bountifulfares]
+				cocoa_cake = true
+
+			[general.types.cake.collectorsreap]
+				lime_cake = true
+				pomegranate_cake = true
+
+			[general.types.cake.neapolitan]
+				vanilla_cake = true
+				chocolate_cake = true
+				strawberry_cake = true
+				banana_cake = true
+				mint_cake = true
+				adzuki_cake = true
+
+			[general.types.cake.seasonals]
+				pumpkin_cake = true
+				sweet_berry_cake = true
+				beetroot_cake = true
+
+			[general.types.cake.exquisito]
+				chorus_cake = true
+				ether_bulb_cake = true
+				jelly_ring_cake = true
+				nightshade_berry_cake = true
+				zure_berry_cake = true
 
 	#Disables specific entries
 	[general.entries]
@@ -166,21 +159,9 @@
 			[general.entries.wood_type.twigs]
 				table = true
 
-			[general.entries.wood_type.another_furniture]
-				table = true
-				flower_box = true
-				shelf = true
-				drawer = true
-				shutter = true
-				bench = true
-				chair = true
-
-			[general.entries.wood_type.friendsandfoes]
-				beehive = true
-
 			[general.entries.wood_type.create]
-				window = true
-				window_pane = true
+				window = false
+				window_pane = false
 
 			[general.entries.wood_type.farmersdelight]
 				cabinet = true
@@ -194,24 +175,35 @@
 
 			[general.entries.wood_type.quark]
 				hollow_log = true
-				vertical_planks = true
+				vertical_planks = false
 				post = true
-				trapped_chest = true
-				bookshelf = true
-				chest = true
+				trapped_chest = false
+				bookshelf = false
+				chest = false
 				stripped_post = true
 				ladder = true
 
-			[general.entries.wood_type.hearth_and_home]
-				lattice = true
-				parquet = true
-				vertical_trim = true
-				trim = true
-				sanded_wood = true
+			[general.entries.wood_type.mighty_mail]
+				mail_box = true
+
+			[general.entries.wood_type.woodworks]
+				trapped_chest = true
+				boards = false
+				chest = true
+				beehive = true
+				bookshelf = true
+				chiseled_bookshelf = true
+				ladder = true
+
+			[general.entries.wood_type.shutter]
+				shutter = true
 
 		[general.entries.leaves_type]
 
 			[general.entries.leaves_type.quark]
 				hedge = true
-				leaf_carpet = true
+				leaf_carpet = false
+
+			[general.entries.leaves_type.woodworks]
+				leaf_pile = false
 

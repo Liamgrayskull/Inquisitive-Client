@@ -28,7 +28,7 @@
 	#Range: > 0
 	atlatitan_max_block_explosion_resistance = 10
 	#True if the Tremorzilla beam breaks even more blocks.
-	devastating_tremorzilla_beam = true
+	devastating_tremorzilla_beam = false
 	#How long (in game ticks) between watcher possession attempts.
 	#Range: 20 ~ 24000
 	watcher_possession_cooldown = 300
@@ -54,7 +54,7 @@
 	nuke_spawn_item_drops = true
 	#The scale of nuclear bomb destruction. multiply this by 16 to get the radius of a nuclear bomb explosion.
 	#Range: 0.0 ~ 1.7976931348623157E308
-	nuclear_explosion_size_modifier = 3.0
+	nuclear_explosion_size_modifier = 1.0
 	#Whether the Totem of Possession can be applied to players.
 	totem_of_possession_works_on_players = true
 	#The amount of time (in ticks) it takes to charge up the Cloak of Darkness ability.

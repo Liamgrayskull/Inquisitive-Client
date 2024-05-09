@@ -2,11 +2,11 @@
 ---
 enable: true
 transitionSpeed: 1.0
-nimbleMounting: true
+nimbleMounting: false
 mountingEntityBlocklist: []
-nimbleElytra: true
-elytraRollScreen: true
+nimbleElytra: false
+elytraRollScreen: false
 elytraRollStrength: 20
 elytraTickDelay: 10
 frontKeyToggleMode: false
-expectedThirdPersonDistance: 4.0
+expectedThirdPersonDistance: 5.0

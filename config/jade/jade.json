@@ -16,7 +16,8 @@
     "reachDistance": 0.0,
     "debug": false,
     "itemModNameTooltip": false,
-    "bossBarOverlapMode": "HIDE_TOOLTIP"
+    "bossBarOverlapMode": "HIDE_TOOLTIP",
+    "builtinCamouflage": true
   },
   "overlay": {
     "activeTheme": "jade:create",

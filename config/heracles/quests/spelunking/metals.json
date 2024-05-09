@@ -1,0 +1,39 @@
+{
+  "dependencies": [],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "From the raw to the alloyship."
+    },
+    "description": [
+      "Metals behave similarly to vanilla, although more alloys exist and most are able to be melted down into (typically) incredibly hot molten metal, and by extention form into slag. "
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          -233,
+          110
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "molten_metals:ingot_mold",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Metals"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

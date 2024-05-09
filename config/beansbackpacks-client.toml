@@ -1,0 +1,9 @@
+
+["Beans Backpacks Config"]
+	#Allowed Values: DISABLE, HIDE_ABLE, SHOWN
+	"Inventory Help Menu visibility" = "HIDE_ABLE"
+	"Hidden Help Menu tabs" = []
+	"Instantly place backpack on hotkey press" = false
+	#Allowed Values: VANILLA, COMPACT, INTEGRATED
+	"Equipped Backpack Inventory Type" = "COMPACT"
+

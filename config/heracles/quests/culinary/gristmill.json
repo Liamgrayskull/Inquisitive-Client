@@ -1,0 +1,49 @@
+{
+  "dependencies": [],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "The grinder's cutting board. Makes Tea & Feldspar."
+    },
+    "description": [
+      "- Acts similarly to a furnace, but doesn't need any fuel.",
+      "",
+      "- Can be used to grind materials. (glowstone dust from glowstone, raw items from ore blocks, etc.)",
+      "",
+      "- The yield for resource collection recipes like ores and glowstone is slightly more efficient than simply breaking the block, but not as efficient as using a fortune enchantment.",
+      "",
+      "- Tea Blends can be crafted from Tea Leaves, Dried Tea Leaves, Chamomile Flowers, Honeysuckles, Violet Bellflowers, and Torchflowers at a Gristmill.",
+      "",
+      "- Feldspar can be obtained from grinding Granite, Diorite, or Andesite blocks at a Gristmill.",
+      "",
+      "- Does much more, try it out!"
+    ],
+    "groups": {
+      "Culinary": {
+        "position": [
+          74,
+          -186
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "bountifulfares:gristmill",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Gristmill"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

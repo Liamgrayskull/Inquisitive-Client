@@ -54,20 +54,6 @@
         "negate": false,
         "value": "terralith:warm_river"
       }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "natures_spirit:marsh"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "natures_spirit:bamboo_wetlands"
-      }
     ]
   ]
 }

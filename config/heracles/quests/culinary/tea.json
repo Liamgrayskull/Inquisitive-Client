@@ -1,0 +1,64 @@
+{
+  "dependencies": [
+    "gristmill"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Gimme it sis!"
+    },
+    "description": [
+      "- Tea Shrub plants can be found in Jungle and Forest biomes.",
+      "",
+      "- Drops Tea Berries, which can be used to replant Tea Shrubs.",
+      "",
+      "- Chamomile Flowers can be found often across the world.",
+      "",
+      "- Acts similarly to Pink Petals, where four flowers can be planted in one block.",
+      "",
+      "- Honeysuckle flowers can be found in Forest, Roofed Forest, and Savannah biomes.",
+      "",
+      "- Violet Bellflowers can be found in Taiga, Meadow, and Birch Forest biomes.",
+      "",
+      "Each type of tea removes a different set of negative status effects:",
+      "Green tea removes Stupor, Hunger, and Acidic",
+      "",
+      "Black tea removes Weakness, Slowness, and Acidic",
+      "",
+      "Chamomile tea removes Nausea, Poison, and Acidic",
+      "",
+      "Honeysuckle tea removes Wither, Weakness, and Acidic",
+      "",
+      "Bellflower tea removes Levitation, Slowness, and Acidic",
+      "",
+      "Torchflower tea removes Darkness, Blindness, and Acidic"
+    ],
+    "groups": {
+      "Culinary": {
+        "position": [
+          116,
+          -227
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "bountifulfares:tea_berries",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Tea"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

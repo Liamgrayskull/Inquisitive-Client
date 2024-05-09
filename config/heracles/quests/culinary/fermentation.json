@@ -1,0 +1,53 @@
+{
+  "dependencies": [
+    "gristmill"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "A bit different from a keg's wood body."
+    },
+    "description": [
+      "Fermentation Vessels can be created from six Ceramic Clay.",
+      "Giving a Fermentation Vessel a Water Bottle and an item to ferment will close the lid and begin the fermentation process, which takes a while.",
+      "",
+      "",
+      "Many things can be made through fermentation, such as:",
+      "Fermented Spider Eyes from Spider Eyes",
+      "Elderberry Wine from Elderberries (needs a bottle to collect)",
+      "Lapisberry Wine from Lapisberries (needs a bottle to collect)",
+      "Mead from Honey (needs a bottle to collect)",
+      "Apple Cider from Apples (needs a jar to collect)",
+      "Plum Cider from Plums (needs a jar to collect)]",
+      "Hoary Cider from Hoary Apples (needs a jar to collect)",
+      "Citrus Essence from Oranges or Lemons"
+    ],
+    "groups": {
+      "Culinary": {
+        "position": [
+          30,
+          -229
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "bountifulfares:fermentation_vessel",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Fermentation"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

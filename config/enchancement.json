@@ -36,7 +36,8 @@
     "enchancement:assimilation",
     "enchancement:slide",
     "enchancement:bouncy",
-    "minecraft:feather_falling"
+    "minecraft:feather_falling",
+    "enchancement:dash"
   ],
   "invertedList": false,
   "overhaulEnchantingTable": false,

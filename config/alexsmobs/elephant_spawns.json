@@ -60,13 +60,6 @@
         "negate": false,
         "value": "terralith:red_oasis"
       }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "natures_spirit:oak_savanna"
-      }
     ]
   ]
 }

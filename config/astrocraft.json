@@ -1,0 +1,553 @@
+{
+  "magnitudeLimit": 5,
+  "enableStarColor": true,
+  "angledSky": true,
+  "latitude": -30.0,
+  "baseSize": 1.0,
+  "enableRealStars": true,
+  "enableCustomStars": true,
+  "customStars": [],
+  "yearLength": 365.25,
+  "monthLength": 29.53,
+  "moonInclination": 12.875,
+  "enableEclipses": true,
+  "hideNewMoon": true,
+  "enablePlanets": true,
+  "observerPlanet": "Earth",
+  "planets": [
+    {
+      "name": "Mercury",
+      "orbit": {
+        "semiMajorAxis": 1.0,
+        "period": 1.0,
+        "inclination": 0.0,
+        "eccentricity": 0.0
+      },
+      "appearance": {
+        "magnitude": -2.0,
+        "texture": "NONE",
+        "rings": false,
+        "color": {
+          "red": 255,
+          "green": 255,
+          "blue": 255,
+          "alpha": 1.0
+        },
+        "diameter": 0.0
+      },
+      "moons": [],
+      "seed": -1676769549
+    },
+    {
+      "name": "Venus",
+      "orbit": {
+        "semiMajorAxis": 1.0,
+        "period": 1.0,
+        "inclination": 0.0,
+        "eccentricity": 0.0
+      },
+      "appearance": {
+        "magnitude": -2.0,
+        "texture": "NONE",
+        "rings": false,
+        "color": {
+          "red": 255,
+          "green": 255,
+          "blue": 255,
+          "alpha": 1.0
+        },
+        "diameter": 0.0
+      },
+      "moons": [],
+      "seed": 82541149
+    },
+    {
+      "name": "Earth",
+      "orbit": {
+        "semiMajorAxis": 1.0,
+        "period": 1.0,
+        "inclination": 0.0,
+        "eccentricity": 0.0
+      },
+      "appearance": {
+        "magnitude": -2.0,
+        "texture": "NONE",
+        "rings": false,
+        "color": {
+          "red": 255,
+          "green": 255,
+          "blue": 255,
+          "alpha": 1.0
+        },
+        "diameter": 0.0
+      },
+      "moons": [
+        {
+          "name": "Moon",
+          "orbit": {
+            "semiMajorAxis": 1.0,
+            "period": 1.0,
+            "inclination": 0.0,
+            "eccentricity": 0.0
+          },
+          "appearance": {
+            "magnitude": -2.0,
+            "texture": "NONE",
+            "rings": false,
+            "color": {
+              "red": 255,
+              "green": 255,
+              "blue": 255,
+              "alpha": 1.0
+            },
+            "diameter": 0.0
+          },
+          "moons": [],
+          "seed": 2404129
+        }
+      ],
+      "seed": 66725930
+    },
+    {
+      "name": "Mars",
+      "orbit": {
+        "semiMajorAxis": 1.0,
+        "period": 1.0,
+        "inclination": 0.0,
+        "eccentricity": 0.0
+      },
+      "appearance": {
+        "magnitude": -2.0,
+        "texture": "NONE",
+        "rings": false,
+        "color": {
+          "red": 255,
+          "green": 255,
+          "blue": 255,
+          "alpha": 1.0
+        },
+        "diameter": 0.0
+      },
+      "moons": [
+        {
+          "name": "Phobos",
+          "orbit": {
+            "semiMajorAxis": 1.0,
+            "period": 1.0,
+            "inclination": 0.0,
+            "eccentricity": 0.0
+          },
+          "appearance": {
+            "magnitude": -2.0,
+            "texture": "NONE",
+            "rings": false,
+            "color": {
+              "red": 255,
+              "green": 255,
+              "blue": 255,
+              "alpha": 1.0
+            },
+            "diameter": 0.0
+          },
+          "moons": [],
+          "seed": -1905184497
+        },
+        {
+          "name": "Deimos",
+          "orbit": {
+            "semiMajorAxis": 1.0,
+            "period": 1.0,
+            "inclination": 0.0,
+            "eccentricity": 0.0
+          },
+          "appearance": {
+            "magnitude": -2.0,
+            "texture": "NONE",
+            "rings": false,
+            "color": {
+              "red": 255,
+              "green": 255,
+              "blue": 255,
+              "alpha": 1.0
+            },
+            "diameter": 0.0
+          },
+          "moons": [],
+          "seed": 2043294249
+        }
+      ],
+      "seed": 2390773
+    },
+    {
+      "name": "Jupiter",
+      "orbit": {
+        "semiMajorAxis": 1.0,
+        "period": 1.0,
+        "inclination": 0.0,
+        "eccentricity": 0.0
+      },
+      "appearance": {
+        "magnitude": -2.0,
+        "texture": "NONE",
+        "rings": false,
+        "color": {
+          "red": 255,
+          "green": 255,
+          "blue": 255,
+          "alpha": 1.0
+        },
+        "diameter": 0.0
+      },
+      "moons": [
+        {
+          "name": "Io",
+          "orbit": {
+            "semiMajorAxis": 1.0,
+            "period": 1.0,
+            "inclination": 0.0,
+            "eccentricity": 0.0
+          },
+          "appearance": {
+            "magnitude": -2.0,
+            "texture": "NONE",
+            "rings": false,
+            "color": {
+              "red": 255,
+              "green": 255,
+              "blue": 255,
+              "alpha": 1.0
+            },
+            "diameter": 0.0
+          },
+          "moons": [],
+          "seed": 2374
+        },
+        {
+          "name": "Europa",
+          "orbit": {
+            "semiMajorAxis": 1.0,
+            "period": 1.0,
+            "inclination": 0.0,
+            "eccentricity": 0.0
+          },
+          "appearance": {
+            "magnitude": -2.0,
+            "texture": "NONE",
+            "rings": false,
+            "color": {
+              "red": 255,
+              "green": 255,
+              "blue": 255,
+              "alpha": 1.0
+            },
+            "diameter": 0.0
+          },
+          "moons": [],
+          "seed": 2086969790
+        },
+        {
+          "name": "Ganymede",
+          "orbit": {
+            "semiMajorAxis": 1.0,
+            "period": 1.0,
+            "inclination": 0.0,
+            "eccentricity": 0.0
+          },
+          "appearance": {
+            "magnitude": -2.0,
+            "texture": "NONE",
+            "rings": false,
+            "color": {
+              "red": 255,
+              "green": 255,
+              "blue": 255,
+              "alpha": 1.0
+            },
+            "diameter": 0.0
+          },
+          "moons": [],
+          "seed": -1656673826
+        },
+        {
+          "name": "Callisto",
+          "orbit": {
+            "semiMajorAxis": 1.0,
+            "period": 1.0,
+            "inclination": 0.0,
+            "eccentricity": 0.0
+          },
+          "appearance": {
+            "magnitude": -2.0,
+            "texture": "NONE",
+            "rings": false,
+            "color": {
+              "red": 255,
+              "green": 255,
+              "blue": 255,
+              "alpha": 1.0
+            },
+            "diameter": 0.0
+          },
+          "moons": [],
+          "seed": -107349853
+        }
+      ],
+      "seed": 412083453
+    },
+    {
+      "name": "Saturn",
+      "orbit": {
+        "semiMajorAxis": 1.0,
+        "period": 1.0,
+        "inclination": 0.0,
+        "eccentricity": 0.0
+      },
+      "appearance": {
+        "magnitude": -2.0,
+        "texture": "NONE",
+        "rings": false,
+        "color": {
+          "red": 255,
+          "green": 255,
+          "blue": 255,
+          "alpha": 1.0
+        },
+        "diameter": 0.0
+      },
+      "moons": [
+        {
+          "name": "Titan",
+          "orbit": {
+            "semiMajorAxis": 1.0,
+            "period": 1.0,
+            "inclination": 0.0,
+            "eccentricity": 0.0
+          },
+          "appearance": {
+            "magnitude": -2.0,
+            "texture": "NONE",
+            "rings": false,
+            "color": {
+              "red": 255,
+              "green": 255,
+              "blue": 255,
+              "alpha": 1.0
+            },
+            "diameter": 0.0
+          },
+          "moons": [],
+          "seed": 80818412
+        }
+      ],
+      "seed": -1825594389
+    },
+    {
+      "name": "Uranus",
+      "orbit": {
+        "semiMajorAxis": 1.0,
+        "period": 1.0,
+        "inclination": 0.0,
+        "eccentricity": 0.0
+      },
+      "appearance": {
+        "magnitude": -2.0,
+        "texture": "NONE",
+        "rings": false,
+        "color": {
+          "red": 255,
+          "green": 255,
+          "blue": 255,
+          "alpha": 1.0
+        },
+        "diameter": 0.0
+      },
+      "moons": [],
+      "seed": -1753208888
+    },
+    {
+      "name": "Neptune",
+      "orbit": {
+        "semiMajorAxis": 1.0,
+        "period": 1.0,
+        "inclination": 0.0,
+        "eccentricity": 0.0
+      },
+      "appearance": {
+        "magnitude": -2.0,
+        "texture": "NONE",
+        "rings": false,
+        "color": {
+          "red": 255,
+          "green": 255,
+          "blue": 255,
+          "alpha": 1.0
+        },
+        "diameter": 0.0
+      },
+      "moons": [
+        {
+          "name": "Triton",
+          "orbit": {
+            "semiMajorAxis": 1.0,
+            "period": 1.0,
+            "inclination": 0.0,
+            "eccentricity": 0.0
+          },
+          "appearance": {
+            "magnitude": -2.0,
+            "texture": "NONE",
+            "rings": false,
+            "color": {
+              "red": 255,
+              "green": 255,
+              "blue": 255,
+              "alpha": 1.0
+            },
+            "diameter": 0.0
+          },
+          "moons": [],
+          "seed": -1781594136
+        }
+      ],
+      "seed": -790606607
+    },
+    {
+      "name": "Pluto",
+      "orbit": {
+        "semiMajorAxis": 1.0,
+        "period": 1.0,
+        "inclination": 0.0,
+        "eccentricity": 0.0
+      },
+      "appearance": {
+        "magnitude": -2.0,
+        "texture": "NONE",
+        "rings": false,
+        "color": {
+          "red": 255,
+          "green": 255,
+          "blue": 255,
+          "alpha": 1.0
+        },
+        "diameter": 0.0
+      },
+      "moons": [
+        {
+          "name": "Charon",
+          "orbit": {
+            "semiMajorAxis": 1.0,
+            "period": 1.0,
+            "inclination": 0.0,
+            "eccentricity": 0.0
+          },
+          "appearance": {
+            "magnitude": -2.0,
+            "texture": "NONE",
+            "rings": false,
+            "color": {
+              "red": 255,
+              "green": 255,
+              "blue": 255,
+              "alpha": 1.0
+            },
+            "diameter": 0.0
+          },
+          "moons": [],
+          "seed": 2017202133
+        }
+      ],
+      "seed": 77215252
+    },
+    {
+      "name": "",
+      "orbit": {
+        "semiMajorAxis": 1.0,
+        "period": 1.0,
+        "inclination": 0.0,
+        "eccentricity": 0.0
+      },
+      "appearance": {
+        "magnitude": -2.0,
+        "texture": "NONE",
+        "rings": false,
+        "color": {
+          "red": 255,
+          "green": 255,
+          "blue": 255,
+          "alpha": 1.0
+        },
+        "diameter": 0.0
+      },
+      "moons": [],
+      "seed": 0
+    },
+    {
+      "name": "",
+      "orbit": {
+        "semiMajorAxis": 1.0,
+        "period": 1.0,
+        "inclination": 0.0,
+        "eccentricity": 0.0
+      },
+      "appearance": {
+        "magnitude": -2.0,
+        "texture": "NONE",
+        "rings": false,
+        "color": {
+          "red": 255,
+          "green": 255,
+          "blue": 255,
+          "alpha": 1.0
+        },
+        "diameter": 0.0
+      },
+      "moons": [],
+      "seed": 0
+    },
+    {
+      "name": "",
+      "orbit": {
+        "semiMajorAxis": 1.0,
+        "period": 1.0,
+        "inclination": 0.0,
+        "eccentricity": 0.0
+      },
+      "appearance": {
+        "magnitude": -2.0,
+        "texture": "NONE",
+        "rings": false,
+        "color": {
+          "red": 255,
+          "green": 255,
+          "blue": 255,
+          "alpha": 1.0
+        },
+        "diameter": 0.0
+      },
+      "moons": [],
+      "seed": 0
+    }
+  ],
+  "updateTime": 1000,
+  "roundStars": false,
+  "sunLight": 100,
+  "moonLight": 20,
+  "ambientLight": 10,
+  "maxSizeMultiplier": 0.5,
+  "diameterScale": 20.0,
+  "starBrightnessBase": 15.0,
+  "starBrightnessModifier": 0.75,
+  "deadzone": true,
+  "updateOffset": 0,
+  "copyCount": 64.0,
+  "copyRange": 4.0E-4,
+  "seasonOffset": 0.0,
+  "moonMode": false,
+  "globeMode": false,
+  "timezones": false,
+  "earthGlobe": {
+    "meridianX": 0.0,
+    "equatorZ": 0.0,
+    "blocks90": 16500.0
+  }
+}

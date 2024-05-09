@@ -5,7 +5,7 @@
 	#Range: > -2147483648
 	Storm_OddsTo1OfHighWindWaterSpout = 150
 	#-
-	Storm_FlyingBlocksHurt = false
+	Storm_FlyingBlocksHurt = true
 	#-
 	#Range: > -2147483648
 	Storm_MaxPerPlayerPerLayer = 20
@@ -16,7 +16,7 @@
 	#Range: > -2147483648
 	Storm_LightningStrikeBaseValueOddsTo1 = 200
 	#-
-	Storm_NoRainVisual = true
+	Storm_NoRainVisual = false
 	#-
 	#Range: > -2147483648
 	Storm_MaxRadius = 300
@@ -49,10 +49,10 @@
 	Storm_OddsTo1OfOceanBasedStorm = 300
 	#-
 	#Range: > -2147483648
-	Storm_PercentChanceOf_HighWind = 70
+	Storm_PercentChanceOf_HighWind = 90
 	#-
 	#Range: > -2147483648
-	Storm_PercentChanceOf_Hail = 0
+	Storm_PercentChanceOf_Hail = 80
 	#-
 	#Range: > -2147483648
 	Storm_PercentChanceOf_F0_Tornado = 70

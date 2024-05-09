@@ -1,0 +1,52 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "saltcavefind": {
+      "title": "Salt Caves",
+      "icon": {
+        "item": {
+          "id": "galosphere:pink_salt_shard",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "biomes": "galosphere:pink_salt_caves",
+      "type": "heracles:biome"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Saltines!"
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          -177,
+          -81
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:map",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "The Preserved"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "COMPLETED"
+  }
+}

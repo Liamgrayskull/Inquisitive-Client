@@ -10,6 +10,23 @@
       "-recommends": {
         "yet-another-config-lib": "*"
       }
+    },
+    "nvidium": {
+      "-depends": {
+        "sodium": "*"
+      }
+    },
+    "voxy": {
+      "-depends": {
+        "cloth-config": "*",
+        "minecraft": "*",
+        "sodium": "*"
+      }
+    },
+    "enchancement": {
+      "-depends": {
+        "tooltipfix": "*"
+      }
     }
   }
 }

@@ -1,9 +1,0 @@
-{
-  "configVersion": 2,
-  "windMode": "NONE",
-  "capeStyle": "BLOCKY",
-  "capeMovement": "BASIC_SIMULATION_3D",
-  "gravity": 25,
-  "heightMultiplier": 5,
-  "straveMultiplier": 2
-}

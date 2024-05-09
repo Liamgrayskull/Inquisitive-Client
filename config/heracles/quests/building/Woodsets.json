@@ -24,7 +24,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "text": "Woodsets"
+      "translate": "Woodsets"
     }
   },
   "settings": {

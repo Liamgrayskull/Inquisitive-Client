@@ -1,0 +1,37 @@
+{
+  "dependencies": [],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Barrel belly boldy!"
+    },
+    "description": [],
+    "groups": {
+      "Culinary": {
+        "position": [
+          -71,
+          -231
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "blocky_siege:keg_of_gunpowder_5",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Keg"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

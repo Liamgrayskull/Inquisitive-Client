@@ -2,83 +2,17 @@
   "bookGuiScale": 0,
   "clickedVisualize": false,
   "bookData": {
-    "parcool:parcool_guide": {
-      "viewedEntries": [
-        "parcool:actions/breakfall"
-      ],
-      "bookmarks": [],
-      "completedManualQuests": []
-    },
     "scriptor:scriptor_guide": {
       "viewedEntries": [
-        "scriptor:basics/actions",
-        "scriptor:basics/descriptors",
-        "scriptor:basics/starting",
-        "scriptor:basics/structure",
-        "scriptor:basics/subjects",
-        "scriptor:crafting/chalk",
-        "scriptor:crafting/lecterns",
-        "scriptor:casting/spellbooks",
-        "scriptor:casting/artifacts",
-        "scriptor:casting/fizzle",
-        "scriptor:crafting/obfuscation",
-        "scriptor:crafting/books",
-        "scriptor:crafting/crystals",
-        "scriptor:casting/chalk_circle",
-        "scriptor:advanced/duplicating_descriptors",
-        "scriptor:advanced/complex_spells",
-        "scriptor:advanced/crystals",
-        "scriptor:discovery/scraps",
-        "scriptor:discovery/identify",
-        "scriptor:casting/verbal",
-        "scriptor:casting/lecterns",
-        "scriptor:discovery/tomes"
+        "scriptor:basics/actions"
       ],
       "bookmarks": [],
       "completedManualQuests": []
     },
-    "patchouli:big_book_of_cook": {
+    "dimdungeons:guide_book": {
       "viewedEntries": [
-        "patchouli:fishing",
-        "patchouli:fauna",
-        "patchouli:cookingI",
-        "patchouli:cookingII",
-        "patchouli:cookingIII",
-        "patchouli:fermenting",
-        "patchouli:flora",
-        "patchouli:foraging"
-      ],
-      "bookmarks": [],
-      "completedManualQuests": []
-    },
-    "ad_astra:astrodux": {
-      "viewedEntries": [
-        "ad_astra:the_first_launch/generating_energy",
-        "ad_astra:the_first_launch/radio",
-        "ad_astra:the_first_launch/creating_plates",
-        "ad_astra:the_first_launch/making_steel",
-        "ad_astra:the_first_launch/your_first_rocket",
-        "ad_astra:the_moon/rover",
-        "ad_astra:the_first_launch/the_moon",
-        "ad_astra:the_first_launch/preparing_to_launch",
-        "ad_astra:the_first_launch/portable_resources",
-        "ad_astra:the_first_launch/oxygen",
-        "ad_astra:the_first_launch/fuel",
-        "ad_astra:the_hot_planets/proxima_centauri",
-        "ad_astra:the_hot_planets/jet_suit",
-        "ad_astra:the_moon/space_station",
-        "ad_astra:surviving_mars/detection",
-        "ad_astra:the_moon/lunarians"
-      ],
-      "bookmarks": [],
-      "completedManualQuests": []
-    },
-    "patchouli:lightroom_lexicon": {
-      "viewedEntries": [
-        "patchouli:attachments",
-        "patchouli:settings",
-        "patchouli:camera",
-        "patchouli:lightroom"
+        "dimdungeons:introduction",
+        "dimdungeons:simple_advice"
       ],
       "bookmarks": [],
       "completedManualQuests": []

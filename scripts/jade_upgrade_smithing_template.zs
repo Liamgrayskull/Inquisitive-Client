@@ -1,1 +1,0 @@
-craftingTable.addShaped("jadesmith", <item:sullysmod:jade_upgrade_smithing_template> * 1, [[<item:sullysmod:jade_totem>, <item:etcetera:hammer>, <item:sullysmod:jade_totem>], [<item:sullysmod:jade_totem>, <item:sullysmod:polished_jade_block>, <item:sullysmod:jade_totem>], [<item:sullysmod:jade_totem>, <item:sullysmod:polished_jade>, <item:sullysmod:jade_totem>]]);

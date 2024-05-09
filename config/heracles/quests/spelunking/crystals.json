@@ -1,0 +1,39 @@
+{
+  "dependencies": [],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Rock-grown!"
+    },
+    "description": [
+      "Crystals form (deceptively) in many places from many sources, yet the most common are compressed deep underground."
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          -204,
+          24
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:end_crystal",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Crystals"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

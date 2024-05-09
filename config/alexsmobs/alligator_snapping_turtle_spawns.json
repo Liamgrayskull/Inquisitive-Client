@@ -37,13 +37,6 @@
         "negate": false,
         "value": "terralith:orchid_swamp"
       }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "natures_spirit:marsh"
-      }
     ]
   ]
 }

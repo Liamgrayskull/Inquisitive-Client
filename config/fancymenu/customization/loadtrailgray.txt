@@ -3,13 +3,14 @@ type = fancymenu_layout
 layout-meta {
   identifier = drippy_loading_overlay
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1708568201220
+  last_edited_time = 1713241156549
   is_enabled = true
   randommode = true
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:df1edddc-b0bb-48f1-803d-e11771cb973c-1708568194105] = [groups:][instances:]
+  custom_menu_title = "Trail" - Gray
+  [loading_requirement_container_meta:3427d2b7-9e8d-488f-85af-3d1a67638c69-1713241116167] = [groups:][instances:]
 }
 
 menu_background {
@@ -39,7 +40,7 @@ scroll_list_customization {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/inqreresewn.gif
+  source = [source:local]/config/fancymenu/assets/gifs/inqreresewn.gif
   repeat_texture = false
   nine_slice_texture = false
   nine_slice_texture_border_x = 5
@@ -53,7 +54,7 @@ element {
   anchor_point = element
   anchor_point_element = 331a91c0-f286-4655-b479-354b5199a26a-1708318095837
   x = -25
-  y = -40
+  y = -43
   width = 50
   height = 50
   stretch_x = false
@@ -77,13 +78,13 @@ element {
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = bottom-centered
-  x = -150
-  y = -44
-  width = 300
-  height = 10
+  x = -241
+  y = -13
+  width = 481
+  height = 15
   stretch_x = false
   stretch_y = false
-  stay_on_screen = true
+  stay_on_screen = false
   element_loading_requirement_container_identifier = 5314f860-0648-4dc9-8cac-7eb9848b494d-1708318095837
   [loading_requirement_container_meta:5314f860-0648-4dc9-8cac-7eb9848b494d-1708318095837] = [groups:][instances:]
 }
@@ -98,28 +99,28 @@ element {
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = bottom-centered
-  x = -147
-  y = -41
-  width = 295
-  height = 4
+  x = -282
+  y = -15
+  width = 558
+  height = 2
   stretch_x = false
   stretch_y = false
-  stay_on_screen = true
+  stay_on_screen = false
   element_loading_requirement_container_identifier = ec80ff1b-4afd-4ad6-9d84-121b832ecb1a-1708409628297
   [loading_requirement_container_meta:ec80ff1b-4afd-4ad6-9d84-121b832ecb1a-1708409628297] = [groups:][instances:]
 }
 
 element {
-  interactable = true
-  source = "Trail" | By Gray
+  interactable = false
+  source = "Trail" - Gray
   source_mode = direct
   shadow = true
   scale = 1.0
   base_color = #FFFFFFFF
   text_border = 2
   line_spacing = 2
-  enable_scrolling = true
-  auto_line_wrapping = true
+  enable_scrolling = false
+  auto_line_wrapping = false
   remove_html_breaks = true
   code_block_single_color = #737373FF
   code_block_multi_color = #565656FF
@@ -134,21 +135,22 @@ element {
   bullet_list_spacing = 3.0
   parse_markdown = true
   element_type = text_v2
-  instance_identifier = 0f216e16-811b-42e8-a13d-b32a6cbea678-1708567076850
+  instance_identifier = ae2356d4-504d-46e9-b49d-387da05a92a2-1713145461831
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
   fade_in = false
   fade_in_speed = 1.0
-  anchor_point = mid-centered
-  x = -47
-  y = 102
-  width = 97
-  height = 26
+  anchor_point = element
+  anchor_point_element = 331a91c0-f286-4655-b479-354b5199a26a-1708318095837
+  x = -154
+  y = 0
+  width = 319
+  height = 15
   stretch_x = false
   stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = a000cf0a-6b29-451b-b8a2-55c25b0b9a28-1708567076850
-  [loading_requirement_container_meta:a000cf0a-6b29-451b-b8a2-55c25b0b9a28-1708567076850] = [groups:][instances:]
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 3e2e7bb2-2fba-4d9b-82d3-48a69029882c-1713145461831
+  [loading_requirement_container_meta:3e2e7bb2-2fba-4d9b-82d3-48a69029882c-1713145461831] = [groups:][instances:]
 }
 
 vanilla_button {

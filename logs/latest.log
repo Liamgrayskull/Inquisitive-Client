@@ -1,0 +1,573 @@
+[08May2024 19:17:18.875] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, Grayskulll, --version, 1.20.1, --gameDir, C:\Users\Liam\AppData\Roaming\com.modrinth.theseus\profiles\Inquisitive-main, --assetsDir, C:\Users\Liam\AppData\Roaming\com.modrinth.theseus\meta\assets, --assetIndex, 5, --uuid, 00d5f600d47041fbbc1e7861382e204d, --accessToken, ????????, --clientId, c4502edb-87c6-40cb-b595-64a280cf8906, --xuid, 0, --userType, msa, --versionType, release, --width, 854, --height, 480, --launchTarget, forgeclient, --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[08May2024 19:17:18.880] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.8.1 by Azul Systems, Inc.; OS Windows 10 arch amd64 version 10.0
+[08May2024 19:17:20.264] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow
+[08May2024 19:17:20.325] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.6
+[08May2024 19:17:20.496] [main/INFO] [EARLYDISPLAY/]: Requested GL version 4.6 got version 4.6
+[08May2024 19:17:20.536] [main/INFO] [mixin-transmog/]: Mixin Transmogrifier is definitely up to no good...
+[08May2024 19:17:20.564] [main/INFO] [mixin-transmog/]: crimes against java were committed
+[08May2024 19:17:20.565] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirector CoreMod initialized successfully!
+[08May2024 19:17:20.578] [main/INFO] [mixin-transmog/]: Original mixin transformation service successfully crobbed by mixin-transmogrifier!
+[08May2024 19:17:20.608] [pool-2-thread-1/INFO] [EARLYDISPLAY/]: GL info: NVIDIA GeForce GTX 1080/PCIe/SSE2 GL version 4.6.0 NVIDIA 551.76, NVIDIA Corporation
+[08May2024 19:17:20.611] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Liam/AppData/Roaming/com.modrinth.theseus/profiles/Inquisitive-main/mods/Connector-1.0.0-beta.43+1.20.1.jar%23452%23456!/ Service=ModLauncher Env=CLIENT
+[08May2024 19:17:21.696] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Liam\AppData\Roaming\com.modrinth.theseus\meta\libraries\net\minecraftforge\fmlcore\1.20.1-47.2.0\fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
+[08May2024 19:17:21.698] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Liam\AppData\Roaming\com.modrinth.theseus\meta\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.2.0\javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[08May2024 19:17:21.701] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Liam\AppData\Roaming\com.modrinth.theseus\meta\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.2.0\lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[08May2024 19:17:21.705] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Liam\AppData\Roaming\com.modrinth.theseus\meta\libraries\net\minecraftforge\mclanguage\1.20.1-47.2.0\mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[08May2024 19:17:22.503] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[08May2024 19:17:22.505] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: cloth_config. Using Mod File: C:\Users\Liam\AppData\Roaming\com.modrinth.theseus\profiles\Inquisitive-main\mods\cloth-config-11.1.118-forge.jar
+[08May2024 19:17:22.505] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: architectury. Using Mod File: C:\Users\Liam\AppData\Roaming\com.modrinth.theseus\profiles\Inquisitive-main\mods\architectury-9.2.14-forge.jar
+[08May2024 19:17:22.505] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: yet_another_config_lib_v3. Using Mod File: C:\Users\Liam\AppData\Roaming\com.modrinth.theseus\profiles\Inquisitive-main\mods\YetAnotherConfigLib-3.4.2+1.20.1-forge.jar
+[08May2024 19:17:22.506] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 121 dependencies adding them to mods collection
+[08May2024 19:17:24.443] [main/INFO] [dev.su5ed.sinytra.connector.locator.DependencyResolver/]: Dependency resolution found 68 candidates to load
+[08May2024 19:17:25.808] [main/INFO] [Configured Defaults/]: Applying default files...
+[08May2024 19:17:26.227] [main/INFO] [dev.su5ed.sinytra.connector.service.hacks.ModuleLayerMigrator/]: Successfully made module authlib transformable
+[08May2024 19:17:31.435] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[08May2024 19:17:32.435] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[08May2024 19:17:32.449] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclient' with arguments [--version, 1.20.1, --gameDir, C:\Users\Liam\AppData\Roaming\com.modrinth.theseus\profiles\Inquisitive-main, --assetsDir, C:\Users\Liam\AppData\Roaming\com.modrinth.theseus\meta\assets, --uuid, 00d5f600d47041fbbc1e7861382e204d, --username, Grayskulll, --assetIndex, 5, --accessToken, ????????, --clientId, c4502edb-87c6-40cb-b595-64a280cf8906, --xuid, 0, --userType, msa, --versionType, release, --width, 854, --height, 480]
+[08May2024 19:17:32.552] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.17.0+mc1.20.1: 78 options available, 3 override(s) found
+[08May2024 19:17:32.553] [main/WARN] [ModernFix/]: Option 'mixin.perf.faster_item_rendering' overriden (by user configuration) to 'true'
+[08May2024 19:17:32.553] [main/WARN] [ModernFix/]: Option 'mixin.perf.dynamic_resources' overriden (by user configuration) to 'true'
+[08May2024 19:17:32.553] [main/WARN] [ModernFix/]: Option 'mixin.perf.thread_priorities' overriden (by mods [smoothboot]) to 'false'
+[08May2024 19:17:32.554] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[08May2024 19:17:32.566] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[08May2024 19:17:32.634] [main/WARN] [mixin/]: Reference map 'mcpings-refmap.json' for mcpings.mixins.json could not be read. If this is a development environment you can ignore this message
+[08May2024 19:17:32.651] [main/WARN] [EmbeddiumConfig/]: Mod 'seamless_loading_screen' attempted to override option 'mixin.features.gui.fast_loading_screen', which doesn't exist, ignoring
+[08May2024 19:17:32.651] [main/WARN] [EmbeddiumConfig/]: Mod 'seamless_loading_screen' attempted to override option 'features.gui.screen', which doesn't exist, ignoring
+[08May2024 19:17:32.652] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 435 options available, 0 override(s) found
+[08May2024 19:17:32.653] [main/INFO] [Embeddium-GraphicsAdapterProbe/]: Searching for graphics cards...
+[08May2024 19:17:32.655] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/jellysquid/mods/sodium/client/compatibility/environment/OSInfo$OS
+[08May2024 19:17:32.873] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/jellysquid/mods/sodium/client/compatibility/environment/probe/GraphicsAdapterVendor
+[08May2024 19:17:32.875] [main/INFO] [Embeddium-GraphicsAdapterProbe/]: Found graphics card: GraphicsAdapterInfo[vendor=NVIDIA, name=NVIDIA GeForce GTX 1080, version=DriverVersion=31.0.15.5176]
+[08May2024 19:17:32.878] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/jellysquid/mods/sodium/client/compatibility/workarounds/Workarounds$Reference
+[08May2024 19:17:32.879] [main/WARN] [Embeddium-Workarounds/]: Sodium has applied one or more workarounds to prevent crashes or other issues on your system: [NVIDIA_THREADED_OPTIMIZATIONS]
+[08May2024 19:17:32.880] [main/WARN] [Embeddium-Workarounds/]: This is not necessarily an issue, but it may result in certain features or optimizations being disabled. You can sometimes fix these issues by upgrading your graphics driver.
+[08May2024 19:17:32.900] [main/WARN] [mixin/]: Reference map 'mixins.flying_stuff.refmap.json' for mixins.flying_stuff.json could not be read. If this is a development environment you can ignore this message
+[08May2024 19:17:32.903] [main/WARN] [mixin/]: Reference map 'exquisito.refmap.json' for exquisito.mixins.json could not be read. If this is a development environment you can ignore this message
+[08May2024 19:17:32.911] [main/WARN] [mixin/]: Reference map 'mynethersdelight.refmap.json' for mynethersdelight.mixins.json could not be read. If this is a development environment you can ignore this message
+[08May2024 19:17:32.933] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/fallenbreath/conditionalmixin/api/annotation/Condition$Type
+[08May2024 19:17:32.964] [main/INFO] [Radium Config/]: Loaded configuration file for Radium: 125 options available, 2 override(s) found
+[08May2024 19:17:33.021] [main/WARN] [mixin/]: Reference map 'emi-forge-refmap.json' for emi-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[08May2024 19:17:33.038] [main/WARN] [mixin/]: Reference map 'farmersrespite.refmap.json' for brewinandchewin.mixins.json could not be read. If this is a development environment you can ignore this message
+[08May2024 19:17:33.115] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/llamalad7/mixinextras/service/MixinExtrasVersion
+[08May2024 19:17:33.202] [main/WARN] [mixin/]: Reference map 'eureka-1201-forge-refmap.json' for vs_eureka.mixins.json could not be read. If this is a development environment you can ignore this message
+[08May2024 19:17:33.221] [main/WARN] [mixin/]: Reference map 'AchievementOptimizer.refmap.json' for achiopt.mixins.json could not be read. If this is a development environment you can ignore this message
+[08May2024 19:17:33.365] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting malte0811/ferritecore/mixin/config/FerriteMixinConfig$LithiumSupportState
+[08May2024 19:17:33.397] [main/INFO] [BadOptimizations/]: Loading config from C:\Users\Liam\AppData\Roaming\com.modrinth.theseus\profiles\Inquisitive-main\config\badoptimizations.txt
+[08May2024 19:17:33.397] [main/INFO] [BadOptimizations/]: Config version: 2
+[08May2024 19:17:33.397] [main/INFO] [BadOptimizations/]: BadOptimizations config dump:
+[08May2024 19:17:33.397] [main/INFO] [BadOptimizations/]: enable_toast_optimizations: true
+[08May2024 19:17:33.398] [main/INFO] [BadOptimizations/]: ignore_mod_incompatibilities: false
+[08May2024 19:17:33.398] [main/INFO] [BadOptimizations/]: lightmap_time_change_needed_for_update: 80
+[08May2024 19:17:33.398] [main/INFO] [BadOptimizations/]: enable_lightmap_caching: true
+[08May2024 19:17:33.398] [main/INFO] [BadOptimizations/]: enable_particle_manager_optimization: true
+[08May2024 19:17:33.398] [main/INFO] [BadOptimizations/]: enable_entity_renderer_caching: true
+[08May2024 19:17:33.398] [main/INFO] [BadOptimizations/]: enable_fps_string_optimization: true
+[08May2024 19:17:33.398] [main/INFO] [BadOptimizations/]: log_config: true
+[08May2024 19:17:33.398] [main/INFO] [BadOptimizations/]: enable_remove_redundant_fov_calculations: true
+[08May2024 19:17:33.398] [main/INFO] [BadOptimizations/]: config_version: 2
+[08May2024 19:17:33.398] [main/INFO] [BadOptimizations/]: enable_sky_angle_caching_in_worldrenderer: true
+[08May2024 19:17:33.398] [main/INFO] [BadOptimizations/]: enable_block_entity_renderer_caching: true
+[08May2024 19:17:33.398] [main/INFO] [BadOptimizations/]: skycolor_time_change_needed_for_update: 3
+[08May2024 19:17:33.398] [main/INFO] [BadOptimizations/]: enable_entity_flag_caching: true
+[08May2024 19:17:33.398] [main/INFO] [BadOptimizations/]: enable_debug_renderer_disable_if_not_needed: true
+[08May2024 19:17:33.398] [main/INFO] [BadOptimizations/]: enable_sky_color_caching: true
+[08May2024 19:17:33.399] [main/INFO] [BadOptimizations/]: enable_remove_tutorial_if_not_demo: true
+[08May2024 19:17:33.399] [main/INFO] [BadOptimizations/]: show_f3_text: true
+[08May2024 19:17:33.428] [main/WARN] [mixin/]: Reference map 'nerb-forge-refmap.json' for nerb.mixins.json could not be read. If this is a development environment you can ignore this message
+[08May2024 19:17:33.462] [main/WARN] [mixin/]: Reference map 'spelunkery-forge-refmap.json' for spelunkery.mixins.json could not be read. If this is a development environment you can ignore this message
+[08May2024 19:17:33.500] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting space/arim/dazzleconf/internal/type/CollectionKind
+[08May2024 19:17:33.515] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/yaml/snakeyaml/DumperOptions$ScalarStyle
+[08May2024 19:17:33.515] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/yaml/snakeyaml/DumperOptions$FlowStyle
+[08May2024 19:17:33.516] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/yaml/snakeyaml/DumperOptions$LineBreak
+[08May2024 19:17:33.517] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/yaml/snakeyaml/DumperOptions$NonPrintableStyle
+[08May2024 19:17:33.529] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/yaml/snakeyaml/nodes/NodeId
+[08May2024 19:17:33.535] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/yaml/snakeyaml/introspector/BeanAccess
+[08May2024 19:17:33.555] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/yaml/snakeyaml/comments/CommentType
+[08May2024 19:17:33.558] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/yaml/snakeyaml/events/Event$ID
+[08May2024 19:17:33.558] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/yaml/snakeyaml/tokens/Token$ID
+[08May2024 19:17:33.578] [main/WARN] [mixin/]: Reference map 'mysticaloaktree-common-refmap.json' for mysticaloaktree-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[08May2024 19:17:33.581] [main/WARN] [mixin/]: Reference map 'mysticaloaktree-forge-refmap.json' for mysticaloaktree.mixins.json could not be read. If this is a development environment you can ignore this message
+[08May2024 19:17:33.648] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ca/fxco/memoryleakfix/mixinextras/service/MixinExtrasVersion
+[08May2024 19:17:33.708] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/polymorph/common/integration/PolymorphIntegrations$Mod
+[08May2024 19:17:33.709] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/polymorph/common/integration/PolymorphIntegrations$Loader
+[08May2024 19:17:33.738] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fuzs/puzzleslib/api/core/v1/ModLoader
+[08May2024 19:17:33.742] [main/INFO] [Puzzles Lib/]: Loading 391 mods:
+	- achiopt 1.0.2
+	- ad_astra 1.15.18
+	- additionalplacements 1.8.0
+	- adtetra 2.0.0
+	- aiimprovements 0.5.2
+	- alexscaves 1.1.4
+	- alexsmobs 1.22.8
+	- allurement 4.0.0
+	- almostunified 1.20.1-0.9.3
+	- ambientenvironment 11.0.0.1
+	- amecsapi 1.5.3+mc1.20-pre1
+	- amendments 1.20-1.1.27
+	- animatica 0.61.20
+	- antique_atlas 2.7.21.20
+	- architects_palette 1.3.6.1
+	- architectury 9.2.14
+	- armorcurve 3.0
+	- armorstatues 8.0.6
+	- athena 3.1.2
+	- attributefix 21.0.4
+	- auditory 0.0.6-1.20.1
+	- authme 7.0.21.20
+	- autumnity 5.0.1
+	- badoptimizations 2.1.1
+	- balm 7.2.2
+	- bbs 1.20.1-0.1.3
+	- bedspreads 6.2.0+1.20.1
+	- berry_good 7.0.0
+	- betteradvancements 0.3.2.162
+	- betterclouds 1.3.161.20.1
+	- bettercombat 1.8.5+1.20.1
+	- betterf3 7.0.2
+	- blockofsky 0.3.0
+	- blockswap 5.0.0.0
+	- blocky_siege 6.1.91
+	- blue_endless_jankson 1.2.2
+	- blueprint 7.1.0
+	- blur 3.1.1
+	- bookshelf 20.1.10
+	- borderlessmining 1.1.81.20.1
+	- botarium 2.3.3
+	- bountifulfares 1.1.1-1.20.1
+	- breezy 1.1.1
+	- brewinandchewin 1.20.1-2.0
+	- buzzier_bees 6.0.0
+	- cardinal_components_base 5.2.2
+	- cardinal_components_entity 5.2.2
+	- cardinal_components_world 5.2.2
+	- catalogue 1.8.0
+	- cavedust 2.0.4
+	- cc_vs 1.20.1-forge-0.0.9
+	- chat_heads 0.10.33
+	- chatabove 1.0
+	- chatimpressiveanimation 1.0+mc1.20.4
+	- chatpatches 201.5.5
+	- chefsdelight 1.0.3-forge-1.20.1
+	- cherishedworlds 6.1.6+1.20.1
+	- citadel 2.5.4
+	- citresewn 1.1.51.20.1
+	- citresewn_defaults 1.1.51.20.1
+	- cloth_config 11.1.118
+	- cloudstorage 1.4.0
+	- cmdkeybind 1.6.3-1.20
+	- collective 7.56
+	- collectorsreap 1.3
+	- com_github_llamalad7_mixinextras 0.2.2
+	- com_github_mclegoman_releasetypeutils 2.0.0
+	- combatroll 1.3.2+1.20.1
+	- computercraft 1.110.3
+	- conditional_mixin 0.5.1
+	- configurabledeath 1.20.1-1.0.0
+	- connectorextras 1.10.1+1.20.1+dev-00000000
+	- connectorextras_architectury_bridge 1.10.1+1.20.1+dev-00000000
+	- connectorextras_continuity_compat 1.10.1+1.20.1+dev-00000000
+	- connectorextras_emi_bridge 1.10.1+1.20.1+dev-00000000
+	- connectorextras_energy_bridge 1.10.1+1.20.1+dev-00000000
+	- connectorextras_geckolib_fabric_compat 1.10.1+1.20.1+dev-00000000
+	- connectorextras_jei_bridge 1.10.1+1.20.1+dev-00000000
+	- connectorextras_kubejs_bridge 1.10.1+1.20.1+dev-00000000
+	- connectorextras_modmenu_bridge 1.10.1+1.20.1+dev-00000000
+	- connectorextras_pehkui_bridge 1.10.1+1.20.1+dev-00000000
+	- connectorextras_rei_bridge 1.10.1+1.20.1+dev-00000000
+	- connectorextras_terrablender_bridge 1.10.1+1.20.1+dev-00000000
+	- connectormod 1.0.0-beta.43+1.20.1
+	- continuity 3.0.0-beta.41.20.1
+	- controlling 12.0.2
+	- copperative 1.1.0
+	- coroutil 1.20.1-1.3.7
+	- corpse 1.20.1-1.0.12
+	- crafttweaker 14.0.38
+	- create 0.5.1.f
+	- create_central_kitchen 1.3.12
+	- create_dragon_lib 1.4.3
+	- create_interactive 1.0.2-beta.2
+	- create_oppenheimered 1.0.2
+	- createaddition 1.20.1-1.2.2
+	- createdieselgenerators 1.20.1-1.2h
+	- creativecore 2.11.27
+	- creativemenutweaks 1.0.0
+	- cristellib 1.1.5
+	- crowdin_translate 1.41.19.3
+	- culllessleaves 1.20.1-1.0.5
+	- debugify 1.20.12.0
+	- defaultoptions 18.0.1
+	- deleteworldstotrash 8.0.0
+	- dimdungeons 180
+	- do_a_barrel_roll 3.5.6+1.20.1
+	- domesticationinnovation 1.7.1
+	- drippyloadingscreen 3.0.1
+	- dungeonnowloading 1.3
+	- dynamic_fps 3.4.3
+	- e4mc_minecraft 4.0.1
+	- easyanvils 8.0.2
+	- easyshulkerboxes 8.0.2
+	- embeddium 0.3.18+mc1.20.1
+	- emi 1.1.6+1.20.1+forge
+	- enchancement 1.20-8
+	- enchdesc 17.0.14
+	- endrem 5.2.3-R-1.20.1
+	- enlightened_end 5.0.14
+	- entity_model_features 2.0.2
+	- entity_texture_features 6.0.1
+	- entityculling 1.6.2
+	- etcetera 1.20.1-1.1.3
+	- etched 3.0.1
+	- everycomp 1.20-2.6.55
+	- experimentalsettingsdisabler 3.0
+	- explosiveenhancement 1.2.1-1.20.x
+	- exposure 1.5.1
+	- exquisito 2.0.0
+	- extra_compat 1.4.13
+	- extraalchemy 1.10.0
+	- fabric_api 0.92.1+1.11.8+1.20.1
+	- fabric_api_base 0.4.31+ef105b4977
+	- fabric_api_lookup_api_v1 1.6.36+67f9824077
+	- fabric_biome_api_v1 13.0.13+dc36698e77
+	- fabric_block_api_v1 1.0.11+0e6cb7f777
+	- fabric_block_view_api_v2 1.0.1+0767707077
+	- fabric_blockrenderlayer_v1 1.1.41+1d0da21e77
+	- fabric_client_tags_api_v1 1.1.2+5d6761b877
+	- fabric_command_api_v1 1.2.34+f71b366f77
+	- fabric_command_api_v2 2.2.13+561530ec77
+	- fabric_content_registries_v0 4.0.11+a670df1e77
+	- fabric_convention_tags_v1 1.5.5+fa3d1c0177
+	- fabric_data_attachment_api_v1 1.0.0+30ef839e77
+	- fabric_data_generation_api_v1 12.3.4+369cb3a477
+	- fabric_dimensions_v1 2.1.54+8005d10d77
+	- fabric_entity_events_v1 1.6.0+6274ab9d77
+	- fabric_events_interaction_v0 0.6.2+0d0bd5a777
+	- fabric_game_rule_api_v1 1.0.40+683d4da877
+	- fabric_item_api_v1 2.1.28+4d0bbcfa77
+	- fabric_item_group_api_v1 4.0.12+c9161c2d77
+	- fabric_key_binding_api_v1 1.0.37+561530ec77
+	- fabric_language_kotlin 1.10.19kotlin.1.9.23
+	- fabric_lifecycle_events_v1 2.2.22+afab492177
+	- fabric_loot_api_v2 1.2.1+eb28f93e77
+	- fabric_message_api_v1 5.1.9+52cc178c77
+	- fabric_mining_level_api_v1 2.1.50+561530ec77
+	- fabric_model_loading_api_v1 1.0.3+6274ab9d77
+	- fabric_models_v0 0.4.2+7c3892a477
+	- fabric_networking_api_v1 1.3.11+503a202477
+	- fabric_object_builder_api_v1 11.1.3+2174fc8477
+	- fabric_particles_v1 1.1.2+78e1ecb877
+	- fabric_recipe_api_v1 1.0.21+514a076577
+	- fabric_registry_sync_v0 2.3.3+1c0ea72177
+	- fabric_renderer_api_v1 3.2.1+1d29b44577
+	- fabric_renderer_indigo 1.5.1+67f9824077
+	- fabric_rendering_data_attachment_v1 0.3.37+a6081afc77
+	- fabric_rendering_fluids_v1 3.0.28+4ac5e37a77
+	- fabric_rendering_v1 3.0.8+66e9a48f77
+	- fabric_resource_conditions_api_v1 2.3.8+9ad825cd77
+	- fabric_resource_loader_v0 0.11.10+bcd08ed377
+	- fabric_screen_api_v1 2.0.8+45a670a577
+	- fabric_screen_handler_api_v1 1.3.30+561530ec77
+	- fabric_simplelibs 2.0.0
+	- fabric_sound_api_v1 1.0.13+4f23bd8477
+	- fabric_transfer_api_v1 3.3.5+631c9cd677
+	- fabric_transitive_access_wideners_v1 4.3.1+1880499877
+	- fallingleaves 2.1.0
+	- fancymenu 3.2.2
+	- farmersdelight 1.20.1-1.2.4
+	- farsightedmobs 1.1
+	- fastbench 8.0.4
+	- faster_entity_animations 1.6
+	- fastfurnace 8.0.1
+	- fastsuite 5.0.1
+	- ferritecore 6.0.1
+	- floral_flair 1.20.1-2.2.0
+	- flying_stuff 0.2.1
+	- flywheel 0.6.10-7
+	- foglooksmodernnow 1.2.1
+	- folk_sisby_kaleido_config 0.2.01.2.0-beta.5
+	- forge 47.2.0
+	- forgeconfigapiport 8.0.0
+	- forgeconfigscreens 8.0.2
+	- forgivingvoid 10.0.0
+	- frame_changer 2.0.0
+	- framework 0.6.27
+	- fzzy_config 0.1.31.20.1
+	- galosphere 1.20.1-1.4.1
+	- geckolib 4.4.4
+	- goodending 1.20.1-1.0.1
+	- guardvillagers 1.20.1-1.6.5
+	- habitat 1.3.1
+	- hardcorerevival 12.0.2
+	- heartstone 1.20-1.3.0
+	- heracles 1.1.12
+	- hermes 1.6.0
+	- highlighter 1.1.9
+	- hourglass 1.2.1.1
+	- iceberg 1.1.21
+	- idas 1.9.3+1.20.1
+	- immediatelyfast 1.2.14+1.20.4
+	- immersive_aircraft 0.7.5+1.20.1
+	- immersive_weathering 1.20.1-2.0.1
+	- incontrol 1.20-9.2.5
+	- incubation 4.0.2
+	- infinite_music 0.3.0
+	- integrated_api 1.5.1+1.20.1-forge
+	- integrated_stronghold 1.1.1+1.20.1-forge
+	- invmove 0.8.4
+	- item_obliterator 1.7.0
+	- itemzoom 2.9.0
+	- jade 11.8.0
+	- jeed 1.20-2.1.12
+	- jei 15.3.0.4
+	- kiwi 11.6.2
+	- konkrete 1.8.0
+	- kotlinforforge 4.10.0
+	- kyrptconfig 1.5.6-1.20
+	- languagereload 1.5.101.20.1
+	- lazurite 1.0.4+mc1.20.1
+	- legendarytooltips 1.4.5
+	- libx 1.20.1-5.0.14
+	- lootr 0.7.33.82
+	- man_of_many_planes 0.0.3+1.20.1
+	- map_atlases 1.20-6.0.3
+	- mcpings 1.0.0-alpha3
+	- melody 1.0.2
+	- memoryleakfix 1.1.5
+	- midnightlib 1.4.2
+	- mighty_mail 1.0.14
+	- minecraft 1.20.1
+	- miners_delight 1.20.1-1.2.3
+	- mixinextras 0.3.5
+	- mixinsquared 0.1.1
+	- mobtimizations 1.20.1-1.0.0
+	- modelfix 1.15
+	- moderately_enough_effect_desc 3.3.0
+	- modernfix 5.17.0+mc1.20.1
+	- modmenu 7.2.2
+	- monobank 1.1.4
+	- moonlight 1.20-2.11.17
+	- morebannerfeatures 1.2.0
+	- moremobvariants 1.3.0.1
+	- mousetweaks 2.25
+	- moyai 1.20-2.0.2
+	- mru 0.4.01.20
+	- mutil 6.1.1
+	- mynethersdelight 1.20.1-1.1
+	- mysticaloaktree 1.20-1.11
+	- naturescompass 1.20.1-1.11.2-forge
+	- neapolitan 5.0.0
+	- nebs 1.8.0
+	- necronomicon 1.4.2
+	- nerb 0.3
+	- nicer_skies 1.3.0
+	- noisium 2.0.3+mc1.20-1.20.1
+	- notenoughanimations 1.7.3
+	- nyfsspiders 2.1.1
+	- obsidianui 0.2.3+mc1.20.1
+	- octolib 0.3
+	- onion_onion 2.0.1
+	- optiglue 2.1.7-mc.1.19.3
+	- optigui 2.1.7
+	- oreganized 2.0.3
+	- org_apache_commons_commons_text 1.10.0
+	- org_ini4j_ini4j 0.5.4
+	- org_jetbrains_kotlin_kotlin_reflect 1.9.23
+	- org_jetbrains_kotlin_kotlin_stdlib 1.9.23
+	- org_jetbrains_kotlin_kotlin_stdlib_jdk7 1.9.23
+	- org_jetbrains_kotlin_kotlin_stdlib_jdk8 1.9.23
+	- org_jetbrains_kotlinx_atomicfu_jvm 0.23.2
+	- org_jetbrains_kotlinx_kotlinx_coroutines_core_jvm 1.8.0
+	- org_jetbrains_kotlinx_kotlinx_coroutines_jdk8 1.8.0
+	- org_jetbrains_kotlinx_kotlinx_datetime_jvm 0.5.0
+	- org_jetbrains_kotlinx_kotlinx_serialization_cbor_jvm 1.6.3
+	- org_jetbrains_kotlinx_kotlinx_serialization_core_jvm 1.6.3
+	- org_jetbrains_kotlinx_kotlinx_serialization_json_jvm 1.6.3
+	- out_of_sight 1.20.1-1.0.3
+	- owo 0.11.21.20
+	- packetfixer 1.3.2
+	- pandalib 0.2.1
+	- panorama_screens 1.0+forge+mc1.20
+	- particified 1.0.1
+	- particle_core 0.1.21.20
+	- particletweaks 1.1.3-Fabric1.20.1-unstable
+	- passablefoliage 8.2.1
+	- patchouli 1.20.1-84-FORGE
+	- paxi 1.20-Forge-4.0
+	- personality 4.0.0
+	- perspective 1.2.0-alpha.2
+	- pickupnotifier 8.0.0
+	- picohud 1.6.11.20
+	- placebo 8.6.0
+	- playeranimator 1.0.2-rc1+1.20
+	- polymorph 0.49.3+1.20.1
+	- portfolio 1.20.1-1.3.5-forge
+	- potionparticlepack 1.0.1
+	- prism 1.0.5
+	- puzzlesaccessapi 8.0.9
+	- puzzlesapi 8.1.6
+	- puzzleslib 8.1.18
+	- quad 1.2.1
+	- qualitysounds 1.5.0
+	- quark 4.0-441
+	- radium 0.12.3+git.50c5c33
+	- resourcefulconfig 2.1.2
+	- resourcefullib 2.1.24
+	- resourcepackoverrides 8.0.3
+	- rubidium 0.7.1
+	- ruby_exchange 1.0.0
+	- ryoamiclights 0.2.3+mc1.20.1
+	- salwayseat 5.2
+	- satin 1.20.1+1.15.0-SNAPSHOT
+	- sawmill 1.20-1.3.13
+	- screenshot_viewer 1.2.1-forge-mc1.20.1
+	- scriptor 1.0.4-1.20.1
+	- seamless_loading_screen 2.0.3+1.20.1
+	- searchables 1.0.3
+	- seasonals 1.20.1-5.0.0
+	- secondchanceforge 1.5.1
+	- sereneseasons 9.0.0.46
+	- servercore 1.5.1+1.20.1
+	- shutter 2.0.4-1.20.1
+	- simpleradio 2.2.4
+	- sleep_tight 1.20-1.1.19
+	- smalltetraadditions 4.0
+	- smoothboot 0.0.4
+	- smoothscroll 1.9.1
+	- smoothswapping 0.9.3.1
+	- sneakycurses 8.0.2
+	- snowyspirit 1.20-3.0.6
+	- sound_physics_remastered 1.20.1-1.3.1
+	- sounds 0.7.01.20.1
+	- spark 1.10.53
+	- spawn 1.20.1-1.0.2
+	- spawnbalanceutility 46.13.1
+	- species 1.20.1-1.3
+	- spectrelib 0.13.15+1.20.1
+	- spelunkers_charm 3.5.8
+	- spelunkery 1.20.1-0.3.5
+	- spyglass_astronomy 1.0.10-mc1.20.0-1
+	- step_height_entity_attribute 1.2.0
+	- structure_gel 2.16.2
+	- stylisheffects 8.0.2
+	- sullysmod 3.1.2-beta
+	- supplementaries 1.20-2.8.10
+	- surveyor 0.4.31.20
+	- taxfreelevels 1.3.10
+	- temporalapi 1.5.0
+	- terrablender 3.0.1.6
+	- terraform_wood_api_v1 7.0.1
+	- tetra 6.3.0
+	- tetracelium 1.2.0
+	- tetranomicon 1.5.3-1.20.1
+	- tetratic_combat_expanded 2.7.1
+	- tia 1.20-1.1
+	- tipsmod 12.0.5
+	- transmog 1.3.0+1.20
+	- trolldom 2.0.1
+	- twigs 1.20.1-3.1.0
+	- upgrade_aquatic 6.0.0
+	- valkyrienskies 2.3.0-beta.5
+	- visuality 2.0.2
+	- visualworkbench 8.0.0
+	- voicechat 1.20.1-2.5.13
+	- vs_eureka 1.5.1-beta.3
+	- wares 1.2.8
+	- watut 1.20.1-1.1.1
+	- waystones 14.1.3
+	- windchimes 1.2.41.20
+	- woodworks 3.0.1
+	- worldplaytime 1.2.0
+	- xercamusic 1.20.1-1.0.1
+	- yet_another_config_lib_v3 3.4.2+1.20.1-forge
+	- youwereslain 1.0.0-1.20.x
+	- yungsapi 1.20-Forge-4.0.4
+	- zeta 1.0-16
+	- zetter 0.21.5
+	- zettergallery 0.5.3
+[08May2024 19:17:33.765] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[08May2024 19:17:33.786] [main/WARN] [mixin/]: Reference map 'onion_onion.refmap.json' for onion_onion.mixins.json could not be read. If this is a development environment you can ignore this message
+[08May2024 19:17:33.814] [main/WARN] [mixin/]: Reference map 'mixins.wares.refmap.json' for mixins.wares.json could not be read. If this is a development environment you can ignore this message
+[08May2024 19:17:33.841] [main/WARN] [mixin/]: Reference map 'moyai-forge-refmap.json' for moyai.mixins.json could not be read. If this is a development environment you can ignore this message
+[08May2024 19:17:33.851] [main/WARN] [mixin/]: Reference map 'cc_vs-forge-refmap.json' for cc_vs.mixins.json could not be read. If this is a development environment you can ignore this message
+[08May2024 19:17:33.861] [main/WARN] [mixin/]: Reference map 'seamless-loading-screen-forge-refmap.json' for seamless_loading_screen-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[08May2024 19:17:33.868] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/isxander/debugify/fixes/OS
+[08May2024 19:17:33.870] [main/INFO] [Debugify/]: Preloading Debugify
+[08May2024 19:17:33.880] [main/WARN] [mixin/]: Reference map 'mru-refmap.json' for mru.mixins.json could not be read. If this is a development environment you can ignore this message
+[08May2024 19:17:33.915] [main/WARN] [mixin/]: Reference map 'octolib.refmap.json' for octolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[08May2024 19:17:33.986] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[08May2024 19:17:33.993] [main/WARN] [mixin/]: Reference map 'heartstone-common-refmap.json' for heartstone-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[08May2024 19:17:34.003] [main/WARN] [mixin/]: Reference map 'packetfixer-forge-forge-refmap.json' for packetfixer-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[08May2024 19:17:34.831] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/fzzyhmstrs/particle_core/PcConfig$PotionDisableType
+[08May2024 19:17:35.112] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/client/ParticleStatus
+[08May2024 19:17:35.239] [main/WARN] [Radium Config/]: Force-disabling mixin 'alloc.blockstate.StateMixin' as option 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[08May2024 19:17:35.492] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[08May2024 19:17:35.497] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[08May2024 19:17:35.652] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/valkyrienskies/mod/compat/VSRenderer
+[08May2024 19:17:35.767] [main/WARN] [mixin/]: Error loading class: rbasamoyai/createbigcannons/cannon_control/contraption/PitchOrientedContraptionEntity (java.lang.ClassNotFoundException: rbasamoyai.createbigcannons.cannon_control.contraption.PitchOrientedContraptionEntity)
+[08May2024 19:17:35.771] [main/WARN] [mixin/]: Error loading class: com/jamieswhiteshirt/reachentityattributes/ReachEntityAttributes (java.lang.ClassNotFoundException: com.jamieswhiteshirt.reachentityattributes.ReachEntityAttributes)
+[08May2024 19:17:35.820] [main/WARN] [mixin/]: Error loading class: blusunrize/immersiveengineering/common/gui/BlockEntityInventory (java.lang.ClassNotFoundException: blusunrize.immersiveengineering.common.gui.BlockEntityInventory)
+[08May2024 19:17:35.824] [main/WARN] [mixin/]: Error loading class: net/dries007/tfc/world/TFCChunkGenerator (java.lang.ClassNotFoundException: net.dries007.tfc.world.TFCChunkGenerator)
+[08May2024 19:17:35.828] [main/WARN] [mixin/]: Error loading class: cofh/core/block/entity/TileCoFH (java.lang.ClassNotFoundException: cofh.core.block.entity.TileCoFH)
+[08May2024 19:17:35.831] [main/WARN] [mixin/]: Error loading class: li/cil/tis3d/common/entity/InfraredPacketEntity (java.lang.ClassNotFoundException: li.cil.tis3d.common.entity.InfraredPacketEntity)
+[08May2024 19:17:35.834] [main/WARN] [mixin/]: Error loading class: me/desht/modularrouters/container/RouterMenu (java.lang.ClassNotFoundException: me.desht.modularrouters.container.RouterMenu)
+[08May2024 19:17:35.841] [main/WARN] [mixin/]: Error loading class: li/cil/tis3d/client/renderer/block/entity/CasingBlockEntityRenderer (java.lang.ClassNotFoundException: li.cil.tis3d.client.renderer.block.entity.CasingBlockEntityRenderer)
+[08May2024 19:17:35.845] [main/WARN] [mixin/]: Error loading class: li/cil/tis3d/client/renderer/RenderContextImpl (java.lang.ClassNotFoundException: li.cil.tis3d.client.renderer.RenderContextImpl)
+[08May2024 19:17:35.947] [main/WARN] [mixin/]: Error loading class: net/coderbot/batchedentityrendering/impl/FullyBufferedMultiBufferSource (java.lang.ClassNotFoundException: net.coderbot.batchedentityrendering.impl.FullyBufferedMultiBufferSource)
+[08May2024 19:17:35.951] [main/WARN] [mixin/]: Error loading class: net/coderbot/iris/layer/InnerWrappedRenderType (java.lang.ClassNotFoundException: net.coderbot.iris.layer.InnerWrappedRenderType)
+[08May2024 19:17:35.954] [main/WARN] [mixin/]: Error loading class: net/coderbot/iris/layer/OuterWrappedRenderType (java.lang.ClassNotFoundException: net.coderbot.iris.layer.OuterWrappedRenderType)
+[08May2024 19:17:35.957] [main/WARN] [mixin/]: Error loading class: net/irisshaders/batchedentityrendering/impl/FullyBufferedMultiBufferSource (java.lang.ClassNotFoundException: net.irisshaders.batchedentityrendering.impl.FullyBufferedMultiBufferSource)
+[08May2024 19:17:35.961] [main/WARN] [mixin/]: Error loading class: net/irisshaders/iris/layer/InnerWrappedRenderType (java.lang.ClassNotFoundException: net.irisshaders.iris.layer.InnerWrappedRenderType)
+[08May2024 19:17:35.964] [main/WARN] [mixin/]: Error loading class: net/irisshaders/iris/layer/OuterWrappedRenderType (java.lang.ClassNotFoundException: net.irisshaders.iris.layer.OuterWrappedRenderType)
+[08May2024 19:17:35.968] [main/WARN] [mixin/]: Error loading class: dev/tr7zw/skinlayers/render/CustomizableModelPart (java.lang.ClassNotFoundException: dev.tr7zw.skinlayers.render.CustomizableModelPart)
+[08May2024 19:17:36.036] [main/WARN] [mixin/]: Error loading class: twilightforest/TFMagicMapData$TFMapDecoration (java.lang.ClassNotFoundException: twilightforest.TFMagicMapData$TFMapDecoration)
+[08May2024 19:17:36.052] [main/WARN] [mixin/]: Error loading class: fuzs/configmenusforge/client/gui/components/CustomBackgroundContainerObjectSelectionList (java.lang.ClassNotFoundException: fuzs.configmenusforge.client.gui.components.CustomBackgroundContainerObjectSelectionList)
+[08May2024 19:17:36.055] [main/WARN] [mixin/]: Error loading class: fuzs/configmenusforge/client/gui/components/CustomBackgroundObjectSelectionList (java.lang.ClassNotFoundException: fuzs.configmenusforge.client.gui.components.CustomBackgroundObjectSelectionList)
+[08May2024 19:17:36.080] [main/WARN] [mixin/]: Error loading class: rbasamoyai/createbigcannons/crafting/boring/AbstractCannonDrillBlockEntity (java.lang.ClassNotFoundException: rbasamoyai.createbigcannons.crafting.boring.AbstractCannonDrillBlockEntity)
+[08May2024 19:17:36.094] [main/WARN] [mixin/]: Error loading class: vazkii/quark/addons/oddities/inventory/BackpackMenu (java.lang.ClassNotFoundException: vazkii.quark.addons.oddities.inventory.BackpackMenu)
+[08May2024 19:17:36.266] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mclegoman/releasetypeutils/common/releasetype/RTUReleaseTypes
+[08May2024 19:17:36.267] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mclegoman/releasetypeutils/common/releasetype/RTUReleaseTranslationTypes
+[08May2024 19:17:36.355] [main/WARN] [mixin/]: Error loading class: dev/architectury/registry/registries/fabric/RegistrarManagerImpl$RegistrarImpl (java.lang.ClassNotFoundException: dev.architectury.registry.registries.fabric.RegistrarManagerImpl$RegistrarImpl)
+[08May2024 19:17:36.356] [main/WARN] [mixin/]: @Mixin target dev.architectury.registry.registries.fabric.RegistrarManagerImpl$RegistrarImpl was not found enchancement.mixins.json:vanillachanges.disabledisallowedenchantments.integration.architectury.RegistrarManagerImplRegistrarImplMixin from mod enchancement
+[08May2024 19:17:36.375] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fuzs/puzzleslib/api/core/v1/ContentRegistrationFlags
+[08May2024 19:17:36.379] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fuzs/stylisheffects/api/client/stylisheffects/v1/MobEffectWidgetContext$Renderer
+[08May2024 19:17:36.380] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fuzs/stylisheffects/api/client/stylisheffects/v1/MobEffectWidgetContext$ScreenSide
+[08May2024 19:17:36.383] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fuzs/stylisheffects/config/ClientConfig$EffectAmplifier
+[08May2024 19:17:36.523] [main/WARN] [mixin/]: Error loading class: net/coderbot/iris/pipeline/newshader/ExtendedShader (java.lang.ClassNotFoundException: net.coderbot.iris.pipeline.newshader.ExtendedShader)
+[08May2024 19:17:36.523] [main/WARN] [mixin/]: @Mixin target net.coderbot.iris.pipeline.newshader.ExtendedShader was not found betterclouds.mixins.json:ExtendedShaderAccessor from mod betterclouds
+[08May2024 19:17:36.528] [main/WARN] [mixin/]: Error loading class: net/coderbot/iris/pipeline/newshader/fallback/FallbackShader (java.lang.ClassNotFoundException: net.coderbot.iris.pipeline.newshader.fallback.FallbackShader)
+[08May2024 19:17:36.528] [main/WARN] [mixin/]: @Mixin target net.coderbot.iris.pipeline.newshader.fallback.FallbackShader was not found betterclouds.mixins.json:FallbackShaderAccessor from mod betterclouds
+[08May2024 19:17:36.558] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/isxander/debugify/fixes/FixCategory
+[08May2024 19:17:36.559] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/isxander/debugify/fixes/BugFix$Env
+[08May2024 19:17:36.562] [main/WARN] [Debugify/]: Force disabled MC-122477 because it only applies to OS: LINUX
+[08May2024 19:17:36.568] [main/WARN] [Debugify/]: Force disabled MC-59810 because it only applies to OS: MAC
+[08May2024 19:17:36.607] [main/WARN] [mixin/]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr.catcore.server.translations.api.resource.language.SystemDelegatedLanguage)
+[08May2024 19:17:36.696] [main/WARN] [mixin/]: Error loading class: traben/entity_model_features/models/animation/EMFAnimationHelper (java.lang.ClassNotFoundException: traben.entity_model_features.models.animation.EMFAnimationHelper)
+[08May2024 19:17:36.793] [main/WARN] [mixin/]: Error loading class: net/orcinus/overweightfarming/blocks/CropFullBlock (java.lang.ClassNotFoundException: net.orcinus.overweightfarming.blocks.CropFullBlock)
+[08May2024 19:17:36.793] [main/WARN] [mixin/]: @Mixin target net.orcinus.overweightfarming.blocks.CropFullBlock was not found create_central_kitchen.mixins.json:common.overweightfarming.CropFullBlockMixin from mod create_central_kitchen
+[08May2024 19:17:36.820] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 3 memory leak fixes!
+[08May2024 19:17:36.820] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [targetEntityLeak, biomeTemperatureLeak, hugeScreenshotLeak]
+[08May2024 19:17:37.088] [main/WARN] [mixin/]: Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org.jetbrains.annotations.ApiStatus$Internal)
+[08May2024 19:17:37.115] [main/WARN] [mixin/]: Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org.jetbrains.annotations.ApiStatus$Internal)
+[08May2024 19:17:37.131] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[08May2024 19:17:37.338] [main/INFO] [mixin/]: Mixing gui.ScreenMixin from chatpatches.mixins.json into net.minecraft.client.gui.screens.Screen
+[08May2024 19:17:37.604] [main/INFO] [mixin/]: Mixing MinecraftClientMixin from chatpatches.mixins.json into net.minecraft.client.Minecraft
+[08May2024 19:17:37.668] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=3 on enchancement.mixins.json:brimstone.client.MinecraftClientMixin from mod enchancement::handler$goh000$enchancement$brimstoneAfter exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[08May2024 19:17:37.814] [main/INFO] [Smooth Boot (Reloaded)/]: Smooth Boot (Reloaded) config initialized
+[08May2024 19:17:37.815] [main/INFO] [dev.su5ed.sinytra.connectorextras.emibridge.EMIBridge/]: Injecting EMI API classes
+[08May2024 19:17:37.824] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/client/telemetry/TelemetryProperty$ServerType
+[08May2024 19:17:37.865] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/client/telemetry/TelemetryProperty$GameMode
+[08May2024 19:17:37.895] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Unit
+[08May2024 19:17:37.902] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/ChatFormatting
+[08May2024 19:17:37.919] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/github/foundationgames/animatica/util/Flags
+[08May2024 19:17:37.923] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting traben/entity_texture_features/config/ETFConfig$UpdateFrequency
+[08May2024 19:17:37.923] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting traben/entity_texture_features/config/ETFConfig$EmissiveRenderModes
+[08May2024 19:17:37.923] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting traben/entity_texture_features/config/ETFConfig$SkinTransparencyMode
+[08May2024 19:17:37.924] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting traben/entity_texture_features/config/ETFConfig$DebugLogMode
+[08May2024 19:17:37.924] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting traben/entity_texture_features/config/ETFConfig$IllegalPathMode
+[08May2024 19:17:37.926] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting traben/entity_texture_features/config/ETFConfig$RenderLayerOverride
+[08May2024 19:17:37.997] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting traben/entity_texture_features/config/ETFConfig$OverrideBooleanType
+[08May2024 19:17:38.024] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/datafix/DataFixTypes
+[08May2024 19:17:38.035] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/client/User$Type
+[08May2024 19:17:38.300] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[08May2024 19:17:38.300] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[08May2024 19:17:38.357] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on enchancement.mixins.json:brimstone.PlayerEntityMixin from mod enchancement::handler$ghn000$enchancement$brimstone exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[08May2024 19:17:38.659] [main/WARN] [mixin/]: @Inject(@At("RETURN")) Shift.BY=2 on enchancement.mixins.json:brimstone.EntityMixin from mod enchancement::handler$ghl000$enchancement$brimstone exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.

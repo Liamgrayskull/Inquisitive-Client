@@ -10,6 +10,11 @@
         "type": "REGISTRY_NAME",
         "negate": true,
         "value": "minecraft:the_end"
+      },
+      {
+        "type": "REGISTRY_NAME",
+        "negate": true,
+        "value": "ad_astra:orbit"
       }
     ]
   ]

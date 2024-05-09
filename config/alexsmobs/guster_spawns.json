@@ -3,6 +3,11 @@
     [
       {
         "type": "BIOME_TAG",
+        "negate": true,
+        "value": "forge:no_default_monsters"
+      },
+      {
+        "type": "BIOME_TAG",
         "negate": false,
         "value": "forge:is_hot/overworld"
       },
@@ -22,6 +27,13 @@
         "type": "REGISTRY_NAME",
         "negate": false,
         "value": "terralith:ancient_sands"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "ad_astra:martian_wastelands"
       }
     ],
     [
@@ -50,48 +62,6 @@
         "type": "REGISTRY_NAME",
         "negate": false,
         "value": "terralith:cave/desert_caves"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "natures_spirit:blooming_dunes"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "natures_spirit:stratified_desert"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "natures_spirit:lively_dunes"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "natures_spirit:scorched_dunes"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "natures_spirit:dusty_slopes"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "natures_spirit:arid_highlands"
       }
     ]
   ]

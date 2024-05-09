@@ -8,7 +8,9 @@
     "subtitle": {
       "translate": "Place slabs in any direction you can think of!"
     },
-    "description": [],
+    "description": [
+      ""
+    ],
     "groups": {
       "Building": {
         "position": [

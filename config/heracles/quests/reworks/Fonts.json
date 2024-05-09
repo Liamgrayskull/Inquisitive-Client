@@ -4,9 +4,11 @@
   "rewards": {},
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Pick your look!"
     },
-    "description": [],
+    "description": [
+      "The resourcepack menu is where most fonts will be accessible for swapping the look of the pack's readability, enabling entirely fresh looks for the entire gui. These fonts are credited in the credit Resourcepack section."
+    ],
     "groups": {
       "Reworks": {
         "position": [
@@ -17,7 +19,7 @@
     },
     "icon": {
       "item": {
-        "id": "minecraft:map",
+        "id": "alexsmobs:roadrunner_feather",
         "count": 1
       },
       "type": "heracles:item"

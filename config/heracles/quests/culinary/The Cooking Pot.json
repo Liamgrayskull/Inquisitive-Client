@@ -6,7 +6,7 @@
   "rewards": {},
   "display": {
     "subtitle": {
-      "translate": "The Cooking Pot is a workstation where you can prepare and store a large amount of meals."
+      "translate": "Prepare and store meals!"
     },
     "description": [
       "In order to prepare meals, the pot must be heated by the block underneath it. This is indicated by boiling bubbles, steam and a campfire icon in the pot's interface: if flames appear, the pot is heated.",
@@ -39,8 +39,8 @@
     "groups": {
       "Culinary": {
         "position": [
-          -42,
-          -104
+          -45,
+          -138
         ]
       }
     },

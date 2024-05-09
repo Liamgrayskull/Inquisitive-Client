@@ -1,0 +1,39 @@
+{
+  "dependencies": [],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Totally not Oil"
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Engineering": {
+        "position": [
+          -134,
+          -230
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "createdieselgenerators:oil_scanner",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "710"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

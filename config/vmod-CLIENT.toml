@@ -1,0 +1,13 @@
+
+[SomePeripheralsConfig]
+
+	[SomePeripheralsConfig.ClientRenderingSettings]
+		#Max distance in blocks some renderers are able to render. Reload the game for change to take the effect.
+		#Range: 1.0 ~ 1.7976931348623157E308
+		MAX_RENDERING_DISTANCE = 200.0
+
+	[SomePeripheralsConfig.ClientToolgunSettings]
+		#
+		#Range: 1.0 ~ 1.7976931348623157E308
+		MAX_RAYCAST_DISTANCE = 100.0
+

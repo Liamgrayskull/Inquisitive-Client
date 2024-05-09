@@ -21,5 +21,5 @@
 	#Range: > -2147483648
 	Snowstorm_Snow_Block_Max_Height = 5
 	#Allow layered snow blocks to buildup outside cold biomes where snowstorm is
-	Snowstorm_Snow_Buildup_AllowOutsideColdBiomes = false
+	Snowstorm_Snow_Buildup_AllowOutsideColdBiomes = true
 

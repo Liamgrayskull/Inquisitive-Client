@@ -1,0 +1,17 @@
+# Various debug loggers and messages
+# default: false
+debugMode = false
+# Whether to share all terrain exploration all the time
+# default: false
+shareAllTerrain = false
+# Whether to share all structure exploration all the time
+# default: false
+shareAllStructures = false
+# Whether to share all landmarks all the time
+# default: false
+shareAllLandmarks = false
+# How many ticks to wait before sending the new location of player 'friends'
+# range[1, 200]
+# default: 2
+ticksPerFriendUpdate = 2
+

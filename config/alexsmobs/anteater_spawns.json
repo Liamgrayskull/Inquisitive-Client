@@ -58,27 +58,6 @@
         "negate": false,
         "value": "terralith:skylands_summer"
       }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "natures_spirits:sparse_tropical_woods"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "natures_spirits:tropical_woods"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "natures_spirits:tropical_basin"
-      }
     ]
   ]
 }

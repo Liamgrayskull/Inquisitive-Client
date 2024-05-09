@@ -9,6 +9,10 @@
 	#Whether Charging Mobs can get stunned when holding up a shield
 	stunnablecharge = true
 
+[Items]
+	#Whether Sand requires no sand
+	sandnoammo = true
+
 [Mobs]
 
 	[Mobs."Vanilla Mob Tweaks"]
@@ -75,6 +79,10 @@
 		#Whether Cockroaches fear any living entity
 		skittishcockroaches = true
 
+	[Mobs.Cosmaw]
+		#Whether Cosmaw can get weak based on their owner's armor when carrying
+		cosmawweakness = true
+
 	[Mobs."Crimson Mosquito"]
 		#Whether Crimson Mosquitoes can be turned into Warped Moscos by feeding them Mungus Spores
 		crimsontransform = true
@@ -92,6 +100,8 @@
 	[Mobs.Elephant]
 		#Whether Tusked Elephants will attack players if staying with them for too long,(Unless if holding a acasia blossom)
 		elephantattack = true
+		#Whether Elephants can trample mobs
+		elephanttrample = true
 
 	[Mobs.Emu]
 		#Whether Emus attack ANY entity that is holding a ranged weapon
@@ -124,14 +134,14 @@
 	[Mobs.Fly]
 		#Whether flies pester specific mobs
 		flypester = true
+		#Whether flies can be converted to a Crimson Mosquito
+		flyconvert = true
 		#Whether flies fear candles
 		flysfearcandles = true
 		#Whether flies fear all (except for mobs they pester)
 		frogeatflies = true
 		#Whether Gelada Monkeys hunt small animals
 		geladahunt = true
-		#Whether flies can be converted to a Crimson Mosquito
-		flyconvert = true
 
 	[Mobs."Giant Squid"]
 		#Whether Giant Squids cannibalize on other giant squids in certain conditions
@@ -140,10 +150,14 @@
 	[Mobs."Grizzly Bear"]
 		#Whether Grizzlies will not attack players when untamed
 		grizzlyattackfriendly = true
+		#Whether Grizzlies named 'Freddy Fazbear' will turn into Freddy from April Fools 
+		grizzlyfreddy = true
 
 	[Mobs.Guster]
 		#Whether Guster's Tornado effect is based on armor of the player
 		gusterweighed = true
+		#Whether Gusters are immune to projectiles
+		gusterprojectileprot = true
 
 	[Mobs."Hammerhead Shark"]
 		#Whether Hammerhead Sharks hunts more aquatic creatures
@@ -154,6 +168,10 @@
 		hummingfollowflutter = true
 		#Whether Hummingbirds only pollinate at day
 		hummingbirdpolinate = true
+
+	[Mobs.Lavithan]
+		#Whether Lavithan can be reconverted from Obsidian to Normal
+		lavaithanobsidianremove = true
 
 	[Mobs.Lobster]
 		#Whether Lobsters only spawn at night
@@ -174,6 +192,8 @@
 		murmurbodykill = true
 
 	[Mobs.Orca]
+		#Whether Orcas Might allows temporary neutrality with Skelewags
+		mightupgrade = true
 		#Whether Orca's hunt fish
 		orcahunt = true
 
@@ -189,6 +209,10 @@
 		#Whether Roadrunners only hunt at day
 		roadrunnerday = true
 
+	[Mobs."Rocky Roller"]
+		#Whether Rocky Roller Chestplate allows one to temporarily float in water with the 'Rolling Thunder' enchantment
+		rollingthunder = true
+
 	[Mobs.Seagull]
 		#Whether Seagulls cannot snatch food if wearing a sombrero
 		seagullsombrero = true
@@ -198,10 +222,22 @@
 		seagullnotsnatch = true
 
 	[Mobs.Skelewag]
-		#Whether Skelewag's attack all entities apart from their allies
-		scourgingseas = true
 		#Whether Skelewags circle prey like Hammerhead sharks
 		skelewagcircle = true
+
+	[Mobs.Skreecher]
+		#Whether Skreecher's soul can be used on a Screacher to allow it to spawn wardens
+		skreecherward = true
+
+	[Mobs."Snow Leopard"]
+		#Whether Snow Leopards can get rare items when killing specific mobs
+		snowluck = true
+		#Whether Snow Leopards can hunt weak Mooses, but also mistakenly attack weak players wearing a Antler Headgear
+		leoparddesires = true
+
+	[Mobs."Soul Vulture"]
+		#Whether Soul Vultures increase soul level no matter what when attacking
+		soulbuff = true
 
 	[Mobs.Straddler]
 		#Amount of shots a Straddler has before reloading to fire again (0 Disables this feature)
@@ -213,16 +249,24 @@
 	[Mobs.Stradpole]
 		#Whether Stradpoles bob up in the lava
 		stradpolebobup = true
+		#Whether launched stradpoles have a chance to inflict flame
+		stradpoleflame = true
 
 	[Mobs."Sugar Glider"]
 		#Whether Sugar Gliders can be fed sugar to speed up
 		sugarrush = true
+
+	[Mobs.Sunbird]
+		#Whether Sunbirds's effects are upgraded for the better and worse
+		sunbirdupgrade = true
 
 	[Mobs.Terrapin]
 		#Whether Terrapins take damage when jumped on
 		terrapinstomp = true
 
 	[Mobs.Tiger]
+		#Whether Tigers Blessing gives players that sneak, invisibility as well
+		tigersstealthtigersstealth = true
 		#Whether Tigers only hunt at night
 		tigerhuntnight = true
 
@@ -231,6 +275,16 @@
 		fleewarped = true
 		#Whether Tusklins can be perm trusted with mushroom stew
 		tusklinfulltrust = true
+		#Whether Tusklins with the new Trample enchantment can trample when ridden
+		tusklintrample = true
+		#Whether Tusklins can have their equipment removed with shears
+		tusklinremoveequipment = true
+
+	[Mobs."Void Worm"]
+		#Whether Void Worm can be stunned when dealt enough damage
+		voidwormstun = true
+		#Whether Dimensional Carver can be used to teleport to a linked lodestone compass
+		dimensionallodestone = true
 
 	[Mobs."Warped Mosco"]
 		#Whether Warped Moscos eat Crimson Mosquitoes rarely
@@ -242,15 +296,19 @@
 		#Whether Warped Toads cant impossibly eat Warped Moscos
 		moscoconsume = true
 
-	[Mobs.Skreecher]
-		#Whether Skreecher's soul can be used on a Screacher to allow it to spawn wardens
-		skreecherward = true
-
-	[Mobs."Snow Leopard"]
-		#Whether Snow Leopards can get rare items when killing specific mobs
-		snowluck = true
-
-	[Mobs."Soul Vulture"]
-		#Whether Soul Vultures increase soul level no matter what when attacking
-		soulbuff = true
+["April Fools"]
+	#AMI April Fools Activation
+	goofymode = false
+	#April Fools Banana Slug and Banana Effects
+	bananaslip = true
+	#April Fools Murmur Effects
+	murmurdecapitate = true
+	#April Fools Crimson Mosquito Effects
+	crimsonmultiply = true
+	#April Fools Rain Frog Effects
+	rainfrogspawnage = true
+	#April Fools Capuchin Monkey Effects
+	capuchinbomb = true
+	#April Fools Straddler Effects
+	straddlerexplosivespread = true
 

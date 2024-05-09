@@ -11,7 +11,7 @@ to make editing this file much easier.
 	// Generates all block states for all blocks in the registry.
 	"generate_all_known_states": false,
 	// Whether blocks are replaced in existing chunks.
-	"retro_gen": false,
+	"retro_gen": true,
 	/* A map of states that specifies what the "old" block state is and what its "new" block state is.
 	   See "known_states" folder("generate_all_known_states" must be set to true in this config) to see all known block states available for all blocks available in the registry.
 	   Example:
@@ -76,7 +76,846 @@ to make editing this file much easier.
 	    	}
 	    ]
 	*/
-	"state_swapper": [],
+	"state_swapper": [
+	{
+	"new": {
+		"Properties": {
+			"waterlogged": "false",
+			"pollinated": "false",
+			"facing": "up"
+		},
+		"Name": "galosphere:lumiere_cluster"
+	},
+		"old": {
+			"Properties": {
+		"waterlogged": "false",
+		"facing": "north",
+		"face": "floor"
+		},
+		"Name": "flying_stuff:amber_celestium_spike"
+	}
+	},
+	{
+	"new": {
+		"Properties": {
+			"waterlogged": "false",
+			"pollinated": "false",
+			"facing": "up"
+		},
+		"Name": "galosphere:lumiere_cluster"
+	},
+		"old": {
+			"Properties": {
+		"waterlogged": "false",
+		"facing": "south",
+		"face": "floor"
+		},
+		"Name": "flying_stuff:amber_celestium_spike"
+	}
+	},
+	{
+	"new": {
+		"Properties": {
+			"waterlogged": "false",
+			"pollinated": "false",
+			"facing": "up"
+		},
+		"Name": "galosphere:lumiere_cluster"
+	},
+		"old": {
+			"Properties": {
+		"waterlogged": "false",
+		"facing": "west",
+		"face": "floor"
+		},
+		"Name": "flying_stuff:amber_celestium_spike"
+	}
+	},
+	{
+	"new": {
+		"Properties": {
+			"waterlogged": "false",
+			"pollinated": "false",
+			"facing": "up"
+		},
+		"Name": "galosphere:lumiere_cluster"
+	},
+		"old": {
+			"Properties": {
+		"waterlogged": "false",
+		"facing": "east",
+		"face": "floor"
+		},
+		"Name": "flying_stuff:amber_celestium_spike"
+	}
+	},
+
+
+
+	{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "down"
+	},
+	"Name": "galosphere:lumiere_cluster"
+},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "north",
+	"face": "ceiling"
+	},
+	"Name": "flying_stuff:amber_celestium_spike"
+}
+},
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "down"
+	},
+	"Name": "galosphere:lumiere_cluster"
+},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "south",
+	"face": "ceiling"
+	},
+	"Name": "flying_stuff:amber_celestium_spike"
+}
+},
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "down"
+	},
+	"Name": "galosphere:lumiere_cluster"
+},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "west",
+	"face": "ceiling"
+	},
+	"Name": "flying_stuff:amber_celestium_spike"
+}
+},
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "down"
+	},
+	"Name": "galosphere:lumiere_cluster"
+},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "east",
+	"face": "ceiling"
+	},
+	"Name": "flying_stuff:amber_celestium_spike"
+}
+},
+
+
+
+
+
+
+
+	{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "up"
+	},
+	"Name": "galosphere:glinted_lumiere_cluster"
+},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "north",
+	"face": "floor"
+	},
+	"Name": "flying_stuff:amber_celestium_antenna"
+}
+},
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "up"
+	},
+	"Name": "galosphere:glinted_lumiere_cluster"
+},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "south",
+	"face": "floor"
+	},
+	"Name": "flying_stuff:amber_celestium_antenna"
+}
+},
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "up"
+	},
+	"Name": "galosphere:glinted_lumiere_cluster"
+},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "west",
+	"face": "floor"
+	},
+	"Name": "flying_stuff:amber_celestium_antenna"
+}
+},
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "up"
+	},
+	"Name": "galosphere:glinted_lumiere_cluster"
+},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "east",
+	"face": "floor"
+	},
+	"Name": "flying_stuff:amber_celestium_antenna"
+}
+},
+
+
+
+
+
+
+	
+	{
+	"new": {
+		"Properties": {
+			"waterlogged": "false",
+			"pollinated": "false",
+			"facing": "down"
+		},
+		"Name": "galosphere:glinted_lumiere_cluster"
+	},
+		"old": {
+			"Properties": {
+		"waterlogged": "false",
+		"facing": "north",
+		"face": "ceiling"
+		},
+		"Name": "flying_stuff:amber_celestium_antenna"
+	}
+	},
+	{
+	"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "down"
+	},
+	"Name": "galosphere:glinted_lumiere_cluster"
+	},
+		"old": {
+			"Properties": {
+		"waterlogged": "false",
+		"facing": "south",
+		"face": "ceiling"
+		},
+		"Name": "flying_stuff:amber_celestium_antenna"
+	}
+	},
+	{
+	"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "down"
+	},
+	"Name": "galosphere:glinted_lumiere_cluster"
+	},
+		"old": {
+			"Properties": {
+		"waterlogged": "false",
+		"facing": "east",
+		"face": "ceiling"
+		},
+		"Name": "flying_stuff:amber_celestium_antenna"
+	},
+	}
+	{
+	"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "down"
+	},
+	"Name": "galosphere:glinted_lumiere_cluster"
+	},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "west",
+	"face": "ceiling"
+	},
+	"Name": "flying_stuff:amber_celestium_antenna"
+	},
+	},
+	
+
+
+
+
+
+
+
+
+
+
+	{
+	"new": {
+		"Properties": {
+			"waterlogged": "false",
+			"pollinated": "false",
+			"facing": "up"
+		},
+		"Name": "galosphere:allurite_cluster"
+	},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "north",
+	"face": "floor"
+	},
+	"Name": "flying_stuff:celestium_spike"
+	},
+	},
+	{
+	"new": {
+		"Properties": {
+			"waterlogged": "false",
+			"pollinated": "false",
+			"facing": "up"
+		},
+		"Name": "galosphere:allurite_cluster"
+	},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "south",
+	"face": "floor"
+	},
+	"Name": "flying_stuff:celestium_spike"
+	}
+	},
+	{
+	"new": {
+		"Properties": {
+			"waterlogged": "false",
+			"pollinated": "false",
+			"facing": "up"
+		},
+		"Name": "galosphere:allurite_cluster"
+	},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "west",
+	"face": "floor"
+	},
+	"Name": "flying_stuff:celestium_spike"
+	}
+	},
+	{
+	"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "up"
+	},
+	"Name": "galosphere:allurite_cluster"
+	},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "east",
+	"face": "floor"
+	},
+	"Name": "flying_stuff:celestium_spike"
+	}
+	},
+
+	{
+	"new": {
+		"Properties": {
+			"waterlogged": "false",
+			"pollinated": "false",
+			"facing": "down"
+		},
+		"Name": "galosphere:allurite_cluster"
+	},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "north",
+	"face": "ceiling"
+	},
+	"Name": "flying_stuff:celestium_spike"
+	}
+	},
+	{
+	"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "down"
+	},
+	"Name": "galosphere:allurite_cluster"
+	},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "south",
+	"face": "ceiling"
+	},
+	"Name": "flying_stuff:celestium_spike"
+	}
+	},
+	{
+	"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "down"
+	},
+	"Name": "galosphere:allurite_cluster"
+	},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "east",
+	"face": "ceiling"
+	},
+	"Name": "flying_stuff:celestium_spike"
+	}
+	},
+	{
+	"new": {
+		"Properties": {
+			"waterlogged": "false",
+			"pollinated": "false",
+			"facing": "down"
+		},
+		"Name": "galosphere:allurite_cluster"
+	},
+		"old": {
+			"Properties": {
+		"waterlogged": "false",
+		"facing": "west",
+		"face": "ceiling"
+		},
+		"Name": "flying_stuff:celestium_spike"
+	}
+	},
+
+
+
+
+
+
+
+	{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "up"
+	},
+	"Name": "galosphere:allurite_cluster"
+},
+"old": {
+	"Properties": {
+"waterlogged": "false",
+"facing": "north",
+"face": "wall"
+},
+"Name": "flying_stuff:celestium_spike"
+},
+},
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "up"
+	},
+	"Name": "galosphere:allurite_cluster"
+},
+"old": {
+	"Properties": {
+"waterlogged": "false",
+"facing": "south",
+"face": "wall"
+},
+"Name": "flying_stuff:celestium_spike"
+}
+},
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "up"
+	},
+	"Name": "galosphere:allurite_cluster"
+},
+"old": {
+	"Properties": {
+"waterlogged": "false",
+"facing": "west",
+"face": "wall"
+},
+"Name": "flying_stuff:celestium_spike"
+}
+},
+{
+"new": {
+"Properties": {
+	"waterlogged": "false",
+	"pollinated": "false",
+	"facing": "up"
+},
+"Name": "galosphere:allurite_cluster"
+},
+"old": {
+	"Properties": {
+"waterlogged": "false",
+"facing": "east",
+"face": "wall"
+},
+"Name": "flying_stuff:celestium_spike"
+}
+},
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "down"
+	},
+	"Name": "galosphere:allurite_cluster"
+},
+"old": {
+	"Properties": {
+"waterlogged": "false",
+"facing": "north",
+"face": "wall"
+},
+"Name": "flying_stuff:celestium_spike"
+}
+},
+{
+"new": {
+"Properties": {
+	"waterlogged": "false",
+	"pollinated": "false",
+	"facing": "down"
+},
+"Name": "galosphere:allurite_cluster"
+},
+"old": {
+	"Properties": {
+"waterlogged": "false",
+"facing": "south",
+"face": "wall"
+},
+"Name": "flying_stuff:celestium_spike"
+}
+},
+{
+"new": {
+"Properties": {
+	"waterlogged": "false",
+	"pollinated": "false",
+	"facing": "down"
+},
+"Name": "galosphere:allurite_cluster"
+},
+"old": {
+	"Properties": {
+"waterlogged": "false",
+"facing": "east",
+"face": "wall"
+},
+"Name": "flying_stuff:celestium_spike"
+}
+},
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "down"
+	},
+	"Name": "galosphere:allurite_cluster"
+},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "west",
+	"face": "wall"
+	},
+	"Name": "flying_stuff:celestium_spike"
+}
+},
+
+
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "down"
+	},
+	"Name": "galosphere:glinted_allurite_cluster"
+},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "north",
+	"face": "ceiling"
+	},
+	"Name": "flying_stuff:celestium_antenna"
+}
+},
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "down"
+	},
+	"Name": "galosphere:glinted_allurite_cluster"
+},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "south",
+	"face": "ceiling"
+	},
+	"Name": "flying_stuff:celestium_antenna"
+}
+},
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "down"
+	},
+	"Name": "galosphere:glinted_allurite_cluster"
+},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "west",
+	"face": "ceiling"
+	},
+	"Name": "flying_stuff:celestium_antenna"
+}
+},
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "down"
+	},
+	"Name": "galosphere:glinted_allurite_cluster"
+},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "east",
+	"face": "ceiling"
+	},
+	"Name": "flying_stuff:celestium_antenna"
+}
+},
+
+
+
+
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "up"
+	},
+	"Name": "galosphere:glinted_allurite_cluster"
+},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "north",
+	"face": "floor"
+	},
+	"Name": "flying_stuff:celestium_antenna"
+}
+},
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "up"
+	},
+	"Name": "galosphere:glinted_allurite_cluster"
+},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "south",
+	"face": "floor"
+	},
+	"Name": "flying_stuff:celestium_antenna"
+}
+},
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "up"
+	},
+	"Name": "galosphere:glinted_allurite_cluster"
+},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "west",
+	"face": "floor"
+	},
+	"Name": "flying_stuff:celestium_antenna"
+}
+},
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "up"
+	},
+	"Name": "galosphere:glinted_allurite_cluster"
+},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "east",
+	"face": "floor"
+	},
+	"Name": "flying_stuff:celestium_antenna"
+}
+},
+
+
+
+
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "up"
+	},
+	"Name": "galosphere:glinted_allurite_cluster"
+},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "north",
+	"face": "wall"
+	},
+	"Name": "flying_stuff:celestium_antenna"
+}
+},
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "up"
+	},
+	"Name": "galosphere:glinted_allurite_cluster"
+},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "south",
+	"face": "wall"
+	},
+	"Name": "flying_stuff:celestium_antenna"
+}
+},
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "up"
+	},
+	"Name": "galosphere:glinted_allurite_cluster"
+},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "west",
+	"face": "wall"
+	},
+	"Name": "flying_stuff:celestium_antenna"
+}
+},
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "up"
+	},
+	"Name": "galosphere:glinted_allurite_cluster"
+},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "east",
+	"face": "wall"
+	},
+	"Name": "flying_stuff:celestium_antenna"
+}
+},
+	],
 	/* A map of blocks that specifies what the "old" block is and what its "new" block is.
 	   Example:
 	   	"swapper": {
@@ -84,5 +923,31 @@ to make editing this file much easier.
 	   		"minecraft:diamond_block": "minecraft:emerald_block"
 	   	}
 	*/
-	"swapper": { }
+	"swapper": { 
+		"flying_stuff:glaciated_log": "ad_astra:glacian_log",
+		"flying_stuff:glaciated_leaves": "ad_astra:glacian_leaves",
+		"flying_stuff:fiery_log": "quark:ancient_log",
+		"flying_stuff:fiery_leaves": "quark:ancient_leaves",
+		"flying_stuff:celestium_block": "architects_palette:moonstone",
+		"flying_stuff:amber_celestium_block": "architects_palette:sunstone",
+		"flying_stuff:celestiumore": "galosphere:allurite_block",
+		"flying_stuff:amber_celestium_ore": "galosphere:charged_lumiere_block",
+		"flying_stuff:cristalizedice": "enlightened_end:frostburn_ice",
+		"flying_stuff:celestium_anvil": "sleep_tight:dreamer_essence",
+
+		
+
+		"flying_stuff:golden_sky_level_2_chest": "waystones:warp_plate",
+		"flying_stuff:golden_sky_level_1_chest": "waystones:warp_plate",
+		"flying_stuff:glaciated_sky_level_1_chest": "waystones:warp_plate",
+		"flying_stuff:glaciated_sky_level_2_chest": "blockofsky:void_block",
+
+
+		"enlightened_end:bismuth_ore": "etcetera:raw_bismuth_block",
+		"dungeonnowloading:explosive_barrel": "blocky_siege:barrel_of_gunpowder",
+
+		"quark:permafrost": "ad_astra:permafrost"
+		
+		
+	}
 }

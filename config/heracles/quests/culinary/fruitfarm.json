@@ -1,0 +1,48 @@
+{
+  "dependencies": [],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Fruity"
+    },
+    "description": [
+      "Fruits can be found in a plethora of places, although namely they are split into trees, and non-trees. Some fruits, such as the ancient fruit, are (accurately named) and supposedly extinct.",
+      "",
+      "",
+      "",
+      "",
+      "Each Fruit Tree can be found in different biomes:",
+      "Apple trees in Forest biomes",
+      "Orange trees in Jungle and Sparse Jungle biomes",
+      "Lemon trees on Riverbanks",
+      "Plum trees in Meadow and Flower Forest biomes"
+    ],
+    "groups": {
+      "Culinary": {
+        "position": [
+          -160,
+          -179
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "farmersdelight:fruit_salad",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Fruits"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

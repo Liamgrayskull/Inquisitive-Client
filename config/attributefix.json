@@ -22,6 +22,17 @@
         "value": 2048
       }
     },
+    "witherstormmod:evolution_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "cold_sweat:base_temperature_offset": {
       "enabled": false,
       "min": {
@@ -55,6 +66,28 @@
         "value": 150
       }
     },
+    "tetra:ability_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "witherstormmod:target_stationary_flying_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2,
+        "value": 2
+      }
+    },
     "cold_sweat:base_temperature": {
       "enabled": false,
       "min": {
@@ -66,15 +99,15 @@
         "value": 150
       }
     },
-    "tetra:ability_damage": {
+    "piglinproliferation:turning_speed": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 2048,
-        "value": 2048
+        "default": 10,
+        "value": 10
       }
     },
     "cold_sweat:heat_resistance": {
@@ -88,6 +121,17 @@
         "value": 1
       }
     },
+    "thermoo:generic.frost_resistance": {
+      "enabled": false,
+      "min": {
+        "default": -10,
+        "value": -10
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
     "minecraft:generic.luck": {
       "enabled": true,
       "min": {
@@ -97,6 +141,28 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "witherstormmod:slow_flying_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2,
+        "value": 2
+      }
+    },
+    "witherstormmod:hunchback_follow_range": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
       }
     },
     "forge:entity_reach": {
@@ -154,18 +220,18 @@
         "value": 1
       }
     },
-    "additionalentityattributes:magic_protection": {
+    "combatroll:distance": {
       "enabled": false,
       "min": {
-        "default": 0,
-        "value": 0
+        "default": 1,
+        "value": 1
       },
       "max": {
-        "default": 1024,
-        "value": 1024
+        "default": 24,
+        "value": 24
       }
     },
-    "additionalentityattributes:lava_visibility": {
+    "additionalentityattributes:magic_protection": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -185,6 +251,28 @@
       "max": {
         "default": 2048,
         "value": 2048
+      }
+    },
+    "additionalentityattributes:lava_visibility": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "diet:natural_regeneration": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2,
+        "value": 2
       }
     },
     "additionalentityattributes:bonus_loot_count_rolls": {
@@ -220,6 +308,17 @@
         "value": 1024
       }
     },
+    "combatroll:recharge": {
+      "enabled": false,
+      "min": {
+        "default": 0.1,
+        "value": 0.1
+      },
+      "max": {
+        "default": 200,
+        "value": 200
+      }
+    },
     "cold_sweat:heat_dampening": {
       "enabled": false,
       "min": {
@@ -229,6 +328,28 @@
       "max": {
         "default": 1,
         "value": 1
+      }
+    },
+    "thermoo:generic.min_temperature": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 8192,
+        "value": 8192
+      }
+    },
+    "parcool:stamina_recovery": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
       }
     },
     "minecraft:zombie.spawn_reinforcements": {
@@ -297,7 +418,7 @@
         "value": 1000000
       }
     },
-    "additionalentityattributes:dig_speed": {
+    "tetra:draw_speed": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -308,7 +429,7 @@
         "value": 2048
       }
     },
-    "tetra:draw_speed": {
+    "additionalentityattributes:dig_speed": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -385,6 +506,17 @@
         "value": 1024
       }
     },
+    "thermoo:generic.heat_resistance": {
+      "enabled": false,
+      "min": {
+        "default": -10,
+        "value": -10
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
     "forge:block_reach": {
       "enabled": false,
       "min": {
@@ -405,6 +537,17 @@
       "max": {
         "default": 1,
         "value": 1
+      }
+    },
+    "biomemakeover:projectile_resistance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 30,
+        "value": 30
       }
     },
     "minecraft:generic.attack_speed": {
@@ -528,17 +671,6 @@
         "value": 1024
       }
     },
-    "ars_nouveau:ars_nouveau.perk.max_mana": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 10000,
-        "value": 10000
-      }
-    },
     "caelus:fall_flying": {
       "enabled": false,
       "min": {
@@ -548,6 +680,17 @@
       "max": {
         "default": 1,
         "value": 1
+      }
+    },
+    "ars_nouveau:ars_nouveau.perk.max_mana": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
       }
     },
     "cold_sweat:cold_resistance": {
@@ -594,6 +737,17 @@
         "value": 1024
       }
     },
+    "combatroll:count": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 20,
+        "value": 20
+      }
+    },
     "additionalentityattributes:lava_speed": {
       "enabled": false,
       "min": {
@@ -605,6 +759,17 @@
         "value": 1
       }
     },
+    "thermoo:generic.max_temperature": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 8192,
+        "value": 8192
+      }
+    },
     "additionalentityattributes:bonus_rare_loot_rolls": {
       "enabled": false,
       "min": {
@@ -614,6 +779,17 @@
       "max": {
         "default": 128,
         "value": 128
+      }
+    },
+    "parcool:max_stamina": {
+      "enabled": false,
+      "min": {
+        "default": 10,
+        "value": 10
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
       }
     },
     "minecraft:horse.jump_strength": {

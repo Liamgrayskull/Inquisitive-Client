@@ -16,6 +16,13 @@
         "negate": true,
         "value": "minecraft:small_end_islands"
       }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "ad_astra:lunar_wastelands"
+      }
     ]
   ]
 }

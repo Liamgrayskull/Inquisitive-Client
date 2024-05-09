@@ -21,11 +21,18 @@ compactLargeContainers = false
 # Emits helpful information for setting up this config when joining a world
 # Logs all registered screen handler IDs for use in screen overrides
 # Logs all registry tab provider contents (blocks etc) to help find bad tabs
-# default: false
+# default: true
 configLogging = false
+# Whether to log vanilla tab provider contents
+# For development purposes, not modpack configuration
+# default: false
+configLoggingVanilla = false
 # Whether to show tabs on screens that aren't specified below
 # default: true
 allowScreensByDefault = true
+# Whether to show tabs on the bottom of screens that aren't specified below
+# default: false
+invertTabsByDefault = false
 
 # 
 # -------------------------------
@@ -54,6 +61,16 @@ allowScreensByDefault = true
 # 
 [rightBoundOffsetOverride]
 	null = 0
+
+# 
+# -------------------------------
+# 
+# Manually choose where to place tabs on a given screen
+# false means above, true means below
+# null key means the player inventory
+# 
+[invertedTabsOverride]
+	"minecraft:beacon" = false
 
 # 
 # -------------------------------
@@ -111,6 +128,7 @@ allowScreensByDefault = true
 	"inventory_tabs:entity_sneak" = true
 	"inventory_tabs:entity_simple" = true
 	"inventory_tabs:item_unique" = true
+	"inventory_tabs:item_sneak" = true
 	"inventory_tabs:item_simple" = true
 	"inventory_tabs:player_inventory" = true
 	"inventory_tabs:vehicle_inventory" = true

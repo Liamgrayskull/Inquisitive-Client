@@ -26,6 +26,13 @@
       {
         "type": "REGISTRY_NAME",
         "negate": false,
+        "value": "ad_astra:ad_astra:martian_wastelands"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
         "value": "terralith:ancient_sands"
       }
     ],
@@ -62,41 +69,6 @@
         "type": "REGISTRY_NAME",
         "negate": false,
         "value": "terralith:red_oasis"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "natures_spirit:blooming_dunes"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "natures_spirit:stratified_desert"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "natures_spirit:lively_dunes"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "natures_spirit:scorched_dunes"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "natures_spirit:dusty_slopes"
       }
     ]
   ]

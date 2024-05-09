@@ -1,7 +1,7 @@
 #Shows a button to access screenshots directly in the pause menu.
 showButtonInGamePauseMenu = true
 #Shows a button to access screenshots directly on the title screen.
-showButtonOnTitleScreen = false
+showButtonOnTitleScreen = true
 #Whether a growing animation should play when a screenshot on the screen is clicked to be enlarged.
 enableScreenshotEnlargementAnimation = true
 #Warns you with a confirmation screen when trying to delete a screenshot.

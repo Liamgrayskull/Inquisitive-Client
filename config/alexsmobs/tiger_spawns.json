@@ -62,27 +62,6 @@
         "negate": false,
         "value": "biomesoplenty:snowblossom_grove"
       }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "natures_spirits:sparse_tropical_woods"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "natures_spirits:tropical_woods"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "natures_spirits:tropical_basin"
-      }
     ]
   ]
 }

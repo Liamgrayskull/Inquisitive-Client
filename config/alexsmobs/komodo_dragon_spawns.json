@@ -39,13 +39,6 @@
         "negate": false,
         "value": "biomesoplenty:tropics"
       }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "natures_spirit:sparse_tropical_woods"
-      }
     ]
   ]
 }

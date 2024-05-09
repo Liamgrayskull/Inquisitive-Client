@@ -51,9 +51,6 @@ net.minecraft.client.gui.screens.OnlineOptionsScreen {
 net.minecraft.client.gui.screens.SoundOptionsScreen {
 }
 
-dev.axolotlmaid.optionsprofiles.gui.ProfilesScreen {
-}
-
 net.minecraft.client.gui.screens.OptionsScreen {
 }
 
@@ -61,5 +58,8 @@ net.minecraft.client.gui.screens.TitleScreen {
 }
 
 net.minecraft.client.gui.screens.PauseScreen {
+}
+
+net.minecraft.client.gui.screens.packs.PackSelectionScreen {
 }
 

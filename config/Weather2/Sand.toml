@@ -21,7 +21,7 @@
 	#Range: > -2147483648
 	Sandstorm_Sand_Block_Max_Height = 3
 	#Allow layered sand blocks to buildup outside deserty biomes where sandstorm is
-	Sandstorm_Sand_Buildup_AllowOutsideDesert = false
+	Sandstorm_Sand_Buildup_AllowOutsideDesert = true
 	#-
 	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
 	Sandstorm_Particle_Dust_effect_rate = 0.6

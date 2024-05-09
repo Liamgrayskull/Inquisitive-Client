@@ -51,13 +51,6 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "ars_nouveau": {
-    "mob_jar": true
-  },
-  "delightful": {
-    "crop_progress": true,
-    "pie_icons": true
-  },
   "supplementaries": {
     "hat_stand": true
   },

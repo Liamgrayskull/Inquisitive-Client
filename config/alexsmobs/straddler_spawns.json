@@ -2,9 +2,21 @@
   "biomes": [
     [
       {
+        "type": "BIOME_TAG",
+        "negate": true,
+        "value": "forge:no_default_monsters"
+      },
+      {
         "type": "REGISTRY_NAME",
         "negate": false,
         "value": "minecraft:basalt_deltas"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "ad_astra:mercury_deltas"
       }
     ],
     [

@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = %fancymenu:universal_layout%
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1708239818817
+  last_edited_time = 1713060570851
   is_enabled = true
   randommode = true
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:97f7dd20-5542-4b18-b3ab-57248a86bd86-1708239781579] = [groups:][instances:]
+  [loading_requirement_container_meta:7522a6f6-ffec-4f60-9954-ec2389c343bc-1713060544922] = [groups:][instances:]
 }
 
 customization {
@@ -19,10 +19,12 @@ customization {
 
 scroll_list_customization {
   preserve_scroll_list_header_footer_aspect_ratio = true
-  scroll_list_header_texture = [source:local]/config/fancymenu/assets/oragnespacebg.png
-  scroll_list_footer_texture = [source:local]/config/fancymenu/assets/oragnespacebg.png
+  scroll_list_header_texture = [source:local]/config/fancymenu/assets/otop.png
+  scroll_list_footer_texture = [source:local]/config/fancymenu/assets/obottom.png
   render_scroll_list_header_shadow = true
   render_scroll_list_footer_shadow = true
   show_scroll_list_header_footer_preview_in_editor = true
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
 }
 

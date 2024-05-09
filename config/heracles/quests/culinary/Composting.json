@@ -6,7 +6,7 @@
   "rewards": {},
   "display": {
     "subtitle": {
-      "translate": "Farmers are no strangers to composting, as one would expect; sometimes you may see Villagers experimenting with a larger-scale form of composting their leftovers."
+      "translate": "A healthier solution!"
     },
     "description": [
       "Compost Heaps are houses dedicated to treating and processing a pile of Organic Compost, made from organic leftovers, straw and dirt. This rather smelly mixture may seem strange at first, but given enough sunshine and moisture, will eventually become a valuable farming resource: Rich Soil!"
@@ -14,8 +14,8 @@
     "groups": {
       "Culinary": {
         "position": [
-          -155,
-          -83
+          -157,
+          -63
         ]
       }
     },

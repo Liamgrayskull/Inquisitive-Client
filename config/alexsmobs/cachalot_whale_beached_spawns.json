@@ -32,13 +32,6 @@
         "negate": false,
         "value": "minecraft:stony_shore"
       }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "natures_spirit:tropical_shores"
-      }
     ]
   ]
 }

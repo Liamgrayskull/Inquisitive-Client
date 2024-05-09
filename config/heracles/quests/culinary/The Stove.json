@@ -4,7 +4,7 @@
   "rewards": {},
   "display": {
     "subtitle": {
-      "translate": "The Stove is a direct upgrade to the Campfire's cooking features, and a suitable heat source for the Cooking Pot."
+      "translate": "Infinite bacon."
     },
     "description": [
       "To add items to its grill, simply right-click the Stove when it has no objects blocking its top face. Stoves detect campfire recipes to cook, meaning they usually also take 30 seconds to fully prepare items. Stoves cannot be automated through item transferring blocks (e.g. Hoppers), but require no fuel to cook items, much like a Campfire.",
@@ -18,8 +18,8 @@
     "groups": {
       "Culinary": {
         "position": [
-          -95,
-          -68
+          -73,
+          -91
         ]
       }
     },

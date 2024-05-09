@@ -72,9 +72,6 @@ _version = 2
 				# Disabling fog will improve GPU performance.
 				# 
 				drawMode = "FOG_ENABLED"
-				# At what distance should Fog be drawn on the LODs?
-				# 
-				distance = "FAR"
 				# What color should fog use? 
 				# 
 				# USE_WORLD_FOG_COLOR: Use the world's fog color. 
@@ -94,26 +91,26 @@ _version = 2
 					# 1.0: Fog starts at the closest edge of the vanilla render distance. 
 					# 1.414: Fog starts at the corner of the vanilla render distance.
 					# 
-					farFogStart = 0.0
+					farFogStart = "0.0"
 					# Where should the far fog end? 
 					# 
 					# 0.0: Fog ends at player's position.
 					# 1.0: Fog ends at the closest edge of the vanilla render distance. 
 					# 1.414: Fog ends at the corner of the vanilla render distance.
 					# 
-					farFogEnd = 1.0
+					farFogEnd = "1.0"
 					# What is the minimum fog thickness? 
 					# 
 					# 0.0: No fog. 
 					# 1.0: Fully opaque fog.
 					# 
-					farFogMin = 0.0
+					farFogMin = "0.0"
 					# What is the maximum fog thickness? 
 					# 
 					# 0.0: No fog. 
 					# 1.0: Fully opaque fog.
 					# 
-					farFogMax = 1.0
+					farFogMax = "1.0"
 					# How should the fog thickness should be calculated? 
 					# 
 					# LINEAR: Linear based on distance (will ignore 'density')
@@ -123,7 +120,7 @@ _version = 2
 					farFogFalloff = "EXPONENTIAL_SQUARED"
 					# Used in conjunction with the Fog Falloff.
 					# 
-					farFogDensity = 2.5
+					farFogDensity = "2.5"
 
 					[client.advanced.graphics.fog.advancedFog.heightFog]
 						# How should height effect the fog thickness? 
@@ -155,31 +152,31 @@ _version = 2
 						heightFogMode = "ABOVE_AND_BELOW_CAMERA"
 						# If the height fog is calculated around a set height, what is that height position?
 						# 
-						heightFogBaseHeight = 70.0
+						heightFogBaseHeight = "70.0"
 						# Should the start of the height fog be offset? 
 						# 
 						# 0.0: Fog start with no offset.
 						# 1.0: Fog start with offset of the entire world's height. (Includes depth)
 						# 
-						heightFogStart = 0.0
+						heightFogStart = "0.0"
 						# Should the end of the height fog be offset? 
 						# 
 						# 0.0: Fog end with no offset.
 						# 1.0: Fog end with offset of the entire world's height. (Include depth)
 						# 
-						heightFogEnd = 1.0
+						heightFogEnd = "1.0"
 						# What is the minimum fog thickness? 
 						# 
 						# 0.0: No fog. 
 						# 1.0: Fully opaque fog.
 						# 
-						heightFogMin = 0.0
+						heightFogMin = "0.0"
 						# What is the maximum fog thickness? 
 						# 
 						# 0.0: No fog. 
 						# 1.0: Fully opaque fog.
 						# 
-						heightFogMax = 1.0
+						heightFogMax = "1.0"
 						# How should the height fog thickness should be calculated? 
 						# 
 						# LINEAR: Linear based on height (will ignore 'density')
@@ -189,7 +186,7 @@ _version = 2
 						heightFogFalloff = "EXPONENTIAL_SQUARED"
 						# What is the height fog's density?
 						# 
-						heightFogDensity = 2.5
+						heightFogDensity = "2.5"
 
 			[client.advanced.graphics.ssao]
 				# Enable Screen Space Ambient Occlusion
@@ -201,18 +198,18 @@ _version = 2
 				sampleCount = 6
 				# Determines the radius Screen Space Ambient Occlusion is applied, measured in blocks.
 				# 
-				radius = 4.0
+				radius = "4.0"
 				# Determines how dark the Screen Space Ambient Occlusion effect will be.
 				# 
-				strength = 0.2
+				strength = "0.2"
 				# Increasing the value can reduce banding at the cost of reducing the strength of the effect.
 				# 
-				bias = 0.02
+				bias = "0.02"
 				# Determines how dark the occlusion shadows can be. 
 				# 0 = totally black at the corners 
 				# 1 = no shadow
 				# 
-				minLight = 0.25
+				minLight = "0.25"
 				# The radius, measured in pixels, that blurring is calculated for the SSAO. 
 				# Higher numbers will reduce banding at the cost of GPU performance.
 				# 
@@ -230,47 +227,37 @@ _version = 2
 				noiseSteps = 4
 				# How intense should the noise should be?
 				# 
-				noiseIntensity = 5.0
+				noiseIntensity = "5.0"
 				# Defines how far should the noise texture render before it fades away. (in blocks) 
 				# Set to 0 to disable noise from fading away
 				# 
 				noiseDropoff = 1024
 
 			[client.advanced.graphics.advancedGraphics]
-				# Determines how far Distant Horizon's near clip plane will render. 
+				# Determines how far from the camera Distant Horizons will start rendering. 
+				# Measured as a percentage of the vanilla render distance.
 				# 
 				# Higher values will prevent LODs from rendering behind vanilla blocks at a higher distance,
 				# but may cause holes to appear in the LODs. 
-				# Holes are most likely at the left and right edges of the screen 
-				# when flying through unloaded terrain. 
+				# Holes are most likely to appear when flying through unloaded terrain. 
 				# 
-				# Increasing the vanilla render distance increases the effectiveness of these options.
+				# Increasing the vanilla render distance increases the effectiveness of this setting.
 				# 
-				overdrawPrevention = "MEDIUM"
-				# Buggy experimental option that will attempt to match up 
-				# Distant Horizons' and Minecraft's near/far clip planes, 
-				# reducing overdraw. 
-				# 
-				# Only functional on Fabric.
-				# Works best with an overdraw prevention setting of MEDIUM or higher 
-				#  and cave culling is disabled. 
-				# 
-				# 
-				seamlessOverdraw = false
+				overdrawPrevention = "0.4"
 				# How bright LOD colors are. 
 				# 
 				# 0 = black 
 				# 1 = normal 
 				# 2 = near white
 				# 
-				brightnessMultiplier = 1.0
+				brightnessMultiplier = "1.0"
 				# How saturated LOD colors are. 
 				# 
 				# 0 = black and white 
 				# 1 = normal 
 				# 2 = very saturated
 				# 
-				saturationMultiplier = 1.0
+				saturationMultiplier = "1.0"
 				# If enabled caves will be culled 
 				# 
 				# NOTE: This feature is under development and 
@@ -301,16 +288,40 @@ _version = 2
 				# What the value should vanilla Minecraft's texture LodBias be? 
 				# If set to 0 the mod wont overwrite vanilla's default (which so happens to also be 0)
 				# 
-				lodBias = 0.0
+				lodBias = "0.0"
 				# How should LODs be shaded? 
 				# 
-				# MINECRAFT: Uses the same side shading as vanilla Minecraft blocks. 
-				# OLD_LIGHTING: Simulates Minecraft's block shading for LODs. 
+				# AUTO: Uses the same side shading as vanilla Minecraft blocks. 
+				# ENABLED: Simulates Minecraft's block shading for LODs. 
 				#               Can be used to force LOD shading when using some shaders. 
-				# NONE: All LOD sides will be rendered with the same brightness. 
+				# DISABLED: All LOD sides will be rendered with the same brightness. 
 				# 
 				# 
-				lodShading = "MINECRAFT"
+				lodShading = "AUTO"
+				# If false LODs outside the player's camera 
+				# aren't drawn, increasing GPU performance. 
+				# 
+				# If true all LODs are drawn, even those behind 
+				# the player's camera, decreasing GPU performance. 
+				# 
+				# Disable this if you see LODs disappearing at the corners of your vision.
+				# 
+				disableFrustumCulling = false
+				# Identical to the other frustum culling option
+				# only used when a shader mod is present using the DH API
+				# and the shadow pass is being rendered.
+				# 
+				# Disable this if shadows render incorrectly.
+				# 
+				disableShadowPassFrustumCulling = false
+				# How should the sides and bottom of grass block LODs render? 
+				# 
+				# AS_GRASS: all sides of dirt LOD's render using the top (green) color. 
+				# FADE_TO_DIRT: sides fade from grass to dirt. 
+				# AS_DIRT: sides render entirely as dirt. 
+				# 
+				# 
+				grassSideRendering = "FADE_TO_DIRT"
 
 		[client.advanced.worldGenerator]
 			#  Should Distant Horizons slowly generate LODs 
@@ -348,6 +359,7 @@ _version = 2
 			# How should multiplayer save folders should be named? 
 			# 
 			# NAME_ONLY: Example: "Minecraft Server" 
+			# IP_ONLY: Example: "192.168.1.40" 
 			# NAME_IP: Example: "Minecraft Server IP 192.168.1.40" 
 			# NAME_IP_PORT: Example: "Minecraft Server IP 192.168.1.40:25565"NAME_IP_PORT_MC_VERSION: Example: "Minecraft Server IP 192.168.1.40:25565 GameVersion 1.16.5"
 			# 
@@ -372,7 +384,7 @@ _version = 2
 			# Higher values mean the matching is more strict.
 			# 
 			# 
-			multiverseSimilarityRequiredPercent = 0.0
+			multiverseSimilarityRequiredPercent = "0.0"
 
 		[client.advanced.lodBuilding]
 			# Determines how long must pass between LOD chunk updates before another. 
@@ -393,6 +405,52 @@ _version = 2
 			# 
 			# 
 			onlyUseDhLightingEngine = false
+			# What algorithm should be used to compress new LOD data? 
+			# This setting will only affect new or updated LOD data, 
+			# any data already generated when this setting is changed will be
+			# unaffected until it needs to be re-written to the database.
+			# 
+			# UNCOMPRESSED 
+			# Should only be used for testing, is worse in every way vs [LZ4].
+			# Expected Compression Ratio: 1.0
+			# Estimated average DTO read speed: 1.64 milliseconds
+			# Estimated average DTO write speed: 12.44 milliseconds
+			# 
+			# LZ4 
+			# A good option if you're CPU limited and have plenty of hard drive space.
+			# Expected Compression Ratio: 0.36
+			# Estimated average DTO read speed: 1.85 ms
+			# Estimated average DTO write speed: 9.46 ms
+			# 
+			# LZMA2 
+			# Slow but very good compression.
+			# Expected Compression Ratio: 0.14
+			# Estimated average DTO read speed: 11.89 ms
+			# Estimated average DTO write speed: 192.01 ms
+			# 
+			# 
+			dataCompression = "LZMA2"
+			# How should block data be compressed when creating LOD data? 
+			# This setting will only affect new or updated LOD data, 
+			# any data already generated when this setting is changed will be
+			# unaffected until it is modified or re-loaded.
+			# 
+			# MERGE_SAME_BLOCKS 
+			# Every block/biome change is recorded in the database. 
+			# This is what DH 2.0 and 2.0.1 all used by default and will store a lot of data. 
+			# Expected Compression Ratio: 1.0
+			# 
+			# VISUALLY_EQUAL 
+			# Only visible block/biome changes are recorded in the database. 
+			# Hidden blocks (IE ores) are ignored.  
+			# Expected Compression Ratio: 0.7
+			# 
+			# 
+			worldCompression = "VISUALLY_EQUAL"
+			# Determines if a message should be displayed in the chat when LOD migration starts. 
+			# 
+			# 
+			showMigrationChatWarning = true
 
 		[client.advanced.multiThreading]
 			# How many threads should be used when generating LOD 
@@ -416,8 +474,8 @@ _version = 2
 			# is already set to 1 for the given option, or more finely 
 			# tune CPU performance.
 			# 
-			runTimeRatioForWorldGenerationThreads = 0.75
-			# How many threads should be used when reading in LOD data from disk? 
+			runTimeRatioForWorldGenerationThreads = "0.75"
+			# How many threads should be used when reading/writing LOD data to/from disk? 
 			# 
 			# Increasing this number will cause LODs to load in faster, 
 			# but may cause lag when loading a new world or when 
@@ -436,7 +494,34 @@ _version = 2
 			# is already set to 1 for the given option, or more finely 
 			# tune CPU performance.
 			# 
-			runTimeRatioForFileHandlerThreads = 0.5
+			runTimeRatioForFileHandlerThreads = "0.75"
+			# How many threads should be used when applying LOD updates? 
+			# An LOD update is the operation of down-sampling a high detail LOD 
+			# into a lower detail one.
+			# 
+			# This config can have a much higher number of threads 
+			# assigned and much lower run time ratio vs other thread pools 
+			# because the amount of time any particular thread may run is relatively low.
+			# 
+			# This is because LOD updating only only partially thread safe, 
+			# so between 40% and 60% of the time a given thread may end up 
+			# waiting on another thread to finish updating the same LOD it also wants
+			# to work on.
+			# 
+			# Multi-threading Note: 
+			# If the total thread count in Distant Horizon's config is more threads than your CPU has cores, 
+			# CPU performance may suffer if Distant Horizons has a lot to load or generate. 
+			# This can be an issue when first loading into a world, when flying, and/or when generating new terrain.
+			# 
+			numberOfUpdatePropagatorThreads = 6
+			# If this value is less than 1.0, it will be treated as a percentage 
+			# of time each thread can run before going idle. 
+			# 
+			# This can be used to reduce CPU usage if the thread count 
+			# is already set to 1 for the given option, or more finely 
+			# tune CPU performance.
+			# 
+			runTimeRatioForUpdatePropagatorThreads = "0.5"
 			# How many threads should be used when building LODs? 
 			# 
 			# These threads run when terrain is generated, when
@@ -455,7 +540,7 @@ _version = 2
 			# is already set to 1 for the given option, or more finely 
 			# tune CPU performance.
 			# 
-			runTimeRatioForLodBuilderThreads = 0.5
+			runTimeRatioForLodBuilderThreads = "0.5"
 			# Should only be disabled if deadlock occurs and LODs refuse to update. 
 			# This will cause CPU usage to drastically increase for the Lod Builder threads. 
 			# 
@@ -568,11 +653,11 @@ _version = 2
 			rendererMode = "DEFAULT"
 			# Should specialized colors/rendering modes be used? 
 			# 
-			# OFF: Fake chunks will be drawn with their normal colors. 
-			# SHOW_DETAIL: Fake chunks color will be based on their detail level. 
-			# SHOW_GENMODE: Fake chunks color will be based on their distant generation mode. 
-			# SHOW_OVERLAPPING_QUADS: Fake chunks will be drawn with total white, but overlapping quads will be drawn with red. 
-			#     but overlapping quads will be drawn with red, drawn as a wireframe.
+			# OFF: LODs will be drawn with their normal colors. 
+			# SHOW_DETAIL: LODs' color will be based on their detail level. 
+			# SHOW_BLOCK_MATERIAL: LODs' color will be based on their material. 
+			# SHOW_OVERLAPPING_QUADS: LODs will be drawn with total white, but overlapping quads will be drawn with red. 
+			# 
 			# 
 			debugRendering = "OFF"
 			# If enabled the LODs will render as wireframe.
@@ -593,6 +678,11 @@ _version = 2
 			# Useful for debugging shaders
 			# 
 			enableWhiteWorld = false
+			# If true overlapping quads will be rendered as bright red for easy identification. 
+			# If false the quads will be rendered normally. 
+			# 
+			# 
+			showOverlappingQuadErrors = false
 
 			[client.advanced.debugging.debugWireframe]
 				# If enabled, various wireframes for debugging internal functions will be drawn. 
@@ -608,15 +698,9 @@ _version = 2
 				# Render LOD section status?
 				# 
 				showRenderSectionStatus = false
-				# Render full data file status?
+				# Render full data update/lock status?
 				# 
-				showFullDataFileStatus = false
-				# Render full data file sampling progress?
-				# 
-				showFullDataFileSampling = false
-				# Render render data file status?
-				# 
-				showRenderDataFileStatus = false
+				showFullDataUpdateStatus = false
 
 			[client.advanced.debugging.openGl]
 				# Requires a reboot to change. 
@@ -683,7 +767,7 @@ _version = 2
 				boolTest = false
 				byteTest = "8"
 				intTest = 69420
-				doubleTest = 420.69
+				doubleTest = "420.69"
 				shortTest = "69"
 				longTest = "42069"
 				floatTest = "0.42069"

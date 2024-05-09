@@ -4,14 +4,18 @@
   "rewards": {},
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Refining Materials!"
     },
-    "description": [],
+    "description": [
+      "The grindstone has become a crucible of progression via enabling rough gems or unpolished blocks to be polishable, similar to the process of smelting raw ore blocks.",
+      "",
+      "This also yields XP!"
+    ],
     "groups": {
       "Spelunking": {
         "position": [
-          -123,
-          102
+          -113,
+          98
         ]
       }
     },

@@ -23,13 +23,14 @@
       "- A welcoming community",
       "",
       "/d/--Join through the discord!--/d/",
-      "https://discord.gg/6qF5U6sdKJ"
+      "https://discord.gg/6qF5U6sdKJ",
+      "(Use the gui button as this doesn't join directly)"
     ],
     "groups": {
       "Core": {
         "position": [
-          -123,
-          -57
+          67,
+          2
         ]
       }
     },

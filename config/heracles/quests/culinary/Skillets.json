@@ -6,7 +6,7 @@
   "rewards": {},
   "display": {
     "subtitle": {
-      "translate": "The Skillet is a weapon and a portable food-cooking station, which can be operated by hand or as a block."
+      "translate": "The Skillet is a portable powerhouse."
     },
     "description": [
       "Skillets can process any campfire cooking recipe, taking roughly 20% of the original time to cook each item (by default, 6 seconds for most recipes).",
@@ -34,8 +34,8 @@
     "groups": {
       "Culinary": {
         "position": [
-          -119,
-          -121
+          -89,
+          -138
         ]
       }
     },

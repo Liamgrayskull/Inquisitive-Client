@@ -44,6 +44,20 @@
         "negate": false,
         "value": "biomesoplenty:snowblossom_grove"
       }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "ad_astra:glacio_snowy_barrens"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "flying_stuff:glaciated_flining_islands"
+      }
     ]
   ]
 }

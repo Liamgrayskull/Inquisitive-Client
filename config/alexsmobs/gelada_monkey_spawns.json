@@ -51,20 +51,6 @@
         "negate": false,
         "value": "terralith:valley_clearing"
       }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "natures_spirit:shrubby_highlands"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "natures_spirit:arid_highlands"
-      }
     ]
   ]
 }

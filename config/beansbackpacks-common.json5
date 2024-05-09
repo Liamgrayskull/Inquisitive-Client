@@ -1,0 +1,16 @@
+{
+/* =============== Maximum Stacks =============== */
+  "leather_max_stacks": 4,           // 1 - 64  Default: 4
+  "ender_max_stacks": 4,             // 1 - 8  Default: 4
+  "winged_max_stacks": 4,            // 1 - 64  Default: 4
+  "metal_max_stacks": 7,             // 1 - 64  Default: 7
+  "pot_max_stacks": 128,             // 0 - 128  Default: 128
+  "cauldron_max_buckets": 24,        // 0 - 128  Default: 24
+/* ================= Gamerules ================== */
+  "lockBackpackNoKey": false,        // Default: false
+  "lockBackpackOffline": false,      // Default: false
+  "lockEnderOffline": false,         // Default: false
+  "keepBackSlot": false,             // Default: false
+  "lockBackpackNotOwner": false,     // Default: false
+  "unbindEnderOnDeath": false        // Default: false
+}

@@ -22,12 +22,12 @@
       "text": ""
     },
     "description": [
-      "Through this wide world, you will find many a book. However, Alex's famous Cave Compendium is perhaps one of the oldest, and most coveted books discoverable.. As it is a guide to each charted cave in our overworld, from the rare to the common."
+      "Through this wide world, you will find many a book. However, Alex's famous Cave Compendium is perhaps one of the oldest, and most coveted books discoverable.. It is far from complete, but it charts some of the more prominent realms under the surface."
     ],
     "groups": {
       "Spelunking": {
         "position": [
-          -55,
+          -54,
           -45
         ]
       }

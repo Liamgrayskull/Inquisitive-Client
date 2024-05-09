@@ -3,8 +3,20 @@
     [
       {
         "type": "BIOME_TAG",
+        "negate": true,
+        "value": "forge:no_default_monsters"
+      },
+      {
+        "type": "BIOME_TAG",
         "negate": false,
         "value": "minecraft:is_nether"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "ad_astra:martian_canyon_creek"
       }
     ]
   ]
