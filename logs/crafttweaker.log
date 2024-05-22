@@ -1,143 +1,153 @@
-[18:54:36.764][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production client modded with platform Forge
-[18:54:36.817][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
-[18:54:36.967][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
-[18:54:36.973][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
-[18:54:36.984][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
-[18:54:38.778][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
-[18:54:38.780][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.38'
-[18:54:38.781][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.4'
-[18:54:50.767][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
-[18:54:51.032][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[18:54:51.071][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
-[18:54:51.161][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
-[18:55:31.617][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
-[18:55:31.635][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[18:55:31.648][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
-[18:55:31.656][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
-[18:55:34.158][INFO][CraftTweaker]: CraftTweaker reload starting!
-[18:55:34.170][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
-[18:55:34.192][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[18:55:34.638][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
-[18:55:34.639][INFO][CraftTweaker-ZenCode]: Loading file 'tweaks.zs' with priority 0
-[18:55:34.715][INFO][CraftTweaker]: Adding: [alexsmobs:straddler] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
-[18:55:34.717][INFO][CraftTweaker]: Adding: [alexsmobs:cosmic_cod] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
-[18:55:34.717][INFO][CraftTweaker]: Adding: [alexsmobs:spectre] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
-[18:55:34.717][INFO][CraftTweaker]: Adding: [alexsmobs:cosmaw] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
-[18:55:34.717][INFO][CraftTweaker]: Adding: [alexsmobs:endergrade] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
-[18:55:34.717][INFO][CraftTweaker]: Adding: [enlightened_end:void_leviathan] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
-[18:55:34.717][INFO][CraftTweaker]: Adding: [alexsmobs:straddler] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
-[18:55:34.717][INFO][CraftTweaker]: Adding: [alexsmobs:laviathan] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
-[18:55:34.718][INFO][CraftTweaker]: Adding: [alexsmobs:rocky_roller] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
-[18:55:34.718][INFO][CraftTweaker]: Adding: [alexsmobs:guster] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
-[18:55:34.718][INFO][CraftTweaker]: Adding: [alexsmobs:bone_serpent] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
-[18:55:34.718][INFO][CraftTweaker]: Adding: [alexsmobs:tarantula_hawk] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
-[18:55:34.718][INFO][CraftTweaker]: Adding: [alexscaves:ferrouslime] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
-[18:55:34.718][INFO][CraftTweaker]: Adding: [alexscaves:gloomoth] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
-[18:55:34.718][INFO][CraftTweaker]: Adding: [alexscaves:underzealot] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
-[18:55:34.718][INFO][CraftTweaker]: Adding: [alexscaves:watcher] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
-[18:55:34.718][INFO][CraftTweaker]: Adding: [alexscaves:vesper] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
-[18:55:34.719][INFO][CraftTweaker]: Adding: [galosphere:preserved] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
-[18:55:34.719][INFO][CraftTweaker]: Adding: [alexsmobs:tusklin] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
-[18:55:34.719][INFO][CraftTweaker]: Adding: [alexsmobs:froststalker] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
-[18:55:34.719][INFO][CraftTweaker]: Adding: [flying_stuff:skyrock] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
-[18:55:34.719][INFO][CraftTweaker]: Adding: [flying_stuff:mossy_skyrock] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
-[18:55:34.719][INFO][CraftTweaker]: Adding: [flying_stuff:tiled_skyrock] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
-[18:55:34.719][INFO][CraftTweaker]: Adding: [flying_stuff:mossy_tiled_skyrock] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
-[18:55:34.720][INFO][CraftTweaker]: Adding: [flying_stuff:chiseled_skyrock] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
-[18:55:34.720][INFO][CraftTweaker]: Adding: [flying_stuff:polished_skyrock] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
-[18:55:34.720][INFO][CraftTweaker]: Adding: [flying_stuff:skyrock_column_base] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
-[18:55:34.720][INFO][CraftTweaker]: Adding: [flying_stuff:skyrockcolumn] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
-[18:55:34.720][INFO][CraftTweaker]: Adding: [flying_stuff:glaciated_skyrock] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
-[18:55:34.720][INFO][CraftTweaker]: Adding: [flying_stuff:mossy_glaciated_skyrock] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
-[18:55:34.720][INFO][CraftTweaker]: Adding: [flying_stuff:polished_glacitated_skyrock] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
-[18:55:34.721][INFO][CraftTweaker]: Adding: [flying_stuff:glaciated_skyrock_bricks] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
-[18:55:34.721][INFO][CraftTweaker]: Adding: [flying_stuff:chiseled_glaciated_skyrock] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
-[18:55:34.721][INFO][CraftTweaker]: Adding: [flying_stuff:glaciated_skyrock_pillar_base] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
-[18:55:34.721][INFO][CraftTweaker]: Adding: [flying_stuff:glaciated_skyrock_pillar] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
-[18:55:34.721][INFO][CraftTweaker]: Adding: [flying_stuff:mossy_glaciated_skyrock_bricks] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
-[18:55:34.721][INFO][CraftTweaker]: Adding: [flying_stuff:lavic_skyrock] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
-[18:55:34.722][INFO][CraftTweaker]: Adding: [flying_stuff:polished_lavic_skyrock] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
-[18:55:34.722][INFO][CraftTweaker]: Adding: [flying_stuff:lavic_skyrock_bricks] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
-[18:55:34.722][INFO][CraftTweaker]: Adding: [flying_stuff:lavic_skyrock_tiles] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
-[18:55:34.722][INFO][CraftTweaker]: Adding: [flying_stuff:skyrock] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
-[18:55:34.722][INFO][CraftTweaker]: Adding: [flying_stuff:skyrock] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
-[18:55:34.723][INFO][CraftTweaker]: Removing: [minecraft:stone_bricks] from tag: <tag:blocks:dimdungeons:portal_frame_blocks>
-[18:55:34.723][INFO][CraftTweaker]: Removing: [minecraft:mossy_stone_bricks] from tag: <tag:blocks:dimdungeons:portal_frame_blocks>
-[18:55:34.723][INFO][CraftTweaker]: Removing: [minecraft:cracked_stone_bricks] from tag: <tag:blocks:dimdungeons:portal_frame_blocks>
-[18:55:34.723][INFO][CraftTweaker]: Removing: [minecraft:chiseled_stone_bricks] from tag: <tag:blocks:dimdungeons:portal_frame_blocks>
-[18:55:34.724][INFO][CraftTweaker]: Removing: [minecraft:stone_bricks] from tag: <tag:blocks:dimdungeons:portal_frame_blocks>
-[18:55:34.727][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:simpleradio:transceiver>'
-[18:55:34.735][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:simpleradio:radiosmither>'
-[18:55:34.740][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:simpleradio:radio>'
-[18:55:34.745][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:scriptor:casting_crystal>'
-[18:55:34.750][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:scriptor:chalk>'
-[18:55:34.755][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:transmog:void_fragment>'
-[18:55:34.760][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:transmog:transmogrification_table>'
-[18:55:34.765][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:alexsmobs:transmutation_table>'
-[18:55:34.770][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:waystones:warp_dust>'
-[18:55:34.772][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:waystones:warp_plate>'
-[18:55:34.774][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:xercamusic:french_horn>'
-[18:55:34.776][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:xercamusic:drum_kit>'
-[18:55:34.778][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:xercamusic:drum>'
-[18:55:34.780][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:xercamusic:lyre>'
-[18:55:34.782][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:xercamusic:saxophone>'
-[18:55:34.783][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:xercamusic:god>'
-[18:55:34.784][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:xercamusic:cello>'
-[18:55:34.786][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:xercamusic:redstone_guitar>'
-[18:55:34.790][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:xercamusic:guitar>'
-[18:55:34.793][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:xercamusic:bass_guitar>'
-[18:55:34.796][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:xercamusic:tubular_bell>'
-[18:55:34.799][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:xercamusic:sansula>'
-[18:55:34.802][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:xercamusic:oboe>'
-[18:55:34.804][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:xercamusic:xylophone>'
-[18:55:34.806][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:xercamusic:piano>'
-[18:55:34.808][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:xercamusic:banjo>'
-[18:55:34.809][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:blockofsky:void_block>'
-[18:55:34.812][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:blockofsky:sky_block>'
-[18:55:34.818][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:waystones:warp_stone>'
-[18:55:34.823][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:waystones:waystone>'
-[18:55:34.827][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:waystones:mossy_waystone>'
-[18:55:34.830][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:waystones:sandy_waystone>'
-[18:55:34.833][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:waystones:sharestone>'
-[18:55:34.840][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:casting_crystal' that outputs: '<item:scriptor:casting_crystal>'
-[18:55:34.840][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:chalk' that outputs: '<item:scriptor:chalk>'
-[18:55:34.841][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:identify_scroll' that outputs: '<item:scriptor:identify_scroll>'
-[18:55:34.841][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:paper' that outputs: '<item:minecraft:paper>'
-[18:55:34.841][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:ink_sac' that outputs: '<item:minecraft:ink_sac>'
-[18:55:34.841][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:antique_ink' that outputs: '<item:supplementaries:antique_ink>'
-[18:55:34.841][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:scrap_tier1' that outputs: '<item:scriptor:scrap_tier1>'
-[18:55:34.842][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:scrap_tier2' that outputs: '<item:scriptor:scrap_tier2>'
-[18:55:34.842][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:scrap_tier3' that outputs: '<item:scriptor:scrap_tier3>'
-[18:55:34.842][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:void_fragment' that outputs: '<item:transmog:void_fragment>'
-[18:55:34.843][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:transmogrification_table' that outputs: '<item:transmog:transmogrification_table>'
-[18:55:34.843][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:radiomaker' that outputs: '<item:simpleradio:radio>'
-[18:55:34.843][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:radiosmither' that outputs: '<item:simpleradio:radiosmither>'
-[18:55:34.843][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:transciever' that outputs: '<item:simpleradio:transceiver>'
-[18:55:34.843][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:warp_dust' that outputs: '<item:waystones:warp_dust>'
-[18:55:34.843][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:void_block' that outputs: '<item:blockofsky:void_block>'
-[18:55:34.843][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:sky_block' that outputs: '<item:blockofsky:sky_block>'
-[18:55:34.843][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:transmutation_table' that outputs: '<item:alexsmobs:transmutation_table>'
-[18:55:34.844][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:french_horn' that outputs: '<item:xercamusic:french_horn>'
-[18:55:34.844][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:drum_kit' that outputs: '<item:xercamusic:drum_kit>'
-[18:55:34.844][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:drum' that outputs: '<item:xercamusic:drum>'
-[18:55:34.845][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:lyre' that outputs: '<item:xercamusic:lyre>'
-[18:55:34.845][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:saxaphone' that outputs: '<item:xercamusic:saxophone>'
-[18:55:34.845][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:god' that outputs: '<item:xercamusic:god>'
-[18:55:34.845][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:cello' that outputs: '<item:xercamusic:cello>'
-[18:55:34.845][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:redstone_guitar' that outputs: '<item:xercamusic:redstone_guitar>'
-[18:55:34.846][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:guitar' that outputs: '<item:xercamusic:guitar>'
-[18:55:34.846][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:bass_guitar' that outputs: '<item:xercamusic:bass_guitar>'
-[18:55:34.847][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:tubular_bell' that outputs: '<item:xercamusic:tubular_bell>'
-[18:55:34.847][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:sansula' that outputs: '<item:xercamusic:sansula>'
-[18:55:34.847][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:oboe' that outputs: '<item:xercamusic:oboe>'
-[18:55:34.847][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:xylophone' that outputs: '<item:xercamusic:xylophone>'
-[18:55:34.848][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:piano' that outputs: '<item:xercamusic:piano>'
-[18:55:34.848][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:banjo' that outputs: '<item:xercamusic:banjo>'
-[18:55:34.849][INFO][CraftTweaker]: Adding 'farmersdelight:cooking' recipe, with name: 'crafttweaker:create_chocolate_gummy' that outputs: '<item:collectorsreap:chocolate_gummy>'
-[18:55:34.849][INFO][CraftTweaker]: Adding 'farmersdelight:cooking' recipe, with name: 'crafttweaker:bountiful_passion_fruit_gummy' that outputs: '<item:collectorsreap:passion_fruit_gummy>'
-[18:55:34.849][INFO][CraftTweaker]: Adding 'farmersdelight:cooking' recipe, with name: 'crafttweaker:bountiful_green_tea_gummy' that outputs: '<item:collectorsreap:green_tea_gummy>'
-[18:55:34.849][INFO][CraftTweaker]: Adding 'farmersdelight:cooking' recipe, with name: 'crafttweaker:bountiful_honeysuckle_tea_gummy' that outputs: '<item:collectorsreap:yellow_tea_gummy>'
-[18:55:34.849][INFO][CraftTweaker]: Adding 'farmersdelight:cooking' recipe, with name: 'crafttweaker:bountiful_black_tea_fruit_gummy' that outputs: '<item:collectorsreap:black_tea_gummy>'
-[18:55:34.849][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
-[18:55:34.852][INFO][CraftTweaker]: CraftTweaker reload complete!
-[18:55:34.853][INFO][CraftTweaker]: This reload was made possible by Peregrinus11 and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[20:23:05.510][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production client modded with platform Forge
+[20:23:05.568][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[20:23:05.771][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[20:23:05.775][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[20:23:05.787][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
+[20:23:07.753][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[20:23:07.754][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.38'
+[20:23:07.754][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.4'
+[20:23:24.416][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
+[20:23:24.755][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[20:23:24.799][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[20:23:24.917][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
+[20:23:50.658][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
+[20:23:50.680][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[20:23:50.694][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[20:23:50.702][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
+[20:23:53.522][INFO][CraftTweaker]: CraftTweaker reload starting!
+[20:23:53.530][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
+[20:23:53.548][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[20:23:53.940][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[20:23:53.941][INFO][CraftTweaker-ZenCode]: Loading file 'tweaks.zs' with priority 0
+[20:23:54.010][INFO][CraftTweaker]: Adding: [alexsmobs:straddler] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[20:23:54.011][INFO][CraftTweaker]: Adding: [alexsmobs:cosmic_cod] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[20:23:54.012][INFO][CraftTweaker]: Adding: [alexsmobs:spectre] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[20:23:54.012][INFO][CraftTweaker]: Adding: [alexsmobs:cosmaw] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[20:23:54.012][INFO][CraftTweaker]: Adding: [alexsmobs:endergrade] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[20:23:54.012][INFO][CraftTweaker]: Adding: [enlightened_end:void_leviathan] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[20:23:54.012][INFO][CraftTweaker]: Adding: [alexsmobs:straddler] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[20:23:54.012][INFO][CraftTweaker]: Adding: [alexsmobs:laviathan] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[20:23:54.012][INFO][CraftTweaker]: Adding: [alexsmobs:rocky_roller] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[20:23:54.012][INFO][CraftTweaker]: Adding: [alexsmobs:guster] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[20:23:54.012][INFO][CraftTweaker]: Adding: [alexsmobs:bone_serpent] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[20:23:54.012][INFO][CraftTweaker]: Adding: [alexsmobs:tarantula_hawk] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[20:23:54.012][INFO][CraftTweaker]: Adding: [alexscaves:ferrouslime] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[20:23:54.012][INFO][CraftTweaker]: Adding: [alexscaves:gloomoth] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[20:23:54.012][INFO][CraftTweaker]: Adding: [alexscaves:underzealot] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[20:23:54.012][INFO][CraftTweaker]: Adding: [alexscaves:watcher] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[20:23:54.012][INFO][CraftTweaker]: Adding: [alexscaves:vesper] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[20:23:54.012][INFO][CraftTweaker]: Adding: [galosphere:preserved] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[20:23:54.013][INFO][CraftTweaker]: Adding: [alexsmobs:tusklin] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[20:23:54.013][INFO][CraftTweaker]: Adding: [alexsmobs:froststalker] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[20:23:54.013][INFO][CraftTweaker]: Adding: [flying_stuff:skyrock] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
+[20:23:54.013][INFO][CraftTweaker]: Adding: [flying_stuff:mossy_skyrock] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
+[20:23:54.013][INFO][CraftTweaker]: Adding: [flying_stuff:tiled_skyrock] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
+[20:23:54.014][INFO][CraftTweaker]: Adding: [flying_stuff:mossy_tiled_skyrock] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
+[20:23:54.014][INFO][CraftTweaker]: Adding: [flying_stuff:chiseled_skyrock] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
+[20:23:54.014][INFO][CraftTweaker]: Adding: [flying_stuff:polished_skyrock] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
+[20:23:54.014][INFO][CraftTweaker]: Adding: [flying_stuff:skyrock_column_base] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
+[20:23:54.015][INFO][CraftTweaker]: Adding: [flying_stuff:skyrockcolumn] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
+[20:23:54.015][INFO][CraftTweaker]: Adding: [flying_stuff:glaciated_skyrock] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
+[20:23:54.015][INFO][CraftTweaker]: Adding: [flying_stuff:mossy_glaciated_skyrock] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
+[20:23:54.015][INFO][CraftTweaker]: Adding: [flying_stuff:polished_glacitated_skyrock] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
+[20:23:54.015][INFO][CraftTweaker]: Adding: [flying_stuff:glaciated_skyrock_bricks] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
+[20:23:54.016][INFO][CraftTweaker]: Adding: [flying_stuff:chiseled_glaciated_skyrock] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
+[20:23:54.016][INFO][CraftTweaker]: Adding: [flying_stuff:glaciated_skyrock_pillar_base] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
+[20:23:54.016][INFO][CraftTweaker]: Adding: [flying_stuff:glaciated_skyrock_pillar] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
+[20:23:54.016][INFO][CraftTweaker]: Adding: [flying_stuff:mossy_glaciated_skyrock_bricks] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
+[20:23:54.016][INFO][CraftTweaker]: Adding: [flying_stuff:lavic_skyrock] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
+[20:23:54.016][INFO][CraftTweaker]: Adding: [flying_stuff:polished_lavic_skyrock] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
+[20:23:54.017][INFO][CraftTweaker]: Adding: [flying_stuff:lavic_skyrock_bricks] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
+[20:23:54.017][INFO][CraftTweaker]: Adding: [flying_stuff:lavic_skyrock_tiles] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
+[20:23:54.017][INFO][CraftTweaker]: Adding: [flying_stuff:skyrock] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
+[20:23:54.017][INFO][CraftTweaker]: Adding: [flying_stuff:skyrock] to tag: <tag:blocks:dimdungeons:portal_frame_blocks>
+[20:23:54.018][INFO][CraftTweaker]: Removing: [minecraft:stone_bricks] from tag: <tag:blocks:dimdungeons:portal_frame_blocks>
+[20:23:54.018][INFO][CraftTweaker]: Removing: [minecraft:mossy_stone_bricks] from tag: <tag:blocks:dimdungeons:portal_frame_blocks>
+[20:23:54.019][INFO][CraftTweaker]: Removing: [minecraft:cracked_stone_bricks] from tag: <tag:blocks:dimdungeons:portal_frame_blocks>
+[20:23:54.019][INFO][CraftTweaker]: Removing: [minecraft:chiseled_stone_bricks] from tag: <tag:blocks:dimdungeons:portal_frame_blocks>
+[20:23:54.019][INFO][CraftTweaker]: Removing: [minecraft:stone_bricks] from tag: <tag:blocks:dimdungeons:portal_frame_blocks>
+[20:23:54.023][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:simpleradio:transceiver>'
+[20:23:54.032][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:simpleradio:radiosmither>'
+[20:23:54.037][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:simpleradio:radio>'
+[20:23:54.042][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:scriptor:casting_crystal>'
+[20:23:54.046][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:scriptor:chalk>'
+[20:23:54.050][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:dimdungeons:block_key_charger>'
+[20:23:54.056][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:dimdungeons:block_gilded_portal>'
+[20:23:54.061][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:dimdungeons:block_portal_keyhole>'
+[20:23:54.065][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:dimdungeons:item_homeward_pearl>'
+[20:23:54.069][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:dimdungeons:item_portal_key>'
+[20:23:54.071][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:dimdungeons:item_blank_build_key>'
+[20:23:54.074][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:almanac:almanac>'
+[20:23:54.077][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:minecraft:spyglass>'
+[20:23:54.081][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:transmog:void_fragment>'
+[20:23:54.085][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:transmog:transmogrification_table>'
+[20:23:54.089][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:alexsmobs:transmutation_table>'
+[20:23:54.094][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:waystones:warp_dust>'
+[20:23:54.097][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:waystones:warp_plate>'
+[20:23:54.101][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:xercamusic:french_horn>'
+[20:23:54.104][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:xercamusic:drum_kit>'
+[20:23:54.107][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:xercamusic:drum>'
+[20:23:54.109][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:xercamusic:lyre>'
+[20:23:54.111][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:xercamusic:saxophone>'
+[20:23:54.113][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:xercamusic:god>'
+[20:23:54.115][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:xercamusic:cello>'
+[20:23:54.117][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:xercamusic:redstone_guitar>'
+[20:23:54.120][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:xercamusic:guitar>'
+[20:23:54.125][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:xercamusic:bass_guitar>'
+[20:23:54.128][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:xercamusic:tubular_bell>'
+[20:23:54.130][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:xercamusic:sansula>'
+[20:23:54.132][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:xercamusic:oboe>'
+[20:23:54.134][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:xercamusic:xylophone>'
+[20:23:54.136][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:xercamusic:piano>'
+[20:23:54.139][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:xercamusic:banjo>'
+[20:23:54.141][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:blockofsky:void_block>'
+[20:23:54.143][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:blockofsky:sky_block>'
+[20:23:54.147][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:waystones:warp_stone>'
+[20:23:54.152][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:waystones:waystone>'
+[20:23:54.156][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:waystones:mossy_waystone>'
+[20:23:54.160][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:waystones:sandy_waystone>'
+[20:23:54.165][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:waystones:sharestone>'
+[20:23:54.175][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:spyglass' that outputs: '<item:minecraft:spyglass>'
+[20:23:54.175][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:astronomy_book' that outputs: '<item:almanac:almanac>'
+[20:23:54.175][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:casting_crystal' that outputs: '<item:scriptor:casting_crystal>'
+[20:23:54.175][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:chalk' that outputs: '<item:scriptor:chalk>'
+[20:23:54.176][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:identify_scroll' that outputs: '<item:scriptor:identify_scroll>'
+[20:23:54.176][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:paper' that outputs: '<item:minecraft:paper>'
+[20:23:54.176][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:ink_sac' that outputs: '<item:minecraft:ink_sac>'
+[20:23:54.176][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:antique_ink' that outputs: '<item:supplementaries:antique_ink>'
+[20:23:54.176][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:scrap_tier1' that outputs: '<item:scriptor:scrap_tier1>'
+[20:23:54.177][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:scrap_tier2' that outputs: '<item:scriptor:scrap_tier2>'
+[20:23:54.177][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:scrap_tier3' that outputs: '<item:scriptor:scrap_tier3>'
+[20:23:54.177][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:void_fragment' that outputs: '<item:transmog:void_fragment>'
+[20:23:54.178][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:transmogrification_table' that outputs: '<item:transmog:transmogrification_table>'
+[20:23:54.178][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:radiomaker' that outputs: '<item:simpleradio:radio>'
+[20:23:54.178][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:radiosmither' that outputs: '<item:simpleradio:radiosmither>'
+[20:23:54.178][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:transciever' that outputs: '<item:simpleradio:transceiver>'
+[20:23:54.178][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:warp_dust' that outputs: '<item:waystones:warp_dust>'
+[20:23:54.179][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:void_block' that outputs: '<item:blockofsky:void_block>'
+[20:23:54.179][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:sky_block' that outputs: '<item:blockofsky:sky_block>'
+[20:23:54.179][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:transmutation_table' that outputs: '<item:alexsmobs:transmutation_table>'
+[20:23:54.179][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:french_horn' that outputs: '<item:xercamusic:french_horn>'
+[20:23:54.180][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:drum_kit' that outputs: '<item:xercamusic:drum_kit>'
+[20:23:54.180][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:drum' that outputs: '<item:xercamusic:drum>'
+[20:23:54.180][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:lyre' that outputs: '<item:xercamusic:lyre>'
+[20:23:54.181][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:saxaphone' that outputs: '<item:xercamusic:saxophone>'
+[20:23:54.181][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:god' that outputs: '<item:xercamusic:god>'
+[20:23:54.181][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:cello' that outputs: '<item:xercamusic:cello>'
+[20:23:54.181][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:redstone_guitar' that outputs: '<item:xercamusic:redstone_guitar>'
+[20:23:54.182][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:guitar' that outputs: '<item:xercamusic:guitar>'
+[20:23:54.182][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:bass_guitar' that outputs: '<item:xercamusic:bass_guitar>'
+[20:23:54.182][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:tubular_bell' that outputs: '<item:xercamusic:tubular_bell>'
+[20:23:54.182][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:sansula' that outputs: '<item:xercamusic:sansula>'
+[20:23:54.182][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:oboe' that outputs: '<item:xercamusic:oboe>'
+[20:23:54.182][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:xylophone' that outputs: '<item:xercamusic:xylophone>'
+[20:23:54.182][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:piano' that outputs: '<item:xercamusic:piano>'
+[20:23:54.182][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:banjo' that outputs: '<item:xercamusic:banjo>'
+[20:23:54.184][INFO][CraftTweaker]: Adding 'farmersdelight:cooking' recipe, with name: 'crafttweaker:create_chocolate_gummy' that outputs: '<item:collectorsreap:chocolate_gummy>'
+[20:23:54.184][INFO][CraftTweaker]: Adding 'farmersdelight:cooking' recipe, with name: 'crafttweaker:bountiful_passion_fruit_gummy' that outputs: '<item:collectorsreap:passion_fruit_gummy>'
+[20:23:54.184][INFO][CraftTweaker]: Adding 'farmersdelight:cooking' recipe, with name: 'crafttweaker:bountiful_green_tea_gummy' that outputs: '<item:collectorsreap:green_tea_gummy>'
+[20:23:54.184][INFO][CraftTweaker]: Adding 'farmersdelight:cooking' recipe, with name: 'crafttweaker:bountiful_honeysuckle_tea_gummy' that outputs: '<item:collectorsreap:yellow_tea_gummy>'
+[20:23:54.184][INFO][CraftTweaker]: Adding 'farmersdelight:cooking' recipe, with name: 'crafttweaker:bountiful_black_tea_fruit_gummy' that outputs: '<item:collectorsreap:black_tea_gummy>'
+[20:23:54.184][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
+[20:23:54.187][INFO][CraftTweaker]: CraftTweaker reload complete!
+[20:23:54.187][INFO][CraftTweaker]: This reload was made possible by NerdyWhiteGuy and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod

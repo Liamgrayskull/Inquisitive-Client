@@ -1,0 +1,15 @@
+{
+	"waterSplash": true,
+	"cascades": true,
+	"waterfallSpray": true,
+	"fireflies": true,
+	"fallingLeaves": true,
+	"caveDust": true,
+	"chestBubbles": true,
+	"barrelBubbles": true,
+	"poppingBubbles": true,
+	"rainRipples": true,
+	"waterDripRipples": true,
+	"cakeEatingParticles": true,
+	"emissiveLavaDrips": true
+}

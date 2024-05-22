@@ -1,0 +1,101 @@
+
+["Mod Compatability"]
+	#Should the Sculk Horde attack mobs from the mod 'From Another World'? (Default false)
+	target_faw_entities = false
+	#Should the Sculk Horde attack mobs from the mod 'Fungal Infection:Spore'? (Default false)
+	target_spore_entities = false
+
+["General Variables"]
+	#Should the Sculk Horde infest blocks? (Default true)
+	block_infestation_enabled = true
+	#Should the Sculk Horde load chunks? If disabled, and will ruin the intended experience. For example, raids wont work properly (Default true)
+	chunk_loading_enabled = true
+	#Should players be able to defeat the Sculk Horde?
+	disable_defeating_sculk_horde = false
+	#How many sculk mobs should be allowed to exist at one time?
+	#Range: 0 ~ 1000
+	maximum_sculk_population = 100
+
+["Trigger Automatically Variables"]
+	#Should the Sculk Horde start automatically? Requires that chunk loading is enabled to work reliably, otherwise will only trigger if the ancient node's chunk is loaded. If enabled on a save where previously disabled, the node will trigger automatically if the time conditions are met. (Default false)
+	trigger_ancient_node_automatically = false
+	#How many days to wait before triggering the ancient node? (Default 0)
+	#Range: > 0
+	trigger_ancient_node_wait_days = 0
+	#What time of day in ticks must pass before triggering the ancient node after the wait days have elapsed? If wait days is set to 0, set time of day to a time greater than 1000 ticks to allow for world startup and lag to finish (Default 2000)
+	#Range: 0 ~ 23999
+	trigger_ancient_node_time_of_day = 2000
+
+["Infestation / Purification Variables"]
+	#How much faster or slower should infestation spread? (Default 0)
+	#Range: -10.0 ~ 10.0
+	infestation_speed_multiplier = 0.0
+	#How much faster or slower should purification spread? (Default 0)
+	#Range: -10.0 ~ 10.0
+	purification_speed_multiplier = 0.0
+	#How far should the infestation purifier reach? (Default 5)
+	#Range: 0 ~ 100
+	purifier_range = 48
+	#What dropped items should cursors eat? This prevents lag and boosts their lifespan.
+	items_infection_cursors_can_eat = ["minecraft:wheat_seeds", "minecraft:bamboo", "minecraft:stick", "minecraft:poppy", "minecraft:dandelion", "minecraft:blue_orchid", "minecraft:allium", "minecraft:azure_bluet", "minecraft:red_tulip", "minecraft:orange_tulip", "minecraft:white_tulip", "minecraft:pink_tulip", "minecraft:oxeye_daisy", "minecraft:cornflower", "minecraft:lily_of_the_valley", "minecraft:sunflower", "minecraft:lilac", "minecraft:rose_bush", "minecraft:peony"]
+	#Add blocks to this list to make them infestable. I.E. minecraft:dirt. Be careful what you put in here, this can potentially lead to issues. This will not work with blocks that are air, have a block entity, are already considered an infested block, or have the not infestable tag.
+	make_block_infestable = [""]
+
+["Emergency Manual Cursor Tick Control"]
+	#How many cursors need to exist for this system to kick in. (Default 300)
+	#Range: > 0
+	cursors_threshold_for_activation = 300
+	#How many cursors should we tick, per in game tick. (Default 50)
+	#Range: 0 ~ 100
+	cursors_to_tick_per_tick = 50
+	#How many ticks should there be between intervals of ticking cursors. (Default 1)
+	#Range: 0 ~ 100
+	delay_between_cursor_tick_interval = 1
+	#50% Chance for cursors to discard themselves upon reaching threshold. (Default false)
+	thanos_snap_cursors_after_reaching_threshold = false
+
+["Gravemind Variables"]
+	#How much mass is needed for the Gravemind to enter the immature stage? (Default 5000)
+	#Range: > 0
+	gravemind_mass_goal_for_immature_stage = 5000
+	#How much mass is needed for the Gravemind to enter the mature stage? (Default 20000)
+	#Range: > 0
+	gravemind_mass_goal_for_mature_stage = 20000
+
+["Sculk Node Variables"]
+	#How many chunks should be loaded around a sculk node? (Default 15)
+	#Range: 0 ~ 15
+	sculk_node_chunkload_radius = 3
+	#How many minutes should pass before another Sculk node can spawn? (Default 120)
+	#Range: > 0
+	sculk_node_spawn_cooldown_minutes = 640
+
+["Sculk Mite Variables"]
+	#Should sculk mites spawn in deep dark? (Default false)
+	should_sculk_mites_spawn_in_deep_dark = false
+
+["Sculk Phantom Variables"]
+	#Should sculk phantoms load chunks? (Default true)
+	should_phantoms_load_chunks = false
+
+["Experimental Features"]
+	#Should experimental features be enabled? (Default false)
+	experimental_features_enabled = false
+	#Enable the spawning of Sculk Salmon from Summoners (Default true). Requires restart on change.
+	enable_sculk_salmon = false
+	#Should the Sculk Horde be unable to function without Ancient Node Activation (Default false).
+	disable_sculk_horde_unless_activated = true
+
+["Sculk Raid Variables"]
+	#Should sculk raids be enabled? (Default true)
+	sculk_raid_enabled = false
+	#How long should the Sculk Enderman scout for? (Default 8)
+	#Range: > 0
+	sculk_raid_enderman_scouting_duration_minutes = 8
+	#How long should the global cooldown between raids be in minutes? (Default 300)
+	#Range: > 0
+	sculk_raid_global_cooldown_between_raids_minutes = 300
+	#How long should the no raid zone last at a location in minutes? This occurs when a raid succeeds or fails so that the same location is not raided for a while. (Default 480)
+	#Range: > 0
+	sculk_raid_no_raid_zone_duration_minutes = 480
+

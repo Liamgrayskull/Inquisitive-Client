@@ -1,21 +1,5 @@
 {
   "bookGuiScale": 0,
   "clickedVisualize": false,
-  "bookData": {
-    "scriptor:scriptor_guide": {
-      "viewedEntries": [
-        "scriptor:basics/actions"
-      ],
-      "bookmarks": [],
-      "completedManualQuests": []
-    },
-    "dimdungeons:guide_book": {
-      "viewedEntries": [
-        "dimdungeons:introduction",
-        "dimdungeons:simple_advice"
-      ],
-      "bookmarks": [],
-      "completedManualQuests": []
-    }
-  }
+  "bookData": {}
 }

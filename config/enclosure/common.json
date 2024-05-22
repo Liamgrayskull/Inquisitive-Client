@@ -1,0 +1,19 @@
+{
+  "default_enter_message": "§eWelcome §a%player% §eto %full_name% owned by %owner%.",
+  "default_leave_message": "§eGoodbye, §a%player%!",
+  "max_enclosure_name_length": 16,
+  "default_language_key": "en_us",
+  "aliases": [
+    "res",
+    "land"
+  ],
+  "develop_mode": false,
+  "allow_rich_message": false,
+  "inject_server_language": true,
+  "show_teleport_warning": true,
+  "show_message_prefix": false,
+  "teleport_cooldown": 10000,
+  "enter_message_header": "",
+  "leave_message_header": "",
+  "check_update": true
+}

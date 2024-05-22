@@ -43,7 +43,7 @@
   "overhaulEnchantingTable": false,
   "allowTreasureEnchantmentsInEnchantingTable": false,
   "singleLevelMode": true,
-  "enchantmentLimit": 3,
+  "enchantmentLimit": 0,
   "accurateFishingBobbers": true,
   "allowInfinityOnCrossbows": true,
   "allTridentsHaveLoyalty": true,

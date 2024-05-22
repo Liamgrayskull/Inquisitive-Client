@@ -1,0 +1,7 @@
+{
+  "trim-chance": 75,
+  "similar-trim-chance": 75,
+  "no-trims-chance": 25,
+  "stacked-trim-chance": 10,
+  "max-stacked-trims": 3
+}

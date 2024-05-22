@@ -1,0 +1,28 @@
+{
+	"disabledGroups": [],
+	"customGroups": [
+		{
+			"id": "custom:cf2738c5-e739-4093-b339-9a03009421af",
+			"name": "Canvas Signs",
+			"stacks": [
+				"{Count:1b,id:\"farmersdelight:canvas_sign\",tag:{},type:\"minecraft:item\"}",
+				"{Count:1b,id:\"farmersdelight:blue_canvas_sign\",tag:{},type:\"minecraft:item\"}",
+				"{Count:1b,id:\"farmersdelight:white_canvas_sign\",tag:{},type:\"minecraft:item\"}",
+				"{Count:1b,id:\"farmersdelight:purple_canvas_sign\",tag:{},type:\"minecraft:item\"}",
+				"{Count:1b,id:\"farmersdelight:light_gray_canvas_sign\",tag:{},type:\"minecraft:item\"}",
+				"{Count:1b,id:\"farmersdelight:magenta_canvas_sign\",tag:{},type:\"minecraft:item\"}",
+				"{Count:1b,id:\"farmersdelight:gray_canvas_sign\",tag:{},type:\"minecraft:item\"}",
+				"{Count:1b,id:\"farmersdelight:pink_canvas_sign\",tag:{},type:\"minecraft:item\"}",
+				"{Count:1b,id:\"farmersdelight:black_canvas_sign\",tag:{},type:\"minecraft:item\"}",
+				"{Count:1b,id:\"farmersdelight:brown_canvas_sign\",tag:{},type:\"minecraft:item\"}",
+				"{Count:1b,id:\"farmersdelight:green_canvas_sign\",tag:{},type:\"minecraft:item\"}",
+				"{Count:1b,id:\"farmersdelight:cyan_canvas_sign\",tag:{},type:\"minecraft:item\"}",
+				"{Count:1b,id:\"farmersdelight:light_blue_canvas_sign\",tag:{},type:\"minecraft:item\"}",
+				"{Count:1b,id:\"farmersdelight:lime_canvas_sign\",tag:{},type:\"minecraft:item\"}",
+				"{Count:1b,id:\"farmersdelight:yellow_canvas_sign\",tag:{},type:\"minecraft:item\"}",
+				"{Count:1b,id:\"farmersdelight:orange_canvas_sign\",tag:{},type:\"minecraft:item\"}",
+				"{Count:1b,id:\"farmersdelight:red_canvas_sign\",tag:{},type:\"minecraft:item\"}"
+			]
+		}
+	]
+}

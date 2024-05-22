@@ -2,6 +2,9 @@
   "blacklisted_items": [
     "//Items here will be unusable completely",
 
+    "waystones:waystone",
+    "waystones:mossy_waystone",
+    "waystones:sandy_waystone",
     "waystones:portstone",
     "waystones:white_sharestone",
     "waystones:orange_sharestone",
@@ -24,6 +27,15 @@
     "waystones:warp_scroll",
     "waystones:warp_stone",
     "waystones:warp_plate",
+    "waystones:sharestone",
+
+    "valkyrienskies:test_hinge",
+    "valkyrienskies:test_chair",
+    "valkyrienskies:test_flap",
+    "valkyrienskies:test_wing",
+    "valkyrienskies:ship_assembler",
+    "valkyrienskies:ship_creator_smaller",
+    "valkyrienskies:physics_entity_creator",
 
     "simpleradio:speaker_module",
     "simpleradio:transmitting_module",
@@ -33,6 +45,17 @@
     "spelunkery:flint_hammer_and_chisel",
 
     "dungeonnowloading:explosive_barrel",
+    "dungeonnowloading:dnl_logo",
+    "dungeonnowloading:choas_spawner_barrier_vertex",
+    "dungeonnowloading:choas_spawner_barrier_center",
+    "dungeonnowloading:choas_spawner_diamond_vertex",
+    "dungeonnowloading:choas_spawner_diamong_edge",
+    "dungeonnowloading:choas_spawner_edge",
+    "dungeonnowloading:choas_spawner_broken_diamond_edge",
+    "dungeonnowloading:choas_spawner_broken_diamond_vertex",
+    "dungeonnowloading:choas_spawner_broken_edge",
+
+    
 
 
     "flying_stuff:glaciated_log",
@@ -117,6 +140,7 @@
     
     "createaddition:electrum_ingot",
     "createaddition:electrum_nugget",
+    "createaddition:tesla_coil",
 
     "copperative:copper_nugget",
     "spelunkery:copper_nugget",

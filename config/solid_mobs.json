@@ -1,0 +1,17 @@
+{
+  "platformMode": false,
+  "allowItemCollisions": false,
+  "allowNonSavingEntityCollisions": false,
+  "allowPlayerCollisions": true,
+  "allowPetCollisions": true,
+  "bouncySlimes": true,
+  "fallDamageSharedWithLandedOnMob": true,
+  "fallDamageAmountAbsorbedByLandedOnMob": 0.5,
+  "allowInvisibleCollisions": false,
+  "allowShovingMobs": true,
+  "shoveAgainTimeInTicks": 20,
+  "allowVillagerCollisions": true,
+  "entityCollisionBlacklist": [
+    "entity.ratsmischief.rat"
+  ]
+}

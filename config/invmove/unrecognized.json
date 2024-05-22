@@ -181,7 +181,22 @@
     "it.hurts.sskirillss.relics.client.screen.description.RelicDescriptionScreen": true,
     "it.hurts.sskirillss.relics.client.screen.description.AbilityDescriptionScreen": true,
     "io.github.mortuusars.monobank.content.monobank.MonobankScreen": true,
-    "gg.moonflower.etched.client.screen.AlbumJukeboxScreen": true
+    "gg.moonflower.etched.client.screen.AlbumJukeboxScreen": true,
+    "net.abraxator.moresnifferflowers.client.gui.screen.RebrewingStandScreen": true,
+    "com.illusivesoulworks.diet.client.screen.DietScreen": true,
+    "team.creative.solonion.client.gui.screen.FoodBookScreen": true,
+    "dev.emi.emi.screen.ConfigEnumScreen": true,
+    "me.shedaniel.clothconfig2.gui.ClothConfigScreen": true,
+    "net.combatroll.client.gui.ConfigMenuScreen": true,
+    "net.combatroll.client.gui.HudConfigScreen": true,
+    "de.keksuccino.fancymenu.util.rendering.ui.screen.filebrowser.SaveFileScreen": true,
+    "com.illusivesoulworks.spectrelib.config.client.screen.ModConfigSelectScreen": true,
+    "com.illusivesoulworks.spectrelib.config.client.screen.EditConfigScreen": true,
+    "dev.emi.emi.screen.ConfigPresetScreen": true,
+    "me.shedaniel.rei.impl.client.gui.screen.CompositeDisplayViewingScreen": true,
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "org.violetmoon.quark.addons.oddities.client.screen.MatrixEnchantingScreen": true,
+    "de.maxhenkel.corpse.gui.CorpseAdditionalScreen": true
   },
   "hideBackground": {
     "net.mehvahdjukaar.supplementaries.client.screens.TrappedPresentScreen": true,
@@ -316,6 +331,12 @@
     "it.hurts.sskirillss.relics.client.screen.description.RelicDescriptionScreen": true,
     "it.hurts.sskirillss.relics.client.screen.description.AbilityDescriptionScreen": true,
     "io.github.mortuusars.monobank.content.monobank.MonobankScreen": true,
-    "gg.moonflower.etched.client.screen.AlbumJukeboxScreen": true
+    "gg.moonflower.etched.client.screen.AlbumJukeboxScreen": true,
+    "net.abraxator.moresnifferflowers.client.gui.screen.RebrewingStandScreen": true,
+    "com.illusivesoulworks.diet.client.screen.DietScreen": true,
+    "me.shedaniel.rei.impl.client.gui.screen.CompositeDisplayViewingScreen": true,
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "org.violetmoon.quark.addons.oddities.client.screen.MatrixEnchantingScreen": true,
+    "de.maxhenkel.corpse.gui.CorpseAdditionalScreen": true
   }
 }

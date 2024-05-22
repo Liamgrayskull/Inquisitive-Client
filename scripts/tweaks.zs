@@ -71,6 +71,19 @@ craftingTable.remove(<item:simpleradio:radio>);
 craftingTable.remove(<item:scriptor:casting_crystal>);
 craftingTable.remove(<item:scriptor:chalk>);
 
+craftingTable.remove(<item:dimdungeons:block_key_charger>);
+craftingTable.remove(<item:dimdungeons:block_gilded_portal>);
+craftingTable.remove(<item:dimdungeons:block_portal_keyhole>);
+craftingTable.remove(<item:dimdungeons:item_homeward_pearl>);
+craftingTable.remove(<item:dimdungeons:item_portal_key>);
+craftingTable.remove(<item:dimdungeons:item_blank_build_key>);
+
+craftingTable.remove(<item:almanac:almanac>);
+
+
+craftingTable.remove(<item:minecraft:spyglass>);
+
+
 craftingTable.remove(<item:transmog:void_fragment>);
 craftingTable.remove(<item:transmog:transmogrification_table>);
 
@@ -106,6 +119,12 @@ craftingTable.remove(<item:waystones:sandy_waystone>);
 craftingTable.remove(<item:waystones:sharestone>);
 
 
+
+
+
+craftingTable.addShaped("spyglass", <item:minecraft:spyglass> * 1, [[<item:minecraft:gold_nugget>, <item:galosphere:allurite_shard>, <item:minecraft:gold_nugget>], [<item:minecraft:air>, <item:minecraft:copper_ingot>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:copper_ingot>, <item:minecraft:air>]]);
+
+craftingTable.addShaped("astronomy_book", <item:almanac:almanac> * 1, [[<item:minecraft:air>, <item:galosphere:charged_lumiere_block>, <item:minecraft:air>], [<item:minecraft:spyglass>, <item:minecraft:book>, <item:minecraft:air>], [<item:minecraft:air>, <item:galosphere:allurite_shard>, <item:minecraft:air>]]);
 
 
 craftingTable.addShaped("casting_crystal", <item:scriptor:casting_crystal> * 1, [[<item:minecraft:air>, <item:spelunkery:salt>, <item:minecraft:air>], [<item:spelunkery:salt>, <item:ruby_exchange:ruby>, <item:spelunkery:salt>], [<item:minecraft:air>, <item:spelunkery:salt>, <item:minecraft:air>]]);

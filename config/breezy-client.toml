@@ -10,9 +10,9 @@
 	#Wind Frequency for: Plains and Savanna biomes
 	#Default: 0.01
 	#Range: 0.0 ~ 1.0
-	medium_wind_frequency = 0.01
+	medium_wind_frequency = 0.015
 	#Wind Frequency for: Mountainous biomes
 	#Default: 0.015
 	#Range: 0.0 ~ 1.0
-	high_wind_frequency = 0.015
+	high_wind_frequency = 0.025
 

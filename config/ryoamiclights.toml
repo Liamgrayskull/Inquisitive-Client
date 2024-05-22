@@ -490,6 +490,7 @@
 				airship = true
 				cargo_airship = true
 				bullet = true
+				warship = true
 
 			[light_sources.settings.entities.sculkhorde]
 				sculk_enderman = true
@@ -868,6 +869,7 @@
 			[light_sources.settings.entities.neapolitan]
 				chimpanzee = true
 				plantain_spider = true
+				banana_peel = true
 
 			[light_sources.settings.entities.dweller_dweller]
 				dweller_dweller = true
@@ -949,4 +951,16 @@
 			[light_sources.settings.entities.piglinproliferation]
 				piglin_traveler = true
 				piglin_alchemist = true
+
+			[light_sources.settings.entities.kiwis_brine]
+				projectile_bubble = true
+				brine = true
+				projectile_lavabottleprojectile = true
+
+			[light_sources.settings.entities.minecraft_121_update]
+				coppergolemoxidized = true
+				projectile_breezecharge = true
+				breeze = true
+				laser = true
+				copper_giantsleep = true
 

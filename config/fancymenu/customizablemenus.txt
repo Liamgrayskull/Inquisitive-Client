@@ -63,3 +63,18 @@ net.minecraft.client.gui.screens.PauseScreen {
 net.minecraft.client.gui.screens.packs.PackSelectionScreen {
 }
 
+net.minecraft.client.gui.screens.achievement.StatsScreen {
+}
+
+net.minecraft.client.gui.screens.ShareToLanScreen {
+}
+
+betteradvancements.gui.BetterAdvancementsScreen {
+}
+
+net.minecraft.client.gui.screens.LanguageSelectScreen {
+}
+
+net.blay09.mods.hardcorerevival.client.KnockoutScreen {
+}
+

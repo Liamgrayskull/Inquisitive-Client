@@ -1,0 +1,4 @@
+# Blocks listed here will be counted as sculk block and will slowly wear down the player's health.
+# It probably wouldn't be a good idea to add redstone blocks like the sculk sensor here.
+"Sculk Blocks" = ["minecraft:sculk", "minecraft:sculk_vein", "minecraft:sculk_shrieker"]
+

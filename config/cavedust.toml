@@ -22,6 +22,6 @@
 	#Range: 1 ~ 100
 	particleMultiplierMultiplier = 10
 	#translation{key='menu.cavedust.particle.tooltip', args=[]}
-	#Range: 0 ~ 107
+	#Range: 0 ~ 128
 	particleID = 80
 

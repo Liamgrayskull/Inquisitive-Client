@@ -51,7 +51,7 @@
 	/**
 	 * Whether to display a gray overlay when hovering over a stack.
 	 */
-	show-hover-overlay: true;
+	show-hover-overlay: false;
 
 	/**
 	 * Whether to add mod name to tooltips
@@ -83,7 +83,7 @@
 	 * Whether to have the search bar in the center of the screen, instead of to the
 	 * side.
 	 */
-	center-search-bar: true;
+	center-search-bar: false;
 
 	/**
 	 * Which sidebar type to switch to when searching.
@@ -135,7 +135,7 @@
 	/**
 	 * Whether recipes should have a button to take a screenshot of the recipe.
 	 */
-	recipe-screenshot-button: true;
+	recipe-screenshot-button: false;
 
 	/**
 	 * The GUI scale at which recipe screenshots are saved. Use 0 to use the current
@@ -171,7 +171,7 @@
 	/**
 	 * Whether to render the header buttons and page count for the left sidebar
 	 */
-	left-sidebar-header: invisible;
+	left-sidebar-header: visible;
 
 	/**
 	 * Which theme to use for the left sidebar
@@ -181,7 +181,7 @@
 	/**
 	 * The pages in the right sidebar
 	 */
-	right-sidebar-pages: index, favorites, craftables;
+	right-sidebar-pages: index, favorites, craft-history;
 
 	/**
 	 * The subpanels in the right sidebar
@@ -196,7 +196,7 @@
 	/**
 	 * How much space to maintain between the right sidebar and obstructions, in pixels
 	 */
-	right-sidebar-margins: 2, 2, 2, 2;
+	right-sidebar-margins: 1, 1, 1, 1;
 
 	/**
 	 * Where to position the right sidebar
@@ -328,7 +328,7 @@
 	/**
 	 * Display the recipe tree for a given stack.
 	 */
-	view-stack-tree: "key.keyboard.unknown";
+	view-stack-tree: "key.keyboard.t";
 
 	/**
 	 * Display the recipe tree.
@@ -404,7 +404,7 @@
 	/**
 	 * Delete the stack in the cursor when hovering the index
 	 */
-	delete-cursor-stack: "key.mouse.left";
+	delete-cursor-stack: "key.keyboard.unknown";
 
 	/**
 	 * Copies the hovered recipe's ID to the clipboard
@@ -432,7 +432,7 @@
 	/**
 	 * Whether editing the index is enabled
 	 */
-	edit-mode: false;
+	edit-mode: true;
 
 	/**
 	 * Whether to log untranslated tags as warnings.

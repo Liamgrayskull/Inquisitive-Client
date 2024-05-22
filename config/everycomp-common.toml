@@ -73,6 +73,12 @@
 				driftwood = true
 				river = true
 
+			[general.types.wood_type.enhanced_mushrooms]
+				mushroom = true
+
+			[general.types.wood_type.mynethersdelight]
+				powdery = true
+
 		[general.types.leaves_type]
 
 			[general.types.leaves_type.alexscaves]
