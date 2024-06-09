@@ -6,12 +6,20 @@
     "subtitle": {
       "text": ""
     },
-    "description": [],
+    "description": [
+      ""
+    ],
     "groups": {
+      "Misc": {
+        "position": [
+          -323,
+          -159
+        ]
+      },
       "Lore": {
         "position": [
-          -411,
-          -216
+          -394,
+          -208
         ]
       }
     },
@@ -24,7 +32,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "text": "Enchanting"
+      "translate": "Enchanting"
     }
   },
   "settings": {

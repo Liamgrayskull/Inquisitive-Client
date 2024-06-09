@@ -1,0 +1,10 @@
+{
+  "betterGrassMode": "FANCY",
+  "blockstates": [
+    "minecraft:grass_block",
+    "minecraft:podzol",
+    "minecraft:mycelium",
+    "minecraft:crimson_nylium",
+    "minecraft:warped_nylium"
+  ]
+}

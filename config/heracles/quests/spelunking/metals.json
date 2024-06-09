@@ -12,16 +12,13 @@
     "groups": {
       "Spelunking": {
         "position": [
-          -233,
-          110
+          -237,
+          162
         ]
       }
     },
     "icon": {
-      "item": {
-        "id": "molten_metals:ingot_mold",
-        "count": 1
-      },
+      "item": "#c:ingots",
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",

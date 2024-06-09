@@ -1,6 +1,6 @@
 {
   "dependencies": [
-    "The Stove"
+    "Knives"
   ],
   "tasks": {},
   "rewards": {},
@@ -39,8 +39,8 @@
     "groups": {
       "Culinary": {
         "position": [
-          -45,
-          -138
+          -25,
+          -32
         ]
       }
     },

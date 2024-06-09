@@ -1,5 +1,7 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "crystals"
+  ],
   "tasks": {},
   "rewards": {},
   "display": {
@@ -14,8 +16,8 @@
     "groups": {
       "Spelunking": {
         "position": [
-          -113,
-          98
+          -32,
+          137
         ]
       }
     },

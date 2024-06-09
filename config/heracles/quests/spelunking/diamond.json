@@ -1,0 +1,41 @@
+{
+  "dependencies": [
+    "crystals"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "MINEEEEEEEEEEEEEEEEEE DIAAAAAAAAAAAAAAAAMONDSSSSSSSSSSSSSSS"
+    },
+    "description": [
+      "Coveted."
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          -45,
+          200
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "quark:diamond_heart",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Diamond"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

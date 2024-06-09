@@ -1,0 +1,41 @@
+{
+  "dependencies": [
+    "steel"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Dashing through the hyperabrasive moon 'snow'"
+    },
+    "description": [
+      "Desh is a moon-exclusive ore primarily used for heat shield reinforcement, crafting some of the stronger rocketry avalible to enable longer-distance spaceflight."
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          -358,
+          278
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "ad_astra:desh_nugget",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Desh"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

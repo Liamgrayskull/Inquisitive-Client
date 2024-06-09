@@ -10,21 +10,21 @@
     "groups": {
       "Flora": {
         "position": [
-          -137,
-          -52
+          -172,
+          -57
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "minecraft:map",
+        "id": "bountifulfares:lapisberry_seeds",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "text": "Ancient Flora"
+      "translate": "Ancient Flora!"
     }
   },
   "settings": {

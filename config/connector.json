@@ -1,7 +1,8 @@
 {
   "version": 1,
   "hiddenMods": [
-    "farmersdelight"
+    "farmersdelight",
+    "sortilege"
   ],
   "globalModAliases": {
     "cloth_config": "cloth-config2",

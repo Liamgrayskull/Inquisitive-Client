@@ -45,6 +45,7 @@
 		"id": "inventoryTyping",
 		"soundEvent": "minecraft:block.note_block.hat"
 	},
+	"ignoreEmptyInventorySlots": false,
 	"itemDropSoundEffect": {
 		"pitch": 1.5,
 		"volume": 0.4,

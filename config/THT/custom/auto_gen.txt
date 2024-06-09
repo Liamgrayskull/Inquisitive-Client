@@ -1,0 +1,4 @@
+file_name : falcon
+directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/falcon
+
+posY : 150

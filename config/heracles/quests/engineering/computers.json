@@ -1,5 +1,7 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "electricity"
+  ],
   "tasks": {},
   "rewards": {},
   "display": {
@@ -10,8 +12,8 @@
     "groups": {
       "Engineering": {
         "position": [
-          -197,
-          -285
+          0,
+          -174
         ]
       }
     },

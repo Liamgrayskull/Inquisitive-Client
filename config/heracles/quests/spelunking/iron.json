@@ -1,0 +1,41 @@
+{
+  "dependencies": [
+    "metals"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Sturdy, versatile, basic."
+    },
+    "description": [
+      "The world's founding material. Hardy, useful in plentiful applications, easier to get further on yet used for practically everything."
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          -274,
+          224
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:iron_block",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Iron"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

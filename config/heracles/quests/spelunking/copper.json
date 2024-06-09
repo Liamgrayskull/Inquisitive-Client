@@ -1,0 +1,41 @@
+{
+  "dependencies": [
+    "metals"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Copout."
+    },
+    "description": [
+      "Redstone's metallic counterpart. Wonderful for building, and integrating dynamic mechanics of all kinds into your builds."
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          -301,
+          144
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "copperative:patina",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Copper"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

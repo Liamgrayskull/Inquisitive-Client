@@ -1,0 +1,42 @@
+{
+  "dependencies": [
+    "gold",
+    "diamond"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "The ites are aight!"
+    },
+    "description": [
+      "Swanky fresh and highly reinforced, feels particularly tough. Possesses Gold, & diamond equipment, composition, very durable."
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          -149,
+          249
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:netherite_ingot",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Netherite"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

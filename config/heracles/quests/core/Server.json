@@ -18,8 +18,8 @@
       "- Support & guides",
       "- Polls to influence it's future",
       "- Applications to join the team",
-      "- A place to submit photography for the pack",
-      "- Custom-developed with more features than the standalone pack",
+      "- A place to submit custom content for the pack",
+      "- Custom-developed and maintained with more features than the standalone pack",
       "- A welcoming community",
       "",
       "/d/--Join through the discord!--/d/",
@@ -29,7 +29,7 @@
     "groups": {
       "Core": {
         "position": [
-          67,
+          69,
           2
         ]
       }

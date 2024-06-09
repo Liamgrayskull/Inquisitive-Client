@@ -1,17 +1,42 @@
 {
   "dependencies": [],
-  "tasks": {},
+  "tasks": {
+    "get mimicream": {
+      "type": "heracles:item",
+      "item": "alexsmobs:mimicream",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Obtain Mimicream",
+      "icon": {
+        "item": {
+          "id": "alexsmobs:mimicream",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
   "rewards": {},
   "display": {
     "subtitle": {
       "translate": "Customize your.. everything."
     },
-    "description": [],
+    "description": [
+      "A table to solve the long-standing issue of not looking cool enough.",
+      "Mimification allows you to change the appearance of items without modifying their behavior at all!",
+      "",
+      "",
+      "For most items, the appearance slot will serve as the direct appearance for the target item, the only exceptions to this are:",
+      "",
+      "Mimified Items. The target item will gain the transmogrification of the existing item, instead of its original appearance.",
+      "Mimicatalyst. If you place one of these in the Appearance Slot, the target item will be Mimified into a hidden item.",
+      "To remove the Mimification from an item, place it in the Mimification table without an appearance item."
+    ],
     "groups": {
       "Misc": {
         "position": [
-          -214,
-          -68
+          -252,
+          -207
         ]
       }
     },
@@ -32,6 +57,6 @@
     "showDependencyArrow": true,
     "repeatable": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "COMPLETED"
   }
 }

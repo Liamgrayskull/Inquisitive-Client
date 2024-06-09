@@ -1,0 +1,56 @@
+{
+  "dependencies": [
+    "iron"
+  ],
+  "tasks": {
+    "mine adamantite": {
+      "type": "heracles:item",
+      "item": "enlightened_end:adamantite_nugget",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Mine Adamantite",
+      "icon": {
+        "item": {
+          "id": "enlightened_end:adamantite_node",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Mythic b-"
+    },
+    "description": [
+      "End dimension material found in nodes in the lower end, an upgrade from iron- only obtainable with netherite, slower in usage yet more durable and quicker mining speed toolset wise-"
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          -243,
+          276
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "enlightened_end:adamantite_nugget",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Adamantine"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

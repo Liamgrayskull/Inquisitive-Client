@@ -1,11 +1,10 @@
 Core
-Reworks
 Culinary
-Engineering
 Exploring
 Building
 Fauna
 Flora
+Engineering
 Spelunking
 Lore
 Misc

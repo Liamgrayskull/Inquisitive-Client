@@ -1,5 +1,7 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "andesitation"
+  ],
   "tasks": {},
   "rewards": {},
   "display": {
@@ -10,8 +12,8 @@
     "groups": {
       "Engineering": {
         "position": [
-          -101,
-          -67
+          -97,
+          -68
         ]
       }
     },

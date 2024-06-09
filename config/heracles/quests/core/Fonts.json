@@ -10,16 +10,10 @@
       "The resourcepack menu is where most fonts will be accessible for swapping the look of the pack's readability, enabling entirely fresh looks for the entire gui. These fonts are credited in the credit Resourcepack section."
     ],
     "groups": {
-      "Misc": {
-        "position": [
-          -287,
-          -53
-        ]
-      },
       "Core": {
         "position": [
-          -123,
-          -48
+          -110,
+          -9
         ]
       }
     },

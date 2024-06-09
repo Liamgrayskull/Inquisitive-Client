@@ -1,6 +1,6 @@
 {
   "dependencies": [
-    "The Stove"
+    "The Cooking Pot"
   ],
   "tasks": {},
   "rewards": {},
@@ -34,8 +34,8 @@
     "groups": {
       "Culinary": {
         "position": [
-          -89,
-          -138
+          63,
+          -89
         ]
       }
     },

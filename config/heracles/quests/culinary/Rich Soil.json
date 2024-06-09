@@ -6,7 +6,7 @@
   "rewards": {},
   "display": {
     "subtitle": {
-      "translate": "Rich Soil is an enhanced type of dirt, more fertile and durable to the elements."
+      "translate": "Enhanced dirt, more fertile and durable."
     },
     "description": [
       "Crafting",
@@ -30,8 +30,8 @@
     "groups": {
       "Culinary": {
         "position": [
-          -175,
-          -107
+          -116,
+          -110
         ]
       }
     },

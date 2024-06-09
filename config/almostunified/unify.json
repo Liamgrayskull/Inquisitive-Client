@@ -2,15 +2,19 @@
   "modPriorities": [
     "minecraft",
     "kubejs",
+    "neapolitan",
+    "farmersdelight",
     "crafttweaker",
     "oreganized",
     "create",
     "thermal",
+    "alexscaves",
+    "alexsmobs",
     "immersiveengineering",
     "mekanism",
     "spelunkery",
     "galosphere",
-    "salt"
+    "mint"
   ],
   "stoneStrata": [
     "stone",
@@ -83,6 +87,11 @@
     "steel",
     "sulfur",
     "salt",
+    "strawberry",
+    "strawberries",
+    "banana",
+    "chocolate",
+    "amber",
     "raw_salt",
     "raw_rock_salt",
     "salt_block",

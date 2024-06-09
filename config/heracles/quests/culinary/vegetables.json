@@ -1,25 +1,38 @@
 {
-  "dependencies": [],
-  "tasks": {},
+  "dependencies": [
+    "meals"
+  ],
+  "tasks": {
+    "get vegetable": {
+      "type": "heracles:item",
+      "item": "#diet:vegetables",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Obtain Vegetable",
+      "icon": {
+        "item": "#diet:vegetables",
+        "type": "heracles:item"
+      }
+    }
+  },
   "rewards": {},
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Planted firmly!"
     },
-    "description": [],
+    "description": [
+      "Vegetables are found incredibly commonly, and popular among most fauna, as they ease hunger caused by sprinting and jumping, along with being a base ingredient for plenty of meals."
+    ],
     "groups": {
       "Culinary": {
         "position": [
-          -204,
-          -226
+          -179,
+          -311
         ]
       }
     },
     "icon": {
-      "item": {
-        "id": "farmersdelight:onion",
-        "count": 1
-      },
+      "item": "#diet:vegetables",
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",

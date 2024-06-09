@@ -1,0 +1,41 @@
+{
+  "dependencies": [
+    "metals"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "C o l o r"
+    },
+    "description": [
+      "More prismatic than prismarine, somehow. A non-overworld ore that shimmers beautifully, crafted into iridescent blocks."
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          -200,
+          113
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "etcetera:raw_bismuth_block",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Bismuth"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

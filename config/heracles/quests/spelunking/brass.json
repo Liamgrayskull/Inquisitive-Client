@@ -1,0 +1,42 @@
+{
+  "dependencies": [
+    "copper",
+    "zinc"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Big Brass:tm:"
+    },
+    "description": [
+      "The alloy of Zinc & Copper, extremely useful in automation and anything engineering- critical in a number of ways."
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          -362,
+          116
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "create:brass_hand",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Brass"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

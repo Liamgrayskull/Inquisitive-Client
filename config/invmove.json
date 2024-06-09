@@ -4,7 +4,7 @@
     "debugDisplay": false
   },
   "movement": {
-    "enable": true,
+    "enable": false,
     "jump": true,
     "sneak": "Maintain",
     "dismount": false,

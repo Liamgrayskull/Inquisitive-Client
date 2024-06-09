@@ -6,4 +6,7 @@
 	#Is ExtendedShipAPI only available for the Command Computer?
 	#This API is more powerful than the normal and advanced ShipAPI.
 	command_only = true
+	#Expose PhysShipImpl from the physics tick?
+	#This will fire an event every physics tick for every computer using ExtendedShipAPI on a Ship. Concurrency issues may occur!
+	expose_phys_tick = false
 

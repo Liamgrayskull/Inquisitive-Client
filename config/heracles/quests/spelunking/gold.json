@@ -1,0 +1,41 @@
+{
+  "dependencies": [
+    "metals"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Silver's sister metal."
+    },
+    "description": [
+      "Prominent nether usage. Weak, yet effective, useful in multiple alloys and carries an opulent value. Useful in it's food applications in a pinch. Tied to magical properties, more of life than death."
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          -197,
+          220
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "create:golden_sheet",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Gold"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "dependencies": [
+    "metals"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Gold's sister metal"
+    },
+    "description": [
+      "Magical, yet more death connotations come with it- can be alloyed with gold to make electrum, or used with ancient debris and diamond to make necronium- it seems to glow in the presence of undead."
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          -184,
+          147
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "oreganized:silver_nugget",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Silver"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

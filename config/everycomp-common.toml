@@ -25,7 +25,7 @@
 		[general.types.wood_type]
 
 			[general.types.wood_type.habitat]
-				fairy_ring_mushroom = false
+				fairy_ring_mushroom = true
 
 			[general.types.wood_type.enlightened_end]
 				indigo = true
@@ -44,7 +44,7 @@
 			[general.types.wood_type.quark]
 				azalea = false
 				ancient = true
-				blossom = true
+				blossom = false
 
 			[general.types.wood_type.flying_stuff]
 				glaciated = false
@@ -57,10 +57,6 @@
 
 			[general.types.wood_type.createdieselgenerators]
 				chip_wood = false
-
-			[general.types.wood_type.bountifulfares]
-				hoary = true
-				walnut = true
 
 			[general.types.wood_type.autumnity]
 				maple = true
@@ -76,8 +72,16 @@
 			[general.types.wood_type.enhanced_mushrooms]
 				mushroom = true
 
-			[general.types.wood_type.mynethersdelight]
-				powdery = true
+			[general.types.wood_type.caverns_and_chasms]
+				azalea = true
+
+			[general.types.wood_type.bountifulfares]
+				hoary = true
+				walnut = true
+
+			[general.types.wood_type.mint]
+				wintergreen = true
+				madder = true
 
 		[general.types.leaves_type]
 
@@ -98,18 +102,6 @@
 			[general.types.leaves_type.ad_astra]
 				glacian = true
 
-			[general.types.leaves_type.bountifulfares]
-				apple = true
-				flowering_apple = true
-				orange = true
-				flowering_orange = true
-				lemon = true
-				flowering_lemon = true
-				plum = true
-				flowering_plum = true
-				hoary = true
-				walnut = true
-
 			[general.types.leaves_type.autumnity]
 				maple = true
 				yellow_maple = true
@@ -124,14 +116,28 @@
 			[general.types.leaves_type.upgrade_aquatic]
 				river = true
 
+			[general.types.leaves_type.bountifulfares]
+				apple = true
+				flowering_apple = true
+				orange = true
+				flowering_orange = true
+				lemon = true
+				flowering_lemon = true
+				plum = true
+				flowering_plum = true
+				hoary = true
+				walnut = true
+
+			[general.types.leaves_type.mint]
+				wintergreen = true
+				peach = true
+				flowering_peach = true
+
 		[general.types.cake]
 
 			[general.types.cake.createaddition]
 				chocolate_cake = true
 				honey_cake = true
-
-			[general.types.cake.bountifulfares]
-				cocoa_cake = true
 
 			[general.types.cake.collectorsreap]
 				lime_cake = true
@@ -156,6 +162,12 @@
 				jelly_ring_cake = true
 				nightshade_berry_cake = true
 				zure_berry_cake = true
+
+			[general.types.cake.bountifulfares]
+				cocoa_cake = true
+
+			[general.types.cake.mint]
+				velvet_cake = true
 
 	#Disables specific entries
 	[general.entries]
@@ -187,7 +199,7 @@
 				bookshelf = false
 				chest = false
 				stripped_post = true
-				ladder = true
+				ladder = false
 
 			[general.entries.wood_type.mighty_mail]
 				mail_box = true

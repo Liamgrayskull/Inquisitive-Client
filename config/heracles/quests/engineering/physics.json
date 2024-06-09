@@ -1,5 +1,8 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "contraptions",
+    "aircraft"
+  ],
   "tasks": {},
   "rewards": {},
   "display": {
@@ -10,8 +13,8 @@
     "groups": {
       "Engineering": {
         "position": [
-          -231,
-          -223
+          -223,
+          -147
         ]
       }
     },

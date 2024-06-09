@@ -1,25 +1,26 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "sugars"
+  ],
   "tasks": {},
   "rewards": {},
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Ice what?"
     },
-    "description": [],
+    "description": [
+      "Ice cream, while a convoluted process at times to craft, give benefits both in sometimes negating other effects, cooling the player, being crafted into blocks of their own, along with providing flavor-specific effects."
+    ],
     "groups": {
       "Culinary": {
         "position": [
-          -119,
-          -311
+          -208,
+          -106
         ]
       }
     },
     "icon": {
-      "item": {
-        "id": "neapolitan:vanilla_ice_cream",
-        "count": 1
-      },
+      "item": "#neapolitan:ice_cream",
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",

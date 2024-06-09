@@ -22,13 +22,16 @@
       "translate": "Spiraling masses of moss overtake these crevices."
     },
     "description": [
-      ""
+      "This cave biome can be found in any biomes. But they generate in bigger chunks if it is in a humid area.",
+      "Contains lichen moss patches",
+      "Contains large lichen mushrooms",
+      "Contains tall lichen cordyceps"
     ],
     "groups": {
       "Spelunking": {
         "position": [
-          -138,
-          -45
+          -129,
+          -42
         ]
       }
     },

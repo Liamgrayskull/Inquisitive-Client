@@ -4,10 +4,10 @@
   "rewards": {},
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Bulk Trading"
     },
     "description": [
-      ""
+      "Wares tables allow you to buy & sell items in bulk through villages, through trade agreements obtained by those villagers. Packagers work at the Delivery Tables, who automatically package and deliver your goods according to the given trade agreement, yet they have unionization that enables them non-work hours. Packagers will gain profession experience as they deliver your packages, increasing their efficiency. Players can deliver packages, but only one at a time and at much less efficiency."
     ],
     "groups": {
       "Misc": {

@@ -1,0 +1,50 @@
+{
+  "dependencies": [
+    "meals"
+  ],
+  "tasks": {
+    "get sweet": {
+      "type": "heracles:item",
+      "item": "#diet:sugars",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Obtain Sugars",
+      "icon": {
+        "item": "#diet:sugars",
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Hey sugar!"
+    },
+    "description": [
+      "Sugars are an especially versatile ingredient, remedying healing and the hunger effect's exhaustion on the body. Some of the more potent sugar sources give a sugar rush, having a hyperactivity portion of the effect, followed by a short draw."
+    ],
+    "groups": {
+      "Culinary": {
+        "position": [
+          -264,
+          -189
+        ]
+      }
+    },
+    "icon": {
+      "item": "#diet:sugars",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Sugars"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

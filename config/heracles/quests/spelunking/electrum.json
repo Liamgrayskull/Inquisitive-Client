@@ -1,0 +1,42 @@
+{
+  "dependencies": [
+    "gold",
+    "silver"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "S p e e d."
+    },
+    "description": [
+      "Electrum is used in the best electrical wires, fastest equipment, it's speedy. Lightly magical properties, combination of silver & gold."
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          -177,
+          181
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "createaddition:electrum_spool",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Electrum"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

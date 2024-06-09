@@ -1,5 +1,7 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "Caves of Yore"
+  ],
   "tasks": {
     "saltcavefind": {
       "title": "Salt Caves",
@@ -17,23 +19,26 @@
   "rewards": {},
   "display": {
     "subtitle": {
-      "translate": "Saltines!"
+      "translate": "The home of a shrine curing something uncurable."
     },
     "description": [
-      ""
+      "Usually found in mountainous areas, these caverns are covered in pink salt straw clusters that contain mini pink salt pools, and contain a Shrine of unknown proportions."
     ],
     "groups": {
       "Spelunking": {
         "position": [
-          -177,
-          -81
+          -132,
+          -78
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "minecraft:map",
-        "count": 1
+        "id": "galosphere:saltbound_tablet",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
       },
       "type": "heracles:item"
     },

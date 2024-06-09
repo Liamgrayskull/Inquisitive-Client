@@ -6,12 +6,24 @@
     "subtitle": {
       "translate": "Barrel belly boldy!"
     },
-    "description": [],
+    "description": [
+      "The keg is a versatile, temperature-controlled environment designed to brew and ferment. With it, you can make anything from kimchi to beers, brews, and even cheese.",
+      "",
+      "The keg requires four things to function:",
+      "",
+      "Time: fermentation takes a considerable amount of time to occur.",
+      "",
+      "Temperature: An indicated temperature requirement can be seen for recipes, this is affected by the amount of magma/ice blocks surrounding the keg respectively.",
+      "",
+      "A base: in the single slot is the keg's base, not always necessarily a tankard.",
+      "",
+      "Ingredients: the requirements for the brew."
+    ],
     "groups": {
       "Culinary": {
         "position": [
-          -71,
-          -231
+          13,
+          -157
         ]
       }
     },

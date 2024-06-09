@@ -1,0 +1,41 @@
+{
+  "dependencies": [
+    "silver"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Eugh."
+    },
+    "description": [
+      "Living flesh, an alloy of flesh, ghast tears and silver, leads to an armor set that drains life as easily as those very tears give it, regenerating the user's health in return."
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          -109,
+          114
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "caverns_and_chasms:living_flesh",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Living Flesh"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

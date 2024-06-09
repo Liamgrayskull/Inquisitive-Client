@@ -1,5 +1,7 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "big brass"
+  ],
   "tasks": {},
   "rewards": {},
   "display": {
@@ -10,8 +12,8 @@
     "groups": {
       "Engineering": {
         "position": [
-          -124,
-          -262
+          -54,
+          -178
         ]
       }
     },

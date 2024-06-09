@@ -1,12 +1,12 @@
 {
   "configVersion": 2,
-  "enabledByDefault": true,
+  "enabledByDefault": false,
   "xOffset": 0,
   "sneakXOffset": 0,
   "sitXOffset": 0,
   "renderStuckFeatures": true,
-  "vanillaHands": false,
-  "doubleHands": false,
+  "vanillaHandsMode": "OFF",
+  "dynamicMode": false,
   "autoVanillaHands": [
     "create:potato_cannon",
     "create:handheld_worldshaper",

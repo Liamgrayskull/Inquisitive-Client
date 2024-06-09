@@ -1,0 +1,50 @@
+{
+  "dependencies": [
+    "meals"
+  ],
+  "tasks": {
+    "get protein": {
+      "type": "heracles:item",
+      "item": "#diet:proteins",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Obtain Protein",
+      "icon": {
+        "item": "#diet:proteins",
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Kung-Fu Fighting!"
+    },
+    "description": [
+      "Proteins, while eaten by less other animals (slimes eating raw chicken as a rare example) ease exhaustion from fighting."
+    ],
+    "groups": {
+      "Culinary": {
+        "position": [
+          -94,
+          -181
+        ]
+      }
+    },
+    "icon": {
+      "item": "#diet:proteins",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Proteins"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

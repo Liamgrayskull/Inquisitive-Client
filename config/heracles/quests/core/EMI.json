@@ -4,29 +4,16 @@
   "rewards": {},
   "display": {
     "subtitle": {
-      "translate": "No Idea what it stands for still."
+      "translate": "Roughly Enough Items"
     },
     "description": [
-      "Nobody knows what it stands for, but it's derived from mods such as: ",
-      "JEI (Just Enough Items) ",
-      "REI (Roughly Enough Items) ",
-      "NEI (Not Enough Items)",
-      "",
-      "The list goes on.",
-      "",
-      "EMI has been customized to filter out a grand majority of the modpack's bloat (unnecessary woodset duplicates, each individual potion, etc.) -the recipes for all of these are still accessible, just implicit.",
-      "",
-      "R: View recipe",
-      "",
-      "U: View uses",
-      "",
-      "Ctrl + O: Hide EMI"
+      "Roughly Enough Items"
     ],
     "groups": {
       "Core": {
         "position": [
-          -95,
-          -58
+          -49,
+          -140
         ]
       }
     },
@@ -39,7 +26,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/rounded_squares.png",
     "title": {
-      "translate": "EMI & Recipes"
+      "translate": "REI"
     }
   },
   "settings": {

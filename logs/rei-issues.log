@@ -1,0 +1,102 @@
+[18:20:09] [REI-ReloadPlugins/ERROR] [REI] JEI Plugin [JEIConfig:minecraft:jeresources] of REI Plugin Compatibilities Adapter [rei_plugin_compatibilities, jei] plugin failed to reloadable-plugin/CategoryRegistryImpl/!
+java.lang.ExceptionInInitializerError
+	at TRANSFORMER/jeresources@1.4.0.247/jeresources.api.restrictions.Restriction.<init>(Restriction.java:23)
+	at TRANSFORMER/jeresources@1.4.0.247/jeresources.api.restrictions.Restriction.<clinit>(Restriction.java:6)
+	at TRANSFORMER/jeresources@1.4.0.247/jeresources.compatibility.minecraft.MinecraftCompat.registerOres(MinecraftCompat.java:67)
+	at TRANSFORMER/jeresources@1.4.0.247/jeresources.compatibility.minecraft.MinecraftCompat.init(MinecraftCompat.java:37)
+	at TRANSFORMER/jeresources@1.4.0.247/jeresources.compatibility.Compatibility.init(Compatibility.java:27)
+	at TRANSFORMER/jeresources@1.4.0.247/jeresources.proxy.CommonProxy.initCompatibility(CommonProxy.java:14)
+	at TRANSFORMER/jeresources@1.4.0.247/jeresources.jei.JEIConfig.registerCategories(JEIConfig.java:98)
+	at TRANSFORMER/rei_plugin_compatibilities@12.0.93/me.shedaniel.rei.jeicompat.JEIPluginDetector$JEIPluginWrapper.registerCategories(JEIPluginDetector.java:508)
+	at TRANSFORMER/roughlyenoughitems@12.1.725/me.shedaniel.rei.impl.client.registry.category.CategoryRegistryImpl.acceptPlugin(CategoryRegistryImpl.java:54)
+	at TRANSFORMER/roughlyenoughitems@12.1.725/me.shedaniel.rei.impl.client.registry.category.CategoryRegistryImpl.acceptPlugin(CategoryRegistryImpl.java:46)
+	at TRANSFORMER/roughlyenoughitems@12.1.725/me.shedaniel.rei.api.common.registry.Reloadable.acceptPlugin(Reloadable.java:78)
+	at TRANSFORMER/roughlyenoughitems@12.1.725/me.shedaniel.rei.impl.common.plugins.PluginManagerImpl.lambda$startReload$9(PluginManagerImpl.java:417)
+	at TRANSFORMER/roughlyenoughitems@12.1.725/me.shedaniel.rei.impl.common.plugins.PluginManagerImpl.lambda$pluginSection$4(PluginManagerImpl.java:199)
+	at TRANSFORMER/roughlyenoughitems@12.1.725/me.shedaniel.rei.impl.common.plugins.PluginManagerImpl.lambda$startReload$10(PluginManagerImpl.java:407)
+	at TRANSFORMER/roughlyenoughitems@12.1.725/me.shedaniel.rei.impl.common.plugins.PluginManagerImpl.pluginSection(PluginManagerImpl.java:197)
+	at TRANSFORMER/roughlyenoughitems@12.1.725/me.shedaniel.rei.impl.common.plugins.PluginManagerImpl.startReload(PluginManagerImpl.java:405)
+	at TRANSFORMER/roughlyenoughitems@12.1.725/me.shedaniel.rei.RoughlyEnoughItemsCore._reloadPlugins(RoughlyEnoughItemsCore.java:162)
+	at TRANSFORMER/roughlyenoughitems@12.1.725/me.shedaniel.rei.RoughlyEnoughItemsCoreClient.lambda$reloadPlugins$25(RoughlyEnoughItemsCoreClient.java:485)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(Unknown Source)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.IllegalStateException: Errors during registry creation
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.core.RegistrySetBuilder$BuildState.m_255178_(RegistrySetBuilder.java:136)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.core.RegistrySetBuilder.m_255144_(RegistrySetBuilder.java:62)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.data.registries.VanillaRegistries.m_255371_(VanillaRegistries.java:72)
+	at TRANSFORMER/jeresources@1.4.0.247/jeresources.api.util.BiomeHelper.getBiome(BiomeHelper.java:20)
+	at TRANSFORMER/jeresources@1.4.0.247/jeresources.api.restrictions.BiomeRestriction.<init>(BiomeRestriction.java:46)
+	at TRANSFORMER/jeresources@1.4.0.247/jeresources.api.restrictions.BiomeRestriction.<clinit>(BiomeRestriction.java:19)
+	... 25 more
+	Suppressed: java.lang.IllegalStateException: Unreferenced key: ResourceKey[minecraft:worldgen/biome / galosphere:pink_salt_caves]
+		at TRANSFORMER/minecraft@1.20.1/net.minecraft.core.RegistrySetBuilder$BuildState.m_255228_(RegistrySetBuilder.java:126)
+		at TRANSFORMER/minecraft@1.20.1/net.minecraft.core.RegistrySetBuilder.m_255144_(RegistrySetBuilder.java:61)
+		... 29 more
+	Suppressed: java.lang.IllegalStateException: Unreferenced key: ResourceKey[minecraft:worldgen/biome / galosphere:crystal_canyons]
+		at TRANSFORMER/minecraft@1.20.1/net.minecraft.core.RegistrySetBuilder$BuildState.m_255228_(RegistrySetBuilder.java:126)
+		at TRANSFORMER/minecraft@1.20.1/net.minecraft.core.RegistrySetBuilder.m_255144_(RegistrySetBuilder.java:61)
+		... 29 more
+	Suppressed: java.lang.IllegalStateException: Unreferenced key: ResourceKey[minecraft:worldgen/biome / goodending:marshy_swamp]
+		at TRANSFORMER/minecraft@1.20.1/net.minecraft.core.RegistrySetBuilder$BuildState.m_255228_(RegistrySetBuilder.java:126)
+		at TRANSFORMER/minecraft@1.20.1/net.minecraft.core.RegistrySetBuilder.m_255144_(RegistrySetBuilder.java:61)
+		... 29 more
+	Suppressed: java.lang.IllegalStateException: Unreferenced key: ResourceKey[minecraft:worldgen/biome / goodending:oak_hammock_forest]
+		at TRANSFORMER/minecraft@1.20.1/net.minecraft.core.RegistrySetBuilder$BuildState.m_255228_(RegistrySetBuilder.java:126)
+		at TRANSFORMER/minecraft@1.20.1/net.minecraft.core.RegistrySetBuilder.m_255144_(RegistrySetBuilder.java:61)
+		... 29 more
+	Suppressed: java.lang.IllegalStateException: Unreferenced key: ResourceKey[minecraft:worldgen/biome / galosphere:lichen_caves]
+		at TRANSFORMER/minecraft@1.20.1/net.minecraft.core.RegistrySetBuilder$BuildState.m_255228_(RegistrySetBuilder.java:126)
+		at TRANSFORMER/minecraft@1.20.1/net.minecraft.core.RegistrySetBuilder.m_255144_(RegistrySetBuilder.java:61)
+		... 29 more
+	Suppressed: java.lang.IllegalStateException: Unreferenced key: ResourceKey[minecraft:worldgen/biome / spawn:ant_gardens]
+		at TRANSFORMER/minecraft@1.20.1/net.minecraft.core.RegistrySetBuilder$BuildState.m_255228_(RegistrySetBuilder.java:126)
+		at TRANSFORMER/minecraft@1.20.1/net.minecraft.core.RegistrySetBuilder.m_255144_(RegistrySetBuilder.java:61)
+		... 29 more
+[18:20:10] [REI-ReloadPlugins/ERROR] [REI] DefaultClientPluginImpl of DefaultClientPluginImpl [roughlyenoughitems] plugin failed to reloadable-plugin/DisplayRegistryImpl/!
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.item.crafting.Ingredient.m_43947_()" because "ingredient" is null
+	at TRANSFORMER/roughlyenoughitems@12.1.725/me.shedaniel.rei.api.common.util.EntryIngredients.ofIngredient(EntryIngredients.java:112)
+	at TRANSFORMER/roughlyenoughitems@12.1.725/me.shedaniel.rei.plugin.client.DefaultClientPlugin.registerDisplays(DefaultClientPlugin.java:403)
+	at TRANSFORMER/roughlyenoughitems@12.1.725/me.shedaniel.rei.impl.client.registry.display.DisplayRegistryImpl.acceptPlugin(DisplayRegistryImpl.java:64)
+	at TRANSFORMER/roughlyenoughitems@12.1.725/me.shedaniel.rei.impl.client.registry.display.DisplayRegistryImpl.acceptPlugin(DisplayRegistryImpl.java:50)
+	at TRANSFORMER/roughlyenoughitems@12.1.725/me.shedaniel.rei.api.common.registry.Reloadable.acceptPlugin(Reloadable.java:78)
+	at TRANSFORMER/roughlyenoughitems@12.1.725/me.shedaniel.rei.impl.common.plugins.PluginManagerImpl.lambda$startReload$9(PluginManagerImpl.java:417)
+	at TRANSFORMER/roughlyenoughitems@12.1.725/me.shedaniel.rei.impl.common.plugins.PluginManagerImpl.lambda$pluginSection$4(PluginManagerImpl.java:199)
+	at TRANSFORMER/roughlyenoughitems@12.1.725/me.shedaniel.rei.impl.common.plugins.PluginManagerImpl.lambda$startReload$10(PluginManagerImpl.java:407)
+	at TRANSFORMER/roughlyenoughitems@12.1.725/me.shedaniel.rei.impl.common.plugins.PluginManagerImpl.pluginSection(PluginManagerImpl.java:197)
+	at TRANSFORMER/roughlyenoughitems@12.1.725/me.shedaniel.rei.impl.common.plugins.PluginManagerImpl.startReload(PluginManagerImpl.java:405)
+	at TRANSFORMER/roughlyenoughitems@12.1.725/me.shedaniel.rei.RoughlyEnoughItemsCore._reloadPlugins(RoughlyEnoughItemsCore.java:162)
+	at TRANSFORMER/roughlyenoughitems@12.1.725/me.shedaniel.rei.RoughlyEnoughItemsCoreClient.lambda$reloadPlugins$25(RoughlyEnoughItemsCoreClient.java:485)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(Unknown Source)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+[18:20:11] [REI-ReloadPlugins/ERROR] [REI] Creating unregistered recipe transfer handler, this is experimental!!: minecraft:plugins/crafting class org.violetmoon.quark.addons.oddities.inventory.BackpackMenu
+[18:20:13] [REI-ReloadPlugins/ERROR] [REI] Display [ad_astra:compressing/calorite_plate_from_compressing_calorite_blocks] me.shedaniel.rei.jeicompat.wrap.JEIWrappedDisplay@4651fcc7 failed validation check for category [ad_astra:compressing] earth.terrarium.adastra.common.compat.rei.categories.CompressingCategory@15ad0dfb
+[18:20:13] [REI-ReloadPlugins/ERROR] [REI] Display [ad_astra:compressing/iron_plate_from_compressing_iron_ingot] me.shedaniel.rei.jeicompat.wrap.JEIWrappedDisplay@6391c207 failed validation check for category [ad_astra:compressing] earth.terrarium.adastra.common.compat.rei.categories.CompressingCategory@15ad0dfb
+[18:20:13] [REI-ReloadPlugins/ERROR] [REI] Display [ad_astra:compressing/steel_plate_from_compressing_steel_blocks] me.shedaniel.rei.jeicompat.wrap.JEIWrappedDisplay@2195a2bb failed validation check for category [ad_astra:compressing] earth.terrarium.adastra.common.compat.rei.categories.CompressingCategory@15ad0dfb
+[18:20:13] [REI-ReloadPlugins/ERROR] [REI] Display [ad_astra:compressing/ostrum_plate_from_compressing_ostrum_blocks] me.shedaniel.rei.jeicompat.wrap.JEIWrappedDisplay@2a9ab115 failed validation check for category [ad_astra:compressing] earth.terrarium.adastra.common.compat.rei.categories.CompressingCategory@15ad0dfb
+[18:20:13] [REI-ReloadPlugins/ERROR] [REI] Display [ad_astra:compressing/desh_plate_from_compressing_desh_blocks] me.shedaniel.rei.jeicompat.wrap.JEIWrappedDisplay@2d776054 failed validation check for category [ad_astra:compressing] earth.terrarium.adastra.common.compat.rei.categories.CompressingCategory@15ad0dfb
+[18:20:13] [REI-ReloadPlugins/ERROR] [REI] Display [ad_astra:compressing/calorite_plate_from_compressing_calorite_ingots] me.shedaniel.rei.jeicompat.wrap.JEIWrappedDisplay@57518190 failed validation check for category [ad_astra:compressing] earth.terrarium.adastra.common.compat.rei.categories.CompressingCategory@15ad0dfb
+[18:20:13] [REI-ReloadPlugins/ERROR] [REI] Display [ad_astra:compressing/desh_plate_from_compressing_desh_ingots] me.shedaniel.rei.jeicompat.wrap.JEIWrappedDisplay@619133ef failed validation check for category [ad_astra:compressing] earth.terrarium.adastra.common.compat.rei.categories.CompressingCategory@15ad0dfb
+[18:20:13] [REI-ReloadPlugins/ERROR] [REI] Display [ad_astra:compressing/steel_plate_from_compressing_steel_ingots] me.shedaniel.rei.jeicompat.wrap.JEIWrappedDisplay@5ac3969b failed validation check for category [ad_astra:compressing] earth.terrarium.adastra.common.compat.rei.categories.CompressingCategory@15ad0dfb
+[18:20:13] [REI-ReloadPlugins/ERROR] [REI] Display [ad_astra:compressing/ostrum_plate_from_compressing_ostrum_ingots] me.shedaniel.rei.jeicompat.wrap.JEIWrappedDisplay@4eab2638 failed validation check for category [ad_astra:compressing] earth.terrarium.adastra.common.compat.rei.categories.CompressingCategory@15ad0dfb
+[18:20:13] [REI-ReloadPlugins/ERROR] [REI] Display [ad_astra:compressing/iron_plate_from_compressing_iron_block] me.shedaniel.rei.jeicompat.wrap.JEIWrappedDisplay@693709ec failed validation check for category [ad_astra:compressing] earth.terrarium.adastra.common.compat.rei.categories.CompressingCategory@15ad0dfb
+[18:20:13] [REI-ReloadPlugins/ERROR] [REI] Display [ad_astra:alloying/steel_ingot_from_alloying_iron_ingot_and_coals] me.shedaniel.rei.jeicompat.wrap.JEIWrappedDisplay@32b01229 failed validation check for category [ad_astra:alloying] earth.terrarium.adastra.common.compat.rei.categories.AlloyingCategory@631915fa
+[18:20:13] [REI-ReloadPlugins/ERROR] [REI] Display [ad_astra:oxygen_loading/oxygen_from_oxygen_loading_oxygen] me.shedaniel.rei.jeicompat.wrap.JEIWrappedDisplay@162f37b7 failed validation check for category [ad_astra:oxygen_loading] earth.terrarium.adastra.common.compat.rei.categories.OxygenLoadingCategory@3d32464d
+[18:20:13] [REI-ReloadPlugins/ERROR] [REI] Display [ad_astra:oxygen_loading/oxygen_from_oxygen_loading_water] me.shedaniel.rei.jeicompat.wrap.JEIWrappedDisplay@2b5cfdd1 failed validation check for category [ad_astra:oxygen_loading] earth.terrarium.adastra.common.compat.rei.categories.OxygenLoadingCategory@3d32464d
+[18:20:13] [REI-ReloadPlugins/ERROR] [REI] Display [ad_astra:cryo_freezing/cryo_fuel_from_cryo_freezing_packed_ice] me.shedaniel.rei.jeicompat.wrap.JEIWrappedDisplay@547439d2 failed validation check for category [ad_astra:cryo_freezing] earth.terrarium.adastra.common.compat.rei.categories.CryoFreezingCategory@4f0db8c2
+[18:20:13] [REI-ReloadPlugins/ERROR] [REI] Display [ad_astra:cryo_freezing/cryo_fuel_from_cryo_freezing_blue_ice] me.shedaniel.rei.jeicompat.wrap.JEIWrappedDisplay@1d67c5c8 failed validation check for category [ad_astra:cryo_freezing] earth.terrarium.adastra.common.compat.rei.categories.CryoFreezingCategory@4f0db8c2
+[18:20:13] [REI-ReloadPlugins/ERROR] [REI] Display [ad_astra:cryo_freezing/cryo_fuel_from_cryo_freezing_ice_shard] me.shedaniel.rei.jeicompat.wrap.JEIWrappedDisplay@740cf09a failed validation check for category [ad_astra:cryo_freezing] earth.terrarium.adastra.common.compat.rei.categories.CryoFreezingCategory@4f0db8c2
+[18:20:13] [REI-ReloadPlugins/ERROR] [REI] Display [ad_astra:cryo_freezing/cryo_fuel_from_cryo_freezing_ice] me.shedaniel.rei.jeicompat.wrap.JEIWrappedDisplay@78103a50 failed validation check for category [ad_astra:cryo_freezing] earth.terrarium.adastra.common.compat.rei.categories.CryoFreezingCategory@4f0db8c2
+[18:20:13] [REI-ReloadPlugins/ERROR] [REI] Display [ad_astra:nasa_workbench/tier_1_rocket_from_nasa_workbench] me.shedaniel.rei.jeicompat.wrap.JEIWrappedDisplay@428775cc failed validation check for category [ad_astra:nasa_workbench] earth.terrarium.adastra.common.compat.rei.categories.NasaWorkbenchCategory@3bbc0576
+[18:20:13] [REI-ReloadPlugins/ERROR] [REI] Display [ad_astra:nasa_workbench/tier_3_rocket_from_nasa_workbench] me.shedaniel.rei.jeicompat.wrap.JEIWrappedDisplay@37562a73 failed validation check for category [ad_astra:nasa_workbench] earth.terrarium.adastra.common.compat.rei.categories.NasaWorkbenchCategory@3bbc0576
+[18:20:13] [REI-ReloadPlugins/ERROR] [REI] Display [ad_astra:nasa_workbench/tier_2_rocket_from_nasa_workbench] me.shedaniel.rei.jeicompat.wrap.JEIWrappedDisplay@635e1f68 failed validation check for category [ad_astra:nasa_workbench] earth.terrarium.adastra.common.compat.rei.categories.NasaWorkbenchCategory@3bbc0576
+[18:20:13] [REI-ReloadPlugins/ERROR] [REI] Display [ad_astra:nasa_workbench/tier_4_rocket_from_nasa_workbench] me.shedaniel.rei.jeicompat.wrap.JEIWrappedDisplay@29d3b134 failed validation check for category [ad_astra:nasa_workbench] earth.terrarium.adastra.common.compat.rei.categories.NasaWorkbenchCategory@3bbc0576

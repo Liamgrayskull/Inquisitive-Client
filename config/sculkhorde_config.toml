@@ -81,10 +81,8 @@
 ["Experimental Features"]
 	#Should experimental features be enabled? (Default false)
 	experimental_features_enabled = false
-	#Enable the spawning of Sculk Salmon from Summoners (Default true). Requires restart on change.
-	enable_sculk_salmon = false
 	#Should the Sculk Horde be unable to function without Ancient Node Activation (Default false).
-	disable_sculk_horde_unless_activated = true
+	disable_sculk_horde_unless_activated = false
 
 ["Sculk Raid Variables"]
 	#Should sculk raids be enabled? (Default true)

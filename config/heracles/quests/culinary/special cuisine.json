@@ -1,5 +1,7 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "meals"
+  ],
   "tasks": {},
   "rewards": {},
   "display": {
@@ -10,8 +12,8 @@
     "groups": {
       "Culinary": {
         "position": [
-          -204,
-          -268
+          -110,
+          -303
         ]
       }
     },

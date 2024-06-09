@@ -99,7 +99,7 @@
 
 	[tweaks.protection]
 		#Remove the base Protection enchantment, requiring players to choose between the other types
-		"Disable Protection" = false
+		"Disable Protection" = true
 
 	[tweaks.riptide]
 		#Allow Riptide to function when in cauldrons

@@ -1,0 +1,6 @@
+#If enabled, pillows will have increased knockback when hitting mobs.
+pillow_knockback = true
+#If pillow knockback is enabled, this field will determine the knockback strength. Note that this only changes the pillow block item's knockback attribute modifier, and in vanilla Minecraft the player's knockback attribute has a max cap of 5.0, so going above this will have no effect.
+#Range: 0.0 ~ 1000.0
+pillow_knockback_strength = 1.2
+

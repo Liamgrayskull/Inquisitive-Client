@@ -1,36 +1,48 @@
 {
-  "dependencies": [],
-  "tasks": {},
+  "dependencies": [
+    "meals"
+  ],
+  "tasks": {
+    "get fruit": {
+      "type": "heracles:item",
+      "item": "#diet:fruits",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Obtain Fruit",
+      "icon": {
+        "item": "#diet:fruits",
+        "type": "heracles:item"
+      }
+    }
+  },
   "rewards": {},
   "display": {
     "subtitle": {
-      "translate": "Fruity"
+      "translate": "Fruity."
     },
     "description": [
-      "Fruits can be found in a plethora of places, although namely they are split into trees, and non-trees. Some fruits, such as the ancient fruit, are (accurately named) and supposedly extinct.",
-      "",
-      "",
+      "Fruits can be found in plenty of places, although they are mostly split into trees, and non-trees. Some fruits, such as the ancient fruit, are (accurately named) and supposedly extinct, although they seem to have made a comeback.",
       "",
       "",
       "Each Fruit Tree can be found in different biomes:",
       "Apple trees in Forest biomes",
       "Orange trees in Jungle and Sparse Jungle biomes",
       "Lemon trees on Riverbanks",
-      "Plum trees in Meadow and Flower Forest biomes"
+      "Plum trees in Meadow and Flower Forest biomes",
+      "",
+      "",
+      "Fruit is characterised by it's reduction of exhaustion by swimming."
     ],
     "groups": {
       "Culinary": {
         "position": [
-          -160,
-          -179
+          -243,
+          -260
         ]
       }
     },
     "icon": {
-      "item": {
-        "id": "farmersdelight:fruit_salad",
-        "count": 1
-      },
+      "item": "#diet:fruits",
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",

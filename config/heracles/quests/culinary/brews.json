@@ -1,0 +1,61 @@
+{
+  "dependencies": [
+    "kegs"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Brewin'"
+    },
+    "description": [
+      "Most brews encourage playing with temperature and ingredients when crafting them, rewarding with a potent drink more directly impactful (yet fun) than that of teas.",
+      "",
+      "All alchohols brewed in the keg gives the tipsy effect, which will ramp up in severity the more brews you drink.",
+      "",
+      "Brews are divided into:",
+      "",
+      "Frigid: (2 cold temp blocks)",
+      "",
+      "Chilled: (1 cold temp block)",
+      "",
+      "Room temp: (no temp blocks)",
+      "",
+      "Lukewarm: (1 hot temp block)",
+      "",
+      "Boiling: (2 hot temp blocks)",
+      "",
+      "Ices and Magma are the best temp blocks, and the temperature is indicated by the 5-bit bar in the keg gui! They must be placed in a 3x3 area around the keg.",
+      "",
+      "The satisfaction effect will cause hunger to regenerate like health would.",
+      "",
+      "The Sweet Heart effect increases incoming healing amounts."
+    ],
+    "groups": {
+      "Culinary": {
+        "position": [
+          -28,
+          -233
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "brewinandchewin:steel_toe_stout",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Brews"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

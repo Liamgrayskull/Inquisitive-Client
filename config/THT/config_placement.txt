@@ -1,0 +1,3 @@
+This config auto apply the changes, so no need to stop the world. Repair missing values by run this command [ /THT config repair ] or restart the world. If you change something in this config, you need to enable lock option to prevent it from new version.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

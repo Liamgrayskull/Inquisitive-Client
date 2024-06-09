@@ -6,7 +6,27 @@
     "subtitle": {
       "translate": "Vague but persistent."
     },
-    "description": [],
+    "description": [
+      "The Antique Atlas, is a limited implementation of the worldmap, albiet to a more vague scale. Instead of an entire-detail map, this map is drawn by memory- and persists after death no matter what. It's up to you to document what is important.",
+      "",
+      "",
+      "",
+      "Press [M] at any time to bring up the world map.",
+      "",
+      "Drag the map to pan, scroll to zoom, and use the bookmark buttons to create, remove, or hide waypoints.",
+      "",
+      "Basic Features",
+      "The map is rendered using hand-drawn \"tiles\" representing terrain, biomes, and structures.",
+      "At their smallest, tiles represent an entire chunk - no peeking for resources or player bases!",
+      "",
+      "",
+      "",
+      "Don't Play the Map",
+      "Antique Atlas is designed to keep your focus on your surroundings, not the map.",
+      "",
+      "The best view of the world is in-game - not the atlas!",
+      "The atlas stays on its own easily-accessible screen, no distracting minimap."
+    ],
     "groups": {
       "Exploring": {
         "position": [

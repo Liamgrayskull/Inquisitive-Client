@@ -1,0 +1,41 @@
+{
+  "dependencies": [
+    "metals"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Not for the mouth!"
+    },
+    "description": [
+      "Dangerous to carry as it causes the player to get lead poisoning. Easily meltable and is good in building applications, unique parkour or pvp particularly with it's stunning effect."
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          -274,
+          114
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "oreganized:lead_ingot",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Lead"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

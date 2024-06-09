@@ -1,0 +1,41 @@
+{
+  "dependencies": [
+    "desh"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Better count em!"
+    },
+    "description": [
+      "Found on venus, calorite is the final spacefaring stepping stone as far as materials go."
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          -377,
+          218
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "ad_astra:calorite_plating",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Calorite"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

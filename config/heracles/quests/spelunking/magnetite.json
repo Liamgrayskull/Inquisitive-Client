@@ -1,0 +1,41 @@
+{
+  "dependencies": [
+    "metals"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Bear your true north!"
+    },
+    "description": [
+      "Very practical in player utilities, magnetite is crafted into more accessible magnetic tools than that of the magnetic caves."
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          -237,
+          99
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "spelunkery:item_magnet",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Magnetite"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

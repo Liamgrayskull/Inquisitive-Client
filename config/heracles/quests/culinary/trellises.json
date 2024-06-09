@@ -1,17 +1,26 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "Knives"
+  ],
   "tasks": {},
   "rewards": {},
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "They look so pretty!"
     },
-    "description": [],
+    "description": [
+      "Trellises are blocks used to farm Vine Crops.",
+      "",
+      "Four Vine Crops can be farmed on Trellises: Passion Fruit, Elderberries, Glow Berries, and Lapisberries. Each has four stages of growth, and can be harvested infinitely, similarly to Sweet Berry Bushes. Shearing it will hinder it from growing, allowing for any state to be used as decoration.",
+      "",
+      "  ",
+      "In addition, Rose Bushes, Lilacs, Peonies, Sunflowers, Vines, Weeping Vines and Twisting Vines can also be planted on Trellises. If flowers planted on Trellises are bonemealed, they will be duplicated similarly to their block counterparts. Shearing it will remove the plant from the Trellis."
+    ],
     "groups": {
       "Culinary": {
         "position": [
-          -110,
-          -197
+          -176,
+          -12
         ]
       }
     },

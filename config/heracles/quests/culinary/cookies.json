@@ -1,0 +1,41 @@
+{
+  "dependencies": [
+    "sugars"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Smart, Tough"
+    },
+    "description": [
+      "Cookies are short, sweet, provide effects, and efficient to eat. The perfect mid-combat snack."
+    ],
+    "groups": {
+      "Culinary": {
+        "position": [
+          -352,
+          -163
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "bountifulfares:artisan_cookie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Cookies"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "dependencies": [],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Feasts are very large meals, which can be placed as a block to provide multiple servings to players.",
+      "",
+      "",
+      "Feasts are not edible directly as an item; they must be placed down as a block first. When placed, players can use (right-click) them with Bowls to serve themselves with a consumable portion.",
+      "",
+      "The existing feasts in Farmer's Delight provide 4 servings in total. Plated feasts will also leave behind leftovers in the form of a dirty plate; right-clicking or mining it will retrieve the original Bowl, and any bones or food scraps left behind."
+    ],
+    "groups": {
+      "Culinary": {
+        "position": [
+          -157,
+          -220
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "farmersdelight:roast_chicken_block",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Meals"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

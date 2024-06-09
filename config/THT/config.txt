@@ -1,0 +1,219 @@
+Apply the changes by run this command [ /THT config apply ] or restart the world. Repair missing values by run this command [ /THT config repair ] or restart the world.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TannyJung's Tree Pack
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+auto_check_update : true
+// Check for the new update from GitHub every time the world starts
+// Default is true
+
+auto_update : false
+// Auto update the pack every time the world starts, if there's a new update from GitHub. To use this feature, the "auto_check_update" config must be enable.
+// Default is false
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+World Gen
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+tree_placer_tick : 1
+// How fast place a tree in tick. Set to 0 to temporary pause the tick.
+// Default is 1
+
+tree_placer_process_limit : 200
+// Repeat process in a tick, slow down the tree placing instead of place them in one process. Can reduce lag spike, but also slower the speed. Set to 0 for one time process.
+// Default is 200
+
+tree_placer_distance_limit : 0
+// Max distance from players the tree placer will placing trees. Set to 0 for no limit.
+// Default is 0
+
+global_rarity : 100
+// Change percent of all trees rarity in one config. By default, set to 100 means set the chance to every chunks. Set to 0 will disable them from all chunks. This option may not affect to the trees with high "min_distance" value.
+// Default is 100
+
+safe_zone_spawn : 200
+// Cancel trees from spawning when it's near the world spawn
+// Default is 200
+
+safe_zone_village : 100
+// Cancel trees from spawning when it's near the villages. This use villagers as a marker and some entities such as pillagers, so trees may still spawn if can't detect villagers nearby (this caused by unloaded chunks).
+// Default is 100
+
+tree_location : true
+// This is for store some tree data and for some features. Disable this will remove tree location from world gen. Can reduce entity lag, but you will don't know what is the file name of that tree, also some features will not work such as safe zones, tree distancing and RT dynamic.
+// Default is true
+
+world_gen_roots : true
+// Enable tree roots in world gen
+// Default is true
+
+surface_smoothness_detection_size : 5
+// Set size of the detector, for all detectors at 8 directions. Set to 0 to disable this feature.
+// Default is 5
+
+surface_smoothness_detection_height : 2
+// Set height of the detector, this value for each up and down. If the detector detects that the surface is rough than this height, it will cancel the tree.
+// Default is 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RT Dynamic
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+rt_dynamic : true
+// Enable some special features such as leaves regrow, drop leaves if their twig is missing and deciduous leaves (drop leaves before winter).
+// Default is true
+
+rt_dynamic_tick : 1
+// How fast of RT dynamic system per tick. Set to 0 to temporary pause the tick.
+// Default is 1
+
+rt_dynamic_process_limit : 100
+// How many process for trees to run RT dynamic system. Set to 0 for one time process.
+// Default is 100
+
+rt_dynamic_simulation : 50
+// Simulate fake tree to slowdown tree process. For example, when I set tree speed for 100 trees. But it's only 1 tree in the area, it will drop and regrow leaves very fast because that's the speed for 100 trees. Set this config will simulate fake tree locations and make that 1 tree slowdown it process like it's 99 trees around it.
+// Default is 50
+
+season_detector : true
+// Use an area from world spawn to detect current season from Serene Seasons mod
+// Default is true
+
+leaves_litter : true
+// Create leaves block on ground instead of just disappeared. Only work when leaves drop animation is enable.
+// Default is true
+
+leaves_litter_remover_chance : 0.001
+// Chance of leaves block on ground to disappear per process. Set to 0 to disable this feature.
+// Default is 0.001
+
+leaves_litter_remover_count_limit : 10
+// Count limit of the leaves litter remover
+// Default is 10
+
+leaves_drop_animation_chance : 0.1
+// Chance of animation that will appear at leaves drop block on the tree
+// Default is 0.1
+
+leaves_drop_animation_count_limit : 50
+// Count limit of leaves drop animation
+// Default is 50
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RT Dynamic : Leaves Drop and Regrow
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+leaves_coniferous_regrow_chance : 0.005
+// Chance of coniferous leaves to regrow in all season
+// Default is 0.005
+
+leaves_coniferous_drop_chance : 0.001
+// Chance of coniferous leaves to drop in summer
+// Default is 0.001
+
+leaves_regrow_spring_chance : 0.01
+// Chance of deciduous leaves to regrow in spring
+// Default is 0.01
+
+leaves_regrow_summer_chance : 0.05
+// Chance of deciduous leaves to regrow in summer. Also use in normal leaves for all season.
+// Default is 0.05
+
+leaves_regrow_autumn_chance : 0
+// Chance of deciduous leaves to regrow in autumn
+// Default is 0
+
+leaves_regrow_winter_chance : 0
+// Chance of deciduous leaves to regrow in winter
+// Default is 0
+
+leaves_drop_spring_chance : 0
+// Chance of deciduous leaves to drop in spring
+// Default is 0
+
+leaves_drop_summer_chance : 0.01
+// Chance of deciduous leaves to drop in summer. Also use in normal leaves for all season.
+// Default is 0.01
+
+leaves_drop_autumn_chance : 0.05
+// Chance of deciduous leaves to drop in autumn
+// Default is 0.05
+
+leaves_drop_winter_chance : 0.1
+// Chance of deciduous leaves to drop in winter
+// Default is 0.1
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Realtime Generation : Performance
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+count_max : 1
+// How many trees will generate in the same time. Set to 0 for no limit.
+// Default is 1
+
+distance_max : 200
+// How far the trees will process. Set to 0 for no limit.
+// Default is 200
+
+tp_limit : 10
+// This option change how many block the parts generator will teleport in a time. Increase this can cause lag because it teleports too fast. Set to 0 for no limit.
+// Default is 10
+
+fast_sphere : false
+// Basically, this option make sphere generator finishes in one time but can cause lag.
+// Default is false
+
+global_speed_enable : true
+// When true, it will change generator speed of all trees to the same.
+// Default is true
+
+global_speed : 1
+// How fast of generator speed in tick. Increase this will make it slower. Set to 0 for temporary pause all trees.
+// Default is 1
+
+global_speed_repeat : 100
+// This make generator repeats it process in one time of it speed. Increase this will make it generate faster but also cause lag. Set to 0 for one time generation that can freeze the game.
+// Default is 100
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Realtime Generation : Quality
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+square_parts : false
+// Make all trees wood become cube, or that I called "Low Detail Mode". Make the generation more faster, but become unrealistic.
+// Default is false
+
+square_leaves : false
+// Make all trees leaves become cube, or that I called "Low Detail Mode". Make the generation more faster, but become unrealistic.
+// Default is false
+
+rt_roots : 100
+// Change percent of roots length for all random trees. Set to 0 will disable roots from generation.
+// Default is 100
+
+grid_fix : true
+// For RT that generate using structure generation. Fix trees generate in grid.
+// Default is true
+
+no_core : false
+// Disable core and inner from generation. Can increase speed of tree generation.
+// Default is false
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Misc
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+developer_mode : false
+// Enable some features for debugging
+// Default is false
+
+auto_gen_chat_messages : true
+// Send chat when auto gen starts and finishes
+// Default is true
+
+fireworks : true
+// Summon fireworks when tree from sapling finishes generating
+// Default is true
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

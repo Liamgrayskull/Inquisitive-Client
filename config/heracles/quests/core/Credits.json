@@ -1,17 +1,21 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "Welcome to Inquisitive!"
+  ],
   "tasks": {},
   "rewards": {},
   "display": {
     "subtitle": {
       "text": ""
     },
-    "description": [],
+    "description": [
+      ""
+    ],
     "groups": {
       "Core": {
         "position": [
-          0,
-          0
+          -163,
+          -37
         ]
       }
     },

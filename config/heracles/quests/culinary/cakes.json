@@ -1,0 +1,41 @@
+{
+  "dependencies": [
+    "sugars"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Ain't Lyin'"
+    },
+    "description": [
+      "There are a great variety of cakes avalible in inquisitive, made with various unique ingredients that provide convenient supplies of their equally unique effects- along with this, these cakes (and pies) can often be cut into slices, carryable in the inventory, with a knife. This enables these unique effects (most unobtainable through potions) to be utilized."
+    ],
+    "groups": {
+      "Culinary": {
+        "position": [
+          -287,
+          -95
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "seasonals:sweet_berry_cake",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Cakes"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

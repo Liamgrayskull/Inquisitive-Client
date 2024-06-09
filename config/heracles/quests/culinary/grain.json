@@ -1,32 +1,43 @@
 {
-  "dependencies": [],
-  "tasks": {},
+  "dependencies": [
+    "meals"
+  ],
+  "tasks": {
+    "get grain": {
+      "type": "heracles:item",
+      "item": "#diet:grains",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Obtain Grain",
+      "icon": {
+        "item": "#diet:grains",
+        "type": "heracles:item"
+      }
+    }
+  },
   "rewards": {},
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Granulated."
     },
     "description": [
-      ""
+      "By going with the grain, you'll be easing hunger caused by mining, along with indulging in some of the more filling base foods avaliable. "
     ],
     "groups": {
       "Culinary": {
         "position": [
-          -22,
-          -277
+          -97,
+          -232
         ]
       }
     },
     "icon": {
-      "item": {
-        "id": "bountifulfares:maize",
-        "count": 1
-      },
+      "item": "#diet:grains",
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Grain"
+      "translate": "Grains"
     }
   },
   "settings": {

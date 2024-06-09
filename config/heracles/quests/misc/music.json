@@ -4,14 +4,16 @@
   "rewards": {},
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Harder than it looks."
     },
-    "description": [],
+    "description": [
+      ""
+    ],
     "groups": {
       "Misc": {
         "position": [
-          -186,
-          -153
+          -384,
+          -200
         ]
       }
     },

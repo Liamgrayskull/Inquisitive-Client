@@ -1,0 +1,44 @@
+{
+  "dependencies": [
+    "Submissions",
+    "Community"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Community-submitted content!"
+    },
+    "description": [
+      "Among the many things that can be submitted to the community, tips are one of them! While we can't list every single tip as an entry (as there are hundreds) These are some of the more significant ones, while the rest, these included, are kept in the random tips cycled out ~every 15 seconds in various menus. Submit your tips, menu photography, panoramas, documentation entries or anything else in the discord!",
+      "",
+      "If any photographers would like to explain a bit about the context of their menu photo, that is also detailed here!"
+    ],
+    "groups": {
+      "Core": {
+        "position": [
+          -67,
+          10
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:name_tag",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Submissions & Tips!"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

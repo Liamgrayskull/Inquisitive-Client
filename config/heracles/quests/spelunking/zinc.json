@@ -1,0 +1,41 @@
+{
+  "dependencies": [
+    "metals"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Could be a neater name"
+    },
+    "description": [
+      "A  building utility in the form of copycat blocks. Highly malleable."
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          -296,
+          192
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "create:raw_zinc",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Zinc"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}
