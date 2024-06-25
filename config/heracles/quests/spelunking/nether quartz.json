@@ -1,37 +1,42 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "crystals"
+  ],
   "tasks": {},
   "rewards": {},
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Common yet versatile."
     },
-    "description": [],
+    "description": [
+      "Reactive with a plethora of stones, and light or energy, quartz's properties are mostly supplementary."
+    ],
     "groups": {
       "Spelunking": {
         "position": [
-          50,
-          242
+          61,
+          227
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "minecraft:map",
+        "id": "tetra:pristine_quartz",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "text": "Nether Quartz"
+      "translate": "Quartz"
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

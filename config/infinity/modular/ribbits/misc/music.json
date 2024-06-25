@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ribbits:music.ribbit.bass"
+		},
+		{
+			"weight": 1.0,
+			"key": "ribbits:music.ribbit.bongo"
+		},
+		{
+			"weight": 1.0,
+			"key": "ribbits:music.ribbit.flute"
+		},
+		{
+			"weight": 1.0,
+			"key": "ribbits:music.ribbit.guitar"
+		},
+		{
+			"weight": 1.0,
+			"key": "ribbits:music.ribbit.maraca"
+		}
+	]
+}

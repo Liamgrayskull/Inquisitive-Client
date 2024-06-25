@@ -1,0 +1,232 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.bismuth_block.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.bismuth_block.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.bismuth_block.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.bismuth_block.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.bismuth_block.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.crumbling_stone.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.crumbling_stone.crumble"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.crumbling_stone.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.crumbling_stone.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.crumbling_stone.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.crumbling_stone.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.dice.roll"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.drum.beatbox.high"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.drum.beatbox.low"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.drum.beatbox.medium"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.drum.darbuka.high"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.drum.darbuka.low"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.drum.darbuka.medium"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.drum.dholak.high"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.drum.dholak.low"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.drum.dholak.medium"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.drum.djembe.high"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.drum.djembe.low"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.drum.djembe.medium"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.drum.tabla.high"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.drum.tabla.low"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.drum.tabla.medium"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.light_bulb.off"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.light_bulb.on"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.nether_bismuth_ore.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.nether_bismuth_ore.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.nether_bismuth_ore.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.nether_bismuth_ore.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.nether_bismuth_ore.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.prickly_can.close"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.prickly_can.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.squid_lamp.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.squid_lamp.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.squid_lamp.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.squid_lamp.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.squid_lamp.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.terracotta_vase.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.terracotta_vase.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.terracotta_vase.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.terracotta_vase.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:block.terracotta_vase.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:entity.chapple.convert"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:item.armor.equip.cotton"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:item.banner.collect"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:item.banner.equip"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:item.chisel.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:item.hammer.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:item.handbell.ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:item.tidal.armor.equip"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:item.wrench.fail"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:item.wrench.modify"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:item.wrench.select"
+		}
+	]
+}

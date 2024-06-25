@@ -1,0 +1,552 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "galosphere:allurite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:allurite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:allurite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:allurite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:allurite_cluster"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:allurite_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:allurite_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:allurite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:allurite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:amethyst_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:amethyst_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:amethyst_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:amethyst_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:amethyst_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:amethyst_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:barometer"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:berserker_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:bottle_of_spectre"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:bowl_lichen"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:chandelier"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:charged_lumiere_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:chiseled_allurite"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:chiseled_amethyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:chiseled_lumiere"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:chiseled_pastel_pink_salt"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:chiseled_pink_salt"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:chiseled_rose_pink_salt"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:combustion_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:cured_membrane"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:cured_membrane_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:deepslate_silver_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:gilded_beads"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:glinted_allurite_cluster"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:glinted_amethyst_cluster"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:glinted_lumiere_cluster"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:glow_flare"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:glow_ink_clumps"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:golden_lichen_cordyceps"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:icon_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:lichen_cordyceps"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:lichen_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:lichen_roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:lichen_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:lumiere_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:lumiere_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:lumiere_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:lumiere_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:lumiere_cluster"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:lumiere_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:lumiere_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:lumiere_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:lumiere_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:monstrometer"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:pastel_pink_salt"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:pastel_pink_salt_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:pastel_pink_salt_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:pastel_pink_salt_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:pastel_pink_salt_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:pastel_pink_salt_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:pastel_pink_salt_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:pastel_pink_salt_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:pink_salt"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:pink_salt_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:pink_salt_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:pink_salt_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:pink_salt_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:pink_salt_chamber"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:pink_salt_cluster"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:pink_salt_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:pink_salt_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:pink_salt_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:pink_salt_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:pink_salt_straw"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:pink_salt_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:polished_pastel_pink_salt"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:polished_pastel_pink_salt_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:polished_pastel_pink_salt_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:polished_pastel_pink_salt_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:polished_pink_salt"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:polished_pink_salt_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:polished_pink_salt_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:polished_pink_salt_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:polished_rose_pink_salt"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:polished_rose_pink_salt_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:polished_rose_pink_salt_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:polished_rose_pink_salt_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:preserved_flesh"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:preserved_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:preserved_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:raw_silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:raw_silver_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:rose_pink_salt"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:rose_pink_salt_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:rose_pink_salt_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:rose_pink_salt_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:rose_pink_salt_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:rose_pink_salt_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:rose_pink_salt_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:rose_pink_salt_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:saltbound_tablet"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:salted_jerky"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:shadow_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:silver_balance"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:silver_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:silver_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:silver_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:silver_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:silver_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:silver_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:silver_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:silver_panel_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:silver_panel_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:silver_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:silver_tiles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:silver_tiles_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:silver_upgrade_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:smooth_allurite"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:smooth_allurite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:smooth_allurite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:smooth_amethyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:smooth_amethyst_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:smooth_amethyst_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:smooth_lumiere"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:smooth_lumiere_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:smooth_lumiere_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:sparkle_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:specterpillar_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:spectre_bound_spyglass"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:spectre_flare"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:spectre_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:sterling_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:sterling_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:sterling_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:sterling_horse_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:sterling_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:stranded_membrane_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:warped_anchor"
+		}
+	]
+}

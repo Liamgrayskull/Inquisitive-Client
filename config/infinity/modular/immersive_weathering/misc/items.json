@@ -1,0 +1,1088 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:acacia_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:acacia_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:ad_astra/aeronos_scales"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:ad_astra/glacian_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:ad_astra/glacian_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:ad_astra/strophar_scales"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:alexscaves/ancient_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:alexscaves/pewen_scales"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:alexscaves/thornwood_scales"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:architects_palette/twisted_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:architects_palette/twisted_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:autumnity/maple_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:autumnity/maple_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:autumnity/orange_maple_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:autumnity/red_maple_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:autumnity/yellow_maple_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:azalea_flower_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:azalea_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:azalea_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:bamboo_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:birch_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:birch_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:blackstone_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:bountifulfares/apple_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:bountifulfares/flowering_apple_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:bountifulfares/flowering_lemon_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:bountifulfares/flowering_orange_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:bountifulfares/flowering_plum_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:bountifulfares/hoary_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:bountifulfares/hoary_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:bountifulfares/lemon_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:bountifulfares/orange_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:bountifulfares/plum_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:bountifulfares/walnut_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:bountifulfares/walnut_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:caverns_and_chasms/azalea_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:charred_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:charred_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:charred_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:charred_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:charred_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:charred_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:cherry_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:cherry_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:chiseled_prismarine_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:cracked_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:cracked_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:cracked_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:cracked_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:cracked_deepslate_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:cracked_deepslate_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:cracked_deepslate_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:cracked_deepslate_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:cracked_deepslate_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:cracked_deepslate_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:cracked_end_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:cracked_end_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:cracked_end_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:cracked_end_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:cracked_nether_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:cracked_nether_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:cracked_nether_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:cracked_polished_blackstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:cracked_polished_blackstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:cracked_polished_blackstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:cracked_prismarine_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:cracked_prismarine_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:cracked_prismarine_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:cracked_prismarine_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:cracked_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:cracked_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:cracked_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:createdieselgenerators/chip_wood_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:crimson_scales"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:cut_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:cut_iron_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:cut_iron_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:dark_oak_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:dark_oak_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:dark_prismarine_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:deepslate_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:deepslate_tile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:dune_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:earthen_clay"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:earthen_clay_farmland"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:enchanted_golden_moss_clump"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:end_stone_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:enhanced_mushrooms/mushroom_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:enlightened_end/cerulean_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:enlightened_end/indigo_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:exposed_cut_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:exposed_cut_iron_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:exposed_cut_iron_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:exposed_iron_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:exposed_iron_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:exposed_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:exposed_plate_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:exposed_plate_iron_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:exposed_plate_iron_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:flower_crown"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:flowering_azalea_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:flying_stuff/glaciated_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:flying_stuff/lavic_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:frost"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:frosty_fern"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:frosty_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:frosty_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:frosty_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:fulgurite"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:golden_moss_clump"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:goodending/cypress_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:goodending/cypress_scales"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:goodending/dense_birch_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:goodending/dense_dark_oak_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:goodending/muddy_oak_scales"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:grassy_earthen_clay"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:grassy_permafrost"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:grassy_sandy_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:grassy_silt"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:habitat/fairy_ring_mushroom_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:ice_sickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:icicle"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:ivy"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:jungle_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:jungle_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:loam"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:loamy_farmland"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:mangrove_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:mangrove_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:mint/flowering_peach_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:mint/madder_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:mint/peach_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:mint/wintergreen_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:mint/wintergreen_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:mortar"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:moss_clump"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:mossy_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:mossy_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:mossy_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:mossy_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:mossy_chiseled_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:mossy_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:mossy_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:mossy_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:mossy_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:mulch_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:mynethersdelight/powdery_scales"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:netherdungeons/ginger_scales"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:nulch_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:oak_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:oak_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:permafrost"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:plate_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:plate_iron_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:plate_iron_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:prismarine_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:prismarine_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:quark/ancient_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:quark/ancient_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:quark/azalea_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:quark/blossom_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:quark/blue_blossom_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:quark/lavender_blossom_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:quark/orange_blossom_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:quark/red_blossom_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:quark/yellow_blossom_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:red_sand_layer_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:rooted_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:rusted_cut_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:rusted_cut_iron_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:rusted_cut_iron_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:rusted_iron_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:rusted_iron_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:rusted_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:rusted_plate_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:rusted_plate_iron_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:rusted_plate_iron_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:sand_layer_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:sandy_chiseled_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:sandy_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:sandy_cobblestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:sandy_cobblestone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:sandy_cobblestone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:sandy_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:sandy_farmland"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:sandy_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:sandy_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:sandy_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:sandy_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:sandy_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:sandy_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:sandy_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:sandy_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:silt"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:silty_farmland"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:snowy_chiseled_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:snowy_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:snowy_cobblestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:snowy_cobblestone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:snowy_cobblestone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:snowy_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:snowy_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:snowy_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:snowy_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:snowy_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:snowy_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:snowy_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:snowy_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:soot"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:soul_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:spawn/rotten_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:spruce_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:spruce_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:steel_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:stone_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:tallow"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:thin_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:tinted_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:upgrade_aquatic/driftwood_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:upgrade_aquatic/river_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:upgrade_aquatic/river_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:vitrified_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:warped_scales"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_cut_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_cut_iron_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_cut_iron_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_exposed_cut_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_exposed_cut_iron_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_exposed_cut_iron_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_exposed_iron_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_exposed_iron_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_exposed_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_exposed_plate_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_exposed_plate_iron_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_exposed_plate_iron_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_iron_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_iron_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_plate_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_plate_iron_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_plate_iron_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_rusted_cut_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_rusted_cut_iron_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_rusted_cut_iron_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_rusted_iron_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_rusted_iron_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_rusted_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_rusted_plate_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_rusted_plate_iron_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_rusted_plate_iron_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_weathered_cut_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_weathered_cut_iron_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_weathered_cut_iron_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_weathered_iron_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_weathered_iron_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_weathered_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_weathered_plate_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_weathered_plate_iron_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:waxed_weathered_plate_iron_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:weathered_cut_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:weathered_cut_iron_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:weathered_cut_iron_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:weathered_iron_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:weathered_iron_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:weathered_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:weathered_plate_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:weathered_plate_iron_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:weathered_plate_iron_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:weeds"
+		}
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_chain_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_laughter"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:hollow_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:hollow_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:hollow_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:whimper_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:whimper_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:whimper_hurt"
+		}
+	]
+}

@@ -1,0 +1,72 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "simpleradio:antenna"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpleradio:diamond_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpleradio:frequencer"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpleradio:gold_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpleradio:iron_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpleradio:listener_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpleradio:microphone"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpleradio:netherite_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpleradio:radio"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpleradio:radiosmither"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpleradio:receiving_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpleradio:speaker"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpleradio:speaker_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpleradio:spuddie_talkie"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpleradio:transceiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpleradio:transmitting_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "simpleradio:walkie_talkie"
+		}
+	]
+}

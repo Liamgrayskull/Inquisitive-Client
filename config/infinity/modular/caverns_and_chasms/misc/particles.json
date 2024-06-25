@@ -1,0 +1,80 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:cupric_fire_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:deepslate_chip"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:deepslate_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:exposed_floodlight_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:floodlight_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:golem_note"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:lava_lamp_smoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:mime_energy"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:mime_spark"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:oxidized_floodlight_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:silver_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:silver_spark"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:small_cupric_fire_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:spinel_boom_circle"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:spinel_boom_emitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:spinel_boom_star"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:stone_chip"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:stone_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:weathered_floodlight_dust"
+		}
+	]
+}

@@ -1,0 +1,1544 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "alexscaves:abyssal_chasm_ambience"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:abyssal_chasm_ambience_additions"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:abyssal_chasm_ambience_mood"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:abyssmarine_glow_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:abyssmarine_glow_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:acid_burn"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:acid_corrosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:acid_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:acid_submerge"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:acid_swim"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:acid_unsubmerge"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:amber_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:amber_breaking"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:amber_monolith_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:amber_monolith_summon"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:amber_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:amber_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:atlatitan_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:atlatitan_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:atlatitan_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:atlatitan_kick"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:atlatitan_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:atlatitan_stomp"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:atlatitan_tail"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:azure_neodymium_push_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:beholder_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:beholder_breaking"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:beholder_enter"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:beholder_exit"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:beholder_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:beholder_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:beholder_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:beholder_view_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:boundroid_chain_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:boundroid_dazed"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:boundroid_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:boundroid_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:boundroid_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:boundroid_slam"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:brainiac_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:brainiac_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:brainiac_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:brainiac_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:brainiac_lick"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:brainiac_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:brainiac_throw"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:cave_book_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:cave_book_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:cave_book_turn"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:cinder_block_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:cinder_block_breaking"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:cinder_block_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:cinder_block_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:copper_valve_creak_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:copper_valve_creak_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:corrodent_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:corrodent_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:corrodent_dig_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:corrodent_dig_stop"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:corrodent_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:corrodent_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:corrodent_teeth"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:dark_cloud_appear"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:dark_cloud_disappear"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:dark_cloud_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:darkness_incarnate_enter"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:darkness_incarnate_exit"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:darkness_incarnate_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:deep_one_admire"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:deep_one_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:deep_one_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:deep_one_hostile"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:deep_one_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:deep_one_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:deep_one_knight_admire"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:deep_one_knight_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:deep_one_knight_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:deep_one_knight_hostile"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:deep_one_knight_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:deep_one_knight_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:deep_one_mage_admire"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:deep_one_mage_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:deep_one_mage_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:deep_one_mage_hostile"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:deep_one_mage_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:deep_one_mage_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:desolate_dagger_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:desolate_dagger_summon"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:disappointment"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:drain_start"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:drain_stop"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:dreadbow_rain"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:dreadbow_release"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:extinction_spear_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:extinction_spear_summon"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:extinction_spear_throw"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:ferrouslime_combine"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:ferrouslime_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:ferrouslime_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:ferrouslime_move_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:flood_basalt_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:flood_basalt_breaking"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:flood_basalt_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:flood_basalt_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:forlorn_hollows_ambience"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:forlorn_hollows_ambience_additions"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:forlorn_hollows_ambience_mood"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:forsaken_aoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:forsaken_bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:forsaken_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:forsaken_grab"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:forsaken_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:forsaken_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:forsaken_leap"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:forsaken_screech"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:forsaken_spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:forsaken_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:galena_gauntlet_stop"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:galena_gauntlet_use_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:gammaroach_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:gammaroach_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:gammaroach_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:gammaroach_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:gammaroach_spray"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:gammaroach_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:geothermal_vent_bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:geothermal_vent_bubble_underwater"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:gloomoth_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:gloomoth_flap"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:gloomoth_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:gossamer_worm_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:gossamer_worm_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:gossamer_worm_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:grottoceratops_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:grottoceratops_call"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:grottoceratops_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:grottoceratops_graze"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:grottoceratops_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:grottoceratops_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:grottoceratops_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:hazmat_block_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:hazmat_block_breaking"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:hazmat_block_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:hazmat_block_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:hologram_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:hologram_stop"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:hullbreaker_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:hullbreaker_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:hullbreaker_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:hullbreaker_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:hullbreaker_land_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:hullbreaker_land_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:hullbreaker_land_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:lanternfish_flop"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:lanternfish_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:large_nuclear_explosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:limestone_spear_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:limestone_spear_throw"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:luxtructosaurus_attack_stomp"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:luxtructosaurus_breath"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:luxtructosaurus_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:luxtructosaurus_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:luxtructosaurus_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:luxtructosaurus_jump"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:luxtructosaurus_kick"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:luxtructosaurus_roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:luxtructosaurus_snort"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:luxtructosaurus_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:luxtructosaurus_stomp"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:luxtructosaurus_summon"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:luxtructosaurus_tail"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:magic_conch_cast"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:magic_conch_summon"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:magnetic_caves_ambience"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:magnetic_caves_ambience_additions"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:magnetic_caves_ambience_mood"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:magnetron_assemble"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:magnetron_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:magnetron_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:magnetron_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:magnetron_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:magnetron_roll"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:magnetron_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:metal_barrel_lid"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:metal_scaffolding_climb"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:metal_swarf_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:metal_swarf_breaking"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:metal_swarf_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:metal_swarf_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:mine_guardian_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:mine_guardian_explode"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:mine_guardian_flop"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:mine_guardian_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:mine_guardian_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:mine_guardian_land_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:mine_guardian_land_explode"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:mine_guardian_land_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:mine_guardian_land_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:mine_guardian_scan"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:moth_ball_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:neodymium_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:neodymium_breaking"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:neodymium_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:neodymium_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:notor_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:notor_flying"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:notor_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:notor_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:nuclear_bomb_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:nuclear_bomb_breaking"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:nuclear_bomb_defuse"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:nuclear_bomb_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:nuclear_bomb_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:nuclear_explosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:nuclear_explosion_ringing"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:nuclear_explosion_rumble"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:nuclear_furnace_active"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:nuclear_furnace_active_critical"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:nuclear_furnace_active_subcritical"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:nuclear_furnace_active_supercritical"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:nuclear_siren"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:nucleeper_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:nucleeper_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:nucleeper_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:nucleeper_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:nucleeper_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:ortholance_wave"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:peering_coprolith_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:peering_coprolith_breaking"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:peering_coprolith_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:peering_coprolith_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:pewen_branch_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:primal_magma_fissure_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:primitive_club_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:primitive_club_miss"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:primordial_caves_ambience"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:primordial_caves_ambience_additions"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:primordial_caves_ambience_mood"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:quarry_crush"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:radgill_flop"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:radgill_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:radrock_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:radrock_breaking"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:radrock_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:radrock_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:raycat_absorb"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:raycat_eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:raycat_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:raycat_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:raycat_tame_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:raygun_empty"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:raygun_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:raygun_reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:raygun_start"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:relicheirus_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:relicheirus_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:relicheirus_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:relicheirus_scratch"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:relicheirus_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:relicheirus_topple"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:resistor_shield_azure_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:resistor_shield_scarlet_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:resistor_shield_slam"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:resistor_shield_spin"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:scarlet_neodymium_pull_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:scrap_metal_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:scrap_metal_breaking"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:scrap_metal_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:scrap_metal_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:sea_pig_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:sea_pig_eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:sea_pig_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:sea_pig_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:sea_staff_bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:sea_staff_cast"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:sea_staff_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:sea_staff_woosh"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:seeking_arrow_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:seeking_arrow_lockon"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:spelunkery_table_attempt_fail"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:spelunkery_table_codex_remove"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:spelunkery_table_crack"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:spelunkery_table_fail"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:spelunkery_table_paper_insert"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:spelunkery_table_paper_remove"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:spelunkery_table_success"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:spelunkery_table_success_complete"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:spelunkery_table_tablet_insert"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:spelunkery_table_tablet_remove"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:submarine_creak"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:submarine_destroy"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:submarine_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:submarine_light_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:submarine_light_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:submarine_move_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:submarine_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:submarine_repair"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:submarine_sonar"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:subterranodon_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:subterranodon_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:subterranodon_flap"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:subterranodon_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:subterranodon_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:sulfur_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:sulfur_breaking"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:sulfur_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:sulfur_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tectonic_shard_transform"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:teletor_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:teletor_float"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:teletor_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:teletor_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tephra_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tephra_whistle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:thornwood_branch_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:totem_of_possession_use"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:toxic_caves_ambience"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:toxic_caves_ambience_additions"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:toxic_caves_ambience_mood"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tremorsaurus_bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tremorsaurus_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tremorsaurus_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tremorsaurus_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tremorsaurus_roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tremorsaurus_stomp"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tremorsaurus_throw"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tremorzilla_beam_end"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tremorzilla_beam_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tremorzilla_beam_start"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tremorzilla_bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tremorzilla_charge_complete"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tremorzilla_charge_normal"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tremorzilla_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tremorzilla_eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tremorzilla_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tremorzilla_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tremorzilla_roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tremorzilla_scratch_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tremorzilla_stomp"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tremorzilla_stomp_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tremorzilla_tail_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:trilocaris_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:trilocaris_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:trilocaris_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tripodfish_flop"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tripodfish_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tube_worm_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tube_worm_breaking"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tube_worm_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:tube_worm_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:underzealot_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:underzealot_chant"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:underzealot_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:underzealot_dig"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:underzealot_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:underzealot_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:underzealot_transformation"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:unrefined_waste_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:unrefined_waste_breaking"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:unrefined_waste_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:unrefined_waste_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:uranium_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:uranium_breaking"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:uranium_hum"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:uranium_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:uranium_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:vallumraptor_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:vallumraptor_call"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:vallumraptor_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:vallumraptor_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:vallumraptor_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:vallumraptor_scratch"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:vallumraptor_sleep"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:vesper_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:vesper_flap"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:vesper_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:vesper_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:vesper_quiet_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:vesper_scream"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:watcher_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:watcher_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:watcher_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:watcher_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:watcher_scare"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:watcher_spawn"
+		}
+	]
+}

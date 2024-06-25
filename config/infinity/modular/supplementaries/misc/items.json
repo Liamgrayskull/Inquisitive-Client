@@ -1,0 +1,1212 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "supplementaries:ad_astra/sign_post_aeronos"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:ad_astra/sign_post_glacian"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:ad_astra/sign_post_strophar"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:alexscaves/sign_post_pewen"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:alexscaves/sign_post_thornwood"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:altimeter"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:antique_ink"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:architects_palette/sign_post_twisted"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:ash"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:ash_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:ash_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:ash_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:ash_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:ash_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:autumnity/sign_post_maple"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bamboo_spikes"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bamboo_spikes_tipped"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bellows"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:blackboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:blackstone_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:blackstone_tile"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:blackstone_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:blackstone_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:blackstone_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bomb_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bomb_blue_projectile"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bomb_projectile"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bomb_spiky"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bomb_spiky_projectile"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bountifulfares/sign_post_hoary"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bountifulfares/sign_post_walnut"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bubble_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:bubble_blower"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:cage"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_acorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_amber"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_artichoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_banana"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_cerulean"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_fuchsia"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_grape"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_indigo"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_maroon"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_mauve"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_mint"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_mold"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_navy"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_peach"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_periwinkle"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_sage"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_sap"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_shamrock"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_velvet"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_vermilion"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candle_holder_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:candy"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:cartographers_quill"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:caverns_and_chasms/sign_post_azalea"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:checker_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:checker_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:clock_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:cog_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:crank"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:createdieselgenerators/sign_post_chip_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:crystal_display"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:daub"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:daub_brace"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:daub_cross_brace"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:daub_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:deepslate_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:dispenser_minecart"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:doormat"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:end_stone_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:enderman_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:enhanced_mushrooms/sign_post_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:enlightened_end/sign_post_cerulean"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:enlightened_end/sign_post_indigo"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:faucet"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:feather_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_acorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_amber"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_artichoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_banana"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_cerulean"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_fuchsia"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_grape"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_indigo"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_maroon"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_mauve"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_mint"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_mold"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_navy"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_peach"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_periwinkle"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_sage"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_sap"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_shamrock"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_velvet"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_vermilion"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flag_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flax"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flax_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flax_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flint_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flute"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flying_stuff/sign_post_glaciated"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flying_stuff/sign_post_lavic"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:fodder"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:globe"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:globe_sepia"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:goblet"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:gold_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:gold_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:gold_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:goodending/sign_post_cypress"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:goodending/sign_post_muddy_oak"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:gunpowder"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:habitat/sign_post_fairy_ring_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:hat_stand"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:hourglass"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:iron_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:item_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:jar_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:key"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:lapis_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:lapis_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:lapis_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:lapis_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:lock_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:mint/sign_post_madder"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:mint/sign_post_wintergreen"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:mynethersdelight/sign_post_powdery"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:netherdungeons/sign_post_ginger"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:netherite_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:netherite_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:notice_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:pancake"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:planter"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_acorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_amber"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_artichoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_banana"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_cerulean"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_fuchsia"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_grape"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_indigo"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_maroon"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_mauve"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_mint"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_mold"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_navy"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_peach"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_periwinkle"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_sage"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_sap"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_shamrock"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_velvet"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_vermilion"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:present_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:pulley_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:quark/sign_post_ancient"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:quark/sign_post_azalea"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:quark/sign_post_blossom"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:quiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:raked_gravel"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:red_merchant_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:redstone_illuminator"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:relayer"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:rope"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:rope_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:sack"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:safe"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:sconce_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:sconce_lever"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:sconce_nether_brass"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:sconce_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:sign_post_acacia"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:sign_post_bamboo"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:sign_post_birch"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:sign_post_cherry"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:sign_post_crimson"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:sign_post_dark_oak"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:sign_post_jungle"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:sign_post_mangrove"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:sign_post_oak"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:sign_post_spruce"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:sign_post_warped"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:slice_map"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:slingshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:soap"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:soap_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:spawn/sign_post_rotten"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:speaker_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:spring_launcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:stone_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:stone_tile"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:stone_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:stone_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:stone_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:sugar_cube"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:tater_in_a_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:timber_brace"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:timber_cross_brace"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_acorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_amber"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_artichoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_banana"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_cerulean"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_fuchsia"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_grape"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_indigo"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_maroon"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_mauve"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_mint"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_mold"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_navy"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_peach"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_periwinkle"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_sage"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_sap"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_shamrock"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_velvet"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_vermilion"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:trapped_present_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:turn_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:upgrade_aquatic/sign_post_driftwood"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:upgrade_aquatic/sign_post_river"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:wild_flax"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:wind_vane"
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:wrench"
+		}
+	]
+}

@@ -1,0 +1,140 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:ender_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:ender_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:ender_equip"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:ender_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:ender_insert"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:ender_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:ender_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:ender_take"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:leather_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:leather_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:leather_equip"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:leather_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:leather_insert"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:leather_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:leather_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:lock_backpack"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:metal_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:metal_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:metal_equip"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:metal_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:metal_insert"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:metal_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:metal_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:metal_take"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:pot_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:pot_insert"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:pot_take"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:unlock_backpack"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:winged_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:winged_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:winged_equip"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:winged_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:winged_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:winged_place"
+		}
+	]
+}

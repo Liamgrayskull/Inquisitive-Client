@@ -1,0 +1,204 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "spawn:angler_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:angler_fish_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:angler_fish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:ant_farm"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:ant_mound"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:ant_pupa"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:ant_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:anthill"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:big_snail_shell"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:cooked_tuna_chunk"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:cracked_rotten_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:crown_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:escargot"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:fallen_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:ghostly_mucus_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:hamster_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:mucus"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:mucus_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:music_disc_rot"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:potted_sweet_berries"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:roasted_sunflower_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:rotten_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:rotten_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:rotten_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:rotten_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:rotten_log_anthill"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:rotten_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:rotten_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:rotten_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:rotten_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:rotten_trellis"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:rotten_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:seahorse_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:seahorse_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:snail_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:snail_shell"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:snail_shell_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:snail_shell_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:snail_shell_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:snail_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:spade_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:stripped_rotten_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:stripped_rotten_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:sunflower"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:sunflower_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:tuna_chunk"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:tuna_egg_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:tuna_sandwich"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:tuna_spawn_egg"
+		}
+	]
+}

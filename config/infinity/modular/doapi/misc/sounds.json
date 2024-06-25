@@ -1,0 +1,108 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "doapi:beer_elemental_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "doapi:beer_elemental_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "doapi:beer_elemental_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "doapi:beer_elemental_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "doapi:breath"
+		},
+		{
+			"weight": 1.0,
+			"key": "doapi:brewstation_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "doapi:brewstation_kettle"
+		},
+		{
+			"weight": 1.0,
+			"key": "doapi:brewstation_oven"
+		},
+		{
+			"weight": 1.0,
+			"key": "doapi:brewstation_process_failed"
+		},
+		{
+			"weight": 1.0,
+			"key": "doapi:brewstation_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "doapi:brewstation_whistle"
+		},
+		{
+			"weight": 1.0,
+			"key": "doapi:cabinet_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "doapi:cabinet_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "doapi:cake_cut"
+		},
+		{
+			"weight": 1.0,
+			"key": "doapi:cart_moving"
+		},
+		{
+			"weight": 1.0,
+			"key": "doapi:cooking_pot_boiling"
+		},
+		{
+			"weight": 1.0,
+			"key": "doapi:cooking_pot_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "doapi:crafting_bowl_stirring"
+		},
+		{
+			"weight": 1.0,
+			"key": "doapi:dinner_bell"
+		},
+		{
+			"weight": 1.0,
+			"key": "doapi:drawer_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "doapi:drawer_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "doapi:mincer_cranking"
+		},
+		{
+			"weight": 1.0,
+			"key": "doapi:roaster_cooking"
+		},
+		{
+			"weight": 1.0,
+			"key": "doapi:stove_crackling"
+		},
+		{
+			"weight": 1.0,
+			"key": "doapi:typewriter"
+		},
+		{
+			"weight": 1.0,
+			"key": "doapi:water_sprinkler"
+		}
+	]
+}

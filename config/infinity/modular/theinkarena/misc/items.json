@@ -1,0 +1,124 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "theinkarena:blot_tendril_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:bone_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:ink_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:ink_brute_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:ink_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:ink_membrane"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:ink_power_scroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:ink_symbol"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:ink_titan_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:ink_waste"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:ink_worm_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:inkstained_grimoire"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:mob_push_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:morphink_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:paper_airplane"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:soul_brush"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:soul_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:soul_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:soul_heart_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:soul_heart_indestructible"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:soul_heart_top_indestructible"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:soul_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:soul_power_scroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:soul_slicer"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:soul_specter_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:soul_symbol"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:soul_tendril_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:splotch_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:titan_splotch_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:trapped_soul"
+		}
+	]
+}

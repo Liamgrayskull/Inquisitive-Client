@@ -1,37 +1,42 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "crystals"
+  ],
   "tasks": {},
   "rewards": {},
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Pyro"
     },
-    "description": [],
+    "description": [
+      "Quintessential enchanting utility, mostly. Has some ties to gold's enchantability (as pyrite is found in lapis)"
+    ],
     "groups": {
       "Spelunking": {
         "position": [
-          64,
-          198
+          -58,
+          171
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "minecraft:map",
+        "id": "tetra:pristine_lapis",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "text": "Lapis"
+      "translate": "Lapis"
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

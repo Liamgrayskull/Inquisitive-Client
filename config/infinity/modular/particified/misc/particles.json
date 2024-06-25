@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "particified:jump_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "particified:splash"
+		},
+		{
+			"weight": 1.0,
+			"key": "particified:water_ripple"
+		}
+	]
+}

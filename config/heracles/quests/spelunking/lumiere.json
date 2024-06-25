@@ -1,37 +1,42 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "crystals"
+  ],
   "tasks": {},
   "rewards": {},
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Right Crosshair."
     },
-    "description": [],
+    "description": [
+      "Capable of being charged, is seen in a number of more ethereal areas related to transmutation especially. Found both underground and in the sky."
+    ],
     "groups": {
       "Spelunking": {
         "position": [
-          101,
-          163
+          71,
+          164
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "minecraft:map",
+        "id": "galosphere:lumiere_shard",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "text": "Lumiere"
+      "translate": "Lumiere"
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

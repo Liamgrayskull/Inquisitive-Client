@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "sereneseasons:calendar"
+		},
+		{
+			"weight": 1.0,
+			"key": "sereneseasons:season_sensor"
+		},
+		{
+			"weight": 1.0,
+			"key": "sereneseasons:ss_icon"
+		}
+	]
+}

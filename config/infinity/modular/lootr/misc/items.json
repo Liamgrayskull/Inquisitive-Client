@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "lootr:lootr_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "lootr:lootr_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "lootr:lootr_inventory"
+		},
+		{
+			"weight": 1.0,
+			"key": "lootr:lootr_shulker"
+		},
+		{
+			"weight": 1.0,
+			"key": "lootr:lootr_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "lootr:trophy"
+		}
+	]
+}

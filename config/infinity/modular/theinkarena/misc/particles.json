@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "theinkarena:inkdrip"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:soul_marked_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:soulessence"
+		}
+	]
+}

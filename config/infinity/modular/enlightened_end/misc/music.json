@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:music.disc.sprog"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:music.regret"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:music.seer"
+		}
+	]
+}

@@ -1,0 +1,1360 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:adamantite_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:adamantite_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:adamantite_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:adamantite_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:adamantite_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:adamantite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:adamantite_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:adamantite_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:adamantite_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:adamantite_node"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:adamantite_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:adamantite_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:adamantite_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:adamantite_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:adamantite_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ancient_root"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:azure_berries"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:azure_berry_vine_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:azure_berry_vine_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:azure_berry_vine_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:bismuth_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:bismuth_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:bismuth_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:bismuth_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:bismuth_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:bismuth_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:bismuth_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:bismuth_sheet_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:bismuth_sheet_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:bismuth_sheet_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:bismuth_sheets"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:boost_boots_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:bouncer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:bouncling_nut_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:bouncling_nut_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:bubble_jelly_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:bubble_jelly_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cerulean_bush_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cerulean_bush_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cerulean_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cerulean_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cerulean_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cerulean_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cerulean_frond"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cerulean_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cerulean_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cerulean_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cerulean_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cerulean_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cerulean_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cerulean_stalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cerulean_stalk_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cerulean_stalk_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cerulean_stalk_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cerulean_stalk_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cerulean_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cerulean_vine"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cerulean_vine_tip"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:chiseled_malachite"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:chiseled_palerock"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:chiseled_void_shale"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:chorloam"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:chorus_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:closed_glow_gourd"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:closed_malachite_capsule"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:closed_odd_roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:content_offering_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cooked_stalker"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cracked_end_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cracked_end_stone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cracked_malachite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cracked_malachite_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cracked_palerock_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cracked_palerock_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cracked_purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cracked_void_shale_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cracked_void_shale_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cradling_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:dashing_leggings_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:dazzling_bismuth_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:dazzling_bismuth_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:dazzling_bismuth_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:dazzling_bismuth_gleam"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:dazzling_bismuth_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:dazzling_bismuth_sheet_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:dazzling_bismuth_sheets"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:dazzling_bismuth_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:dazzling_bismuth_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:depleted_irradium_bar"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:depleted_irradium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:depleted_irradium_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:depleted_irradium_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:depleted_irradium_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:depleted_irradium_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:double_cerulean_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:elevibloom"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:elevibloom_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:elevibloom_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:elevibloom_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:elevibloom_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:elevibloom_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:end_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:end_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:end_stone_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:end_stone_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:end_stone_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:end_stone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:end_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ennegel_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ennegel_fern"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ennegel_glob"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ennegel_splat"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ethereal_bismuth_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ethereal_bismuth_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ethereal_bismuth_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ethereal_bismuth_gleam"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ethereal_bismuth_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ethereal_bismuth_sheet_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ethereal_bismuth_sheet_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ethereal_bismuth_sheet_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ethereal_bismuth_sheets"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:everglint"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:everglint_mirror"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:final_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:flash_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:floating_elevibloom_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:freezing_totem"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:frost_fruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:frostburn_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:frostburnt_void_shale"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:fumesplat_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:gas_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:gas_vent"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:gas_vent_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:gas_vent_helium"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:gas_vent_lava"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:gas_vent_middle"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:gas_vent_ooze"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:gas_vent_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:gas_vent_xenon"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:glacium"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:glacium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:glacium_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:glacium_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:glacium_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:glacium_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:gloop_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:glow_gourd"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:glow_gourd_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:glowseep"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:hanging_ennegel"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:heliosand"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:helium_dart"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:helium_gas"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:helium_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:helium_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:indigo_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:indigo_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:indigo_eylium"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:indigo_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:indigo_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:indigo_hyphae"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:indigo_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:indigo_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:indigo_roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:indigo_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:indigo_sprouts"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:indigo_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:indigo_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:indigo_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:iridescent_bismuth_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:iridescent_bismuth_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:iridescent_bismuth_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:iridescent_bismuth_gleam"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:iridescent_bismuth_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:iridescent_bismuth_sheet_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:iridescent_bismuth_sheet_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:iridescent_bismuth_sheet_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:iridescent_bismuth_sheets"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:irradium_bar"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:irradium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:irradium_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:irradium_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:irradium_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:irradium_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:irradium_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:irradium_lamp_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:irradium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:laser_emission"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:malachite"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:malachite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:malachite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:malachite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:malachite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:malachite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:malachite_capsule"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:malachite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:malachite_reflector"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:malachite_reflector_down"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:malachite_reflector_down_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:malachite_reflector_horizontal"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:malachite_reflector_horizontal_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:malachite_reflector_up"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:malachite_reflector_veritcal_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:malachite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:malachite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:malachite_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:malachite_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:malachite_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:malachite_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:malachite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:nuclear_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:nuclear_furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:offering_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ooze_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ooze_cauldron_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ooze_cauldron_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ooze_cauldron_full"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ooze_fluid_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ooze_tubes"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:open_odd_roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:palerock"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:palerock_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:palerock_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:palerock_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:palerock_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:palerock_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:palerock_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:palerock_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:palerock_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:palerock_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:palerock_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:palerock_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:palerock_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:palerock_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:planetary_air"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:plantery_system_air"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:poise_bismuth_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:poise_bismuth_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:poise_bismuth_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:poise_bismuth_gleam"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:poise_bismuth_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:poise_bismuth_sheet_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:poise_bismuth_sheet_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:poise_bismuth_sheet_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:poise_bismuth_sheets"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:polished_malachite"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:polished_malachite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:polished_malachite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:polished_malachite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:polished_palerock"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:polished_palerock_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:polished_palerock_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:polished_palerock_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:polished_void_shale"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:polished_void_shale_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:polished_void_shale_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:polished_void_shale_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:potted_ennegel_fern"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:potted_indigo_roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:potted_indigo_sprouts"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:potted_odd_roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:potted_open_odd_roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:purpur_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:raw_bismuth"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:raw_bismuth_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:raw_irradium"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:raw_irradium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:raw_stalker"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ringling_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ringling_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:rooting_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:serene_bismuth_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:serene_bismuth_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:serene_bismuth_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:serene_bismuth_gleam"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:serene_bismuth_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:serene_bismuth_sheet_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:serene_bismuth_sheet_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:serene_bismuth_sheet_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:serene_bismuth_sheets"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:smooth_purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:smooth_purpur_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:smooth_purpur_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:smooth_purpur_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:splatter_gland"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:spring_leaf_deactivated"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:springleaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:springleaf_vine"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:sprog_music_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:squished_bouncer"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:stalker_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:stalker_tooth"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:stardust"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:stardust_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:stripped_cerulean_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:stripped_indigo_hyphae"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:stripped_indigo_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:superheated_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:teleporter"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:underlily"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:verdant_bismuth_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:verdant_bismuth_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:verdant_bismuth_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:verdant_bismuth_gleam"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:verdant_bismuth_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:verdant_bismuth_sheet_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:verdant_bismuth_sheet_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:verdant_bismuth_sheet_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:verdant_bismuth_sheets"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:void_leviathan_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:void_shale"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:void_shale_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:void_shale_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:void_shale_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:void_shale_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:void_shale_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:void_shale_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:void_shale_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:void_shale_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:void_shale_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:void_shale_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:void_shale_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:void_shale_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:void_shale_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:waxed_bismuth_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:waxed_bismuth_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:waxed_bismuth_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:waxed_bismuth_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:waxed_bismuth_sheet_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:waxed_bismuth_sheet_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:waxed_bismuth_sheet_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:waxed_bismuth_sheets"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:xenon_dart"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:xenon_gas"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:xenon_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:xenon_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:xenon_laser"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:xenon_laser_on"
+		}
+	]
+}

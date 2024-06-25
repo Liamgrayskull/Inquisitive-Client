@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "thecomfortzone:pillow_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "thecomfortzone:pillow_feather_impact"
+		},
+		{
+			"weight": 1.0,
+			"key": "thecomfortzone:pillow_feather_poof"
+		}
+	]
+}

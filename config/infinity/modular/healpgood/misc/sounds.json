@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "healpgood:badheart"
+		},
+		{
+			"weight": 1.0,
+			"key": "healpgood:heartcrystalbreak"
+		},
+		{
+			"weight": 1.0,
+			"key": "healpgood:heartcrystalplace"
+		},
+		{
+			"weight": 1.0,
+			"key": "healpgood:heartpickup"
+		},
+		{
+			"weight": 1.0,
+			"key": "healpgood:permheart"
+		},
+		{
+			"weight": 1.0,
+			"key": "healpgood:tempheart"
+		}
+	]
+}

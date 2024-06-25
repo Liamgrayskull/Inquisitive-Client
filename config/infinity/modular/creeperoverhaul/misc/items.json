@@ -1,0 +1,68 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:badlands_creeper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:bamboo_creeper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:beach_creeper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:cave_creeper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:dark_oak_creeper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:desert_creeper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:dripstone_creeper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:hills_creeper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:jungle_creeper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:mushroom_creeper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:ocean_creeper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:savannah_creeper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:snowy_creeper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:spruce_creeper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:swamp_creeper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:tiny_cactus"
+		}
+	]
+}

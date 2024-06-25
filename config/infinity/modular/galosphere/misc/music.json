@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "galosphere:music.biome.crystal_canyons"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:music.biome.lichen_caves"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:music.biome.pink_salt_caves"
+		}
+	]
+}

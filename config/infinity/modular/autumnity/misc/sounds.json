@@ -1,0 +1,48 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "autumnity:block.turkey.cut"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:entity.snail.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:entity.snail.eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:entity.snail.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:entity.snail.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:entity.turkey.aggro"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:entity.turkey.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:entity.turkey.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:entity.turkey.egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:entity.turkey.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:item.armor.equip_snail"
+		}
+	]
+}

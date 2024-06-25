@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "man_of_many_planes:economy_plane"
+		},
+		{
+			"weight": 1.0,
+			"key": "man_of_many_planes:scarlet_biplane"
+		}
+	]
+}

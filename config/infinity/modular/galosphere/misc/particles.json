@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "galosphere:allurite_rain"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:amethyst_rain"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:aura_ringer_indicator"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:impact"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:item_silverbomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:lumiere_rain"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:pink_salt_falling_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:spectate_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:warped"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "sleep_tight:bedbug.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "sleep_tight:bedbug.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "sleep_tight:bedbug.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "sleep_tight:nightmare"
+		}
+	]
+}

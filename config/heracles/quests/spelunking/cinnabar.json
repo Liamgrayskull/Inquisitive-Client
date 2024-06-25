@@ -1,37 +1,43 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "crystals",
+    "nether quartz"
+  ],
   "tasks": {},
   "rewards": {},
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Redstone but clumpy!"
     },
-    "description": [],
+    "description": [
+      "The rock form of redstone dust, Cinnabar is a potent material that has highly conductive properties."
+    ],
     "groups": {
       "Spelunking": {
         "position": [
-          86,
-          197
+          43,
+          259
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "minecraft:map",
+        "id": "spelunkery:cinnabar",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "text": "Cinnabar"
+      "translate": "Cinnabar"
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

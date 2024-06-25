@@ -6,13 +6,13 @@
 	"Tremor Base Intensity" = 1.0
 	"Tremor Base Length Minimum" = 100.0
 	"Tremor Base Length Maximum" = 200.0
-	"Tremor Volume" = 1.0
+	"Tremor Volume" = 0.7
 
 ["World Gen"]
 	"Generate Geysers" = true
-	"Generate Rocks" = true
-	"Generate Deepslate Rocks" = true
-	"Generate Dripstone Rocks" = true
-	"Generate Clay Piles" = true
-	"Generate Basalt Rocks" = true
+	"Generate Rocks" = false
+	"Generate Deepslate Rocks" = false
+	"Generate Dripstone Rocks" = false
+	"Generate Clay Piles" = false
+	"Generate Basalt Rocks" = false
 

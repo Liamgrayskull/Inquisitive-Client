@@ -1,0 +1,40 @@
+{
+  "dependencies": [],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Ethereal."
+    },
+    "description": [
+      "Glowstone holds connotations of life, light, and most specifically, the sun. "
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          -58,
+          76
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "architects_palette:runic_glowstone",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Glowstone"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

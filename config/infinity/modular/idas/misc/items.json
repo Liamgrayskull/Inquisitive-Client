@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "idas:disc_fragment_slither"
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:music_disc_calidum"
+		},
+		{
+			"weight": 1.0,
+			"key": "idas:music_disc_slither"
+		}
+	]
+}

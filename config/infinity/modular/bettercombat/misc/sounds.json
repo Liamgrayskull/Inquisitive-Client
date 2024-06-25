@@ -1,0 +1,108 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "bettercombat:anchor_slam"
+		},
+		{
+			"weight": 1.0,
+			"key": "bettercombat:axe_slash"
+		},
+		{
+			"weight": 1.0,
+			"key": "bettercombat:claymore_slam"
+		},
+		{
+			"weight": 1.0,
+			"key": "bettercombat:claymore_stab"
+		},
+		{
+			"weight": 1.0,
+			"key": "bettercombat:claymore_swing"
+		},
+		{
+			"weight": 1.0,
+			"key": "bettercombat:dagger_slash"
+		},
+		{
+			"weight": 1.0,
+			"key": "bettercombat:double_axe_swing"
+		},
+		{
+			"weight": 1.0,
+			"key": "bettercombat:fist_punch"
+		},
+		{
+			"weight": 1.0,
+			"key": "bettercombat:glaive_slash_quick"
+		},
+		{
+			"weight": 1.0,
+			"key": "bettercombat:glaive_slash_slow"
+		},
+		{
+			"weight": 1.0,
+			"key": "bettercombat:hammer_slam"
+		},
+		{
+			"weight": 1.0,
+			"key": "bettercombat:katana_slash"
+		},
+		{
+			"weight": 1.0,
+			"key": "bettercombat:mace_slam"
+		},
+		{
+			"weight": 1.0,
+			"key": "bettercombat:mace_slash"
+		},
+		{
+			"weight": 1.0,
+			"key": "bettercombat:pickaxe_swing"
+		},
+		{
+			"weight": 1.0,
+			"key": "bettercombat:rapier_slash"
+		},
+		{
+			"weight": 1.0,
+			"key": "bettercombat:rapier_stab"
+		},
+		{
+			"weight": 1.0,
+			"key": "bettercombat:scythe_slash"
+		},
+		{
+			"weight": 1.0,
+			"key": "bettercombat:sickle_slash"
+		},
+		{
+			"weight": 1.0,
+			"key": "bettercombat:spear_stab"
+		},
+		{
+			"weight": 1.0,
+			"key": "bettercombat:staff_slam"
+		},
+		{
+			"weight": 1.0,
+			"key": "bettercombat:staff_slash"
+		},
+		{
+			"weight": 1.0,
+			"key": "bettercombat:staff_spin"
+		},
+		{
+			"weight": 1.0,
+			"key": "bettercombat:staff_stab"
+		},
+		{
+			"weight": 1.0,
+			"key": "bettercombat:sword_slash"
+		},
+		{
+			"weight": 1.0,
+			"key": "bettercombat:wand_swing"
+		}
+	]
+}

@@ -1,0 +1,112 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "savage_and_ravage:blast_proof_plates"
+		},
+		{
+			"weight": 1.0,
+			"key": "savage_and_ravage:blast_proof_plating"
+		},
+		{
+			"weight": 1.0,
+			"key": "savage_and_ravage:blast_proof_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "savage_and_ravage:blast_proof_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "savage_and_ravage:chiseled_gloomy_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "savage_and_ravage:cleaver_of_beheading"
+		},
+		{
+			"weight": 1.0,
+			"key": "savage_and_ravage:conch_of_conjuring"
+		},
+		{
+			"weight": 1.0,
+			"key": "savage_and_ravage:creeper_spore_sack"
+		},
+		{
+			"weight": 1.0,
+			"key": "savage_and_ravage:creeper_spores"
+		},
+		{
+			"weight": 1.0,
+			"key": "savage_and_ravage:executioner_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "savage_and_ravage:gloomy_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "savage_and_ravage:gloomy_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "savage_and_ravage:gloomy_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "savage_and_ravage:gloomy_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "savage_and_ravage:griefer_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "savage_and_ravage:griefer_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "savage_and_ravage:griefer_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "savage_and_ravage:griefer_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "savage_and_ravage:griefer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "savage_and_ravage:iceologer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "savage_and_ravage:mask_of_dishonesty"
+		},
+		{
+			"weight": 1.0,
+			"key": "savage_and_ravage:mischief_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "savage_and_ravage:runed_gloomy_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "savage_and_ravage:skeleton_villager_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "savage_and_ravage:spore_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "savage_and_ravage:trickster_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "savage_and_ravage:wand_of_freezing"
+		}
+	]
+}

@@ -1,0 +1,172 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "species:block.birt_dwelling.collect"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.birt_dwelling.enter"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.birt_dwelling.exit"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.birt_dwelling.work"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.wraptor_egg.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.wraptor_egg.crack"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.wraptor_egg.hatch"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.birt.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.birt.fly"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.birt.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.birt.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.birt.message"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.birtd"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.deepfish.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.deepfish.flop"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.deepfish.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.deepfish.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.limpet.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.limpet.deflect"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.limpet.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.limpet.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.limpet.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.roombug.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.roombug.eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.roombug.goofy_aah_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.roombug.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.roombug.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.roombug.snoring"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.roombug.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.wraptor.aggro"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.wraptor.agitated"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.wraptor.attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.wraptor.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.wraptor.egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.wraptor.feather_loss"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.wraptor.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.wraptor.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.wraptor.shear"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.wraptor.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:item.birt_egg.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:item.birt_egg.throw"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:item.cracked_wraptor_egg.slurp"
+		}
+	]
+}

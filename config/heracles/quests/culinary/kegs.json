@@ -7,23 +7,29 @@
       "translate": "Barrel belly boldy!"
     },
     "description": [
-      "The keg is a versatile, temperature-controlled environment designed to brew and ferment. With it, you can make anything from kimchi to beers, brews, and even cheese.",
+      "The brewing station has no GUI and only operates through direct interaction. It is composed of the following blocks:",
       "",
-      "The keg requires four things to function:",
+      "Kettle",
+      "Oven",
+      "Timer",
+      "Whistle",
+      "The Kettle is the centerpiece: That's where all ingredients are placed. The Oven serves as a fire source and needs coal. The other parts are responsible for the minigame.",
       "",
-      "Time: fermentation takes a considerable amount of time to occur.",
+      "After the correct ingredients have been placed, the kettle is filled with water, and the oven is lit, the minigame begins. It lasts about 45 seconds and during this time various events can occur that require a direct action from you (or your teammates). The brewing process is represented audio/visually.",
       "",
-      "Temperature: An indicated temperature requirement can be seen for recipes, this is affected by the amount of magma/ice blocks surrounding the keg respectively.",
+      "Kettle needs water: The Whistle whistles, the water level of the Kettle is low - refill the Kettle with water",
+      "Kettle overboils: The water level of the Kettle is high, bubbling bubbles rise - remove water with an empty Water Bucket",
+      "The Timer ticks: Red particles and a ticking sound are emitted - press the button on the Timer",
+      "The Oven has too little heat: Smoke particles rise, the flame of the Oven is low - add more coal",
+      "There are different tiers for the brewing station: Wood, Copper, and Netherite. To brew whiskey, you need Copper or Netherite.",
       "",
-      "A base: in the single slot is the keg's base, not always necessarily a tankard.",
-      "",
-      "Ingredients: the requirements for the brew."
+      "Note: The faster you complete the mini-game, the better the beer quality will be. Be cautious when using Wood or Copper Brewing Station, as sometimes it can result in undesirable outcomes!"
     ],
     "groups": {
       "Culinary": {
         "position": [
-          13,
-          -157
+          12,
+          -166
         ]
       }
     },
@@ -36,14 +42,15 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Keg"
+      "translate": "Brewing Stations"
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

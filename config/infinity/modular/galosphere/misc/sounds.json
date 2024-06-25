@@ -1,0 +1,576 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.allurite.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.allurite.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.allurite.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.allurite.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.allurite.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.allurite_cluster.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.allurite_cluster.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.allurite_cluster.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.allurite_cluster.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.allurite_cluster.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.bowl_lichen.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.bowl_lichen.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.bowl_lichen.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.bowl_lichen.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.bowl_lichen.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.combustion_table.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.combustion_table.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.combustion_table.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.combustion_table.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.combustion_table.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.cured_membrane.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.cured_membrane.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.cured_membrane.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.cured_membrane.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.cured_membrane.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.gilded_beads.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.gilded_beads.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.gilded_beads.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.gilded_beads.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.gilded_beads.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.glow_ink_clumps.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.glow_ink_clumps.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.glow_ink_clumps.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.glow_ink_clumps.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.glow_ink_clumps.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lichen_cordyceps.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lichen_cordyceps.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lichen_cordyceps.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lichen_cordyceps.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lichen_cordyceps.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lichen_cordyceps_bulb.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lichen_cordyceps_bulb.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lichen_cordyceps_bulb.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lichen_cordyceps_bulb.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lichen_cordyceps_bulb.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lichen_moss.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lichen_moss.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lichen_moss.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lichen_moss.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lichen_moss.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lichen_roots.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lichen_roots.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lichen_roots.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lichen_roots.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lichen_roots.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lichen_shelf.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lichen_shelf.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lichen_shelf.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lichen_shelf.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lichen_shelf.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lumiere.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lumiere.compost"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lumiere.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lumiere.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lumiere.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lumiere.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lumiere_cluster.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lumiere_cluster.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lumiere_cluster.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lumiere_cluster.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.lumiere_cluster.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.monstrometer.activate"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.monstrometer.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.monstrometer.charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.monstrometer.deactivate"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.monstrometer.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.monstrometer.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.monstrometer.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.monstrometer.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.pink_salt.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.pink_salt.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.pink_salt.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.pink_salt.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.pink_salt.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.pink_salt_chamber.deactivate"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.pink_salt_chamber.summon"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.pink_salt_cluster.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.pink_salt_cluster.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.pink_salt_cluster.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.pink_salt_cluster.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.pink_salt_cluster.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.pink_salt_lamp.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.pink_salt_lamp.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.pink_salt_lamp.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.pink_salt_lamp.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.pink_salt_lamp.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.silver.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.silver.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.silver.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.silver.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.silver.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.silver_lattice.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.silver_lattice.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.silver_lattice.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.silver_lattice.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.silver_lattice.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.stranded_membrane.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.stranded_membrane.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.stranded_membrane.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.stranded_membrane.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:block.stranded_membrane.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:entity.berserker.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:entity.berserker.duo_smash"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:entity.berserker.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:entity.berserker.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:entity.berserker.punch"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:entity.berserker.roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:entity.berserker.shake"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:entity.berserker.smash"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:entity.berserker.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:entity.berserker.summoning"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:entity.glow_flare.spread"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:entity.pink_salt_pillar.emerge"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:entity.pink_salt_shard.land"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:entity.preserved.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:entity.preserved.emerge"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:entity.preserved.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:entity.preserved.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:entity.preserved.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:entity.specterpillar.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:entity.specterpillar.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:entity.spectre.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:entity.spectre.bottle.empty"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:entity.spectre.bottle.fill"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:entity.spectre.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:entity.spectre.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:entity.spectre.lock_to_spyglass"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:entity.spectre.manipulate.begin"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:entity.spectre.manipulate.end"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:entity.spectre.receive_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:item.saltbound_tablet.cast_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:item.saltbound_tablet.cooldown_over"
+		},
+		{
+			"weight": 1.0,
+			"key": "galosphere:item.saltbound_tablet.prepare_attack"
+		}
+	]
+}

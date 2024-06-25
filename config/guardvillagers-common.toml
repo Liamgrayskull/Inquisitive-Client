@@ -60,4 +60,8 @@
 	"Have guards only follow the player if they have hero of the village?" = true
 	#Range: -9999 ~ 9999
 	"How low of a reputation of a player should have to be instantly aggroed upon by guards and golems?" = -100
+	"Have guards patrol the village regularly?" = true
+
+["golem stuff"]
+	"Allow Iron Golems to float on water?" = true
 

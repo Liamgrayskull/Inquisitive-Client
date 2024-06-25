@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "species:birtd"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:snoring"
+		}
+	]
+}

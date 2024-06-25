@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "obscure_api:astral_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "obscure_api:vial_of_knowledge"
+		}
+	]
+}

@@ -1,37 +1,42 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "crystals"
+  ],
   "tasks": {},
   "rewards": {},
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "My tongue burns!"
     },
-    "description": [],
+    "description": [
+      "Blocks that tend to glow due to their mixed opacity when near light sources, preservatives and a nice compliment to silver in some ways.."
+    ],
     "groups": {
       "Spelunking": {
         "position": [
-          -35,
-          248
+          72,
+          199
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "minecraft:map",
+        "id": "spelunkery:salt",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "text": "Salt"
+      "translate": "Salt"
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

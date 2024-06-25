@@ -1,0 +1,260 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "habitat:ball_cactus_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:blowball"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:dreadbud"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:dried_ball_cactus"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:dried_ball_cactus_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:edelweiss"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:edelweiss_shrub"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:enhanced_fairy_ring_mushroom_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:fairy_ring_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:fairy_ring_mushroom_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:fairy_ring_mushroom_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:fairy_ring_mushroom_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:fairy_ring_mushroom_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:fairy_ring_mushroom_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:fairy_ring_mushroom_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:fairy_ring_mushroom_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:fairy_ring_mushroom_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:fairy_ring_mushroom_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:fairy_ring_mushroom_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:fairy_ring_mushroom_hyphae"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:fairy_ring_mushroom_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:fairy_ring_mushroom_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:fairy_ring_mushroom_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:fairy_ring_mushroom_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:fairy_ring_mushroom_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:fairy_ring_mushroom_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:fairy_ring_mushroom_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:fairy_ring_mushroom_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:fairy_ring_mushroom_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:fairy_ring_mushroom_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:fairy_ring_mushroom_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:fairy_spore_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:fairylight"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:flowering_orange_ball_cactus_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:flowering_pink_ball_cactus_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:flowering_red_ball_cactus_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:flowering_yellow_ball_cactus_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:kabloom_fruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:kabloom_fruit_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:kabloom_pulp"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:kabloom_pulp_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:orange_ball_cactus"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:orange_ball_cactus_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:passerine_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:pink_ball_cactus"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:pink_ball_cactus_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:pooka_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:purple_anthurium"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:rafflesia"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:red_anthurium"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:red_ball_cactus"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:red_ball_cactus_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:slime_fern"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:stripped_fairy_ring_mushroom_hyphae"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:stripped_fairy_ring_mushroom_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:stripped_fairy_ring_mushroom_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:tall_purple_anthurium"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:tall_red_anthurium"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:tall_white_anthurium"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:tall_yellow_anthurium"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:white_anthurium"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:yellow_anthurium"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:yellow_ball_cactus"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:yellow_ball_cactus_flower"
+		}
+	]
+}

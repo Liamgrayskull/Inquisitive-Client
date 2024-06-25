@@ -19,7 +19,7 @@
   "rewards": {},
   "display": {
     "subtitle": {
-      "translate": "Isolated, sustaining caverns that have fostered ancient life for beyond thousands of years."
+      "translate": "Caverns that have fostered ancient life for beyond thousands of years."
     },
     "description": [
       ""
@@ -45,10 +45,11 @@
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "COMPLETED"
+    "hidden": "COMPLETED",
+    "unlockNotification": false
   }
 }

@@ -1,0 +1,156 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:block.note_block.imitate.deeper"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:block.note_block.imitate.mime"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:block.note_block.imitate.peeper"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:block.rocky_dirt.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:block.rocky_dirt.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:block.rocky_dirt.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:block.rocky_dirt.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:block.rocky_dirt.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:block.toolbox.close"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:block.toolbox.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:entity.copper_golem.damage"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:entity.copper_golem.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:entity.copper_golem.gear"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:entity.copper_golem.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:entity.copper_golem.repair"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:entity.copper_golem.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:entity.deeper.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:entity.deeper.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:entity.deeper.primed"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:entity.glare.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:entity.glare.angry"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:entity.glare.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:entity.glare.eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:entity.glare.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:entity.glare.tame"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:entity.glare.untame"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:entity.mime.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:entity.mime.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:entity.mime.impersonate"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:entity.mime.mime"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:entity.parrot.imitate.deeper"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:entity.parrot.imitate.mime"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:entity.parrot.imitate.peeper"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:item.lost_goat_horn.sound.0"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:item.lost_goat_horn.sound.1"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:item.tether_potion.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:item.tether_potion.equip"
+		},
+		{
+			"weight": 1.0,
+			"key": "caverns_and_chasms:item.tuning_fork.vibrate"
+		}
+	]
+}

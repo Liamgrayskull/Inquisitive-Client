@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "theinkarena:ink_titan_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:soul_specter_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "theinkarena:souls_escaping"
+		}
+	]
+}

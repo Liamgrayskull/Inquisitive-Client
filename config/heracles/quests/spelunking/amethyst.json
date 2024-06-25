@@ -1,37 +1,42 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "crystals"
+  ],
   "tasks": {},
   "rewards": {},
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Resonant"
     },
-    "description": [],
+    "description": [
+      "Magical and resonant, Amethyst bears mythically unique abilities of tapping into soundscapes to great effect."
+    ],
     "groups": {
       "Spelunking": {
         "position": [
-          12,
-          257
+          -50,
+          133
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "minecraft:map",
+        "id": "tetra:pristine_amethyst",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "text": "Amethyst"
+      "translate": "Amethyst"
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

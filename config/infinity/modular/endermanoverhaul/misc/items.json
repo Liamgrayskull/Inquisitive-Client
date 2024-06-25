@@ -1,0 +1,144 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:ancient_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:badlands_enderman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:badlands_hood"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:bubble_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:cave_enderman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:coral_enderman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:corrupted_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:corrupted_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:corrupted_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:crimson_forest_enderman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:crimson_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:dark_oak_enderman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:desert_enderman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:end_enderman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:end_islands_enderman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:enderman_tooth"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:flower_fields_enderman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:ice_spikes_enderman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:icy_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:mushroom_fields_enderman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:nether_wastes_enderman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:savanna_enderman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:savanna_hood"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:scarab_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:snowy_enderman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:snowy_hood"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:soul_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:soulsand_valley_enderman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:spirit_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:summoner_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:swamp_enderman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:tiny_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:warped_forest_enderman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:warped_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:windswept_hills_enderman_spawn_egg"
+		}
+	]
+}

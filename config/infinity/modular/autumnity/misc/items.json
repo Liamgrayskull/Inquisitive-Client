@@ -1,0 +1,340 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "autumnity:autumn_crocus"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:carved_large_pumpkin_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:chiseled_maple_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:chiseled_snail_shell_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:cooked_turkey"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:cooked_turkey_piece"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:cupric_jack_o_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:ender_jack_o_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:foul_berries"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:foul_berry_basket"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:foul_berry_pips"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:foul_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:large_cupric_jack_o_lantern_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:large_ender_jack_o_lantern_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:large_jack_o_lantern_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:large_maple_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:large_pumpkin_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:large_redstone_jack_o_lantern_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:large_soul_jack_o_lantern_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:maple_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:maple_boards"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:maple_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:maple_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:maple_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:maple_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:maple_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:maple_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:maple_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:maple_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:maple_furnace_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:maple_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:maple_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:maple_leaf_banner_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:maple_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:maple_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:maple_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:maple_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:maple_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:maple_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:maple_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:maple_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:maple_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:maple_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:maple_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:orange_maple_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:orange_maple_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:orange_maple_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:pancake"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:pumpkin_bread"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:red_maple_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:red_maple_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:red_maple_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:redstone_jack_o_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:sap_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:sappy_maple_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:sappy_maple_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:snail_goo"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:snail_goo_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:snail_shell_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:snail_shell_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:snail_shell_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:snail_shell_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:snail_shell_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:snail_shell_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:snail_shell_piece"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:snail_shell_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:snail_shell_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:snail_shell_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:snail_shell_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:snail_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:soul_jack_o_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:stripped_maple_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:stripped_maple_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:swirl_banner_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:syrup_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:trapped_maple_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:turkey"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:turkey_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:turkey_egg_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:turkey_piece"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:turkey_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:yellow_maple_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:yellow_maple_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:yellow_maple_sapling"
+		}
+	]
+}

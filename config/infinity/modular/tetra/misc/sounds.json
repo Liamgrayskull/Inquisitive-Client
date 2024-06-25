@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tetra:scan_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "tetra:scan_miss"
+		}
+	]
+}

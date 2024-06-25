@@ -1,37 +1,43 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "crystals",
+    "jade"
+  ],
   "tasks": {},
   "rewards": {},
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Cu2CO3(OH)2!"
     },
-    "description": [],
+    "description": [
+      "Reflective properties- some sort of a derivative of jade, but special in it's  laser-focused properties."
+    ],
     "groups": {
       "Spelunking": {
         "position": [
-          86,
-          125
+          40,
+          138
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "minecraft:map",
+        "id": "enlightened_end:malachite",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "text": "Malachite"
+      "translate": "Malachite"
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

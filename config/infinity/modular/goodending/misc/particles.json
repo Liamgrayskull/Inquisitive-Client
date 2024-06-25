@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "goodending:birch_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "goodending:dark_oak_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "goodending:firefly"
+		}
+	]
+}

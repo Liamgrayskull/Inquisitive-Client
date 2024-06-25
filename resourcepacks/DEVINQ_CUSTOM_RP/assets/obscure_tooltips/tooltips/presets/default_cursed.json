@@ -1,0 +1,10 @@
+{
+  "priority": 1001,
+  "effects": [ "obscure_tooltips:curse" ],
+  "frame": ["obscure_tooltips:cursed"],
+  "filter": {
+    "keywords": {
+      "any_match": [ "cursed" ]
+    }
+  }
+}

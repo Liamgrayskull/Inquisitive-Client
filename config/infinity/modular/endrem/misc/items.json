@@ -1,0 +1,80 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "endrem:ancient_portal_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "endrem:black_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "endrem:cold_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "endrem:corrupted_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "endrem:cryptic_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "endrem:cursed_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "endrem:evil_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "endrem:exotic_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "endrem:guardian_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "endrem:lost_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "endrem:magical_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "endrem:nether_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "endrem:old_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "endrem:rogue_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "endrem:undead_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "endrem:undead_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "endrem:witch_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "endrem:witch_pupil"
+		},
+		{
+			"weight": 1.0,
+			"key": "endrem:wither_eye"
+		}
+	]
+}

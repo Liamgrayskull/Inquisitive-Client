@@ -1,0 +1,136 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:asphalt_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:asphalt_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:asphalt_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:basin_lid"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:biodiesel_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:canister"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:chemical_sprayer"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:chemical_sprayer_lighter"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:chip_wood_beam"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:chip_wood_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:chip_wood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:chip_wood_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:crude_oil_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:diesel_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:diesel_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:distillation_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:engine_piston"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:engine_silencer"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:engine_turbocharger"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:ethanol_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:gasoline_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:huge_diesel_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:kelp_handle"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:large_diesel_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:lighter"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:oil_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:oil_scanner"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:plant_oil_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:pumpjack_bearing"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:pumpjack_crank"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:pumpjack_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:pumpjack_hole"
+		},
+		{
+			"weight": 1.0,
+			"key": "createdieselgenerators:wood_chip"
+		}
+	]
+}

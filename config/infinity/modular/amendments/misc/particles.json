@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "amendments:boiling_bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "amendments:fluid_splash"
+		}
+	]
+}

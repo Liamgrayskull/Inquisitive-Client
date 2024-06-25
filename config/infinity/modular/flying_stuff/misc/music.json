@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "flying_stuff:golden_sky_music"
+		},
+		{
+			"weight": 1.0,
+			"key": "flying_stuff:underground_music_disk"
+		}
+	]
+}

@@ -1,0 +1,304 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:bleeding_tartar"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:blue_tenderloin_steak"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:boiled_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:breakfast_sampler"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:bullet_pepper"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:bullet_pepper_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:chilidog"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:cooked_loin"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:crimson_fungus_colony"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:crimson_stroganoff"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:deviled_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:fried_hoglin_chop"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:ghast_salad"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:ghasta"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:ghasta_with_cream"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:hoglin_hide"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:hoglin_loin"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:hoglin_sausage"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:hoglin_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:hot_cream"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:hot_cream_cone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:hot_wings"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:hotdog"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:letios_compost"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:minced_strider"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:nether_bricks_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:nether_bricks_soul_stove"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:nether_bricks_stove"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:plate_of_cold_striderloaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:plate_of_ghasta_with_cream"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:plate_of_striderloaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:plate_of_stuffed_hoglin"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:plate_of_stuffed_hoglin_ham"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:plate_of_stuffed_hoglin_snout"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:powder_cannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:powdery_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:powdery_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:powdery_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:powdery_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:powdery_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:powdery_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:powdery_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:powdery_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:powdery_mosaic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:powdery_mosaic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:powdery_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:powdery_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:powdery_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:powdery_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:powdery_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:powdery_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:powdery_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:raw_stuffed_hoglin"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:resurgent_soil"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:resurgent_soil_farmland"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:roast_ear"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:roast_stuffed_hoglin"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:roasted_sausage"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:sausage_and_potatoes"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:skoglin_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:spicy_cotton"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:spicy_curry"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:spicy_hoglin_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:spicy_noodle_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:spicy_skewer"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:strider_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:strider_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:strider_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:strider_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:strider_with_grilled_fungus"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:striderloaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:stripped_powdery_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:warped_fungus_colony"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:waxed_hoglin_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "mynethersdelight:zoglin_trophy"
+		}
+	]
+}

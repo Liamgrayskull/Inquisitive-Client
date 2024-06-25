@@ -1,0 +1,96 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "shutter:acacia_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "shutter:ancient_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "shutter:azalea_quark_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "shutter:bamboo_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "shutter:birch_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "shutter:blossom_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "shutter:cherry_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "shutter:crimson_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "shutter:cypress_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "shutter:dark_oak_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "shutter:gingerbread_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "shutter:glass_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "shutter:gold_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "shutter:iron_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "shutter:jungle_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "shutter:mangrove_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "shutter:maple_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "shutter:muddy_oak_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "shutter:netherite_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "shutter:oak_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "shutter:spruce_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "shutter:stripped_bamboo_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "shutter:warped_shutter"
+		}
+	]
+}

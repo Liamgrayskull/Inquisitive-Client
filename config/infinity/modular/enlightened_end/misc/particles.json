@@ -1,0 +1,80 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:cerulean_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:chorus_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:end_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ennegel_drip"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:flash_bomb_flash"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:frost_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:fuschia_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:helium_bubble_pop"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:laser_zap"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:levitation_plume"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:nuclear_bomb_emission"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:nuclear_explosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ooze_drip"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ooze_gas_bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ooze_rain"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ooze_smoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:teleporter_spark"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:uranium_emission"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:xenon_bubble_pop"
+		}
+	]
+}

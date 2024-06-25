@@ -1,0 +1,136 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "trials:banner_pattern_flow"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:banner_pattern_guster"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:bogged_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:bolt_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:breeze_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:chiseled_tuff"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:chiseled_tuff_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:chiseled_tuff_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:flow_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:flow_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:guster_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:heavy_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:mace"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:music_disc_creator"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:music_disc_creator_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:music_disc_precipice"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:ominous_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:polished_tuff"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:polished_tuff_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:polished_tuff_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:polished_tuff_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:scrape_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:trial_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:trial_spawner"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:trial_vault"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:tuff_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:tuff_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:tuff_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:tuff_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:tuff_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:tuff_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:tuff_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:wind_charge"
+		}
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "spelunkery:boat_paddle_portal_fluid"
+		},
+		{
+			"weight": 1.0,
+			"key": "spelunkery:bonk"
+		},
+		{
+			"weight": 1.0,
+			"key": "spelunkery:knob"
+		},
+		{
+			"weight": 1.0,
+			"key": "spelunkery:portal_fluid_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "spelunkery:portal_fluid_bottle_empty"
+		},
+		{
+			"weight": 1.0,
+			"key": "spelunkery:portal_fluid_bottle_fill"
+		},
+		{
+			"weight": 1.0,
+			"key": "spelunkery:portal_fluid_bucket_empty"
+		},
+		{
+			"weight": 1.0,
+			"key": "spelunkery:portal_fluid_bucket_fill"
+		},
+		{
+			"weight": 1.0,
+			"key": "spelunkery:portal_fluid_submerge"
+		},
+		{
+			"weight": 1.0,
+			"key": "spelunkery:portal_fluid_teleport"
+		}
+	]
+}

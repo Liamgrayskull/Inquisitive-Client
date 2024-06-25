@@ -1,0 +1,52 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "create:air"
+		},
+		{
+			"weight": 1.0,
+			"key": "create:air_flow"
+		},
+		{
+			"weight": 1.0,
+			"key": "create:basin_fluid"
+		},
+		{
+			"weight": 1.0,
+			"key": "create:cube"
+		},
+		{
+			"weight": 1.0,
+			"key": "create:fluid_drip"
+		},
+		{
+			"weight": 1.0,
+			"key": "create:fluid_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "create:rotation_indicator"
+		},
+		{
+			"weight": 1.0,
+			"key": "create:soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "create:soul_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "create:soul_expanding_perimeter"
+		},
+		{
+			"weight": 1.0,
+			"key": "create:soul_perimeter"
+		},
+		{
+			"weight": 1.0,
+			"key": "create:steam_jet"
+		}
+	]
+}

@@ -1,0 +1,176 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:book_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_barrier_center"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_barrier_edge"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_barrier_vertex"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_broken_diamond_edge"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_broken_diamond_vertex"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_broken_edge"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_diamond_edge"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_diamond_vertex"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaos_spawner_edge"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:chaotic_hexahedron"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:cobblestone_pebble"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:dnl_logo"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:dungeon_wall_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:explosive_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:eye_of_the_storm"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:gold_ingot_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:great_experience_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:iron_ingot_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:labyrinth_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:life_stealer"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:mossy_cobblestone_pebble"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:scepter_of_sealed_chaos"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:skull_of_chaos"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:soul_cloth"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:soul_silk"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawn_egg_chaos_spawner"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawn_egg_hollow"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawn_egg_sealed_chaos"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawn_egg_spawner_carrier"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawn_egg_whimper"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawner_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawner_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawner_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawner_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawner_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawner_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawner_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spawner_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:spikes"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:wind_jade"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:wooden_wall_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "dungeonnowloading:wooden_wall_rack"
+		}
+	]
+}

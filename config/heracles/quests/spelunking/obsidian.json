@@ -1,0 +1,40 @@
+{
+  "dependencies": [],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Morose."
+    },
+    "description": [
+      "Obsidian's properties are uniquely rooted in travelling space, or altering that space. When fused with energy, it retains it within itself rather than expelling it."
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          76,
+          81
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "frame_changer:crying_chiseled_obsidian",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Obsidian"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

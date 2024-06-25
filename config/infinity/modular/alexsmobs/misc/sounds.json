@@ -1,0 +1,852 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:alligator_snapping_turtle_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:alligator_snapping_turtle_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:anaconda_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:anaconda_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:anaconda_slither"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:anteater_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:april_fools_power_outage"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:april_fools_scream"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:bald_eagle_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:bald_eagle_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:banana_slug_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:banana_slug_slime_expand"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:bear_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:bison_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:bison_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:blue_jay_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:blue_jay_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:blue_jay_song"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:bone_serpent_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:bone_serpent_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:bunfungus_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:bunfungus_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:bunfungus_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:bunfungus_jump"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:cachalot_whale_click"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:cachalot_whale_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:cachalot_whale_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:caiman_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:caiman_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:caiman_splash"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:capuchin_monkey_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:capuchin_monkey_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:centipede_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:centipede_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:centipede_walk"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:cockroach_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:comb_jelly_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:cosmaw_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:cosmaw_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:cosmic_cod_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:crocodile_baby"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:crocodile_bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:crocodile_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:crocodile_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:crow_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:crow_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:devils_hole_pupfish_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:dropbear_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:dropbear_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:elephant_die"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:elephant_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:elephant_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:elephant_trumpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:elephant_walk"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:emu_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:emu_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:end_pirate_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:endergrade_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:endergrade_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:enderiophage_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:enderiophage_squish"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:enderiophage_walk"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:farseer_beam"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:farseer_emerge"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:farseer_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:farseer_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:flutter_flap"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:flutter_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:flutter_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:flutter_no"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:flutter_yes"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:fly_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:fly_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:froststalker_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:froststalker_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:gazelle_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:gelada_monkey_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:gelada_monkey_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:giant_squid_games"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:giant_squid_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:giant_squid_tentacle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:gorilla_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:gorilla_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:grizzly_bear_die"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:grizzly_bear_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:grizzly_bear_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:guster_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:guster_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:hummingbird_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:hummingbird_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:hummingbird_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:jerboa_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:jerboa_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:kangaroo_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:kangaroo_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:komodo_dragon_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:komodo_dragon_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:la_cucaracha"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:laviathan_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:laviathan_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:leafcutter_ant_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:leafcutter_ant_queen_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:lobster_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:lobster_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:maned_wolf_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:maned_wolf_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:mantis_shrimp_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:mantis_shrimp_snap"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:maraca"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:mimic_octopus_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:mimic_octopus_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:mimicube_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:mimicube_jump"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:moose_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:moose_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:moose_jostle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:mosquito_capsid_convert"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:mosquito_die"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:mosquito_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:mosquito_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:mudskipper_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:mudskipper_spit"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:mudskipper_walk"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:mungus_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:mungus_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:mungus_laser_end"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:mungus_laser_grow"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:mungus_laser_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:murmur_anger"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:murmur_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:murmur_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:murmur_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:murmur_neck"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:orca_die"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:orca_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:orca_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:platypus_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:platypus_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:potoo_call"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:potoo_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:raccoon_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:raccoon_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:rain_frog_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:rain_frog_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:rattlesnake_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:rattlesnake_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:rattlesnake_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:rhinoceros_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:rhinoceros_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:roadrunner_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:roadrunner_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:roadrunner_meep"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:rocky_roller_earthquake"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:rocky_roller_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:rocky_roller_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:sculk_boomer"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:sculk_boomer_fart"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:seagull_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:seagull_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:seal_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:seal_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:shoebill_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:skelewag_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:skelewag_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:skreecher_call"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:skreecher_clap"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:skreecher_detect"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:skreecher_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:skunk_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:skunk_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:skunk_spray"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:snow_leopard_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:snow_leopard_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:soul_vulture_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:soul_vulture_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spectre_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spectre_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:stink_ray"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:straddler_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:straddler_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:sugar_glider_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:sugar_glider_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:sunbird_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:sunbird_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:tarantula_hawk_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:tarantula_hawk_wing"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:tasmanian_devil_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:tasmanian_devil_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:tasmanian_devil_roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:tendon_whip"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:terrapin_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:tiger_angry"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:tiger_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:tiger_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:toucan_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:toucan_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:transmute_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:triops_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:tusklin_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:tusklin_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:underminer_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:underminer_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:underminer_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:vine_lasso"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:void_portal_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:void_portal_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:void_worm_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:void_worm_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:warped_mosco_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:warped_mosco_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:warped_toad_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:warped_toad_idle"
+		}
+	]
+}

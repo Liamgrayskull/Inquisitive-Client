@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mowziesmobs:music.black_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "mowziesmobs:music.ferrous_wroughtnaut_theme"
+		},
+		{
+			"weight": 1.0,
+			"key": "mowziesmobs:music.frostmaw_theme"
+		},
+		{
+			"weight": 1.0,
+			"key": "mowziesmobs:music.petiole"
+		},
+		{
+			"weight": 1.0,
+			"key": "mowziesmobs:music.umvuthi_theme"
+		}
+	]
+}

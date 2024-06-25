@@ -1,0 +1,36 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ad_astra:gravity_normalizer_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:oxygen_intake"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:oxygen_outtake"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:rocket"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:rocket_launch"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:sliding_door_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:sliding_door_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:wrench"
+		}
+	]
+}

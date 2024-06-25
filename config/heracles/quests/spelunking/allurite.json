@@ -1,37 +1,42 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "crystals"
+  ],
   "tasks": {},
   "rewards": {},
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Left crosshair"
     },
-    "description": [],
+    "description": [
+      "Has more warding properties than Lumiere, Allurite blocks dampens sound adjacent to them to an incredible effect. Oddly enough, they can be utilized to draw in warp fields through an anchor."
+    ],
     "groups": {
       "Spelunking": {
         "position": [
-          76,
-          169
+          87,
+          138
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "minecraft:map",
+        "id": "galosphere:allurite_shard",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "text": "Allurite"
+      "translate": "Allurite"
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "oreganized:dripping_lead"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:falling_lead"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:landing_lead"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:lead_shrapnel"
+		}
+	]
+}

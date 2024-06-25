@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "structure_gel:blue_gel"
+		},
+		{
+			"weight": 1.0,
+			"key": "structure_gel:building_tool"
+		},
+		{
+			"weight": 1.0,
+			"key": "structure_gel:cyan_gel"
+		},
+		{
+			"weight": 1.0,
+			"key": "structure_gel:data_handler"
+		},
+		{
+			"weight": 1.0,
+			"key": "structure_gel:dynamic_spawner"
+		},
+		{
+			"weight": 1.0,
+			"key": "structure_gel:green_gel"
+		},
+		{
+			"weight": 1.0,
+			"key": "structure_gel:orange_gel"
+		},
+		{
+			"weight": 1.0,
+			"key": "structure_gel:red_gel"
+		},
+		{
+			"weight": 1.0,
+			"key": "structure_gel:yellow_gel"
+		}
+	]
+}

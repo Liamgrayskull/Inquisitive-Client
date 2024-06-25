@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "moyai:block.moyai_rotate"
+		},
+		{
+			"weight": 1.0,
+			"key": "moyai:record.moyai_boom"
+		}
+	]
+}

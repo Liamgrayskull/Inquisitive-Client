@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "neapolitan:chimpanzee_needs_food"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:chimpanzee_needs_friend"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:chimpanzee_needs_sun"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:dripping_dripstone_milk"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:falling_dripstone_milk"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:fly"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:milk_splash"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:mint_boost"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:tear"
+		}
+	]
+}

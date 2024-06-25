@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "transmog:transmogrification_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "transmog:void_fragment"
+		}
+	]
+}

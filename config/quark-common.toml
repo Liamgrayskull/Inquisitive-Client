@@ -28,7 +28,7 @@
 	#The amount of slots the chest button system should seek when trying to figure out if a container should be eligible for them.
 	"Chest Button Slot Target" = 27
 	#Set this to false to not generate the Quark Programmer Art resource pack
-	"Generate Programmer Art" = true
+	"Generate Programmer Art" = false
 
 	[general.chest_button_offsets]
 		"Player X" = 0
@@ -110,7 +110,7 @@
 [building]
 	"Celebratory Lamps" = false
 	"Compressed Blocks" = false
-	"Duskbound Blocks" = true
+	"Duskbound Blocks" = false
 	"Framed Glass" = false
 	"Glass Item Frame" = true
 	"Gold Bars" = true
@@ -126,7 +126,7 @@
 	"More Potted Plants" = true
 	"Nether Brick Fence Gate" = true
 	"Rainbow Lamps" = true
-	"Raw Metal Bricks" = true
+	"Raw Metal Bricks" = false
 	Rope = false
 	"Shear Vines" = true
 	Shingles = true
@@ -1663,11 +1663,11 @@
 	#is added to 'Items to Change', then a predicate named 'quark_has_enchant_minecraft_silk_touch' will be available
 	#to the netherite_pickaxe.json item model, whose value will be the enchantment level.
 	"Enchantment Predicates" = false
-	"Enchantments Begone" = false
+	"Enchantments Begone" = true
 	"Game Nerfs" = false
 	"Narrator Readout" = false
 	"Overlay Shader" = false
-	"Spawner Replacer" = false
+	"Spawner Replacer" = true
 	#Allows placing variant blocks automatically via a selector menu triggered from a keybind
 	"Variant Selector" = false
 	"Villager Rerolling Rework" = false
@@ -1707,7 +1707,7 @@
 		"Enchantments To Register" = []
 
 	[experimental.enchantments_begone]
-		"Enchantments To Begone" = []
+		"Enchantments To Begone" = ["minecraft:aqua_affinity", "minecraft:bane_of_arthropods", "minecraft:binding_curse", "minecraft:blast_protection", "minecraft:depth_strider", "minecraft:feather_falling", "minecraft:fire_protection", "minecraft:flame", "minecraft:fortune", "minecraft:frost_walker", "minecraft:impaling", "minecraft:knockback", "minecraft:looting", "minecraft:loyalty", "minecraft:lure", "minecraft:mending", "minecraft:multishot", "minecraft:piercing", "minecraft:power", "minecraft:projectile_protection", "minecraft:protection", "minecraft:punch", "minecraft:quick_charge", "minecraft:respiration", "minecraft:sharpness", "minecraft:smite", "minecraft:soul_speed", "minecraft:sweeping", "minecraft:thorns", "minecraft:unbreaking", "minecraft:feather_falling", "minecraft:infinity", "enchancement:scatter", "enchancement:assimilation", "enchancement:slide", "enchancement:bouncy", "enchancement:dash", "enchancement:leech", "enchancement:torch", "enchancement:scooping", "alexscaves:precise_volley", "alexscaves:relentless_darkness", "alexscaves:soak_seeking", "alexscaves:rapid_possession", "alexscaves:sightless", "alexscaves:impending_stab", "alexscaves:taxing_bellow", "alexscaves:lasting_morale", "alexscaves:shaded_respite", "alexscaves:heavy_slam", "alexscaves:dark_nock", "alexscaves:swiftwood", "alexscaves:arrow_inducting", "alexscaves:ferrous_haste", "alexscaves:dazing_sweep", "alexscaves:flinging", "alexscaves:energy_efficiency", "alexscaves:chomping_spirit", "alexscaves:plummeting_flight", "alexscaves:triple_splash", "alexscaves:field_extention", "alexscaves:detonating_death", "alexscaves:sated_blade", "alexscaves:seapairing", "alexscaves:bouncing_bolt", "domesticationinnovation:charisma", "domesticationinnovation:warping_bite", "domesticationinnovation:vampire", "domesticationinnovation:bubbling", "domesticationinnovation:poison_resistance", "domesticationinnovation:defusal", "domesticationinnovation:immunity_frame", "domesticationinnovation:disc_jockey", "domesticationinnovation:magnetic", "domesticationinnovation:health_boost", "galosphere:enfeeble", "galosphere:sustain", "trials:wind_burst", "trials:density", "trials:breach", "combatroll:acrobat", "combatroll:multi_roll", "combatroll:longfooted", "create:potato_recovery"]
 
 	[experimental.game_nerfs]
 		#Makes Mending act like the Unmending mod
@@ -1836,8 +1836,6 @@
 		#Block/Item IDs to force-disable magnetism on, regardless of their crafting recipe
 		"Magnetic Blacklist" = ["minecraft:tripwire_hook"]
 		"Use Pre End Recipe" = false
-		#Makes magnet particles use the old green color
-		"Green Magnet Particles" = false
 		#Allows magnets to push and pull entities in the 'affected_by_magnets' tag (edit it with datapack). Turning off can reduce lag
 		"Affect Entities" = true
 		#Allows magnets to push and pull entities having magnetic armor. Requires 'magnetic_entities' config ON

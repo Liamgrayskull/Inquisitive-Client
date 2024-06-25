@@ -1,0 +1,108 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "enhanced_mushrooms:chiseled_mushroom_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "enhanced_mushrooms:large_mushroom_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "enhanced_mushrooms:mushroom_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "enhanced_mushrooms:mushroom_boards"
+		},
+		{
+			"weight": 1.0,
+			"key": "enhanced_mushrooms:mushroom_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "enhanced_mushrooms:mushroom_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "enhanced_mushrooms:mushroom_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "enhanced_mushrooms:mushroom_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enhanced_mushrooms:mushroom_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "enhanced_mushrooms:mushroom_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "enhanced_mushrooms:mushroom_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "enhanced_mushrooms:mushroom_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "enhanced_mushrooms:mushroom_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "enhanced_mushrooms:mushroom_furnace_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "enhanced_mushrooms:mushroom_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "enhanced_mushrooms:mushroom_hyphae"
+		},
+		{
+			"weight": 1.0,
+			"key": "enhanced_mushrooms:mushroom_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "enhanced_mushrooms:mushroom_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "enhanced_mushrooms:mushroom_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "enhanced_mushrooms:mushroom_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "enhanced_mushrooms:mushroom_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "enhanced_mushrooms:mushroom_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enhanced_mushrooms:mushroom_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "enhanced_mushrooms:mushroom_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "enhanced_mushrooms:stripped_mushroom_hyphae"
+		},
+		{
+			"weight": 1.0,
+			"key": "enhanced_mushrooms:stripped_mushroom_stem"
+		}
+	]
+}

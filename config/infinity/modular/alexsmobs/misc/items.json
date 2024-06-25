@@ -1,0 +1,1116 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:acacia_blossom"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:ambergris"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:ancient_dart"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:animal_dictionary"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:banana"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:banana_peel"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:banana_slug_slime"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:banana_slug_slime_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:banner_pattern_australia_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:banner_pattern_australia_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:banner_pattern_bear"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:banner_pattern_brazil"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:banner_pattern_new_mexico"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:bear_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:bear_fur"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:bison_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:bison_fur"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:bison_fur_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:blobfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:blobfish_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:blood_sac"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:blood_sprayer"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:boiled_emu_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:bone_serpent_tooth"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:cachalot_whale_tooth"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:caiman_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:capsid"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:centipede_leg"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:centipede_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:chorus_on_a_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:cockroach_ootheca"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:cockroach_wing"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:cockroach_wing_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:comb_jelly_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:cooked_catfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:cooked_kangaroo_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:cooked_lobster_tail"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:cooked_moose_ribs"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:cosmic_cod"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:cosmic_cod_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:crocodile_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:crocodile_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:crocodile_scute"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:crystalized_banana_slug_mucus"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:devils_hole_pupfish_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:dimensional_carver"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:dimensional_carver_shard_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:dimensional_carver_shard_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:dimensional_carver_shard_10"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:dimensional_carver_shard_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:dimensional_carver_shard_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:dimensional_carver_shard_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:dimensional_carver_shard_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:dimensional_carver_shard_6"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:dimensional_carver_shard_7"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:dimensional_carver_shard_8"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:dimensional_carver_shard_9"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:dropbear_claw"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:echolocator"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:elastic_tendon"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:emu_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:emu_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:emu_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:ender_residue"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:enderiophage_rocket"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:endolocator"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:falconry_glove"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:falconry_glove_hand"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:falconry_glove_inventory"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:falconry_hood"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:farseer_arm"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:fedora"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:fish_bones"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:fish_oil"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:flying_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:flying_fish_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:flying_fish_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:frilled_shark_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:frontier_cap"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:froststalker_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:froststalker_horn"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:gazelle_horn"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:ghostly_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:gongylidia"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:guster_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:gustmaker"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:halo"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:hemolymph_blaster"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:hemolymph_sac"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:hummingbird_feeder"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:kangaroo_burger"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:kangaroo_hide"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:kangaroo_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:komodo_spit"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:komodo_spit_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:large_catfish_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:lava_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:leafcutter_ant_chamber"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:leafcutter_ant_pupa"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:leafcutter_anthill"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:lobster_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:lobster_tail"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:lost_tentacle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:maggot"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:maraca"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:medium_catfish_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:mimic_octopus_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:mimicream"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:moose_antler"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:moose_headgear"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:moose_ribs"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:mosquito_larva"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:mosquito_proboscis"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:mosquito_repellent_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:mudskipper_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:mungal_spores"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:music_disc_daze"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:music_disc_thime"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:mysterious_worm"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:novelty_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:pigshoes"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:platypus_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:platypus_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:pocket_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:poison_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:potted_flutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:pupfish_locator"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:raccoon_tail"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:rainbow_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:rainbow_jelly"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:rattlesnake_rattle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:raw_catfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:red_sand_circle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:roadrunner_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:roadrunner_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:rocky_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:rocky_shell"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:sand_circle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:sculk_boomer"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:serrated_shark_tooth"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:shark_tooth"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:shark_tooth_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:shattered_dimensional_carver"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:shed_snake_skin"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:shield_of_the_deep"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:shrimp_fried_rice"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:skelewag_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:skelewag_sword_hand"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:skelewag_sword_inventory"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:skreecher_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:small_catfish_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:sombrero"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:sopa_de_macaco"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:soul_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_alligator_snapping_turtle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_anaconda"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_anteater"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_bald_eagle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_banana_slug"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_bison"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_blobfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_blue_jay"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_bone_serpent"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_bunfungus"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_cachalot_whale"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_caiman"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_capuchin_monkey"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_catfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_centipede"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_cockroach"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_comb_jelly"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_cosmaw"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_cosmic_cod"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_crimson_mosquito"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_crocodile"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_crow"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_devils_hole_pupfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_dropbear"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_elephant"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_emu"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_endergrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_enderiophage"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_farseer"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_flutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_fly"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_flying_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_frilled_shark"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_froststalker"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_gazelle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_gelada_monkey"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_giant_squid"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_gorilla"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_grizzly_bear"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_guster"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_hammerhead_shark"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_hummingbird"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_jerboa"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_kangaroo"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_komodo_dragon"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_laviathan"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_leafcutter_ant"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_lobster"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_maned_wolf"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_mantis_shrimp"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_mimic_octopus"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_mimicube"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_moose"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_mudskipper"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_mungus"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_murmur"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_orca"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_platypus"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_potoo"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_raccoon"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_rain_frog"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_rattlesnake"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_rhinoceros"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_roadrunner"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_rocky_roller"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_seagull"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_seal"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_shoebill"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_skelewag"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_skreecher"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_skunk"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_snow_leopard"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_soul_vulture"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_spectre"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_straddler"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_stradpole"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_sugar_glider"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_sunbird"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_tarantula_hawk"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_tasmanian_devil"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_terrapin"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_tiger"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_toucan"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_triops"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_tusklin"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_underminer"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_void_worm"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_warped_mosco"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spawn_egg_warped_toad"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spiked_scute"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:spiked_turtle_shell"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:squid_grapple"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:stink_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:stink_ray"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:stink_ray_empty_hand"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:stink_ray_empty_inventory"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:stink_ray_hand"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:stink_ray_inventory"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:straddle_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:straddle_saddle"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:straddleboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:straddlite"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:straddlite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:stradpole_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:tab_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:tarantula_hawk_elytra"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:tarantula_hawk_wing"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:tarantula_hawk_wing_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:tendon_whip"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:terrapin_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:terrapin_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:transmutation_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:triops_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:triops_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:unsettling_kimono"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:vine_lasso"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:vine_lasso_hand"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:vine_lasso_inventory"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:void_worm_beak"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:void_worm_effigy"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:void_worm_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:void_worm_mandible"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:warped_mixture"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:warped_muscle"
+		}
+	]
+}

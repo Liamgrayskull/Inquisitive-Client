@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "guardvillagers:guard_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "guardvillagers:illusioner_spawn_egg"
+		}
+	]
+}

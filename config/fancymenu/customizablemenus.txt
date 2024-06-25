@@ -6,9 +6,6 @@ de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 net.minecraft.client.gui.screens.SkinCustomizationScreen {
 }
 
-net.minecraft.client.gui.screens.controls.ControlsScreen {
-}
-
 net.minecraft.client.gui.screens.GenericDirtMessageScreen {
 }
 
@@ -19,12 +16,6 @@ net.minecraft.client.gui.screens.ProgressScreen {
 }
 
 net.minecraft.client.gui.screens.ReceivingLevelScreen {
-}
-
-net.minecraft.client.gui.screens.inventory.ContainerScreen {
-}
-
-net.minecraft.client.gui.screens.inventory.CraftingScreen {
 }
 
 net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen {
@@ -69,12 +60,12 @@ net.minecraft.client.gui.screens.achievement.StatsScreen {
 net.minecraft.client.gui.screens.ShareToLanScreen {
 }
 
-betteradvancements.gui.BetterAdvancementsScreen {
-}
-
 net.minecraft.client.gui.screens.LanguageSelectScreen {
 }
 
 net.blay09.mods.hardcorerevival.client.KnockoutScreen {
+}
+
+net.minecraft.client.gui.screens.controls.ControlsScreen {
 }
 

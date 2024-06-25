@@ -1,0 +1,308 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "spawn:block.anthill.enter"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.anthill.exit"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.anthill.resource"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.anthill.work"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.cracked_rotten_wood.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.cracked_rotten_wood.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.cracked_rotten_wood.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.cracked_rotten_wood.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.cracked_rotten_wood.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.fallen_leaves.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.fallen_leaves.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.fallen_leaves.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.fallen_leaves.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.fallen_leaves.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.mucus.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.mucus.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.mucus.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.mucus.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.mucus.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.rotten_wood.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.rotten_wood.crack"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.rotten_wood.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.rotten_wood.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.rotten_wood.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.rotten_wood.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.rotten_wood_door.close"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.rotten_wood_door.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.rotten_wood_fence_gate.close"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.rotten_wood_fence_gate.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.rotten_wood_trapdoor.close"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.rotten_wood_trapdoor.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.snail_eggs.hatch"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.snail_shell.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.snail_shell.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.snail_shell.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.snail_shell.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.snail_shell.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:block.sunflower.seed_pickup"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.angler_fish.deflate"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.angler_fish.effect.deny"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.angler_fish.effect.give"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.ant.collect_resource"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.ant.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.ant.eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.ant.hatch"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.ant.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.ant.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.ant.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.big_fish.swim"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.fish.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.fish.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.fish.flop"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.fish.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.fish.swim"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.hamster.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.hamster.eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.hamster.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.hamster.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.hamster.idle_call"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.hamster.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.seahorse.click"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.seahorse.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.seahorse.growl"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.seahorse.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.snail.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.snail.death_hidden"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.snail.eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.snail.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.snail.hurt_hidden"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.snail.lay_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.snail.shell_grow"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.snail.slide"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.tuna_egg.broken"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:entity.tuna_egg.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:item.bucket.empty_tuna_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:item.bucket.fill_tuna_egg"
+		}
+	]
+}

@@ -1,0 +1,96 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:entity.ocean.creeper.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:entity.ocean.creeper.deflate"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:entity.ocean.creeper.hurt_deflated"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:entity.ocean.creeper.hurt_inflated"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:entity.ocean.creeper.inflate"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:entity.plant.creeper.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:entity.plant.creeper.explosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:entity.plant.creeper.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:entity.plant.creeper.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:entity.plant.creeper.prime"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:entity.sand.creeper.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:entity.sand.creeper.explosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:entity.sand.creeper.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:entity.sand.creeper.prime"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:entity.stone.creeper.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:entity.stone.creeper.explosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:entity.stone.creeper.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:entity.stone.creeper.prime"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:entity.wood.creeper.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:entity.wood.creeper.explosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:entity.wood.creeper.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:entity.wood.creeper.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "creeperoverhaul:entity.wood.creeper.prime"
+		}
+	]
+}

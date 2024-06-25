@@ -597,6 +597,9 @@
 				sculk_spine_spike_attack = true
 				cursor_bridger = true
 				cursor_purifier_prober = true
+				sculk_witch = true
+				sculk_pufferfish = true
+				area_effect_spherical_cloud = true
 
 			[light_sources.settings.entities.enchancement]
 				brimstone = true
@@ -1233,6 +1236,8 @@
 				updater = true
 				dart = true
 				kukulkan_pr = true
+				golden_guard = true
+				chaac = true
 
 			[light_sources.settings.entities.mint]
 				ember_arrow = true
@@ -1247,6 +1252,153 @@
 			[light_sources.settings.entities.illusion_onslaught]
 				projectile_flameball = true
 				projectile_water_wave = true
+
+			[light_sources.settings.entities.brewery]
+				beer_elemental = true
+				beer_elemental_attack = true
+
+			[light_sources.settings.entities.ribbits]
+				ribbit = true
+
+			[light_sources.settings.entities.mutantmonsters]
+				throwable_block = true
+				mutant_creeper = true
+				mutant_enderman = true
+				mutant_skeleton = true
+				mutant_snow_golem = true
+				mutant_zombie = true
+				mutant_arrow = true
+				endersoul_fragment = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				ocean_creeper = true
+				snowy_creeper = true
+				beach_creeper = true
+				spruce_creeper = true
+				dark_oak_creeper = true
+				cave_creeper = true
+				swamp_creeper = true
+				mushroom_creeper = true
+				savannah_creeper = true
+				hills_creeper = true
+				badlands_creeper = true
+				desert_creeper = true
+				bamboo_creeper = true
+				jungle_creeper = true
+				dripstone_creeper = true
+
+			[light_sources.settings.entities.endermanoverhaul]
+				spirit = true
+				scarab = true
+				windswept_hills_enderman = true
+				warped_forest_enderman = true
+				swamp_enderman = true
+				soulsand_valley_enderman = true
+				snowy_enderman = true
+				savanna_enderman = true
+				nether_wastes_enderman = true
+				mushroom_fields_enderman = true
+				ice_spikes_enderman = true
+				flower_fields_enderman = true
+				end_islands_enderman = true
+				end_enderman = true
+				desert_enderman = true
+				dark_oak_enderman = true
+				crimson_forest_enderman = true
+				cave_enderman = true
+				badlands_enderman = true
+				corrupted_pearl = true
+				ancient_pearl = true
+				axolotl_pet_enderman = true
+				bubble_pearl = true
+				warped_pearl = true
+				crimson_pearl = true
+				icy_pearl = true
+				summoner_pearl = true
+				ender_bullet = true
+				coral_enderman = true
+				pet_enderman = true
+				hammerhead_pet_enderman = true
+
+			[light_sources.settings.entities.pridemoths]
+				moth = true
+
+			[light_sources.settings.entities.doapi]
+				chair = true
+
+			[light_sources.settings.entities.burrowers]
+				chief_burrower = true
+				burrower = true
+				silver_dweller = true
+
+			[light_sources.settings.entities.specialmobs]
+				drowned = true
+				slime = true
+				motherspider = true
+				cavespider = true
+				mothercavespider = true
+				giantspider = true
+				palecavespider = true
+				zombie = true
+				enderman = true
+				icyenderman = true
+				knightdrowned = true
+				hungrydrowned = true
+				spider = true
+				skeleton = true
+				gatlingskeleton = true
+				creeper = true
+				witchcavespider = true
+				skeletoncreeper = true
+				desertcavespider = true
+				plaguezombie = true
+				witch = true
+				watercavespider = true
+				drowningcreeper = true
+				strayskeleton = true
+				webspider = true
+				witchspider = true
+				giantzombie = true
+				dirtcreeper = true
+				giantskeleton = true
+				endercreeper = true
+				frozenzombie = true
+				snowcreeper = true
+				poisonskeleton = true
+				waterspider = true
+				webcavespider = true
+				flyingcavespider = true
+				jumpingcreeper = true
+				firezombie = true
+				sniperskeleton = true
+				gravelcreeper = true
+				darkcreeper = true
+				deathcreeper = true
+				doomcreeper = true
+				firecreeper = true
+				lightningcreeper = true
+				minicreeper = true
+				sandcreeper = true
+				splittingcreeper = true
+				brutezombie = true
+				fishingzombie = true
+				hungryzombie = true
+				huskzombie = true
+				madscientistzombie = true
+				giantzombifiedpiglin = true
+				hungryzombifiedpiglin = true
+
+			[light_sources.settings.entities.netherdungeons]
+				baby_ghast = true
+				truncus = true
+				sporeshroom = true
+				piglin_thrower = true
+				hoglin_brute = true
+				zombified_piglin_thrower = true
+
+			[light_sources.settings.entities.healpgood]
+				health_bottle = true
+				health = true
 
 		[light_sources.settings.block_entities]
 

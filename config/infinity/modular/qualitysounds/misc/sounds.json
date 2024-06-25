@@ -1,0 +1,768 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.acacia_leaves.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.acacia_leaves.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.acacia_leaves.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.acacia_leaves.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.acacia_leaves.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.acacia_log.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.acacia_log.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.acacia_log.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.acacia_log.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.acacia_log.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.acacia_planks.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.acacia_planks.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.acacia_planks.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.acacia_planks.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.acacia_planks.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.barrel.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.barrel.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.barrel.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.beehive.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.beehive.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.beehive.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.birch_leaves.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.birch_leaves.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.birch_leaves.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.birch_leaves.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.birch_leaves.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.birch_log.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.birch_log.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.birch_log.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.birch_log.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.birch_log.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.birch_object.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.birch_object.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.birch_object.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.birch_object.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.birch_object.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.birch_planks.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.birch_planks.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.birch_planks.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.birch_planks.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.birch_planks.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.bookshelf.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.bookshelf.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.bookshelf.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.bookshelf.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.chest.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.chest.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.chest.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.clay.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.clay.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.clay.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.clay.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.cobblestone.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.cobblestone.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.cobblestone.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.cobblestone.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.cobblestone.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.copper_ore.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.copper_ore.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.copper_ore.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.copper_ore.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.copper_ore.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.deepslate_copper_ore.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.deepslate_copper_ore.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.deepslate_copper_ore.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.deepslate_copper_ore.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.deepslate_copper_ore.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.deepslate_gold_ore.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.deepslate_gold_ore.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.deepslate_gold_ore.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.deepslate_gold_ore.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.deepslate_gold_ore.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.deepslate_iron_ore.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.deepslate_iron_ore.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.deepslate_iron_ore.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.deepslate_iron_ore.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.deepslate_iron_ore.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.glass.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.glass.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.glass.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.gold_block.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.gold_ore.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.gold_ore.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.gold_ore.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.gold_ore.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.gold_ore.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.gravel.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.gravel.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.gravel.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.gravel.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.hay_block.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.hay_block.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.hay_block.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.hay_block.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.ice.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.ice.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.ice.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.ice.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.ice.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.iron_block.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.iron_ore.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.iron_ore.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.iron_ore.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.iron_ore.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.jungle_leaves.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.jungle_leaves.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.jungle_leaves.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.jungle_leaves.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.jungle_leaves.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.jungle_planks.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.jungle_planks.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.jungle_planks.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.jungle_planks.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.jungle_planks.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.loom.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.loom.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.loom.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.loom.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.magma_block.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.magma_block.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.magma_block.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.magma_block.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.magma_block.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.mangrove_leaves.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.mangrove_leaves.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.mangrove_leaves.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.mangrove_leaves.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.mangrove_leaves.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.mangrove_log.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.mangrove_log.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.mangrove_log.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.mangrove_log.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.mangrove_log.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.mangrove_planks.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.mangrove_planks.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.mangrove_planks.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.mangrove_planks.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.mangrove_planks.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.mossy_cobblestone.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.mossy_cobblestone.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.mossy_cobblestone.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.mossy_stone_bricks.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.mossy_stone_bricks.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.mossy_stone_bricks.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.oak_log.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.oak_log.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.oak_log.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.oak_log.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.oak_log.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.packed_ice.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.packed_ice.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.packed_ice.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.packed_ice.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.packed_ice.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.quartz.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.quartz.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.quartz.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.quartz.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.raw_gold_block.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.raw_gold_block.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.raw_gold_block.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.raw_gold_block.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.raw_gold_block.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.sandstone.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.sheet_metal.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.sheet_metal.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.spruce_leaves.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.spruce_leaves.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.spruce_leaves.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.spruce_leaves.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.spruce_leaves.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.spruce_log.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.spruce_log.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.spruce_log.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.spruce_log.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.spruce_log.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.spruce_object.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.spruce_object.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.spruce_object.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.spruce_object.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.spruce_object.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.spruce_planks.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.spruce_planks.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.spruce_planks.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.spruce_planks.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.spruce_planks.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.stone_bricks.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.stone_bricks.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.stone_bricks.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.stone_bricks.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "qualitysounds:block.stone_bricks.step"
+		}
+	]
+}

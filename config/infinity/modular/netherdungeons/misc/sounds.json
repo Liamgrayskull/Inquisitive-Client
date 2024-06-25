@@ -1,0 +1,44 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "netherdungeons:a_long_way"
+		},
+		{
+			"weight": 1.0,
+			"key": "netherdungeons:baby_ghast_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "netherdungeons:baby_ghast_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "netherdungeons:baby_ghast_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "netherdungeons:chiseled_warped_nether_bricks_lights_up"
+		},
+		{
+			"weight": 1.0,
+			"key": "netherdungeons:plucking_artichokes"
+		},
+		{
+			"weight": 1.0,
+			"key": "netherdungeons:spores_scattering"
+		},
+		{
+			"weight": 1.0,
+			"key": "netherdungeons:sporeshroom_smash"
+		},
+		{
+			"weight": 1.0,
+			"key": "netherdungeons:throwing_sporeshroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "netherdungeons:vampirism"
+		}
+	]
+}

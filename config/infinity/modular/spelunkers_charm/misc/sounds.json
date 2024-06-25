@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "spelunkers_charm:catacombc_additional_sounds"
+		},
+		{
+			"weight": 1.0,
+			"key": "spelunkers_charm:catacombs_ambient_sound"
+		},
+		{
+			"weight": 1.0,
+			"key": "spelunkers_charm:geyser_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "spelunkers_charm:geyser_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "spelunkers_charm:geyser_water_looping"
+		},
+		{
+			"weight": 1.0,
+			"key": "spelunkers_charm:no_sound"
+		},
+		{
+			"weight": 1.0,
+			"key": "spelunkers_charm:rumble"
+		},
+		{
+			"weight": 1.0,
+			"key": "spelunkers_charm:tremor"
+		},
+		{
+			"weight": 1.0,
+			"key": "spelunkers_charm:underwater_rumbling"
+		}
+	]
+}

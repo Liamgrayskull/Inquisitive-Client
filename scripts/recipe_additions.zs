@@ -19,9 +19,11 @@ craftingTable.remove(<item:dimdungeons:item_portal_key>);
 craftingTable.remove(<item:dimdungeons:item_blank_build_key>);
 
 
-
 craftingTable.remove(<item:minecraft:spyglass>);
 
+craftingTable.remove(<item:ad_astra:energizer>);
+craftingTable.remove(<item:ad_astra:etrionic_capacitor>);
+craftingTable.remove(<item:brewery:breathalyzer>);
 
 craftingTable.remove(<item:transmog:void_fragment>);
 craftingTable.remove(<item:transmog:transmogrification_table>);
@@ -31,22 +33,6 @@ craftingTable.remove(<item:alexsmobs:transmutation_table>);
 craftingTable.remove(<item:waystones:warp_dust>);
 craftingTable.remove(<item:waystones:warp_plate>);
 
-craftingTable.remove(<item:xercamusic:french_horn>);
-craftingTable.remove(<item:xercamusic:drum_kit>);
-craftingTable.remove(<item:xercamusic:drum>);
-craftingTable.remove(<item:xercamusic:lyre>);
-craftingTable.remove(<item:xercamusic:saxophone>);
-craftingTable.remove(<item:xercamusic:god>);
-craftingTable.remove(<item:xercamusic:cello>);
-craftingTable.remove(<item:xercamusic:redstone_guitar>);
-craftingTable.remove(<item:xercamusic:guitar>);
-craftingTable.remove(<item:xercamusic:bass_guitar>);
-craftingTable.remove(<item:xercamusic:tubular_bell>);
-craftingTable.remove(<item:xercamusic:sansula>);
-craftingTable.remove(<item:xercamusic:oboe>);
-craftingTable.remove(<item:xercamusic:xylophone>);
-craftingTable.remove(<item:xercamusic:piano>);
-craftingTable.remove(<item:xercamusic:banjo>);
 
 craftingTable.remove(<item:blockofsky:void_block>);
 craftingTable.remove(<item:blockofsky:sky_block>);
@@ -59,6 +45,13 @@ craftingTable.remove(<item:waystones:sharestone>);
 
 
 
+
+
+craftingTable.addShapeless("teaconv1", <item:bitter_brews:tea_leaves> * 2, [<item:bountifulfares:tea_leaves>,<item:bountifulfares:tea_leaves>]);
+craftingTable.addShapeless("teaconv2", <item:bountifulfares:tea_leaves> * 2, [<item:bitter_brews:tea_leaves>,<item:bitter_brews:tea_leaves>]);
+
+craftingTable.addShapeless("strawconv1", <item:neapolitan:strawberries> * 2, [<item:mint:strawberry>,<item:mint:strawberry>]);
+craftingTable.addShapeless("strawconv2", <item:mint:strawberry> * 2, [<item:neapolitan:strawberries>,<item:neapolitan:strawberries>]);
 
 
 craftingTable.addShaped("spyglass", <item:minecraft:spyglass> * 1, [[<item:minecraft:gold_nugget>, <item:galosphere:allurite_shard>, <item:minecraft:gold_nugget>], [<item:minecraft:air>, <item:minecraft:copper_ingot>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:copper_ingot>, <item:minecraft:air>]]);
@@ -107,12 +100,17 @@ craftingTable.addShapeless("lapisberrynavydye", <item:mint:navy_dye> * 1, [<item
 
 
 
+craftingTable.addShaped("mimicatalyst", <item:transmog:void_fragment> * 1, [[<item:minecraft:air>, <item:enlightened_end:void_shale>, <item:minecraft:air>], [<item:enlightened_end:void_shale>, <item:alexsmobs:mimicream>, <item:enlightened_end:void_shale>], [<item:minecraft:air>, <item:enlightened_end:void_shale>, <item:minecraft:air>]]);
+craftingTable.addShaped("mimification_table", <item:transmog:transmogrification_table> * 1, [[<item:minecraft:air>, <item:transmog:void_fragment>, <item:minecraft:air>], [<item:enlightened_end:void_shale>, <item:minecraft:tinted_glass>, <item:enlightened_end:void_shale>], [<item:minecraft:crying_obsidian>, <item:minecraft:crying_obsidian>, <item:minecraft:crying_obsidian>]]);
 
 
-craftingTable.addShaped("void_fragment", <item:transmog:void_fragment> * 1, [[<item:minecraft:air>, <item:oreganized:lead_ingot>, <item:minecraft:air>], [<item:oreganized:lead_ingot>, <item:alexsmobs:mimicream>, <item:oreganized:lead_ingot>], [<item:minecraft:air>, <item:oreganized:lead_ingot>, <item:minecraft:air>]]);
-craftingTable.addShaped("transmogrification_table", <item:transmog:transmogrification_table> * 1, [[<item:minecraft:air>, <item:transmog:void_fragment>, <item:minecraft:air>], [<item:oreganized:lead_ingot>, <item:minecraft:tinted_glass>, <item:oreganized:lead_ingot>], [<item:oreganized:lead_pillar>, <item:oreganized:lead_pillar>, <item:oreganized:lead_pillar>]]);
-
-craftingTable.addShaped("radiomaker", <item:simpleradio:radio> * 1, [[<item:minecraft:air>, <item:computercraft:wireless_modem_normal>, <item:minecraft:air>], [<item:spelunkery:cinnabar>, <item:computercraft:speaker>, <item:createaddition:copper_spool>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);
+craftingTable.addShapeless("spudtalkie", <item:simpleradio:spuddie_talkie> * 1, [<item:simpleradio:antenna>, <item:minecraft:potato>, <item:createaddition:copper_wire>]);
+craftingTable.addShapeless("antenna", <item:simpleradio:antenna> * 1, [<item:createaddition:copper_wire>,  <item:minecraft:iron_bars>]);
+craftingTable.addShapeless("speaker", <item:simpleradio:speaker> * 1, [<item:simpleradio:antenna>,<item:create:andesite_casing>, <item:minecraft:black_wool>]);
+craftingTable.addShapeless("walkie", <item:simpleradio:walkie_talkie> * 1, [<item:caverns_and_chasms:tuning_fork>,<item:spelunkery:cinnabar>, <item:supplementaries:cog_block>, <item:createaddition:copper_wire>]);
+craftingTable.addShaped("frequencer", <item:simpleradio:frequencer> * 1, [[<item:minecraft:air>, <item:simpleradio:antenna>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:calibrated_sculk_sensor>, <item:computercraft:wireless_modem_normal>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);
+craftingTable.addShaped("microphone", <item:simpleradio:microphone> * 1, [[<item:minecraft:air>, <item:minecraft:black_wool>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:calibrated_sculk_sensor>, <item:minecraft:air>], [<item:minecraft:air>, <item:create:andesite_casing>, <item:minecraft:air>]]);
+craftingTable.addShaped("radiomaker", <item:simpleradio:radio> * 1, [[<item:minecraft:air>, <item:minecraft:calibrated_sculk_sensor>, <item:minecraft:air>], [<item:spelunkery:cinnabar>, <item:simpleradio:speaker>, <item:createaddition:copper_spool>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);
 craftingTable.addShaped("radiosmither", <item:simpleradio:radiosmither> * 1, [[<item:minecraft:air>, <item:tetra:pristine_amethyst>, <item:minecraft:air>], [<item:createaddition:copper_spool>, <item:create:andesite_casing>, <item:createaddition:copper_spool>], [<item:minecraft:air>, <item:spelunkery:cinnabar>, <item:minecraft:air>]]);
 craftingTable.addShaped("transciever", <item:simpleradio:transceiver> * 1, [[<item:minecraft:air>, <item:spelunkery:tuning_fork>, <item:minecraft:air>], [<item:spelunkery:cinnabar>, <item:create:andesite_casing>, <item:createaddition:copper_spool>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);
 
@@ -123,23 +121,6 @@ craftingTable.addShaped("void_block", <item:blockofsky:void_block> * 1, [[<item:
 craftingTable.addShaped("sky_block", <item:blockofsky:sky_block> * 1, [[<item:minecraft:air>, <item:enlightened_end:stardust>, <item:minecraft:air>], [<item:enlightened_end:stardust>, <item:minecraft:glowstone>, <item:enlightened_end:stardust>], [<item:minecraft:air>, <item:enlightened_end:stardust>, <item:minecraft:air>]]);
 
 craftingTable.addShaped("transmutation_table", <item:alexsmobs:transmutation_table> * 1, [[<item:minecraft:air>, <item:minecraft:nether_star>, <item:minecraft:air>], [<item:alexsmobs:farseer_arm>, <item:alexsmobs:mimicream>, <item:alexsmobs:farseer_arm>], [<item:minecraft:obsidian>, <item:minecraft:obsidian>, <item:minecraft:obsidian>]]);
-
-
-craftingTable.addShaped("french_horn", <item:xercamusic:french_horn> * 1, [[<item:minecraft:air>, <item:minecraft:air>, <item:create:brass_nugget>], [<item:create:brass_ingot>, <item:minecraft:air>, <item:create:brass_nugget>], [<item:create:brass_nugget>, <item:twigs:bronzed_seashell>, <item:create:brass_ingot>]]);
-craftingTable.addShaped("drum_kit", <item:xercamusic:drum_kit> * 1, [[<item:xercamusic:cymbal>, <item:minecraft:air>, <item:xercamusic:cymbal>], [<item:alexscaves:heavy_bone>, <item:etcetera:drum>, <item:alexscaves:heavy_bone>], [<item:xercamusic:drum>, <item:architects_palette:osseous_skull>, <item:xercamusic:drum>]]);
-craftingTable.addShaped("drum", <item:xercamusic:drum> * 1, [[<item:minecraft:air>, <tag:items:minecraft:planks>, <item:minecraft:air>], [<tag:items:minecraft:planks>, <item:alexscaves:tough_hide>, <tag:items:minecraft:planks>], [<item:minecraft:air>, <tag:items:minecraft:planks>, <item:minecraft:air>]]);
-craftingTable.addShaped("lyre", <item:xercamusic:lyre> * 1, [[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>], [<item:minecraft:end_rod>, <item:tetra:dragon_sinew>, <item:minecraft:end_rod>], [<item:minecraft:air>, <item:minecraft:end_rod>, <item:minecraft:air>]]);
-craftingTable.addShaped("saxaphone", <item:xercamusic:saxophone> * 1, [[<item:minecraft:air>, <item:minecraft:air>, <tag:items:forge:nuggets/silver>], [<item:minecraft:air>, <item:architects_palette:entwine_rod>, <tag:items:forge:ingots/silver>], [<item:galosphere:allurite_shard>, <tag:items:forge:ingots/silver>, <item:minecraft:air>]]);
-craftingTable.addShaped("god", <item:xercamusic:god> * 1, [[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:sculk_shrieker>], [<tag:items:forge:ingots/silver>, <item:minecraft:air>, <tag:items:forge:ingots/silver>], [<item:minecraft:echo_shard>, <tag:items:forge:ingots/silver>, <tag:items:forge:ingots/silver>]]);
-craftingTable.addShaped("cello", <item:xercamusic:cello> * 1, [[<item:minecraft:air>, <item:alexsmobs:gazelle_horn>, <item:minecraft:air>], [<item:architects_palette:twisted_planks>, <item:minecraft:cobweb>, <item:architects_palette:twisted_planks>], [<item:minecraft:air>, <item:architects_palette:twisted_planks>, <item:minecraft:air>]]);
-craftingTable.addShaped("redstone_guitar", <item:xercamusic:redstone_guitar> * 1, [[<item:minecraft:air>, <item:createaddition:iron_rod>, <item:minecraft:air>], [<item:alexscaves:scarlet_neodymium_ingot>, <item:createaddition:iron_wire>, <item:alexscaves:azure_neodymium_ingot>], [<item:minecraft:air>, <item:alexscaves:telecore>, <item:minecraft:air>]]);
-craftingTable.addShaped("guitar", <item:xercamusic:guitar> * 1, [[<item:minecraft:air>, <item:twigs:twig>, <item:buzzier_bees:four_leaf_clover>], [<item:minecraft:oak_planks>, <item:minecraft:string>, <item:minecraft:oak_planks>], [<item:minecraft:air>, <item:minecraft:oak_planks>, <item:minecraft:air>]]);
-craftingTable.addShaped("bass_guitar", <item:xercamusic:bass_guitar> * 1, [[<item:minecraft:air>, <item:minecraft:blaze_rod>, <item:minecraft:air>], [<item:minecraft:air>, <item:architects_palette:nether_brass_ingot>, <item:minecraft:air>], [<item:architects_palette:nether_brass_ingot>, <item:create:blaze_burner>, <item:architects_palette:nether_brass_ingot>]]);
-craftingTable.addShaped("sansula", <item:xercamusic:sansula> * 1, [[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>], [<item:minecraft:iron_nugget>, <item:alexsmobs:serrated_shark_tooth>, <item:minecraft:air>], [<item:minecraft:iron_nugget>, <item:minecraft:iron_nugget>, <item:minecraft:air>]]);
-craftingTable.addShaped("oboe", <item:xercamusic:oboe> * 1, [[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:iron_nugget>], [<item:minecraft:air>, <item:minecraft:iron_nugget>, <item:alexsmobs:blood_sac>], [<item:minecraft:air>, <item:alexsmobs:mosquito_proboscis>, <item:minecraft:air>]]);
-craftingTable.addShaped("xylophone", <item:xercamusic:xylophone> * 1, [[<item:minecraft:mangrove_planks>, <item:autumnity:maple_planks>, <item:minecraft:bamboo_planks>], [<item:goodending:muddy_oak_planks>, <item:enlightened_end:cerulean_planks>, <item:enlightened_end:indigo_planks>], [<item:minecraft:stick>, <item:minecraft:stick>, <item:minecraft:stick>]]);
-craftingTable.addShaped("piano", <item:xercamusic:piano> * 1, [[<item:create:bar_of_chocolate>, <item:create:bar_of_chocolate>, <item:create:bar_of_chocolate>], [<item:create:bar_of_chocolate>, <item:minecraft:string>, <item:create:bar_of_chocolate>], [<item:minecraft:iron_nugget>, <item:supplementaries:key>, <item:minecraft:iron_nugget>]]);
-craftingTable.addShaped("banjo", <item:xercamusic:banjo> * 1, [[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:spyglass>], [<item:minecraft:copper_ingot>, <item:minecraft:string>, <item:minecraft:air>], [<item:create:copper_diving_helmet>, <item:supplementaries:crank>, <item:minecraft:air>]]);
 
 
 

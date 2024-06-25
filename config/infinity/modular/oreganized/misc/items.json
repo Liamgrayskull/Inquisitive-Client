@@ -1,0 +1,416 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "oreganized:black_crystal_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:black_crystal_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:blue_crystal_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:blue_crystal_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:brown_crystal_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:brown_crystal_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:bush_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:chiseled_glance"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:cut_lead"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:cyan_crystal_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:cyan_crystal_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:deepslate_lead_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:deepslate_silver_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:electrum_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:electrum_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:electrum_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:electrum_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:electrum_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:electrum_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:electrum_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:electrum_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:electrum_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:electrum_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:electrum_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:electrum_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:electrum_upgrade_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:exposer"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:glance"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:glance_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:glance_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:glance_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:glance_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:glance_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:glance_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:glance_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:gray_crystal_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:gray_crystal_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:green_crystal_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:green_crystal_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:lead_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:lead_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:lead_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:lead_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:lead_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:lead_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:lead_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:light_blue_crystal_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:light_blue_crystal_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:light_gray_crystal_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:light_gray_crystal_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:lime_crystal_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:lime_crystal_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:magenta_crystal_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:magenta_crystal_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:molten_lead"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:molten_lead_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:molten_lead_cauldron"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:music_disc_structure"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:netherite_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:orange_crystal_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:orange_crystal_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:pink_crystal_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:pink_crystal_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:polished_glance"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:polished_glance_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:polished_glance_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:purple_crystal_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:purple_crystal_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:raw_lead"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:raw_lead_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:raw_silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:raw_silver_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:red_crystal_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:red_crystal_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:shrapnel_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:shrapnel_bomb_minecart"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:silver_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:silver_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:silver_mirror"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:silver_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:silver_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:spotted_glance"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:waxed_black_concrete_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:waxed_blue_concrete_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:waxed_brown_concrete_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:waxed_cyan_concrete_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:waxed_gray_concrete_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:waxed_green_concrete_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:waxed_light_blue_concrete_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:waxed_light_gray_concrete_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:waxed_lime_concrete_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:waxed_magenta_concrete_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:waxed_orange_concrete_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:waxed_pink_concrete_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:waxed_purple_concrete_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:waxed_red_concrete_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:waxed_spotted_glance"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:waxed_white_concrete_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:waxed_yellow_concrete_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:white_crystal_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:white_crystal_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:yellow_crystal_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:yellow_crystal_glass_pane"
+		}
+	]
+}

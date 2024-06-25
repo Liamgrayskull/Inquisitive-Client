@@ -1,37 +1,42 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "crystals"
+  ],
   "tasks": {},
   "rewards": {},
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Commerce at it's finest."
     },
-    "description": [],
+    "description": [
+      "Bright, oddly valuable mostly in aesthetics and commerce rather than applicable material."
+    ],
     "groups": {
       "Spelunking": {
         "position": [
-          3,
-          217
+          4,
+          235
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "minecraft:map",
+        "id": "tetra:pristine_emerald",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "text": "Emerald"
+      "translate": "Emerald"
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

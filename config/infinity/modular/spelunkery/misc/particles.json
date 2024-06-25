@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "spelunkery:dust_poof"
+		},
+		{
+			"weight": 1.0,
+			"key": "spelunkery:portal_fluid_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "spelunkery:sulfur"
+		},
+		{
+			"weight": 1.0,
+			"key": "spelunkery:sulfur_dusting"
+		}
+	]
+}

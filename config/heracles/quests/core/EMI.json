@@ -7,7 +7,14 @@
       "translate": "Roughly Enough Items"
     },
     "description": [
-      "Roughly Enough Items"
+      "Roughly Enough Items",
+      "",
+      "",
+      "R - ",
+      "",
+      "U - Uses",
+      "",
+      "Alt - Open Item group"
     ],
     "groups": {
       "Core": {
@@ -30,10 +37,11 @@
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

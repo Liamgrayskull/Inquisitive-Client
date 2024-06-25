@@ -110,17 +110,6 @@
         "value": 30
       }
     },
-    "forge:entity_reach": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
     "obscure_api:magic_resistance": {
       "enabled": false,
       "min": {
@@ -130,6 +119,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "forge:entity_reach": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "cold_sweat:world_temp_immutable": {
@@ -528,17 +528,6 @@
         "value": 1024
       }
     },
-    "forge:entity_gravity": {
-      "enabled": false,
-      "min": {
-        "default": -8,
-        "value": -8
-      },
-      "max": {
-        "default": 8,
-        "value": 8
-      }
-    },
     "obscure_api:resilience": {
       "enabled": false,
       "min": {
@@ -548,6 +537,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "forge:entity_gravity": {
+      "enabled": false,
+      "min": {
+        "default": -8,
+        "value": -8
+      },
+      "max": {
+        "default": 8,
+        "value": 8
       }
     },
     "cold_sweat:core_temperature_offset": {
@@ -1001,17 +1001,6 @@
         "value": 20
       }
     },
-    "additionalentityattributes:lava_speed": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
     "thermoo:generic.max_temperature": {
       "enabled": false,
       "min": {
@@ -1021,6 +1010,17 @@
       "max": {
         "default": 8192,
         "value": 8192
+      }
+    },
+    "additionalentityattributes:lava_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
       }
     },
     "additionalentityattributes:bonus_rare_loot_rolls": {

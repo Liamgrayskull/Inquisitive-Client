@@ -1,0 +1,1316 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:acan_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:acan_coral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:acan_coral_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:acan_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:acan_coralstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:acan_coralstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:acan_coralstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:beachgrass"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:beachgrass_thatch"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:beachgrass_thatch_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:beachgrass_thatch_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:bedroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:black_bedroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:blue_bedroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:blue_jelly_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:boiled_pickerelweed"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:boiled_pickerelweed_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:brain_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:brain_coralstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:brain_coralstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:brain_coralstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:branch_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:branch_coral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:branch_coral_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:branch_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:branch_coralstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:branch_coralstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:branch_coralstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:brown_bedroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:bubble_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:bubble_coralstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:bubble_coralstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:bubble_coralstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:chiseled_acan_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:chiseled_brain_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:chiseled_branch_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:chiseled_bubble_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:chiseled_chrome_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:chiseled_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:chiseled_dead_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:chiseled_driftwood_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:chiseled_elder_prismarine_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:chiseled_finger_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:chiseled_fire_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:chiseled_horn_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:chiseled_moss_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:chiseled_petal_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:chiseled_pillow_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:chiseled_prismarine_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:chiseled_river_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:chiseled_rock_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:chiseled_scute_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:chiseled_silk_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:chiseled_star_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:chiseled_tooth_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:chiseled_tube_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:chrome_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:chrome_coral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:chrome_coral_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:chrome_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:chrome_coralstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:chrome_coralstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:chrome_coralstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:cooked_lionfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:cooked_perch"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:cooked_pike"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:coralstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:coralstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:coralstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:cyan_bedroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_acan_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_acan_coral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_acan_coral_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_branch_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_branch_coral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_branch_coral_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_chrome_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_chrome_coral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_chrome_coral_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_coralstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_coralstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_coralstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_finger_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_finger_coral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_finger_coral_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_moss_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_moss_coral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_moss_coral_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_petal_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_petal_coral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_petal_coral_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_pillow_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_pillow_coral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_pillow_coral_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_rock_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_rock_coral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_rock_coral_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_silk_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_silk_coral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_silk_coral_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_star_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_star_coral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:dead_star_coral_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:disc_fragment_atlantis"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:driftwood"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:driftwood_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:driftwood_boards"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:driftwood_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:driftwood_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:driftwood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:driftwood_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:driftwood_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:driftwood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:driftwood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:driftwood_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:driftwood_furnace_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:driftwood_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:driftwood_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:driftwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:driftwood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:driftwood_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:driftwood_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:driftwood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:driftwood_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:driftwood_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:elder_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:elder_prismarine_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:elder_prismarine_coral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:elder_prismarine_coral_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:elder_prismarine_coral_shower"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:elder_prismarine_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:elder_prismarine_coralstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:elder_prismarine_coralstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:elder_prismarine_coralstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:embedded_ammonite"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:finger_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:finger_coral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:finger_coral_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:finger_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:finger_coralstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:finger_coralstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:finger_coralstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:fire_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:fire_coralstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:fire_coralstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:fire_coralstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:flare_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:flowering_rush"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:glass_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:glass_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:glow_squid_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:goose_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:gray_bedroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:great_thrasher_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:green_bedroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:green_jelly_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:horn_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:horn_coralstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:horn_coralstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:horn_coralstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:jellyfish_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:jellyfish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:kelp_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:kelpy_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:kelpy_cobblestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:kelpy_cobblestone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:kelpy_cobblestone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:kelpy_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:kelpy_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:kelpy_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:kelpy_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:large_driftwood_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:large_river_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:light_blue_bedroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:light_gray_bedroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:lime_bedroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:lionfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:lionfish_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:lionfish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:luminous_prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:luminous_prismarine_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:luminous_prismarine_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:magenta_bedroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:moss_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:moss_coral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:moss_coral_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:moss_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:moss_coralstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:moss_coralstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:moss_coralstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:mulberry"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:mulberry_bread"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:mulberry_jam_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:mulberry_jam_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:mulberry_pie"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:mulberry_punnet"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:music_disc_atlantis"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:nautilus_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:nautilus_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:orange_bedroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:orange_jelly_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:perch"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:perch_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:perch_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:petal_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:petal_coral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:petal_coral_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:petal_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:petal_coralstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:petal_coralstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:petal_coralstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:pickerelweed"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:pickerelweed_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:pike"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:pike_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:pike_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:pillow_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:pillow_coral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:pillow_coral_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:pillow_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:pillow_coralstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:pillow_coralstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:pillow_coralstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:pink_bedroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:pink_jelly_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:pink_searocket"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:predator_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:prismarine_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:prismarine_coral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:prismarine_coral_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:prismarine_coral_shower"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:prismarine_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:prismarine_coralstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:prismarine_coralstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:prismarine_coralstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:prismarine_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:prismarine_rod_bundle"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:purple_bedroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:purple_jelly_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:red_bedroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:red_jelly_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:river_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:river_boards"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:river_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:river_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:river_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:river_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:river_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:river_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:river_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:river_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:river_furnace_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:river_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:river_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:river_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:river_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:river_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:river_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:river_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:river_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:river_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:river_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:river_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:river_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:river_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:rock_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:rock_coral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:rock_coral_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:rock_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:rock_coralstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:rock_coralstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:rock_coralstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:scute_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:scute_pavement"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:scute_pavement_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:scute_pavement_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:scute_pavement_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:scute_shingle_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:scute_shingle_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:scute_shingle_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:scute_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:silk_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:silk_coral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:silk_coral_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:silk_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:silk_coralstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:silk_coralstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:silk_coralstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:squid_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:star_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:star_coral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:star_coral_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:star_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:star_coralstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:star_coralstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:star_coralstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:stripped_driftwood"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:stripped_driftwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:stripped_river_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:stripped_river_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:tall_beachgrass"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:thrasher_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:thrasher_tooth"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:tooth_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:tooth_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:tooth_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:tooth_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:tooth_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:tooth_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:tooth_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:tooth_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:tooth_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:tooth_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:tooth_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:tooth_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:trapped_driftwood_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:trapped_river_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:tube_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:tube_coralstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:tube_coralstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:tube_coralstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:white_bedroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:white_jelly_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:white_searocket"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:yellow_bedroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:yellow_jelly_torch"
+		}
+	]
+}

@@ -1,0 +1,104 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "domesticationinnovation:collar_tag"
+		},
+		{
+			"weight": 1.0,
+			"key": "domesticationinnovation:deed_of_ownership"
+		},
+		{
+			"weight": 1.0,
+			"key": "domesticationinnovation:deflection_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "domesticationinnovation:drum"
+		},
+		{
+			"weight": 1.0,
+			"key": "domesticationinnovation:feather_on_a_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "domesticationinnovation:magnet"
+		},
+		{
+			"weight": 1.0,
+			"key": "domesticationinnovation:pet_bed_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "domesticationinnovation:pet_bed_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "domesticationinnovation:pet_bed_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "domesticationinnovation:pet_bed_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "domesticationinnovation:pet_bed_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "domesticationinnovation:pet_bed_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "domesticationinnovation:pet_bed_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "domesticationinnovation:pet_bed_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "domesticationinnovation:pet_bed_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "domesticationinnovation:pet_bed_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "domesticationinnovation:pet_bed_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "domesticationinnovation:pet_bed_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "domesticationinnovation:pet_bed_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "domesticationinnovation:pet_bed_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "domesticationinnovation:pet_bed_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "domesticationinnovation:pet_bed_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "domesticationinnovation:rotten_apple"
+		},
+		{
+			"weight": 1.0,
+			"key": "domesticationinnovation:sinister_carrot"
+		},
+		{
+			"weight": 1.0,
+			"key": "domesticationinnovation:wayward_lantern"
+		}
+	]
+}

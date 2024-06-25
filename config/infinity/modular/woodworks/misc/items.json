@@ -1,0 +1,336 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "woodworks:acacia_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:acacia_boards"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:acacia_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:acacia_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:acacia_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:acacia_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:azalea_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:bamboo_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:bamboo_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:bamboo_closet"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:bamboo_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:birch_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:birch_boards"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:birch_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:birch_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:birch_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:birch_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:cherry_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:cherry_boards"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:cherry_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:cherry_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:cherry_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:cherry_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:chiseled_acacia_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:chiseled_bamboo_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:chiseled_birch_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:chiseled_cherry_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:chiseled_crimson_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:chiseled_dark_oak_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:chiseled_jungle_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:chiseled_mangrove_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:chiseled_spruce_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:chiseled_warped_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:crimson_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:crimson_boards"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:crimson_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:crimson_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:crimson_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:dark_oak_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:dark_oak_boards"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:dark_oak_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:dark_oak_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:dark_oak_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:dark_oak_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:flowering_azalea_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:jungle_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:jungle_boards"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:jungle_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:jungle_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:jungle_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:jungle_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:mangrove_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:mangrove_boards"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:mangrove_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:mangrove_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:mangrove_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:mangrove_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:oak_boards"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:oak_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:oak_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:sawmill"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:spruce_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:spruce_boards"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:spruce_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:spruce_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:spruce_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:spruce_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:trapped_acacia_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:trapped_bamboo_closet"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:trapped_birch_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:trapped_cherry_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:trapped_crimson_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:trapped_dark_oak_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:trapped_jungle_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:trapped_mangrove_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:trapped_oak_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:trapped_spruce_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:trapped_warped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:warped_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:warped_boards"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:warped_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:warped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "woodworks:warped_ladder"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "etched:album_cover"
+		},
+		{
+			"weight": 1.0,
+			"key": "etched:album_jukebox"
+		},
+		{
+			"weight": 1.0,
+			"key": "etched:blank_music_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "etched:boombox"
+		},
+		{
+			"weight": 1.0,
+			"key": "etched:complex_music_label"
+		},
+		{
+			"weight": 1.0,
+			"key": "etched:etched_music_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "etched:etching_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "etched:jukebox_minecart"
+		},
+		{
+			"weight": 1.0,
+			"key": "etched:music_label"
+		},
+		{
+			"weight": 1.0,
+			"key": "etched:portal_radio"
+		},
+		{
+			"weight": 1.0,
+			"key": "etched:radio"
+		}
+	]
+}

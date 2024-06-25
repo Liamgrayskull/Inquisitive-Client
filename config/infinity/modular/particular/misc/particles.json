@@ -1,0 +1,156 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "particular:acacia_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:azalea_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:bamboo_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:birch_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:brimwood_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:cascade"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:cave_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:dark_oak_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:ender_bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:ender_bubble_pop"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:eucalyptus_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:firefly"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:golden_larch_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:jungle_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:kapok_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:larch_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:magnolia_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:mangrove_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:maple_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:oak_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:redwood_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:ru_baobab_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:ru_cypress_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:ru_palm_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:socotra_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:spruce_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:water_ripple"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:water_splash"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:water_splash_emitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:water_splash_foam"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:water_splash_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:waterfall_spray"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:white_oak_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:white_spruce_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:willow_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:ww_baobab_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:ww_cypress_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "particular:ww_palm_leaf"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "blockofsky:sky_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockofsky:void_block"
+		}
+	]
+}

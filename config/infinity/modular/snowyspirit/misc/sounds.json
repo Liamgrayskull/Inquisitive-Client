@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "snowyspirit:entity.sled"
+		},
+		{
+			"weight": 1.0,
+			"key": "snowyspirit:entity.sled_snow"
+		}
+	]
+}

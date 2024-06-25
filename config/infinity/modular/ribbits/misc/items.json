@@ -1,0 +1,84 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ribbits:brown_toadstool"
+		},
+		{
+			"weight": 1.0,
+			"key": "ribbits:giant_lilypad"
+		},
+		{
+			"weight": 1.0,
+			"key": "ribbits:maraca"
+		},
+		{
+			"weight": 1.0,
+			"key": "ribbits:mossy_oak_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "ribbits:mossy_oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ribbits:mossy_oak_planks_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "ribbits:mossy_oak_planks_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ribbits:mossy_oak_planks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ribbits:mossy_oak_planks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ribbits:red_toadstool"
+		},
+		{
+			"weight": 1.0,
+			"key": "ribbits:ribbit_fisherman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ribbits:ribbit_gardener_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ribbits:ribbit_merchant_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ribbits:ribbit_nitwit_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ribbits:ribbit_sorcerer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ribbits:swamp_daisy"
+		},
+		{
+			"weight": 1.0,
+			"key": "ribbits:swamp_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "ribbits:toadstool"
+		},
+		{
+			"weight": 1.0,
+			"key": "ribbits:toadstool_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "ribbits:umbrella_leaf"
+		}
+	]
+}

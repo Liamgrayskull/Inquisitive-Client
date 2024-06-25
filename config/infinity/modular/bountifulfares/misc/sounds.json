@@ -1,0 +1,184 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:cabinet_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:cabinet_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:ceramic_button_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:ceramic_button_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:ceramic_decoration_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:ceramic_decoration_fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:ceramic_decoration_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:ceramic_decoration_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:ceramic_decoration_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:ceramic_door_toggle"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:ceramic_lever_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:ceramic_lever_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:ceramic_pressure_plate_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:ceramic_pressure_plate_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:ceramic_tiles_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:ceramic_tiles_fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:ceramic_tiles_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:ceramic_tiles_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:ceramic_tiles_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:fermentation_vessel_empty"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:fermentation_vessel_ferment"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:fermentation_vessel_fill"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:fermentation_vessel_splash"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:flour_land"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:flour_throw"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:gristmill_grind"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:hanging_fruit_pick"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:jack_o_straw_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:lamp_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:lamp_fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:lamp_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:lamp_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:lamp_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:lamp_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:lamp_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:light_wood_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:light_wood_fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:light_wood_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:light_wood_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:light_wood_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:planted_trellis_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:spongekin_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:spongekin_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:spongekin_shear"
+		},
+		{
+			"weight": 1.0,
+			"key": "bountifulfares:spongekin_step"
+		}
+	]
+}

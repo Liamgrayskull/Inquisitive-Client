@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:april_fools_music_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:music_disc_daze"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:music_disc_thime"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:music_wormboss"
+		}
+	]
+}

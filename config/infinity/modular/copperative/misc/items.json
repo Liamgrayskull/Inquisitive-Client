@@ -1,0 +1,352 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "copperative:copper_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:copper_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:copper_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:copper_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:copper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:exposed_cog_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:exposed_comparator"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:exposed_copper_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:exposed_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:exposed_copper_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:exposed_copper_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:exposed_copper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:exposed_crank"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:exposed_dispenser"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:exposed_dropper"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:exposed_headlight"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:exposed_lever"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:exposed_observer"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:exposed_piston"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:exposed_powered_rail"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:exposed_relayer"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:exposed_repeater"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:exposed_sticky_piston"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:exposed_toggler"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:headlight"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:oxidized_cog_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:oxidized_comparator"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:oxidized_copper_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:oxidized_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:oxidized_copper_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:oxidized_copper_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:oxidized_copper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:oxidized_crank"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:oxidized_dispenser"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:oxidized_dropper"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:oxidized_headlight"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:oxidized_lever"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:oxidized_observer"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:oxidized_piston"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:oxidized_powered_rail"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:oxidized_relayer"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:oxidized_repeater"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:oxidized_sticky_piston"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:oxidized_toggler"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:patina"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:patina_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:toggler"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:waxed_copper_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:waxed_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:waxed_copper_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:waxed_copper_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:waxed_copper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:waxed_exposed_copper_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:waxed_exposed_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:waxed_exposed_copper_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:waxed_exposed_copper_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:waxed_exposed_copper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:waxed_oxidized_copper_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:waxed_oxidized_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:waxed_oxidized_copper_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:waxed_oxidized_copper_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:waxed_oxidized_copper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:waxed_weathered_copper_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:waxed_weathered_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:waxed_weathered_copper_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:waxed_weathered_copper_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:waxed_weathered_copper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:weathered_cog_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:weathered_comparator"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:weathered_copper_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:weathered_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:weathered_copper_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:weathered_copper_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:weathered_copper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:weathered_crank"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:weathered_dispenser"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:weathered_dropper"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:weathered_headlight"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:weathered_lever"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:weathered_observer"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:weathered_piston"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:weathered_powered_rail"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:weathered_relayer"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:weathered_repeater"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:weathered_sticky_piston"
+		},
+		{
+			"weight": 1.0,
+			"key": "copperative:weathered_toggler"
+		}
+	]
+}

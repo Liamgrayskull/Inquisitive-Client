@@ -35,8 +35,8 @@
     "groups": {
       "Misc": {
         "position": [
-          -252,
-          -207
+          -258,
+          -194
         ]
       }
     },
@@ -53,10 +53,11 @@
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "COMPLETED"
+    "hidden": "COMPLETED",
+    "unlockNotification": false
   }
 }

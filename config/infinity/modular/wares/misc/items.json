@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "wares:cardboard_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "wares:completed_delivery_agreement"
+		},
+		{
+			"weight": 1.0,
+			"key": "wares:delivery_agreement"
+		},
+		{
+			"weight": 1.0,
+			"key": "wares:delivery_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "wares:expired_delivery_agreement"
+		},
+		{
+			"weight": 1.0,
+			"key": "wares:package"
+		},
+		{
+			"weight": 1.0,
+			"key": "wares:sealed_delivery_agreement"
+		}
+	]
+}

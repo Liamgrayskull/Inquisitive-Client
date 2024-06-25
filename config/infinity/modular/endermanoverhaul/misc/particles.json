@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:frienderman"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:snow"
+		},
+		{
+			"weight": 1.0,
+			"key": "endermanoverhaul:soul_fire"
+		}
+	]
+}

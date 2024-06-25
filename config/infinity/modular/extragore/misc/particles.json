@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "extragore:blood_particles_v1"
+		},
+		{
+			"weight": 1.0,
+			"key": "extragore:blood_particles_v2"
+		}
+	]
+}

@@ -1,37 +1,42 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "crystals"
+  ],
   "tasks": {},
   "rewards": {},
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Reflective!"
     },
-    "description": [],
+    "description": [
+      "Very distinct in beautiful building blocks, has anti-projectile properties applicable to tools, traps and more. Has some associations with luck."
+    ],
     "groups": {
       "Spelunking": {
         "position": [
-          60,
-          137
+          33,
+          112
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "minecraft:map",
+        "id": "sullysmod:polished_jade",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "text": "Jade"
+      "translate": "Jade"
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

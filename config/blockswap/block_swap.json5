@@ -957,7 +957,7 @@ to make editing this file much easier.
 		"flying_stuff:stripped_lavic_stem": "immersive_weathering:charred_log",
 		"flying_stuff:lavic_stem": "immersive_weathering:charred_log",
 		"flying_stuff:lavic_wood": "immersive_weathering:charred_log",
-		"flying_stuff:pale_celestium_spike": "spelunkery:rock_salt",
+		"flying_stuff:pale_celestium_spike": "galosphere:pink_salt_cluster",
 		"flying_stuff:pale_celestium_antenna": "spelunkery:salt_lamp",
 		"flying_stuff:lavic_skyrock": "twigs:rhyolite",
 		"flying_stuff:lavic_skyrock_staircase": "twigs:rhyolite_stairs",
@@ -1104,7 +1104,11 @@ to make editing this file much easier.
 		"quark:polished_tuff_slab": "twigs:polished_tuff_slab",
 		
 		
-		
+		"galosphere:silver_ore": "oreganized:silver_ore",
+		"caverns_and_chasms:silver_ore": "oreganized:silver_ore",
+		"caverns_and_chasms:deepslate_silver_ore": "oreganized:deepslate_silver_ore",
+		"galosphere:deepslate_silver_ore": "oreganized:deepslate_silver_ore",
+
 		"enlightened_end:irradium_ore": "enlightened_end:malachite_ore",
 		
 		"architects_palette:weeping_blackstone_bricks": "twigs:weeping_polished_blackstone_bricks",

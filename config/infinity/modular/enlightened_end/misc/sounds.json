@@ -1,0 +1,212 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:bismuth_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:bismuth_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:dart_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:dart_throw"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:dashing_leggings_dash"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:eidolon_roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:end_wood_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:end_wood_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:endbarrens_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:endbarrens_wind"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ennegel_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ennegel_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:flash_bomb_blow"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:flash_bomb_throw"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:fumesplat_exhaust"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:fuschia_forest_ambience"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:helium_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:irradium_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:laser_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:laser_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:light_void_shale_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:malachite_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:malachite_footstep"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:nullstone_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:nullstone_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ooze_bottle_filled"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ooze_bucket_empty"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ooze_rain"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ooze_rain_distant"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ooze_rain_pophigh"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:palerock_bricks_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:palerock_bricks_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:radiant_emission"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:radon_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ringling_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ringling_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ringling_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:ringling_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:springleaf_activate"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:squelcher_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:squelcher_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:squelcher_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:squelcher_spit"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:stalker_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:stalker_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:stalker_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:superheated_pot_smash"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:underlily_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:void_shale_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:void_shale_brick_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:void_shale_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "enlightened_end:xenon_place"
+		}
+	]
+}

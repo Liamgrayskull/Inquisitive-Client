@@ -29,6 +29,21 @@ import stdlib.List;
 <tag:items:diet:fruits>.add(<item:mint:cherries>);
 <tag:items:diet:fruits>.add(<item:mint:strawberry>);
 
+<tag:items:diet:fruits>.add(<item:mint:wintergreen_berries>);
+<tag:items:diet:fruits>.add(<item:mint:peach>);
+<tag:items:diet:fruits>.add(<item:bountifulfares:plum_cider_jar>);
+<tag:items:diet:fruits>.add(<item:bountifulfares:hoary_cider_jar>);
+<tag:items:diet:fruits>.add(<item:bountifulfares:apple_cider_jar>);
+<tag:items:diet:fruits>.add(<item:bountifulfares:citrus_essence>);
+<tag:items:diet:fruits>.add(<item:bountifulfares:lapisberry_wine_bottle>);
+<tag:items:diet:fruits>.add(<item:bountifulfares:elderberry_wine_bottle>);
+<tag:items:diet:fruits>.add(<item:bountifulfares:apple_block>);
+<tag:items:diet:fruits>.add(<item:bountifulfares:plum_block>);
+<tag:items:diet:fruits>.add(<item:bountifulfares:orange_block>);
+<tag:items:diet:fruits>.add(<item:bountifulfares:lemon_block>);
+<tag:items:diet:fruits>.add(<item:bountifulfares:hoary_apple_block>);
+<tag:items:diet:fruits>.add(<item:bountifulfares:golden_apple_block>);
+<tag:items:diet:fruits>.add(<item:mint:pineapple_slices>);
 
 <tag:items:diet:vegetables>.add(<item:immersive_weathering:moss_clump>);
 <tag:items:diet:vegetables>.add(<item:galosphere:lichen_cordyceps>);
@@ -37,20 +52,45 @@ import stdlib.List;
 <tag:items:diet:vegetables>.add(<item:miners_delight:cave_carrot>);
 <tag:items:diet:vegetables>.add(<item:alexscaves:green_soylent>);
 <tag:items:diet:vegetables>.add(<item:spawn:sunflower_seeds>);
-<tag:items:diet:vegetables>.add(<item:brewinandchewin:supreme_pizza_slice>);
 <tag:items:diet:vegetables>.add(<item:spelunkery:portabella>);
 <tag:items:diet:vegetables>.add(<item:onion_onion:onion_slice>);
 <tag:items:diet:vegetables>.add(<item:mint:cactus_chunk>);
 <tag:items:diet:vegetables>.add(<item:mint:mint_sprig>);
+<tag:items:diet:vegetables>.add(<item:brewery:mashed_potatoes>);
+
+<tag:items:diet:vegetables>.add(<item:bitter_brews:pepper>);
+<tag:items:diet:vegetables>.add(<item:mynethersdelight:bullet_pepper>);
+<tag:items:diet:vegetables>.add(<item:mint:mint_sprig>);
+<tag:items:diet:vegetables>.add(<item:bitter_brews:soul_pepper>);
+<tag:items:diet:vegetables>.add(<item:netherdungeons:neofolia_petal>);
+<tag:items:diet:vegetables>.add(<item:netherdungeons:artichoke_fruit>);
+<tag:items:diet:vegetables>.add(<item:netherdungeons:mauve_fungus>);
+<tag:items:diet:vegetables>.add(<item:upgrade_aquatic:boiled_pickerelweed>);
+<tag:items:diet:vegetables>.add(<item:spelunkers_charm:cave_mushroom>);
+<tag:items:diet:vegetables>.add(<item:spelunkery:crimini>);
+<tag:items:diet:vegetables>.add(<item:spelunkery:button_mushroom>);
+<tag:items:diet:vegetables>.add(<item:immersive_weathering:enchanted_golden_moss_clump>);
+<tag:items:diet:vegetables>.add(<item:onion_onion:motley_grill>);
+
 
 <tag:items:diet:grains>.add(<item:bountifulfares:walnut>);
 <tag:items:diet:grains>.add(<item:bountifulfares:maize>);
 <tag:items:diet:grains>.add(<item:bountifulfares:flour>);
 <tag:items:diet:grains>.add(<item:minecraft:wheat>);
 <tag:items:diet:grains>.add(<item:farmersdelight:rice>);
-<tag:items:diet:grains>.add(<item:brewinandchewin:cheese_pizza_slice>);
-<tag:items:diet:grains>.add(<item:brewinandchewin:supreme_pizza_slice>);
 <tag:items:diet:grains>.add(<item:create:wheat_flour>);
+<tag:items:diet:grains>.add(<item:brewery:barley>);
+<tag:items:diet:grains>.add(<item:brewery:corn>);
+
+<tag:items:diet:grains>.add(<item:bountifulfares:flour>);
+<tag:items:diet:grains>.add(<item:bountifulfares:artisan_cookie>);
+<tag:items:diet:grains>.add(<item:minecraft:wheat>);
+<tag:items:diet:grains>.add(<item:supplementaries:flax>);
+<tag:items:diet:grains>.add(<item:create:wheat_flour>);
+<tag:items:diet:grains>.add(<item:create:dough>);
+
+
+
 
 <tag:items:diet:grains>.add(<item:create_central_kitchen:sweet_berry_cake_slice>);
 <tag:items:diet:grains>.add(<item:create_central_kitchen:passionfruit_cake_slice>);
@@ -66,9 +106,6 @@ import stdlib.List;
 <tag:items:diet:grains>.add(<item:abnormals_delight:mint_cake_slice>);
 <tag:items:diet:grains>.add(<item:abnormals_delight:adzuki_cake_slice>);
 <tag:items:diet:grains>.add(<item:abnormals_delight:yucca_gateau_slice>);
-<tag:items:diet:grains>.add(<item:seasonals:sweet_berry_cake_slice>);
-<tag:items:diet:grains>.add(<item:seasonals:beetroot_cake_slice>);
-<tag:items:diet:grains>.add(<item:seasonals:pumpkin_cake_slice>);
 <tag:items:diet:grains>.add(<item:farmersdelight:sweet_berry_cheesecake_slice>);
 <tag:items:diet:grains>.add(<item:farmersdelight:cake_slice>);
 <tag:items:diet:grains>.add(<item:exquisito:chorus_cake_slice>);
@@ -77,12 +114,14 @@ import stdlib.List;
 <tag:items:diet:grains>.add(<item:exquisito:exquisite_battenberg_cake_slice>);
 <tag:items:diet:grains>.add(<item:exquisito:enlightened_battenberg_cake_slice>);
 <tag:items:diet:grains>.add(<item:exquisito:beloved_battenberg_cake_slice>);
+<tag:items:diet:grains>.add(<item:bountifulfares:artisan_bread>);
 
 
 
 <tag:items:diet:sugars>.add(<item:alexscaves:sea_pig>);
 <tag:items:diet:sugars>.add(<item:enlightened_end:squished_bouncer>);
 <tag:items:diet:sugars>.add(<item:minecraft:cocoa_beans>);
+<tag:items:diet:sugars>.add(<item:autumnity:sap_bottle>);
 
 <tag:items:diet:sugars>.add(<item:create_central_kitchen:sweet_berry_cake_slice>);
 <tag:items:diet:sugars>.add(<item:create_central_kitchen:passionfruit_cake_slice>);
@@ -98,9 +137,6 @@ import stdlib.List;
 <tag:items:diet:sugars>.add(<item:abnormals_delight:mint_cake_slice>);
 <tag:items:diet:sugars>.add(<item:abnormals_delight:adzuki_cake_slice>);
 <tag:items:diet:sugars>.add(<item:abnormals_delight:yucca_gateau_slice>);
-<tag:items:diet:sugars>.add(<item:seasonals:sweet_berry_cake_slice>);
-<tag:items:diet:sugars>.add(<item:seasonals:beetroot_cake_slice>);
-<tag:items:diet:sugars>.add(<item:seasonals:pumpkin_cake_slice>);
 <tag:items:diet:sugars>.add(<item:farmersdelight:sweet_berry_cheesecake_slice>);
 <tag:items:diet:sugars>.add(<item:farmersdelight:cake_slice>);
 <tag:items:diet:sugars>.add(<item:exquisito:chorus_cake_slice>);
@@ -109,6 +145,7 @@ import stdlib.List;
 <tag:items:diet:sugars>.add(<item:exquisito:exquisite_battenberg_cake_slice>);
 <tag:items:diet:sugars>.add(<item:exquisito:enlightened_battenberg_cake_slice>);
 <tag:items:diet:sugars>.add(<item:exquisito:beloved_battenberg_cake_slice>);
+<tag:items:diet:sugars>.add(<item:bountifulfares:citrus_essence>);
 
 
 
@@ -137,8 +174,20 @@ import stdlib.List;
 <tag:items:diet:proteins>.add(<item:abnormals_delight:venison_shanks>);
 <tag:items:diet:proteins>.add(<item:abnormals_delight:pike_slice>);
 <tag:items:diet:proteins>.add(<item:abnormals_delight:perch_slice>);
-<tag:items:diet:proteins>.add(<item:brewinandchewin:supreme_pizza_slice>);
 <tag:items:diet:proteins>.add(<item:mint:cooked_anemone>);
+<tag:items:diet:proteins>.add(<item:architects_palette:cod_scales>);
+<tag:items:diet:proteins>.add(<item:architects_palette:cod_log>);
+<tag:items:diet:proteins>.add(<item:architects_palette:salmon_log>);
+<tag:items:diet:proteins>.add(<item:architects_palette:salmon_scales>);
+<tag:items:diet:proteins>.add(<item:alexscaves:dinosaur_chop>);
+<tag:items:diet:proteins>.add(<item:alexscaves:cooked_dinosaur_chop>);
+<tag:items:diet:proteins>.add(<item:collectorsreap:clam_meat>);
+<tag:items:diet:proteins>.add(<item:netherdungeons:hoglin_leg>);
+<tag:items:diet:proteins>.add(<item:abnormals_delight:duck_fillet>);
+<tag:items:diet:proteins>.add(<item:alexsmobs:cosmic_cod>);
+<tag:items:diet:proteins>.add(<item:brewery:half_chicken>);
+<tag:items:diet:proteins>.add(<item:collectorsreap:uni>);
+<tag:items:diet:proteins>.add(<item:onion_onion:motley_grill>);
 
 <tag:entity_types:ad_astra:can_survive_in_space>.add(<entitytype:alexsmobs:straddler>);
 <tag:entity_types:ad_astra:can_survive_in_space>.add(<entitytype:alexsmobs:cosmic_cod>);

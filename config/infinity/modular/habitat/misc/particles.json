@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "habitat:blowball_puff"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:fairy_ring_spore"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:falling_slime"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:landing_slime"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:note"
+		}
+	]
+}

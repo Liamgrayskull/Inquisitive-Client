@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:back_bundle"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:backpack"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:ender_backpack"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:lock"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:metal_backpack"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:winged_backpack"
+		}
+	]
+}

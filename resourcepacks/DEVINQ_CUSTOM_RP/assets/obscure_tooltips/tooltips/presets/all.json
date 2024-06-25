@@ -1,0 +1,5 @@
+{
+  "priority": 800,
+  "panel": ["obscure_tooltips:all"],
+  "filter": {}
+}

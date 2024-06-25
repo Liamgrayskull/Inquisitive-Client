@@ -1,0 +1,1644 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ad_astra:aeronos_cap"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:aeronos_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:aeronos_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:aeronos_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:aeronos_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:aeronos_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:aeronos_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:aeronos_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:aeronos_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:aeronos_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:aeronos_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:airlock"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:black_flag"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:black_industrial_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:blue_flag"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:blue_industrial_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:brown_flag"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:brown_industrial_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:cable_duct"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:calorite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:calorite_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:calorite_factory_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:calorite_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:calorite_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:calorite_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:calorite_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:calorite_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:calorite_plateblock"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:calorite_plating"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:calorite_plating_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:calorite_plating_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:calorite_plating_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:calorite_plating_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:calorite_sliding_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:calorite_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:cheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:cheese_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:chiseled_glacio_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:chiseled_glacio_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:chiseled_glacio_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:chiseled_mars_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:chiseled_mars_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:chiseled_mars_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:chiseled_mercury_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:chiseled_mercury_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:chiseled_mercury_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:chiseled_moon_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:chiseled_moon_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:chiseled_moon_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:chiseled_permafrost_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:chiseled_permafrost_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:chiseled_permafrost_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:chiseled_venus_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:chiseled_venus_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:chiseled_venus_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:coal_generator"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:compressor"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:conglomerate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:corrupted_lunarian_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:cracked_glacio_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:cracked_mars_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:cracked_mercury_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:cracked_moon_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:cracked_permafrost_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:cracked_venus_sandstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:cracked_venus_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:cryo_freezer"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:cryo_fuel_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:cyan_flag"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:cyan_industrial_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:deepslate_calorite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:deepslate_desh_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:deepslate_ice_shard_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:deepslate_ostrum_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:desh_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:desh_cable"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:desh_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:desh_factory_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:desh_fluid_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:desh_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:desh_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:desh_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:desh_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:desh_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:desh_plateblock"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:desh_plating"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:desh_plating_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:desh_plating_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:desh_plating_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:desh_plating_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:desh_sliding_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:desh_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:earth_globe"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:encased_calorite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:encased_desh_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:encased_etrium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:encased_iron_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:encased_ostrum_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:encased_steel_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:energizer"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:engine_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:etrionic_blast_furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:etrionic_capacitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:etrionic_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:etrium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:etrium_factory_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:etrium_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:etrium_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:etrium_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:etrium_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:etrium_plateblock"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:etrium_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:fluid_pipe_duct"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:fuel_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:fuel_refinery"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:gas_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glacian_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glacian_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glacian_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glacian_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glacian_fur"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glacian_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glacian_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glacian_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glacian_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glacian_ram_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glacian_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glacian_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glacian_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glacio_coal_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glacio_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glacio_cobblestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glacio_cobblestone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glacio_copper_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glacio_globe"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glacio_ice_shard_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glacio_iron_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glacio_lapis_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glacio_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glacio_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glacio_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glacio_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glacio_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glacio_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glacio_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glacio_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glowing_calorite_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glowing_desh_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glowing_iron_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glowing_ostrum_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:glowing_steel_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:gravity_normalizer"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:gray_flag"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:gray_industrial_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:green_flag"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:green_industrial_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:hydrogen_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:ice_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:infernal_spire_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:iron_factory_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:iron_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:iron_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:iron_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:iron_plateblock"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:iron_plating"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:iron_plating_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:iron_plating_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:iron_plating_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:iron_plating_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:iron_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:iron_sliding_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:jet_suit"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:jet_suit_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:jet_suit_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:jet_suit_pants"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:large_gas_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:launch_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:light_blue_flag"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:light_blue_industrial_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:light_gray_flag"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:light_gray_industrial_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:lime_flag"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:lime_industrial_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:lunarian_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:lunarian_wandering_trader_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:magenta_flag"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:magenta_industrial_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:marked_iron_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:mars_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:mars_cobblestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:mars_cobblestone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:mars_diamond_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:mars_globe"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:mars_ice_shard_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:mars_iron_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:mars_ostrum_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:mars_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:mars_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:mars_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:mars_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:mars_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:mars_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:mars_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:mars_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:mars_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:martian_raptor_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:mercury_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:mercury_cobblestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:mercury_cobblestone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:mercury_globe"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:mercury_iron_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:mercury_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:mercury_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:mercury_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:mercury_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:mercury_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:mercury_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:mercury_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:mercury_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:mogler_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:moon_cheese_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:moon_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:moon_cobblestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:moon_cobblestone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:moon_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:moon_desh_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:moon_globe"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:moon_ice_shard_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:moon_iron_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:moon_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:moon_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:moon_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:moon_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:moon_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:moon_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:moon_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:moon_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:moon_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:nasa_workbench"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:netherite_space_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:netherite_space_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:netherite_space_pants"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:netherite_space_suit"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:oil_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:orange_flag"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:orange_industrial_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:ostrum_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:ostrum_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:ostrum_factory_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:ostrum_fluid_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:ostrum_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:ostrum_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:ostrum_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:ostrum_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:ostrum_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:ostrum_plateblock"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:ostrum_plating"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:ostrum_plating_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:ostrum_plating_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:ostrum_plating_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:ostrum_plating_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:ostrum_sliding_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:ostrum_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:oxygen_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:oxygen_distributor"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:oxygen_gear"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:oxygen_loader"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:oxygen_sensor"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:permafrost"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:permafrost_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:permafrost_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:permafrost_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:permafrost_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:permafrost_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:permafrost_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:photovoltaic_etrium_cell"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:photovoltaic_vesnium_cell"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:pink_flag"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:pink_industrial_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:polished_conglomerate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:polished_glacio_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:polished_glacio_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:polished_glacio_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:polished_mars_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:polished_mars_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:polished_mars_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:polished_mercury_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:polished_mercury_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:polished_mercury_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:polished_moon_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:polished_moon_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:polished_moon_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:polished_permafrost"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:polished_permafrost_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:polished_permafrost_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:polished_venus_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:polished_venus_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:polished_venus_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:purple_flag"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:purple_industrial_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:pygro_brute_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:pygro_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:radio"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:raw_calorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:raw_calorite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:raw_desh"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:raw_desh_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:raw_ostrum"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:raw_ostrum_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:red_flag"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:red_industrial_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:reinforced_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:rocket_fin"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:rocket_nose_cone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:sky_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:small_black_industrial_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:small_blue_industrial_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:small_brown_industrial_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:small_cyan_industrial_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:small_gray_industrial_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:small_green_industrial_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:small_light_blue_industrial_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:small_light_gray_industrial_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:small_lime_industrial_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:small_magenta_industrial_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:small_orange_industrial_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:small_pink_industrial_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:small_purple_industrial_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:small_red_industrial_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:small_white_industrial_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:small_yellow_industrial_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:solar_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:space_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:space_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:space_painting"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:space_pants"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:space_suit"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:star_crawler_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:steel_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:steel_cable"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:steel_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:steel_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:steel_factory_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:steel_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:steel_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:steel_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:steel_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:steel_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:steel_plateblock"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:steel_plating"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:steel_plating_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:steel_plating_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:steel_plating_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:steel_plating_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:steel_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:steel_sliding_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:steel_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:steel_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:stripped_glacian_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:strophar_cap"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:strophar_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:strophar_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:strophar_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:strophar_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:strophar_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:strophar_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:strophar_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:strophar_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:strophar_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:strophar_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:sulfur_creeper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:ti_69"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:tier_1_rocket"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:tier_1_rover"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:tier_2_rocket"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:tier_3_rocket"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:tier_4_rocket"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:vent"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:venus_calorite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:venus_coal_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:venus_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:venus_cobblestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:venus_cobblestone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:venus_diamond_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:venus_globe"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:venus_gold_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:venus_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:venus_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:venus_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:venus_sandstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:venus_sandstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:venus_sandstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:venus_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:venus_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:venus_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:venus_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:venus_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:venus_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:venus_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:water_pump"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:wheel"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:white_flag"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:white_industrial_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:wrench"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:yellow_flag"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:yellow_industrial_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:zip_gun"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:zombified_mogler_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ad_astra:zombified_pygro_spawn_egg"
+		}
+	]
+}

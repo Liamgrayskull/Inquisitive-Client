@@ -1,0 +1,120 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:entity.jellyfish.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:entity.jellyfish.cooldown_end"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:entity.jellyfish.cooldown_start"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:entity.jellyfish.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:entity.jellyfish.ghost_vanish"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:entity.jellyfish.harvest"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:entity.jellyfish.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:entity.jellyfish.sting"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:entity.perch.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:entity.perch.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:entity.perch.flop"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:entity.perch.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:entity.pike.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:entity.pike.bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:entity.pike.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:entity.pike.flop"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:entity.pike.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:entity.pike.spit"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:entity.thrasher.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:entity.thrasher.ambient_land"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:entity.thrasher.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:entity.thrasher.death_land"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:entity.thrasher.flop"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:entity.thrasher.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:entity.thrasher.hurt_land"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:entity.thrasher.sonar_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:entity.thrasher.thrash"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:item.bucket.empty_jellyfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "upgrade_aquatic:item.bucket.fill_jellyfish"
+		}
+	]
+}

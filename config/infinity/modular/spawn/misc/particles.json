@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "spawn:angler_fish_lantern_glow"
+		},
+		{
+			"weight": 1.0,
+			"key": "spawn:tuna_egg"
+		}
+	]
+}

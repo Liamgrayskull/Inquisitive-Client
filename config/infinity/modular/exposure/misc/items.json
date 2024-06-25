@@ -1,0 +1,52 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "exposure:aged_photograph"
+		},
+		{
+			"weight": 1.0,
+			"key": "exposure:album"
+		},
+		{
+			"weight": 1.0,
+			"key": "exposure:black_and_white_film"
+		},
+		{
+			"weight": 1.0,
+			"key": "exposure:camera"
+		},
+		{
+			"weight": 1.0,
+			"key": "exposure:chromatic_sheet"
+		},
+		{
+			"weight": 1.0,
+			"key": "exposure:color_film"
+		},
+		{
+			"weight": 1.0,
+			"key": "exposure:developed_black_and_white_film"
+		},
+		{
+			"weight": 1.0,
+			"key": "exposure:developed_color_film"
+		},
+		{
+			"weight": 1.0,
+			"key": "exposure:lightroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "exposure:photograph"
+		},
+		{
+			"weight": 1.0,
+			"key": "exposure:signed_album"
+		},
+		{
+			"weight": 1.0,
+			"key": "exposure:stacked_photographs"
+		}
+	]
+}

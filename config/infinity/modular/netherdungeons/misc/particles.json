@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "netherdungeons:blue_bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "netherdungeons:blue_spark"
+		},
+		{
+			"weight": 1.0,
+			"key": "netherdungeons:gold_rush_bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "netherdungeons:gold_rush_line"
+		},
+		{
+			"weight": 1.0,
+			"key": "netherdungeons:gold_rush_spark"
+		},
+		{
+			"weight": 1.0,
+			"key": "netherdungeons:sporeshroom_spores"
+		}
+	]
+}

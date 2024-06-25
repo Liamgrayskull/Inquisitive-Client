@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "heartstone:heartstone_emitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "heartstone:heartstone_trail"
+		}
+	]
+}

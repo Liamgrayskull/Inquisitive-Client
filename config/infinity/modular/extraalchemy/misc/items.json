@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "extraalchemy:breakable_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "extraalchemy:empty_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "extraalchemy:empty_vial"
+		},
+		{
+			"weight": 1.0,
+			"key": "extraalchemy:potion_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "extraalchemy:potion_ring"
+		}
+	]
+}

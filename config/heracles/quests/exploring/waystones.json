@@ -12,14 +12,14 @@
     "groups": {
       "Exploring": {
         "position": [
-          -118,
-          -34
+          -127,
+          -42
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "minecraft:map",
+        "id": "waystones:warp_dust",
         "count": 1
       },
       "type": "heracles:item"
@@ -30,10 +30,11 @@
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

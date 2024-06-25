@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "extra_compat:reinforced_gold_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "extra_compat:tortoise_egg_crate"
+		}
+	]
+}

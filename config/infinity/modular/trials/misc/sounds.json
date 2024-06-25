@@ -1,0 +1,76 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "trials:bogged_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:bogged_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:bogged_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:bogged_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:bottle_dispose"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:mace_smash_air"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:mace_smash_ground"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:mace_smash_ground_heavy"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:spawner_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:spawner_detect_player"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:spawner_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:spawner_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:spawner_summon"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:vault_activate"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:vault_eject"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:vault_insert_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:vault_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "trials:wind_charge"
+		}
+	]
+}

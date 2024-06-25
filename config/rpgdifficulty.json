@@ -1,7 +1,7 @@
 {
-  "increasingDistance": 300,
-  "distanceFactor": 0.1,
-  "increasingTime": 60,
+  "increasingDistance": 500,
+  "distanceFactor": 0.05,
+  "increasingTime": 160,
   "timeFactor": 0.05,
   "heightDistance": 30,
   "heightFactor": 0.1,

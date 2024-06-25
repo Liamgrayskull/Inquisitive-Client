@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "data": {
+    "textures": {
+      "antique_atlas:flying_islands": 1,
+      "antique_atlas:flying_islands_cloud": 1,
+      "antique_atlas:flying_islands_tiny": 1,
+      "antique_atlas:flying_islands_double": 1,
+      "antique_atlas:flying_islands_pike": 1
+    }
+  }
+}

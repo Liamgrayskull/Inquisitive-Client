@@ -1,37 +1,40 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "crystals"
+  ],
   "tasks": {},
   "rewards": {},
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Not cranial! (Hopefully)"
     },
     "description": [],
     "groups": {
       "Spelunking": {
         "position": [
-          85,
-          226
+          -46,
+          251
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "minecraft:map",
+        "id": "alexscaves:fissile_core",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "text": "Uranium"
+      "translate": "Uranium"
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

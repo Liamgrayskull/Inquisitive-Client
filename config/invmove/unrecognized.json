@@ -372,6 +372,9 @@
     "net.mcreator.beastlybeacons.client.gui.ActiveBeaconGUIScreen": true,
     "net.mcreator.fabulousfletching.client.gui.FletchingGuiScreen": true,
     "illusiononslaught.client.gui.AlchemytableScreen": true,
-    "me.dantaeusb.zettergallery.client.gui.PaintingMerchantScreen": true
+    "me.dantaeusb.zettergallery.client.gui.PaintingMerchantScreen": true,
+    "net.azurune.bitter_brews.common.screen.TeaKettleScreen": true,
+    "com.simibubi.create.content.logistics.filter.FilterScreen": true,
+    "org.teacon.slides.screen.ProjectorScreen": true
   }
 }

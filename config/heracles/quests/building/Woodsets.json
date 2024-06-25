@@ -16,10 +16,7 @@
       }
     },
     "icon": {
-      "item": {
-        "id": "minecraft:map",
-        "count": 1
-      },
+      "item": "#quark:hollow_logs",
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
@@ -28,10 +25,11 @@
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

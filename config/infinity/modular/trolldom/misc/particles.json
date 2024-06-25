@@ -1,0 +1,36 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "trolldom:air_explode"
+		},
+		{
+			"weight": 1.0,
+			"key": "trolldom:draft"
+		},
+		{
+			"weight": 1.0,
+			"key": "trolldom:drain_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "trolldom:earth_explode"
+		},
+		{
+			"weight": 1.0,
+			"key": "trolldom:earth_infuse"
+		},
+		{
+			"weight": 1.0,
+			"key": "trolldom:earth_passive"
+		},
+		{
+			"weight": 1.0,
+			"key": "trolldom:fire_explode"
+		},
+		{
+			"weight": 1.0,
+			"key": "trolldom:water_drag"
+		}
+	]
+}

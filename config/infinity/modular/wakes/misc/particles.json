@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "wakes:splash_cloud"
+		},
+		{
+			"weight": 1.0,
+			"key": "wakes:splash_plane"
+		}
+	]
+}

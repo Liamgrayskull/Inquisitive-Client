@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "collectorsreap:acid"
+		},
+		{
+			"weight": 1.0,
+			"key": "collectorsreap:shockwave"
+		}
+	]
+}

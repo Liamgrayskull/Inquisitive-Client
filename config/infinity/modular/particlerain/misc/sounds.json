@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "particlerain:weather.sandstorm"
+		},
+		{
+			"weight": 1.0,
+			"key": "particlerain:weather.sandstorm.above"
+		},
+		{
+			"weight": 1.0,
+			"key": "particlerain:weather.snow"
+		},
+		{
+			"weight": 1.0,
+			"key": "particlerain:weather.snow.above"
+		}
+	]
+}

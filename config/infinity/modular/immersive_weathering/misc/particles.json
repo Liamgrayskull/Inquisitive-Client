@@ -1,0 +1,96 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:azalea_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:emberspark"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:flower_ace"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:flower_akashii"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:flower_aro"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:flower_bee"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:flower_bi"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:flower_bob"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:flower_enby"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:flower_flax"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:flower_fluid"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:flower_gay"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:flower_genderqueer"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:flower_intersex"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:flower_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:flower_lesbian"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:flower_nekomaster"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:flower_pan"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:flower_rainbow"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:flower_trans"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:gravity_azalea_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_weathering:scrape_rust"
+		}
+	]
+}

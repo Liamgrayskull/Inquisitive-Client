@@ -1,0 +1,92 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:bear_freddy"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:bird_song"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:bunfungus_transformation"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:dna"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:fungus_bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:guster_sand_shot"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:guster_sand_shot_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:guster_sand_shot_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:guster_sand_spin"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:guster_sand_spin_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:guster_sand_spin_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:hemolymph"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:invert_dig"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:platypus_sense"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:shocked"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:skulk_boom"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:smelly"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:static_spark"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:sunbird_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:teeth_glint"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:whale_splash"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexsmobs:worm_portal"
+		}
+	]
+}

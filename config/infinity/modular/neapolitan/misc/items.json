@@ -1,0 +1,388 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "neapolitan:adzuki_beans"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:adzuki_bun"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:adzuki_cake"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:adzuki_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:adzuki_curry"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:adzuki_ice_cream"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:adzuki_ice_cream_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:adzuki_milkshake"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:adzuki_soil"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:adzuki_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:banana"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:banana_bread"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:banana_bunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:banana_bundle"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:banana_cake"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:banana_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:banana_frond"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:banana_ice_cream"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:banana_ice_cream_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:banana_milkshake"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:banana_stalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:bananarrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:beanstalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:beanstalk_thorns"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:carved_banana_stalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:chimpanzee_banner_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:chimpanzee_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:chimpanzee_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:chiseled_chocolate_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:chocolate_bar"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:chocolate_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:chocolate_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:chocolate_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:chocolate_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:chocolate_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:chocolate_cake"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:chocolate_ice_cream"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:chocolate_ice_cream_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:chocolate_milkshake"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:chocolate_spider_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:chocolate_strawberries"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:chocolate_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:chocolate_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:chocolate_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:chocolate_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:cooked_mint_chops"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:dried_banana"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:dried_vanilla_pod_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:dried_vanilla_pods"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:frond_thatch"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:frond_thatch_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:frond_thatch_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:ice_cubes"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:magic_beans"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:milk_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:mint_basket"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:mint_cake"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:mint_candies"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:mint_chocolate"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:mint_chops"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:mint_ice_cream"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:mint_ice_cream_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:mint_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:mint_milkshake"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:mint_sprout"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:music_disc_hullabaloo"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:neapolitan_ice_cream"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:plantain_spider_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:primal_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:reflection_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:roasted_adzuki_beans"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:roasted_adzuki_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:scream_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:snack_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:spider_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:strawberries"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:strawberry_banana_smoothie"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:strawberry_basket"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:strawberry_bean_bonbons"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:strawberry_cake"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:strawberry_ice_cream"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:strawberry_ice_cream_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:strawberry_milkshake"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:strawberry_pips"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:strawberry_scones"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:vanilla_cake"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:vanilla_chocolate_fingers"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:vanilla_fudge"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:vanilla_ice_cream"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:vanilla_ice_cream_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:vanilla_milkshake"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:vanilla_pod_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:vanilla_pods"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:vanilla_pudding"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:white_strawberries"
+		},
+		{
+			"weight": 1.0,
+			"key": "neapolitan:white_strawberry_basket"
+		}
+	]
+}

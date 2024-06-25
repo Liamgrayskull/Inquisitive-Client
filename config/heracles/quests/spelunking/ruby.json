@@ -1,37 +1,40 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "crystals"
+  ],
   "tasks": {},
   "rewards": {},
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "I <3 Rubies"
     },
     "description": [],
     "groups": {
       "Spelunking": {
         "position": [
-          51,
-          114
+          -20,
+          118
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "minecraft:map",
+        "id": "ruby_exchange:ruby",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "text": "Ruby"
+      "translate": "Ruby"
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

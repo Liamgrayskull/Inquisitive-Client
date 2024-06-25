@@ -1,0 +1,96 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "habitat:block.fairy_ring_mushroom.shear"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:block.flowering_ball_cactus.shear"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:block.grown_edelweiss_shrub.shear"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:block.kabloom_bush.rustle"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:block.kabloom_bush.shear"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:block.rafflesia.fill_bowl"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:block.rafflesia.pop"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:block.rafflesia.slurp"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:block.rafflesia.spew"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:block.slime_fern.coat"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:block.slime_fern.drip"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:entity.kabloom_fruit.explode"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:entity.kabloom_fruit.throw"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:entity.passerine.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:entity.passerine.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:entity.passerine.flap"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:entity.passerine.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:entity.passerine.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:entity.pooka.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:entity.pooka.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:entity.pooka.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:entity.pooka.jump"
+		},
+		{
+			"weight": 1.0,
+			"key": "habitat:entity.pooka.shear"
+		}
+	]
+}

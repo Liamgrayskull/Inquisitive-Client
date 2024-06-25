@@ -1,1 +1,7 @@
-[22:22:54] [INFO] [FabricLoader/Log]: Gamers can finally touch grass!?
+[13:35:58] [WARN] [FabricLoader/Metadata]: The mod "sushi_bar" contains invalid entries in its mod json:
+- Unsupported root entry "plugin" at line 42 column 11
+[13:36:03] [WARN] [FabricLoader/Resolution]: Warnings were found!
+ - §Emod 'OptiGUI' (optigui)§r 2.1.7 recommends any version of §6animatica§r, which is missing!
+	 - You should install any version of §6animatica§r for the optimal experience.
+ - §Emod 'Wakes' (wakes)§r 0.2.4+1.20.1 recommends version 3.2.2 or later of §6yacl§r, which is missing!
+	 - You should install version 3.2.2 or later of §6yacl§r for the optimal experience.

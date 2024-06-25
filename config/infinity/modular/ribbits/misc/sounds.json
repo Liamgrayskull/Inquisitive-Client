@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ribbits:entity.ribbit.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "ribbits:entity.ribbit.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "ribbits:entity.ribbit.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "ribbits:entity.ribbit.step"
+		}
+	]
+}

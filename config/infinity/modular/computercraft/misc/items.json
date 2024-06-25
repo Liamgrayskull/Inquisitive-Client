@@ -1,0 +1,92 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "computercraft:cable"
+		},
+		{
+			"weight": 1.0,
+			"key": "computercraft:computer_advanced"
+		},
+		{
+			"weight": 1.0,
+			"key": "computercraft:computer_command"
+		},
+		{
+			"weight": 1.0,
+			"key": "computercraft:computer_normal"
+		},
+		{
+			"weight": 1.0,
+			"key": "computercraft:disk"
+		},
+		{
+			"weight": 1.0,
+			"key": "computercraft:disk_drive"
+		},
+		{
+			"weight": 1.0,
+			"key": "computercraft:monitor_advanced"
+		},
+		{
+			"weight": 1.0,
+			"key": "computercraft:monitor_normal"
+		},
+		{
+			"weight": 1.0,
+			"key": "computercraft:pocket_computer_advanced"
+		},
+		{
+			"weight": 1.0,
+			"key": "computercraft:pocket_computer_normal"
+		},
+		{
+			"weight": 1.0,
+			"key": "computercraft:printed_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "computercraft:printed_page"
+		},
+		{
+			"weight": 1.0,
+			"key": "computercraft:printed_pages"
+		},
+		{
+			"weight": 1.0,
+			"key": "computercraft:printer"
+		},
+		{
+			"weight": 1.0,
+			"key": "computercraft:speaker"
+		},
+		{
+			"weight": 1.0,
+			"key": "computercraft:treasure_disk"
+		},
+		{
+			"weight": 1.0,
+			"key": "computercraft:turtle_advanced"
+		},
+		{
+			"weight": 1.0,
+			"key": "computercraft:turtle_normal"
+		},
+		{
+			"weight": 1.0,
+			"key": "computercraft:wired_modem"
+		},
+		{
+			"weight": 1.0,
+			"key": "computercraft:wired_modem_full"
+		},
+		{
+			"weight": 1.0,
+			"key": "computercraft:wireless_modem_advanced"
+		},
+		{
+			"weight": 1.0,
+			"key": "computercraft:wireless_modem_normal"
+		}
+	]
+}

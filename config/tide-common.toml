@@ -1,4 +1,4 @@
-#Lets the fishing rod be charged like a bow to cast the hook farther
+#Whether to give new players in a world the fishing journal when they spawn
 giveJournal = true
 
 #+++ Fishing Journal Configs +++ 
@@ -7,7 +7,7 @@ giveJournal = true
 
 	#+++ Journal pages +++ 
 	#[id]: The internal name of the page
-	#[content]: The translation for the display name of the page
+	#[content]: The translationKey for the display name of the page
 	#[title]: The description text that appears on the page
 	#[unlockedByDefault]: If the page is unlocked by default
 	#[icon]: The item icon that shows up on the "new page unlocked" toast
@@ -105,6 +105,13 @@ giveJournal = true
 			title = "Custom Page"
 			content = "This is an unused custom page"
 			icon = "minecraft:barrier"
+			unlockedByDefault = false
+
+		[journal.pages.lava]
+			id = "lava"
+			title = "journal.title.lava"
+			content = "journal.content.lava"
+			icon = "tide:fish_bone"
 			unlockedByDefault = false
 
 	#+++ Journal profiles (fish) +++ 
@@ -530,4 +537,24 @@ giveJournal = true
 			fish = "custom24"
 			description = "This is an unused custom fish profile"
 			page = "The id of the page that the fish belongs to"
+
+		[journal.profiles.ember_koi]
+			fish = "tide:ember_koi"
+			description = "profile.item.tide.ember_koi"
+			page = "lava"
+
+		[journal.profiles.inferno_guppy]
+			fish = "tide:inferno_guppy"
+			description = "profile.item.tide.inferno_guppy"
+			page = "lava"
+
+		[journal.profiles.obsidian_pike]
+			fish = "tide:obsidian_pike"
+			description = "profile.item.tide.obsidian_pike"
+			page = "lava"
+
+		[journal.profiles.volcano_tuna]
+			fish = "tide:volcano_tuna"
+			description = "profile.item.tide.volcano_tuna"
+			page = "lava"
 

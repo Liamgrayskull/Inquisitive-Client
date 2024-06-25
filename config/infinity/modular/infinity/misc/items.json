@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "infinity:altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:book_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:timebomb"
+		}
+	]
+}

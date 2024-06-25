@@ -1,0 +1,120 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "vs_eureka:acacia_ship_helm"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_eureka:anchor"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_eureka:ballast"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_eureka:balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_eureka:birch_ship_helm"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_eureka:black_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_eureka:blue_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_eureka:brown_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_eureka:crimson_ship_helm"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_eureka:cyan_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_eureka:dark_oak_ship_helm"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_eureka:engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_eureka:floater"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_eureka:gray_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_eureka:green_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_eureka:jungle_ship_helm"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_eureka:light_blue_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_eureka:light_gray_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_eureka:lime_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_eureka:magenta_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_eureka:oak_ship_helm"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_eureka:orange_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_eureka:pink_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_eureka:purple_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_eureka:red_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_eureka:spruce_ship_helm"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_eureka:warped_ship_helm"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_eureka:white_balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_eureka:yellow_balloon"
+		}
+	]
+}

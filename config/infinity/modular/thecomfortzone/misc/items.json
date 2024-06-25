@@ -1,0 +1,72 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "thecomfortzone:black_pillow"
+		},
+		{
+			"weight": 1.0,
+			"key": "thecomfortzone:blue_pillow"
+		},
+		{
+			"weight": 1.0,
+			"key": "thecomfortzone:brown_pillow"
+		},
+		{
+			"weight": 1.0,
+			"key": "thecomfortzone:cyan_pillow"
+		},
+		{
+			"weight": 1.0,
+			"key": "thecomfortzone:gray_pillow"
+		},
+		{
+			"weight": 1.0,
+			"key": "thecomfortzone:green_pillow"
+		},
+		{
+			"weight": 1.0,
+			"key": "thecomfortzone:light_blue_pillow"
+		},
+		{
+			"weight": 1.0,
+			"key": "thecomfortzone:light_gray_pillow"
+		},
+		{
+			"weight": 1.0,
+			"key": "thecomfortzone:lime_pillow"
+		},
+		{
+			"weight": 1.0,
+			"key": "thecomfortzone:magenta_pillow"
+		},
+		{
+			"weight": 1.0,
+			"key": "thecomfortzone:oak_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "thecomfortzone:orange_pillow"
+		},
+		{
+			"weight": 1.0,
+			"key": "thecomfortzone:pink_pillow"
+		},
+		{
+			"weight": 1.0,
+			"key": "thecomfortzone:purple_pillow"
+		},
+		{
+			"weight": 1.0,
+			"key": "thecomfortzone:red_pillow"
+		},
+		{
+			"weight": 1.0,
+			"key": "thecomfortzone:white_pillow"
+		},
+		{
+			"weight": 1.0,
+			"key": "thecomfortzone:yellow_pillow"
+		}
+	]
+}

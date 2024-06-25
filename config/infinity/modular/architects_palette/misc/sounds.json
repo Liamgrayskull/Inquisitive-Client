@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "architects_palette:block.cage_lantern.toggle_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "architects_palette:block.cage_lantern.toggle_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "architects_palette:block.chiseled_hadaline.activate"
+		},
+		{
+			"weight": 1.0,
+			"key": "architects_palette:block.entwine.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "architects_palette:block.entwine.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "architects_palette:block.warping.item_warps"
+		},
+		{
+			"weight": 1.0,
+			"key": "architects_palette:block.wizard_deflect"
+		}
+	]
+}

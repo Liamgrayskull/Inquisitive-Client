@@ -1,0 +1,72 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "sculkhorde:blind_and_alone"
+		},
+		{
+			"weight": 1.0,
+			"key": "sculkhorde:deep_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "sculkhorde:ender_bubble_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "sculkhorde:horde_start_sound"
+		},
+		{
+			"weight": 1.0,
+			"key": "sculkhorde:node_destroy_sound"
+		},
+		{
+			"weight": 1.0,
+			"key": "sculkhorde:node_spawn_sound"
+		},
+		{
+			"weight": 1.0,
+			"key": "sculkhorde:raid_scout_sound"
+		},
+		{
+			"weight": 1.0,
+			"key": "sculkhorde:raid_start_sound"
+		},
+		{
+			"weight": 1.0,
+			"key": "sculkhorde:sculk_enderman_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "sculkhorde:sculk_enderman_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "sculkhorde:sculk_enderman_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "sculkhorde:sculk_enderman_portal"
+		},
+		{
+			"weight": 1.0,
+			"key": "sculkhorde:sculk_enderman_scream"
+		},
+		{
+			"weight": 1.0,
+			"key": "sculkhorde:sculk_enderman_stare"
+		},
+		{
+			"weight": 1.0,
+			"key": "sculkhorde:soul_harvester_active"
+		},
+		{
+			"weight": 1.0,
+			"key": "sculkhorde:soul_harvester_finished"
+		},
+		{
+			"weight": 1.0,
+			"key": "sculkhorde:soul_harvester_item_inserted"
+		}
+	]
+}

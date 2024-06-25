@@ -21,7 +21,7 @@
     },
     "icon": {
       "item": {
-        "id": "seasonals:sweet_berry_cake",
+        "id": "bountifulfares:cocoa_cake",
         "count": 1
       },
       "type": "heracles:item"
@@ -32,10 +32,11 @@
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

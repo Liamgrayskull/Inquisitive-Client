@@ -1,0 +1,52 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "healpgood:crystal_apple"
+		},
+		{
+			"weight": 1.0,
+			"key": "healpgood:crystal_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "healpgood:ender_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "healpgood:golden_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "healpgood:heart_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "healpgood:heart_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "healpgood:heart_crystal_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "healpgood:heart_crystal_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "healpgood:polished_heart_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "healpgood:polished_heart_crystal_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "healpgood:polished_heart_crystal_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "healpgood:withered_heart"
+		}
+	]
+}
