@@ -31,7 +31,7 @@ glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
 gamma:1.0
-renderDistance:24
+renderDistance:12
 simulationDistance:5
 entityDistanceScaling:1.0
 guiScale:0
@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets","bountifulfares:amendments_res","bountifulfares:mint_res","bountifulfares:spawn_res","bountifulfares:twigs_res","fabric","spelunkery:better_vanilla_gems","spelunkery:unlit_redstone_ores","black_icons","bountifulfares:vanilla_item_override","spelunkery:emissive_better_vanilla_ores","minecraft:perspective","create_central_kitchen:create_styled","Inq-RP-DEV-SHIT.zip","file/DEVINQ_CUSTOM_RP","file/Enchanting Table Magic Circle v1.1.zip","file/Midnighttiggers-FCT-Default_1.20_V3.zip"]
-incompatibleResourcePacks:["create_central_kitchen:create_styled"]
+resourcePacks:[]
+incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -53,7 +53,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.0
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:true
+advancedItemTooltips:false
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -151,6 +151,7 @@ key_placebo.toggleTrails:key.keyboard.keypad.9
 key_placebo.toggleWings:key.keyboard.keypad.8
 key_key.spelunkers_charm.flashlight_toggle:key.keyboard.n
 key_mcpings.key.mark-location:key.keyboard.grave.accent
+key_key.antique_atlas.open:key.keyboard.m
 key_gui.perspective.keybindings.keybinding.cycle_shaders:key.keyboard.f7
 key_gui.perspective.keybindings.keybinding.hold_perspective_third_person_back:key.keyboard.z
 key_gui.perspective.keybindings.keybinding.hold_perspective_third_person_front:key.keyboard.x
@@ -160,7 +161,7 @@ key_gui.perspective.keybindings.keybinding.random_shader:key.keyboard.unknown
 key_gui.perspective.keybindings.keybinding.set_perspective_first_person:key.keyboard.keypad.1
 key_gui.perspective.keybindings.keybinding.set_perspective_third_person_back:key.keyboard.keypad.2
 key_gui.perspective.keybindings.keybinding.set_perspective_third_person_front:key.keyboard.keypad.3
-key_gui.perspective.keybindings.keybinding.take_panorama_screenshot:key.keyboard.minus
+key_gui.perspective.keybindings.keybinding.take_panorama_screenshot:key.keyboard.unknown
 key_gui.perspective.keybindings.keybinding.toggle_zoom:key.keyboard.b
 key_gui.perspective.keybindings.keybinding.toggle_shaders:key.keyboard.f8
 key_gui.perspective.keybindings.keybinding.toggle_nametags:key.keyboard.f10
@@ -192,6 +193,7 @@ key_key.toggleCarriedItemTooltips:key.keyboard.unknown
 key_key.cycleLeft:key.keyboard.g
 key_key.cycleRight:key.keyboard.h
 key_key.heracles.open_quests:key.keyboard.u
+key_key.plonk.place:key.keyboard.p
 key_keybinds.bettercombat.feint:key.keyboard.unknown
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
 key_keybinds.combatroll.roll:key.keyboard.r
@@ -210,13 +212,13 @@ key_key.immersive_aircraft.fallback_control_push:key.keyboard.unknown
 key_key.immersive_aircraft.fallback_use:key.keyboard.unknown
 key_key.immersive_aircraft.dismount:key.keyboard.r
 key_key.immersive_aircraft.boost:key.keyboard.b
-key_Take Panorama Screenshot:key.keyboard.p
+key_Take Panorama Screenshot:key.keyboard.r
 key_key.beansbackpacks.action:key.keyboard.unknown
 key_key.beansbackpacks.inventory:key.keyboard.unknown
 key_key.seasonhud.seasonhudOptions:key.keyboard.h
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
-key_key.personality.crawl:key.keyboard.unknown
+key_key.personality.crawl:key.keyboard.c
 key_key.personality.sit:key.keyboard.z
 key_key.special_ability:key.keyboard.g
 key_key.jade.config:key.keyboard.keypad.0
@@ -261,8 +263,8 @@ key_supplementaries.keybind.quiver:key.keyboard.v
 key_key.screenshot_viewer.open_screenshots_screen:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_keybind.invmove.toggleMove:key.keyboard.unknown
-soundCategory_master:0.39072847682119205
-soundCategory_music:0.02464788732394366
+soundCategory_master:0.5182119205298014
+soundCategory_music:0.01936619718309859
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

@@ -26,8 +26,8 @@
     "groups": {
       "Culinary": {
         "position": [
-          -179,
-          -311
+          -178,
+          -295
         ]
       }
     },
@@ -41,10 +41,11 @@
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

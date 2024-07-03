@@ -1,13 +1,13 @@
 
 [misc]
 	creative_tab = false
-	disable_diamond_grindstone_depletion = false
 	#Range: 0 ~ 128
 	diamond_grindstone_deplete_chance = 20
 	#Range: 0 ~ 128
 	parachute_delay = 10
 	enable_rough_gems = true
 	enable_raw_nuggets = true
+	grindstone_rework = true
 
 [slimes]
 	increased_slime_spawn_rate = true

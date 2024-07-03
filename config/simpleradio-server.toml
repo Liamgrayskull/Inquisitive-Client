@@ -98,3 +98,8 @@
 		#When false, removes compatibility for Vibrative Voice. Defaults to true.
 		enabled = true
 
+	#These are the configurations for the optional dependency Valkyrien Skies.
+	[compatibilities.valkyrien_skies]
+		#When false, removes compatibility for Valkyrien Skies. Defaults to true.
+		enabled = true
+

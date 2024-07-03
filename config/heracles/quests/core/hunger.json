@@ -6,12 +6,16 @@
     "subtitle": {
       "text": ""
     },
-    "description": [],
+    "description": [
+      "The hunger system is in essence the same! Food still restores hunger and saturation, although the rate at which saturation is consumed through certain actions is determined by the food type, all of which are indicated by the diet icon in your inventory. These actions will be dampened in exhaustion by the type of food you eat, requiring less- food groups can also be mixed and matched, as indicated by your hunger bar icons.",
+      "",
+      "Along with this, food can be eaten while still full by default! Some effects reciend this."
+    ],
     "groups": {
       "Core": {
         "position": [
-          -80,
-          -118
+          -43,
+          -130
         ]
       }
     },

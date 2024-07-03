@@ -8,18 +8,20 @@
     "subtitle": {
       "text": ""
     },
-    "description": [],
+    "description": [
+      "Sporelings are an almost flora-fauna mix, categorized as creatures regardless. These cameleon-esque creatures emit explosive spores commonly, although some have enviornmentally evolved to different effects."
+    ],
     "groups": {
       "Fauna": {
         "position": [
-          -172,
-          -34
+          -175,
+          -29
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "minecraft:map",
+        "id": "savage_and_ravage:creeper_spores",
         "count": 1
       },
       "type": "heracles:item"
@@ -30,10 +32,11 @@
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

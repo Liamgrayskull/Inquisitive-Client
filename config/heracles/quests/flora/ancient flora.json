@@ -6,7 +6,9 @@
     "subtitle": {
       "text": ""
     },
-    "description": [],
+    "description": [
+      "Ancient flora is found most commonly through ancient digging, although the skies and the underground are other means of locating ancient flora."
+    ],
     "groups": {
       "Flora": {
         "position": [
@@ -28,10 +30,11 @@
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

@@ -8,15 +8,15 @@
 			powdery = true
 
 		[types.wood_type.createdieselgenerators]
-			chip_wood = true
+			chip_wood = false
 
 		[types.wood_type.habitat]
 			fairy_ring_mushroom = true
 
 		[types.wood_type.quark]
-			azalea = true
+			azalea = false
 			ancient = true
-			blossom = true
+			blossom = false
 
 		[types.wood_type.mint]
 			wintergreen = true
@@ -27,8 +27,8 @@
 			walnut = true
 
 		[types.wood_type.flying_stuff]
-			glaciated = true
-			lavic = true
+			glaciated = false
+			lavic = false
 
 		[types.wood_type.ad_astra]
 			aeronos = true
@@ -47,7 +47,7 @@
 
 		[types.wood_type.goodending]
 			muddy_oak = true
-			cypress = true
+			cypress = false
 
 		[types.wood_type.architects_palette]
 			twisted = true
@@ -68,6 +68,31 @@
 
 		[types.wood_type.netherdungeons]
 			ginger = true
+
+		[types.wood_type.natures_spirit]
+			redwood = true
+			sugi = true
+			wisteria = true
+			fir = true
+			willow = true
+			aspen = true
+			maple = false
+			cypress = true
+			olive = true
+			joshua = true
+			ghaf = true
+			palo_verde = true
+			coconut = true
+			cedar = true
+			larch = true
+			mahogany = true
+			saxaul = true
+
+		[types.wood_type.biomemakeover]
+			blighted_balsa = false
+			willow = false
+			swamp_cypress = false
+			ancient_oak = false
 
 	[types.cake]
 
@@ -99,6 +124,9 @@
 		[types.cake.collectorsreap]
 			lime_cake = true
 			pomegranate_cake = true
+
+		[types.cake.natures_spirit]
+			cheese_block = true
 
 	[types.leaves_type]
 
@@ -150,6 +178,43 @@
 			yellow_blossom = true
 			red_blossom = true
 
+		[types.leaves_type.natures_spirit]
+			redwood = true
+			sugi = true
+			wisteria = true
+			white_wisteria = true
+			blue_wisteria = true
+			pink_wisteria = true
+			purple_wisteria = true
+			part_white_wisteria = true
+			part_blue_wisteria = true
+			part_pink_wisteria = true
+			part_purple_wisteria = true
+			frosty_fir = true
+			fir = true
+			willow = true
+			aspen = true
+			red_maple = true
+			orange_maple = true
+			yellow_maple = true
+			cypress = true
+			olive = true
+			joshua = true
+			ghaf = true
+			palo_verde = true
+			coconut = true
+			cedar = true
+			larch = true
+			yellow_larch = true
+			mahogany = true
+			saxaul = true
+
+		[types.leaves_type.biomemakeover]
+			blighted_balsa = true
+			willow = true
+			swamp_cypress = true
+			ancient_oak = true
+
 #Disables specific entries
 [entries]
 
@@ -166,8 +231,8 @@
 			mail_box = true
 
 		[entries.wood_type.create]
-			window = true
-			window_pane = true
+			window = false
+			window_pane = false
 
 		[entries.wood_type.shutter]
 			shutter = true
@@ -186,13 +251,13 @@
 
 		[entries.wood_type.quark]
 			hollow_log = true
-			vertical_planks = true
+			vertical_planks = false
 			post = true
-			trapped_chest = true
-			bookshelf = true
-			chest = true
+			trapped_chest = false
+			bookshelf = false
+			chest = false
 			stripped_post = true
-			ladder = true
+			ladder = false
 
 		[entries.wood_type.twigs]
 			table = true
@@ -200,9 +265,9 @@
 	[entries.leaves_type]
 
 		[entries.leaves_type.quark]
-			hedge = true
-			leaf_carpet = true
+			hedge = false
+			leaf_carpet = false
 
 		[entries.leaves_type.woodworks]
-			leaf_pile = true
+			leaf_pile = false
 

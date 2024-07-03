@@ -8,7 +8,9 @@
     "subtitle": {
       "text": ""
     },
-    "description": [],
+    "description": [
+      "More advanced than standard creatures in some circumstances, Piglings are primarily a twisted form of the overworld's pigs- in some realm or another. Found in many realms, the overworld's atmospheric compositions deteriorate them, zombifying their kind."
+    ],
     "groups": {
       "Fauna": {
         "position": [
@@ -19,7 +21,7 @@
     },
     "icon": {
       "item": {
-        "id": "minecraft:map",
+        "id": "mynethersdelight:hoglin_hide",
         "count": 1
       },
       "type": "heracles:item"
@@ -30,10 +32,11 @@
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

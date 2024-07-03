@@ -877,6 +877,15 @@
 				ghost = true
 				moth = true
 				rootling = true
+				owl = true
+				adjudicator = true
+				helmit_crab = true
+				cowboy = true
+				stone_golem = true
+				decayed = true
+				dragonfly = true
+				lightning_bug = true
+				lightning_bug_alternate = true
 
 			[light_sources.settings.entities.autumnity]
 				snail = true

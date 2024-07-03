@@ -9,7 +9,7 @@
       "translate": "Place slabs in any direction you can think of!"
     },
     "description": [
-      ""
+      "Slabs can now be placed on every face- some change appearance depending on the block. Try them out! It depends on which segment of the block you are looking at."
     ],
     "groups": {
       "Building": {
@@ -32,10 +32,11 @@
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

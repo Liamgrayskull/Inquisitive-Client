@@ -1,8 +1,0 @@
-{
-  "factory": "obscure_tooltips:descent_shine",
-  "center_color": "ffffffff",
-  "start_color": "fff00fff",
-  "end_color": "00ff00ff",
-  "particle_center_color": "ffffffff",
-  "particle_edge_color": "ffff60ff"
-}

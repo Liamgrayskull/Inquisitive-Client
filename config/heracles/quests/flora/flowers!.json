@@ -6,7 +6,9 @@
     "subtitle": {
       "text": ""
     },
-    "description": [],
+    "description": [
+      "Flowers are found practically anywhere, and can be easily turned into dyes or planted, among other rarer applications."
+    ],
     "groups": {
       "Flora": {
         "position": [
@@ -25,10 +27,11 @@
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

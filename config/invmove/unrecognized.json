@@ -375,6 +375,9 @@
     "me.dantaeusb.zettergallery.client.gui.PaintingMerchantScreen": true,
     "net.azurune.bitter_brews.common.screen.TeaKettleScreen": true,
     "com.simibubi.create.content.logistics.filter.FilterScreen": true,
-    "org.teacon.slides.screen.ProjectorScreen": true
+    "org.teacon.slides.screen.ProjectorScreen": true,
+    "party.lemons.biomemakeover.crafting.AltarScreen": true,
+    "com.simibubi.create.content.equipment.clipboard.ClipboardScreen": true,
+    "net.mehvahdjukaar.supplementaries.client.screens.PresentScreen": true
   }
 }

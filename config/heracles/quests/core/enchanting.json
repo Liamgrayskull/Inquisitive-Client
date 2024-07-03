@@ -1,0 +1,40 @@
+{
+  "dependencies": [],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Still simple but more significant."
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Core": {
+        "position": [
+          -197,
+          -150
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:enchanting_table",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Enchanting"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

@@ -16,7 +16,7 @@ lang = "en_us"
 # Support is available through the Discord server
 [General]
 	# Token for the Discord bot account, equivalent to a password obtainable through the Discord website (see: https://github.com/DenisD3D/Mc2Discord/wiki/Discord-token)
-	token = ""
+	token = "MTE4OTA4ODk3NDM1OTI0OTAyMA.GCLqen.v9qesl0CCoZrP208CGcZEGvo-ku9kkTPC3MNMw"
 
 # Channels configuration
 # One [[Channels.Channel]] block should be created per Discord channel you want to setup
@@ -24,8 +24,8 @@ lang = "en_us"
 
 	[[Channels.Channel]]
 		# Id of the Discord channel to send messages in (see: https://github.com/DenisD3D/Mc2Discord/wiki/Discord-ids)
-		id = 0
-		# List of messages types to send that will be sent in this channel. Available values: "info", "chat", "command", "logs"
+		id = 1246970482155196538
+		# List of messages types to send that will be sent in this channel. Available values: "info", "chat", "command", "logs" ("info" is equivalent to adding "server_start", "server_stop", "player_connect", "player_disconnect", "player_death", "player_advancement")
 		subscriptions = ["info", "chat", "command"]
 		# Messages format in this channel. Available values: WEBHOOK, PLAIN_TEXT, EMBED
 		mode = "WEBHOOK"
@@ -126,13 +126,13 @@ lang = "en_us"
 	# List of commands to broadcast to Discord. If absent message will only be sent to Minecraft (supported values: say, me, tellraw)
 	broadcast_commands = ["say", "me", "tellraw"]
 	# If true, any message sent by another mod will be logged to the console (used only for configuration of [[Misc.OtherModMessage]], must be disabled after)
-	verbose_other_mods_messages = false
+	verbose_other_mods_messages = true
 
 	# Configuration for messages from others mods
 	# Values may be found on the wiki (https://github.com/DenisD3D/Mc2Discord/wiki/Other-Mods-Messages) or by enabling verbose_other_mods_messages
 	[[Misc.other_mods_messages]]
 		# Name of the Java class the message is comming from
-		class_name = ""
+		class_name = "carbon"
 		# Index of the class in the stacktrace
 		class_index = 0
 		# Type the message will be sent as, must be one found in a Channels.Channel configuration

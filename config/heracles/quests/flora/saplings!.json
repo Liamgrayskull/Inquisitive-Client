@@ -6,12 +6,14 @@
     "subtitle": {
       "text": ""
     },
-    "description": [],
+    "description": [
+      "Saplings can be found in all sorts of places, growing from formations of 1x1 to 3x3 into trees- some dependent on certain blocks, or knee-deep water."
+    ],
     "groups": {
       "Flora": {
         "position": [
           -224,
-          -44
+          -43
         ]
       }
     },
@@ -25,10 +27,11 @@
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

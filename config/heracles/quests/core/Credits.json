@@ -9,7 +9,7 @@
       "text": ""
     },
     "description": [
-      ""
+      "Inquisitive highly prioritizes placing credit where credit's due, and the incredible community that modded minecraft has to offer has a significant presence in it's development. Support the mod devs, the resourcepack artists, server hosts, datapack creators, testers, developers. All of them deserve it for giving their all into an often fruitless passion."
     ],
     "groups": {
       "Core": {
@@ -32,10 +32,11 @@
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

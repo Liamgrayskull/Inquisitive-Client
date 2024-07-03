@@ -18,7 +18,7 @@ B:preload_animations = 'true';
 S:preload_resources = '';
 S:custom_game_intro_skip_text = '';
 B:allow_game_intro_skip = 'true';
-S:game_intro_animation_name = '[source:local]/config/fancymenu/assets/gifs/inqgifbgfiftypercent.gif';
+S:game_intro_animation_name = '';
 B:game_intro_fade_out = 'true';
 
 

@@ -9,7 +9,7 @@
       "translate": "Place carpets on all faces! Even your own! (with mimification)"
     },
     "description": [
-      ""
+      "Carpets of certain types can be placed on many faces- even stairs!"
     ],
     "groups": {
       "Building": {
@@ -32,10 +32,11 @@
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

@@ -1,7 +1,0 @@
-{
-  "priority": 900,
-  "frame": ["obscure_tooltips:cogged"],
-  "filter": {
-    "mods": ["create", "immersive_aircraft", "eureka", "simpleradio", "createaddition"]
-  }
-}

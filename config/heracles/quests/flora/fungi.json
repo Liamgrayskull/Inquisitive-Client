@@ -1,0 +1,37 @@
+{
+  "dependencies": [],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Fungi are some of the more versatile flora avaliable, capable of poisons, food, and even woodsets- some capable of almost magical properties."
+    ],
+    "groups": {
+      "Flora": {
+        "position": [
+          -187,
+          -130
+        ]
+      }
+    },
+    "icon": {
+      "item": "#onion_onion:motley_mushrooms",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Fungi"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

@@ -8,12 +8,14 @@
     "subtitle": {
       "text": ""
     },
-    "description": [],
+    "description": [
+      "Amidst other realms lie a variety of incredibly unique properties, much of which can be manipulated to great effect. Go out and experiment!"
+    ],
     "groups": {
       "Culinary": {
         "position": [
-          -110,
-          -303
+          -109,
+          -282
         ]
       }
     },
@@ -30,10 +32,11 @@
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

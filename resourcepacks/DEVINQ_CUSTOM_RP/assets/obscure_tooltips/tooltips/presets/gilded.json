@@ -1,8 +1,0 @@
-{
-  "priority": 900,
-  "frame": ["obscure_tooltips:gilded"],
-  "panel": ["obscure_tooltips:golden"],
-  "filter": {
-    "mods": ["flying_stuff", "dimdungeons"]
-  }
-}

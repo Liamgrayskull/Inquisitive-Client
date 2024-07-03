@@ -14,6 +14,10 @@
       "hidden": true,
       "required": true
       },
+      "bountifulfares:natures_spirit_res": {
+        "hidden": true,
+        "required": true
+        },
       "enchancement:alternate_gale": {
         "hidden": true
         },

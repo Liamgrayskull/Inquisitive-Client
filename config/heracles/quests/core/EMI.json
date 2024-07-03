@@ -10,17 +10,21 @@
       "Roughly Enough Items",
       "",
       "",
-      "R - ",
+      "R - Recipe",
       "",
       "U - Uses",
       "",
-      "Alt - Open Item group"
+      "Alt - Open Item group",
+      "",
+      "Ctrl + O - Hide/show REI",
+      "",
+      "Double click searchbar - search for item in inventory"
     ],
     "groups": {
       "Core": {
         "position": [
-          -49,
-          -140
+          42,
+          -124
         ]
       }
     },

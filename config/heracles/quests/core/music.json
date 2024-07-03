@@ -1,0 +1,40 @@
+{
+  "dependencies": [],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Harder than it looks."
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Core": {
+        "position": [
+          -169,
+          -171
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "xercamusic:music_sheet",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Music Arranging"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

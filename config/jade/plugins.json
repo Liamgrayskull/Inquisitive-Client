@@ -51,7 +51,8 @@
     "chiseled_bookshelf": true
   },
   "exposure": {
-    "lightroom": true
+    "lightroom": true,
+    "photograph_frame": true
   },
   "supplementaries": {
     "hat_stand": true

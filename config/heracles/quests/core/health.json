@@ -6,12 +6,20 @@
     "subtitle": {
       "text": ""
     },
-    "description": [],
+    "description": [
+      "Inquisitive's health system differs from that of vanilla in that health can be lost and regained upon death.",
+      "",
+      "Half a heart is lost upon death-",
+      "",
+      "--Lost-- hearts can be regained by neutralizing souls (of which come in many forms)",
+      "",
+      "New hearts can be acquirred temporarily or permanently through crystals."
+    ],
     "groups": {
       "Core": {
         "position": [
-          -101,
-          -89
+          -74,
+          -93
         ]
       }
     },
