@@ -8,7 +8,7 @@
 	#Whether to disable certain aspects of the Lava Vision Potion. Enable if issues with shaders persist.
 	shadersCompat = false
 	#Whether bananas should drop from blocks tagged with #alexsmobs:drops_bananas
-	bananasDropFromLeaves = true
+	bananasDropFromLeaves = false
 	#1 out of this number chance for leaves to drop a banana when broken. Fortune is automatically factored in
 	#Range: > 0
 	bananaChance = 200
@@ -64,7 +64,7 @@
 	cachalotDestruction = true
 	#Relative volume of cachalot whales compared to other animals. Note that irl they are the loudest animal. Turn this down if you find their clicks annoying.
 	#Range: 0.0 ~ 10.0
-	cachalotVolume = 3.0
+	cachalotVolume = 1.0
 	#Percent chance for fungus to grow per each leaf a leafcutter ant returns to the colony.
 	#Range: 0.0 ~ 1.0
 	leafcutterAntFungusGrowChance = 0.3
@@ -694,7 +694,7 @@
 			restrictUnderminerSpawns = true
 			#The maximum distance a farseer can spawn from the world border.
 			#Range: 2 ~ 1000000000
-			farseerBorderSpawnDistance = 100
+			farseerBorderSpawnDistance = 50
 			#Maximum world y-level that murmur can spawn at
 			#Range: -64 ~ 320
 			murmurSpawnHeight = -30

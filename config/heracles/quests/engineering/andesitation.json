@@ -6,11 +6,38 @@
     "subtitle": {
       "text": ""
     },
-    "description": [],
+    "description": [
+      "The roots of motion lie in andesite and wood. Andesite is an essential material in any useage of rotational power, the core units of transferring energy into contraptions. By combining iron or zinc nuggets with andesite, Andesite Alloy can be created.",
+      "",
+      "<crafting-recipe id=\"create:crafting/materials/andesite_alloy_from_zinc\"/>",
+      "",
+      "This is essential for a number of recipes, such as shafts, and via combining it with wood, cogs, handcranks, and waterwheels;",
+      "",
+      "<carousel index=\"0\">",
+      "    <carousel-item>",
+      "       <crafting-recipe id=\"create:crafting/kinetics/shaft\"/>",
+      "    </carousel-item>",
+      "    <carousel-item>",
+      "       <crafting-recipe id=\"create:crafting/kinetics/cogwheel\"/>",
+      "    </carousel-item>",
+      "    <carousel-item>",
+      "        <crafting-recipe id=\"create:crafting/kinetics/large_cogwheel\"/>",
+      "    </carousel-item>",
+      "    <carousel-item>",
+      "        <crafting-recipe id=\"create:crafting/kinetics/hand_crank\"/>",
+      "    </carousel-item>",
+      "    <carousel-item>",
+      "        <crafting-recipe id=\"create:crafting/kinetics/water_wheel\"/>",
+      "    </carousel-item>",
+      "</carousel>",
+      "",
+      "",
+      "These components are the backbone of most contraptions, enabling the ability to increase, decrease, and provide rotational force. Gearboxes are the next step in tranferring force, along with most of the basics now accessible to you through andesite's grand powers."
+    ],
     "groups": {
       "Engineering": {
         "position": [
-          -98,
+          -100,
           -21
         ]
       }
@@ -28,10 +55,11 @@
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

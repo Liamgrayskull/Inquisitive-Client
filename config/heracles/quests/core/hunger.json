@@ -1,21 +1,28 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "grassroots"
+  ],
   "tasks": {},
   "rewards": {},
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "You are your Dietician!"
     },
     "description": [
-      "The hunger system is in essence the same! Food still restores hunger and saturation, although the rate at which saturation is consumed through certain actions is determined by the food type, all of which are indicated by the diet icon in your inventory. These actions will be dampened in exhaustion by the type of food you eat, requiring less- food groups can also be mixed and matched, as indicated by your hunger bar icons.",
+      "Inquisitive's hunger system is, at it's core the same as Vanilla's! Food still restores hunger and saturation, but the main differencies is the rate saturation is decreased through certain actions.",
       "",
-      "Along with this, food can be eaten while still full by default! Some effects reciend this."
+      "> There are five unique food groups that each item is a part of, some items containing many different types.",
+      "> Consuming these food groups will help reduce exhaustion from the thing that food is best at preventing.",
+      "",
+      "> You can tell what you will get reduced exhaustion from by looking at your hunger bar. This will indicate your last eaten food groups, and will change the next food you eat.",
+      "",
+      "> Along with this, food can be eaten while still full by default! Some effects prevent this however. These food groups are detailed more in the /b/Culinary/b/ section!"
     ],
     "groups": {
       "Core": {
         "position": [
-          -43,
-          -130
+          48,
+          -96
         ]
       }
     },

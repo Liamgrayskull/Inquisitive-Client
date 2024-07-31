@@ -7,12 +7,11 @@
       "translate": "Amped to 11."
     },
     "description": [
-      "Inquisitive's performance is a slippery slope, particularly difficult to reach stability due to Sinytra Connector (among other mod's) alpha nature. But we sure hecka try, particularly through these mods and areas addressed:",
+      "Inquisitive's performance is a slippery slope, particularly difficult to reach stability due to Sinytra Connector (among other mod's) alpha nature. But we sure try, particularly through these mods and areas addressed:",
       "",
       "- Achievement Optimization (there are a bunch)",
       "- Attribute Fix (compensation for modded data)",
       "- Bad Optimizations (Fixing unneccessary updates)",
-      "- Bocchium (void bedrock culling)",
       "- Debugify (fixing many mojang bug trackers)",
       "- Dynamic FPS (lowers fps when tabbed out of game)",
       "- Embeddium (Powerhouse rework of tons of rendering optimizations, among many others)",
@@ -33,13 +32,15 @@
       "- ServerCore (TPS optimizations, mob optimizations and more serverend customizability)",
       "- Smooth Boot (increases loading time and optimizes memory usage on load)",
       "- XXL Packets (supports larger packet sizes on connection load)",
-      "- spark (at the end of the modlist for some reason? performance profiler, run /spark profiler start, or /sparkc for client instead of server)"
+      "- spark (at the end of the modlist for some reason? performance profiler, run /spark profiler start, or /sparkc for client instead of server)",
+      "",
+      "(List slightly outdated, there's more trust me)"
     ],
     "groups": {
       "Core": {
         "position": [
-          51,
-          -56
+          -137,
+          49
         ]
       }
     },

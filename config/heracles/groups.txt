@@ -1,10 +1,7 @@
 Core
-Culinary
-Exploring
-Building
 Fauna
 Flora
+Building
 Engineering
 Spelunking
-Lore
-Misc
+Culinary

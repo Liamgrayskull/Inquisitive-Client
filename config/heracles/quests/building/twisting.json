@@ -7,7 +7,7 @@
       "text": ""
     },
     "description": [
-      ""
+      "Through a unique process, one can create new materials through sending blocks through a nether portal- or even setting them next to it to be corrupted, come more common materials."
     ],
     "groups": {
       "Building": {
@@ -19,7 +19,7 @@
     },
     "icon": {
       "item": {
-        "id": "minecraft:map",
+        "id": "architects_palette:warpstone",
         "count": 1
       },
       "type": "heracles:item"
@@ -30,10 +30,11 @@
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

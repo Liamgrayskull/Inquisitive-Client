@@ -1,5 +1,13 @@
 {
   "bookGuiScale": 0,
   "clickedVisualize": false,
-  "bookData": {}
+  "bookData": {
+    "scriptor:scriptor_guide": {
+      "viewedEntries": [
+        "scriptor:casting/verbal"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
 }

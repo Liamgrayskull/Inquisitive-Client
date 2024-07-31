@@ -1,5 +1,7 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "cavesplorer"
+  ],
   "tasks": {},
   "rewards": {},
   "display": {
@@ -12,8 +14,8 @@
     "groups": {
       "Core": {
         "position": [
-          -197,
-          -150
+          -138,
+          -416
         ]
       }
     },

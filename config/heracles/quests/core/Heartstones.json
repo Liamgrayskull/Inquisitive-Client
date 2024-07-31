@@ -19,26 +19,32 @@
   "rewards": {},
   "display": {
     "subtitle": {
-      "translate": "Useful for Multiplayer!"
+      "translate": "Useful for Multiplayer in many ways!"
     },
     "description": [
-      "Heartstones, crafted in sets of two, will let you link with another.",
-      "> ",
+      "/4/Rubies/4/ are a particularly crucial material for Inquisitive's server. They can be used to craft anything from trading stations to heart crystals!",
+      "",
+      "> Ruby Shards can be combined with many materials to create heart crystals and containers.",
+      "- Heart Crystals persist like a longer absorption heart, regenerateable until you die.",
+      "- Heart Containers are permanent, and can be made without rubies to store hearts.",
+      "",
+      "> Rubies can also be crafted into Trade Stations and cards, which store your rubies as a convenient form of currency, with some limitations;",
+      "- Trade Stations can only sell one item at a time",
+      "- They require a proper stock!",
+      "",
+      "",
+      "",
+      "",
+      "> Heartstones, crafted in sets of two, will let you link with another.",
       "> It comes in pairs, and allows the player to seek out another player to whom they've given the second stone.",
-      "> ",
       "> Right-clicking the stone sends a particle trail in the direction of the player.",
-      "> ",
-      "> Getting closer to the target player will also make them glow pink, allowing you to easily spot them. (Forge only)",
-      "> ",
-      "> Now you can find friends without hitting F3 once!",
-      "> ",
-      "/d/https://modrinth.com/mod/heartstone/d/"
+      "> Getting closer to the target player will also make them glow pink, allowing you to easily spot them."
     ],
     "groups": {
       "Core": {
         "position": [
-          -85,
-          -204
+          -78,
+          -359
         ]
       }
     },
@@ -51,7 +57,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/hearts.png",
     "title": {
-      "translate": "Heartstones"
+      "translate": "Rubies!"
     }
   },
   "settings": {

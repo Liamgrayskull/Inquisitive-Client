@@ -18,6 +18,10 @@
         "hidden": true,
         "required": true
         },
+        "natures_spirit:emissive_ores_compatibility": {
+          "hidden": true,
+          "required": true
+          },
       "enchancement:alternate_gale": {
         "hidden": true
         },

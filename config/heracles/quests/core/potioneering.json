@@ -1,5 +1,7 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "construction"
+  ],
   "tasks": {},
   "rewards": {},
   "display": {
@@ -12,8 +14,8 @@
     "groups": {
       "Core": {
         "position": [
-          -246,
-          -120
+          -147,
+          -338
         ]
       }
     },

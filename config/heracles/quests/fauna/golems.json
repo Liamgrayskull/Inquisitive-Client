@@ -8,12 +8,14 @@
     "subtitle": {
       "text": ""
     },
-    "description": [],
+    "description": [
+      "Oddly associated with the carved pumpkin, Golems are highly disputed in specific origin, though the basics are present- living beings fused by souls and materials. Many say golems could comprise plenty more life forms than obvious, or even all of them, others say that they are crude reflections of real life."
+    ],
     "groups": {
       "Fauna": {
         "position": [
-          -12,
-          -23
+          14,
+          -81
         ]
       }
     },

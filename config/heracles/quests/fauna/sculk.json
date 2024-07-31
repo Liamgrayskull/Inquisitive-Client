@@ -8,12 +8,14 @@
     "subtitle": {
       "text": ""
     },
-    "description": [],
+    "description": [
+      "The sculk species behaves more like a growth than individual beings, though it's means of corrupting other beings through infection earns it the title, spreading through nodes that absorb souls to develop physicalized growth. Some of this sculk will then produce a discharge, dubbed \"nepherite\". Any of this substance is either something to be especially wary of, or a marking of a once highly corrupted area."
+    ],
     "groups": {
       "Fauna": {
         "position": [
-          -67,
-          28
+          -21,
+          26
         ]
       }
     },

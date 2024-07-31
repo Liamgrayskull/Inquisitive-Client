@@ -11,12 +11,6 @@ craftingTable.remove(<item:simpleradio:radio>);
 craftingTable.remove(<item:scriptor:casting_crystal>);
 craftingTable.remove(<item:scriptor:chalk>);
 
-craftingTable.remove(<item:dimdungeons:block_key_charger>);
-craftingTable.remove(<item:dimdungeons:block_gilded_portal>);
-craftingTable.remove(<item:dimdungeons:block_portal_keyhole>);
-craftingTable.remove(<item:dimdungeons:item_homeward_pearl>);
-craftingTable.remove(<item:dimdungeons:item_portal_key>);
-craftingTable.remove(<item:dimdungeons:item_blank_build_key>);
 
 
 craftingTable.remove(<item:minecraft:spyglass>);
@@ -43,15 +37,32 @@ craftingTable.remove(<item:waystones:mossy_waystone>);
 craftingTable.remove(<item:waystones:sandy_waystone>);
 craftingTable.remove(<item:waystones:sharestone>);
 
+craftingTable.remove(<item:heartstone:heartstone>);
+craftingTable.remove(<item:healpgood:withered_heart>);
+craftingTable.remove(<item:healpgood:golden_heart>);
+
+
+craftingTable.addShaped("ruby_craft", <item:ruby_exchange:ruby> * 1, [[<item:healpgood:heart_crystal_shard>, <item:minecraft:air>, <item:minecraft:air>], [<item:healpgood:heart_crystal_shard>, <item:healpgood:heart_crystal_shard>, <item:minecraft:air>], [<item:healpgood:heart_crystal_shard>, <item:healpgood:heart_crystal_shard>, <item:healpgood:heart_crystal_shard>]]);
+craftingTable.addShapeless("rubybreak", <item:healpgood:heart_crystal_shard> * 6, [<item:ruby_exchange:ruby>]);
+
+craftingTable.addShaped("electrumcontainer", <item:healpgood:withered_heart> * 1, [[<item:oreganized:electrum_ingot>, <item:oreganized:electrum_nugget>, <item:oreganized:electrum_ingot>], [<item:oreganized:electrum_nugget>, <item:minecraft:air>, <item:oreganized:electrum_nugget>], [<item:oreganized:electrum_ingot>, <item:oreganized:electrum_nugget>, <item:oreganized:electrum_ingot>]]);
+craftingTable.addShaped("soulheart", <item:healpgood:golden_heart> * 1, [[<item:minecraft:air>, <item:alexsmobs:soul_heart>, <item:minecraft:air>], [<item:quark:soul_bead>, <item:healpgood:withered_heart>, <item:quark:soul_bead>], [<item:minecraft:air>, <item:healpgood:crystal_heart>, <item:minecraft:air>]]);
+craftingTable.addShaped("emberheart", <item:healpgood:golden_heart> * 1, [[<item:biomemakeover:soul_embers>, <item:dungeonnowloading:soul_silk>, <item:biomemakeover:soul_embers>], [<item:dungeonnowloading:soul_cloth>, <item:healpgood:withered_heart>, <item:dungeonnowloading:soul_cloth>], [<item:minecraft:air>, <item:healpgood:crystal_heart>, <item:minecraft:air>]]);
+craftingTable.addShaped("enderheart", <item:healpgood:golden_heart> * 1, [[<item:minecraft:air>, <item:healpgood:ender_soul>, <item:minecraft:air>], [<item:minecraft:end_crystal>, <item:healpgood:withered_heart>, <item:minecraft:end_crystal>], [<item:minecraft:air>, <item:healpgood:crystal_heart>, <item:minecraft:air>]]);
+
+
+craftingTable.addShaped("soulheartstone", <item:heartstone:heartstone> * 2, [[<item:minecraft:air>, <item:healpgood:heart_crystal_shard>, <item:minecraft:air>], [<item:healpgood:heart_crystal_shard>, <item:alexsmobs:soul_heart>, <item:healpgood:heart_crystal_shard>], [<item:minecraft:air>, <item:healpgood:heart_crystal_shard>, <item:minecraft:air>]]);
+craftingTable.addShaped("seaheartstone", <item:heartstone:heartstone> * 2, [[<item:minecraft:air>, <item:healpgood:heart_crystal_shard>, <item:minecraft:air>], [<item:healpgood:heart_crystal_shard>, <item:minecraft:heart_of_the_sea>, <item:healpgood:heart_crystal_shard>], [<item:minecraft:air>, <item:healpgood:heart_crystal_shard>, <item:minecraft:air>]]);
+craftingTable.addShaped("ironheartstone", <item:heartstone:heartstone> * 2, [[<item:minecraft:air>, <item:healpgood:heart_crystal_shard>, <item:minecraft:air>], [<item:healpgood:heart_crystal_shard>, <item:alexscaves:heart_of_iron>, <item:healpgood:heart_crystal_shard>], [<item:minecraft:air>, <item:healpgood:heart_crystal_shard>, <item:minecraft:air>]]);
+craftingTable.addShaped("diamondheartstone", <item:heartstone:heartstone> * 2, [[<item:minecraft:air>, <item:healpgood:heart_crystal_shard>, <item:minecraft:air>], [<item:healpgood:heart_crystal_shard>, <item:quark:diamond_heart>, <item:healpgood:heart_crystal_shard>], [<item:minecraft:air>, <item:healpgood:heart_crystal_shard>, <item:minecraft:air>]]);
+
+craftingTable.addShapeless("evileye", <item:endrem:evil_eye> * 1, [<item:alexscaves:pearl>, <item:oreganized:electrum_ingot>, <item:biomemakeover:soul_embers>, <item:tetra:pristine_lapis>]);
+craftingTable.addShapeless("coldeye", <item:endrem:cold_eye> * 1, [<item:endermanoverhaul:icy_pearl>, <item:biomemakeover:soul_embers>]);
+craftingTable.addShapeless("blackeye", <item:endrem:black_eye> * 1, [<item:endermanoverhaul:ancient_pearl>, <item:biomemakeover:soul_embers>]);
+craftingTable.addShapeless("corruptedeye", <item:endrem:corrupted_eye> * 1, [<item:endermanoverhaul:corrupted_pearl>, <item:biomemakeover:soul_embers>]);
 
 
 
-
-craftingTable.addShapeless("teaconv1", <item:bitter_brews:tea_leaves> * 2, [<item:bountifulfares:tea_leaves>,<item:bountifulfares:tea_leaves>]);
-craftingTable.addShapeless("teaconv2", <item:bountifulfares:tea_leaves> * 2, [<item:bitter_brews:tea_leaves>,<item:bitter_brews:tea_leaves>]);
-
-craftingTable.addShapeless("strawconv1", <item:neapolitan:strawberries> * 2, [<item:mint:strawberry>,<item:mint:strawberry>]);
-craftingTable.addShapeless("strawconv2", <item:mint:strawberry> * 2, [<item:neapolitan:strawberries>,<item:neapolitan:strawberries>]);
 
 
 craftingTable.addShaped("spyglass", <item:minecraft:spyglass> * 1, [[<item:minecraft:gold_nugget>, <item:galosphere:allurite_shard>, <item:minecraft:gold_nugget>], [<item:minecraft:air>, <item:minecraft:copper_ingot>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:copper_ingot>, <item:minecraft:air>]]);
@@ -68,38 +79,6 @@ craftingTable.addShapeless("scrap_tier2", <item:scriptor:scrap_tier2> * 1, [<ite
 craftingTable.addShapeless("scrap_tier3", <item:scriptor:scrap_tier3> * 1, [<item:scriptor:tome_tier3>]);
 
 
-craftingTable.addShapeless("pewenamberdye", <item:mint:amber_dye> * 1, [<item:alexscaves:pewen_sap>]);
-craftingTable.addShapeless("amberalexamberdye", <item:mint:amber_dye> * 1, [<item:alexscaves:amber>]);
-craftingTable.addShapeless("bigfernsapdye", <item:mint:sap_dye> * 1, [<item:minecraft:large_fern>]);
-craftingTable.addShapeless("fernsapdye", <item:mint:sap_dye> * 1, [<item:minecraft:fern>]);
-craftingTable.addShapeless("eldergrapedye", <item:mint:grape_dye> * 1, [<item:bountifulfares:elderberries>]);
-craftingTable.addShapeless("pastesagedye", <item:mint:sage_dye> * 1, [<item:quark:moss_paste>]);
-craftingTable.addShapeless("minerssagedye", <item:mint:sage_dye> * 1, [<item:miners_delight:moss>]);
-craftingTable.addShapeless("clumpsagedye", <item:mint:sage_dye> * 1, [<item:immersive_weathering:moss_clump>]);
-craftingTable.addShapeless("tangleacorndye", <item:mint:acorn_dye> * 1, [<item:spelunkery:tangle_roots>]);
-craftingTable.addShapeless("walnutacorndye", <item:mint:acorn_dye> * 1, [<item:bountifulfares:walnut>]);
-craftingTable.addShapeless("elevibloomseedindigodye", <item:mint:indigo_dye> * 1, [<item:enlightened_end:elevibloom_seeds>]);
-craftingTable.addShapeless("berryceruleandye", <item:mint:cerulean_dye> * 1, [<item:enlightened_end:azure_berries>]);
-craftingTable.addShapeless("toughvermiliondye", <item:mint:vermilion_dye> * 1, [<item:alexscaves:tough_hide>]);
-craftingTable.addShapeless("neabananadye", <item:mint:banana_dye> * 1, [<item:neapolitan:banana>]);
-craftingTable.addShapeless("alexbananadye", <item:mint:banana_dye> * 1, [<item:alexsmobs:banana>]);
-craftingTable.addShapeless("slugbananadye", <item:mint:banana_dye> * 1, [<item:alexsmobs:banana_slug_slime>]);
-craftingTable.addShapeless("gelfuchsiadye", <item:mint:fuchsia_dye> * 1, [<item:enlightened_end:ennegel_glob>]);
-craftingTable.addShapeless("plumvelvetdye", <item:mint:velvet_dye> * 1, [<item:bountifulfares:plum>]);
-craftingTable.addShapeless("weedmolddye", <item:mint:mold_dye> * 1, [<item:immersive_weathering:weeds>]);
-craftingTable.addShapeless("cloverockdye", <item:mint:shamrock_dye> * 1, [<item:buzzier_bees:four_leaf_clover>]);
-craftingTable.addShapeless("gourdmintdye", <item:mint:mint_dye> * 1, [<item:enlightened_end:glow_gourd_slice>]);
-craftingTable.addShapeless("sproutmintdye", <item:mint:mint_dye> * 1, [<item:neapolitan:mint_sprout>]);
-craftingTable.addShapeless("cloverrockdye", <item:mint:shamrock_dye> * 1, [<item:buzzier_bees:four_leaf_clover>]);
-craftingTable.addShapeless("pulprockdye", <item:mint:shamrock_dye> * 1, [<item:habitat:kabloom_pulp>]);
-craftingTable.addShapeless("berrymauvedye", <item:mint:mauve_dye> * 1, [<item:berry_good:sweet_berry_pips>]);
-craftingTable.addShapeless("lapisnavydye", <item:mint:navy_dye> * 1, [<item:bountifulfares:lapisberry_seeds>]);
-craftingTable.addShapeless("lapisberrynavydye", <item:mint:navy_dye> * 1, [<item:bountifulfares:lapisberries>]);
-
-
-
-
-
 craftingTable.addShaped("mimicatalyst", <item:transmog:void_fragment> * 1, [[<item:minecraft:air>, <item:enlightened_end:void_shale>, <item:minecraft:air>], [<item:enlightened_end:void_shale>, <item:alexsmobs:mimicream>, <item:enlightened_end:void_shale>], [<item:minecraft:air>, <item:enlightened_end:void_shale>, <item:minecraft:air>]]);
 craftingTable.addShaped("mimification_table", <item:transmog:transmogrification_table> * 1, [[<item:minecraft:air>, <item:transmog:void_fragment>, <item:minecraft:air>], [<item:enlightened_end:void_shale>, <item:minecraft:tinted_glass>, <item:enlightened_end:void_shale>], [<item:minecraft:crying_obsidian>, <item:minecraft:crying_obsidian>, <item:minecraft:crying_obsidian>]]);
 
@@ -107,7 +86,7 @@ craftingTable.addShaped("mimification_table", <item:transmog:transmogrification_
 craftingTable.addShapeless("spudtalkie", <item:simpleradio:spuddie_talkie> * 1, [<item:simpleradio:antenna>, <item:minecraft:potato>, <item:createaddition:copper_wire>]);
 craftingTable.addShapeless("antenna", <item:simpleradio:antenna> * 1, [<item:createaddition:copper_wire>,  <item:minecraft:iron_bars>]);
 craftingTable.addShapeless("speaker", <item:simpleradio:speaker> * 1, [<item:simpleradio:antenna>,<item:create:andesite_casing>, <item:minecraft:black_wool>]);
-craftingTable.addShapeless("walkie", <item:simpleradio:walkie_talkie> * 1, [<item:caverns_and_chasms:tuning_fork>,<item:spelunkery:cinnabar>, <item:supplementaries:cog_block>, <item:createaddition:copper_wire>]);
+craftingTable.addShapeless("walkie", <item:simpleradio:walkie_talkie> * 1, [<item:spelunkery:tuning_fork>,<item:spelunkery:cinnabar>, <item:supplementaries:cog_block>, <item:createaddition:copper_wire>]);
 craftingTable.addShaped("frequencer", <item:simpleradio:frequencer> * 1, [[<item:minecraft:air>, <item:simpleradio:antenna>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:calibrated_sculk_sensor>, <item:computercraft:wireless_modem_normal>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);
 craftingTable.addShaped("microphone", <item:simpleradio:microphone> * 1, [[<item:minecraft:air>, <item:minecraft:black_wool>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:calibrated_sculk_sensor>, <item:minecraft:air>], [<item:minecraft:air>, <item:create:andesite_casing>, <item:minecraft:air>]]);
 craftingTable.addShaped("radiomaker", <item:simpleradio:radio> * 1, [[<item:minecraft:air>, <item:minecraft:calibrated_sculk_sensor>, <item:minecraft:air>], [<item:spelunkery:cinnabar>, <item:simpleradio:speaker>, <item:createaddition:copper_spool>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);
@@ -121,22 +100,3 @@ craftingTable.addShaped("void_block", <item:blockofsky:void_block> * 1, [[<item:
 craftingTable.addShaped("sky_block", <item:blockofsky:sky_block> * 1, [[<item:minecraft:air>, <item:enlightened_end:stardust>, <item:minecraft:air>], [<item:enlightened_end:stardust>, <item:minecraft:glowstone>, <item:enlightened_end:stardust>], [<item:minecraft:air>, <item:enlightened_end:stardust>, <item:minecraft:air>]]);
 
 craftingTable.addShaped("transmutation_table", <item:alexsmobs:transmutation_table> * 1, [[<item:minecraft:air>, <item:minecraft:nether_star>, <item:minecraft:air>], [<item:alexsmobs:farseer_arm>, <item:alexsmobs:mimicream>, <item:alexsmobs:farseer_arm>], [<item:minecraft:obsidian>, <item:minecraft:obsidian>, <item:minecraft:obsidian>]]);
-
-
-
-
-    <recipetype:farmersdelight:cooking>.addRecipe("create_chocolate_gummy", <item:collectorsreap:chocolate_gummy>,
-    [<item:create:bar_of_chocolate>, <item:minecraft:honey_bottle>, <item:minecraft:sugar>, <item:minecraft:kelp>], 
-    <constant:farmersdelight:cooking_pot_recipe_book_tab:meals>, <item:minecraft:air>, 10, 200);
-    <recipetype:farmersdelight:cooking>.addRecipe("bountiful_passion_fruit_gummy", <item:collectorsreap:passion_fruit_gummy>,
-    [<item:bountifulfares:passion_fruit>, <item:minecraft:honey_bottle>, <item:minecraft:sugar>, <item:minecraft:kelp>], 
-    <constant:farmersdelight:cooking_pot_recipe_book_tab:meals>, <item:minecraft:air>, 10, 200);
-    <recipetype:farmersdelight:cooking>.addRecipe("bountiful_green_tea_gummy", <item:collectorsreap:green_tea_gummy>,
-    [<item:bountifulfares:green_tea_blend>, <item:minecraft:honey_bottle>, <item:minecraft:sugar>, <item:minecraft:kelp>], 
-    <constant:farmersdelight:cooking_pot_recipe_book_tab:meals>, <item:minecraft:air>, 10, 200);
-    <recipetype:farmersdelight:cooking>.addRecipe("bountiful_honeysuckle_tea_gummy", <item:collectorsreap:yellow_tea_gummy>,
-    [<item:bountifulfares:honeysuckle_tea_blend>, <item:minecraft:honey_bottle>, <item:minecraft:sugar>, <item:minecraft:kelp>], 
-    <constant:farmersdelight:cooking_pot_recipe_book_tab:meals>, <item:minecraft:air>, 10, 200);
-    <recipetype:farmersdelight:cooking>.addRecipe("bountiful_black_tea_fruit_gummy", <item:collectorsreap:black_tea_gummy>,
-    [<item:bountifulfares:black_tea_blend>, <item:minecraft:honey_bottle>, <item:minecraft:sugar>, <item:minecraft:kelp>], 
-    <constant:farmersdelight:cooking_pot_recipe_book_tab:meals>, <item:minecraft:air>, 10, 200);

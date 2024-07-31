@@ -20,7 +20,9 @@
 		"id": "mention",
 		"soundEvent": "minecraft:block.note_block.chime"
 	},
-	"useAtForChatMentions": true,
+	"mentionKeywords": [
+		"@Grayskulll"
+	],
 	"ignoreSystemChats": false,
 	"enableChatSoundCooldown": true,
 	"chatSoundCooldown": 0.5

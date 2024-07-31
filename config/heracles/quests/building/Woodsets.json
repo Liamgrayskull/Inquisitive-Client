@@ -6,12 +6,14 @@
     "subtitle": {
       "text": ""
     },
-    "description": [],
+    "description": [
+      "Inquisitive offers plenty of new woodsets from each dimension to choose from, and all come with variants for each wood block avaliable as well! Similar woodsets/woods that serve the same purposes are merged, or redundant ones are swapped for better suited blocksets to give a unique twist."
+    ],
     "groups": {
       "Building": {
         "position": [
           37,
-          19
+          18
         ]
       }
     },

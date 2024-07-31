@@ -8,7 +8,9 @@
     "subtitle": {
       "text": ""
     },
-    "description": [],
+    "description": [
+      "Copper is the basic element for meshing with redstone, liquids and electricity. Through redstone, it acts as the primary casing, used in elements such as pistons, levers, dispensers, droppers, observers, and plenty of other familiar elements, and with liquids it acts as a nicer casing than that of iron, avoiding degredation through rust. Finally, copper can be used quite effectively to conduct electricity, often deoxidizing the element and holding a charge effectively. In some cases this can be relayed into rotational power, though these vary and often depend on material."
+    ],
     "groups": {
       "Engineering": {
         "position": [
@@ -30,10 +32,11 @@
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

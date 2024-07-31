@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:[]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","mod_resources","Inqrp300.zip","Moonlight Mods Dynamic Assets","black_icons","bountifulfares:amendments_res","bountifulfares:natures_spirit_res","bountifulfares:spawn_res","bountifulfares:twigs_res","bountifulfares:vanilla_item_override","create_central_kitchen:create_styled","fabric","minecraft:perspective","spelunkery:better_vanilla_gems","spelunkery:emissive_better_vanilla_ores","spelunkery:unlit_redstone_ores","natures_spirit:emissive_ores_compatibility"]
+incompatibleResourcePacks:["create_central_kitchen:create_styled"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -53,7 +53,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.0
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -120,12 +120,11 @@ key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.modernfix.config:key.keyboard.unknown
-key_qualitysounds.sound_reload_key:key.keyboard.unknown
 key_key.exposure.camera_controls:key.keyboard.unknown
 key_info.structure_gel.building_tool.undo:key.keyboard.z:CONTROL
 key_info.structure_gel.building_tool.redo:key.keyboard.y:CONTROL
 key_key.structure_gel.open_building_tool_gui:key.keyboard.r
-key_key.corpse.death_history:key.keyboard.u
+key_key.corpse.death_history:key.keyboard.j
 key_key.flying_stuff.freefall:key.keyboard.r
 key_key.additionalplacements.placement_toggle:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.r
@@ -175,6 +174,7 @@ key_key.picohud.show:key.keyboard.left.alt
 key_key.extraalchemy.magnetism_toggle:key.keyboard.n
 key_key.extraalchemy.potion_bag_mode:key.keyboard.k
 key_key.diet.open.desc:key.keyboard.unknown
+key_keyinfo.copycats.fill_copycat:key.keyboard.left.alt
 key_key.enlightened_end.dashing_leggings_ability:key.keyboard.g
 key_key.do_a_barrel_roll.toggle_enabled:key.keyboard.i
 key_key.do_a_barrel_roll.toggle_thrust:key.keyboard.unknown
@@ -215,10 +215,9 @@ key_key.immersive_aircraft.boost:key.keyboard.b
 key_Take Panorama Screenshot:key.keyboard.r
 key_key.beansbackpacks.action:key.keyboard.unknown
 key_key.beansbackpacks.inventory:key.keyboard.unknown
-key_key.seasonhud.seasonhudOptions:key.keyboard.h
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
-key_key.personality.crawl:key.keyboard.c
+key_key.personality.crawl:key.keyboard.x
 key_key.personality.sit:key.keyboard.z
 key_key.special_ability:key.keyboard.g
 key_key.jade.config:key.keyboard.keypad.0
@@ -227,7 +226,7 @@ key_key.jade.toggle_liquid:key.keyboard.keypad.2
 key_key.jade.show_recipes:key.keyboard.keypad.3
 key_key.jade.show_uses:key.keyboard.keypad.4
 key_key.jade.narrate:key.keyboard.keypad.5
-key_key.jade.show_details:key.keyboard.left.shift
+key_key.jade.show_details:key.keyboard.left.alt
 key_quark.keybind.autorun:key.keyboard.unknown
 key_quark.keybind.back:key.mouse.4
 key_quark.keybind.camera_mode:key.keyboard.f12
@@ -263,8 +262,8 @@ key_supplementaries.keybind.quiver:key.keyboard.v
 key_key.screenshot_viewer.open_screenshots_screen:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_keybind.invmove.toggleMove:key.keyboard.unknown
-soundCategory_master:0.5182119205298014
-soundCategory_music:0.01936619718309859
+soundCategory_master:1.0
+soundCategory_music:0.03873239436619718
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

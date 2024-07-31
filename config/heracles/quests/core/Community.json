@@ -14,8 +14,8 @@
     "groups": {
       "Core": {
         "position": [
-          0,
-          44
+          -1,
+          6
         ]
       }
     },
@@ -32,10 +32,11 @@
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

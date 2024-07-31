@@ -8,7 +8,9 @@
     "subtitle": {
       "translate": "I <3 Rubies"
     },
-    "description": [],
+    "description": [
+      "Rubies carry a multitude of unique properties, namely being useful for their associated regenerative abilities. Found underground, they have as much use in imbuing life as much as being an attractive commerce option."
+    ],
     "groups": {
       "Spelunking": {
         "position": [

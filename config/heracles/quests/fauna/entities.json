@@ -6,7 +6,9 @@
     "subtitle": {
       "text": ""
     },
-    "description": [],
+    "description": [
+      "Both a catch-all for more sentient living beings and a definition of some of the closer things to you- Entities came in a plethora of forms, though many went extinct."
+    ],
     "groups": {
       "Fauna": {
         "position": [
@@ -17,7 +19,7 @@
     },
     "icon": {
       "item": {
-        "id": "minecraft:map",
+        "id": "bountifulfares:magenta_jack_o_straw",
         "count": 1
       },
       "type": "heracles:item"

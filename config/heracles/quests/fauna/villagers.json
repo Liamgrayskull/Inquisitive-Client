@@ -8,18 +8,20 @@
     "subtitle": {
       "text": ""
     },
-    "description": [],
+    "description": [
+      "A mostly docile race of peoples who have conqured many locations spanning the overworld in the search of trade, villagers practice almost every artisan craft imagineable (although many are yet to be discovered to them)"
+    ],
     "groups": {
       "Fauna": {
         "position": [
-          37,
-          -19
+          80,
+          -55
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "minecraft:map",
+        "id": "tetra:pristine_emerald",
         "count": 1
       },
       "type": "heracles:item"
@@ -30,10 +32,11 @@
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

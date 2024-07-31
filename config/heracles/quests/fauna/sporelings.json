@@ -14,14 +14,14 @@
     "groups": {
       "Fauna": {
         "position": [
-          -175,
-          -29
+          -204,
+          -47
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "savage_and_ravage:creeper_spores",
+        "id": "habitat:kabloom_fruit",
         "count": 1
       },
       "type": "heracles:item"

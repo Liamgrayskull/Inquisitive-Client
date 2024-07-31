@@ -12,14 +12,14 @@
     "groups": {
       "Engineering": {
         "position": [
-          -161,
+          -159,
           -109
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "minecraft:map",
+        "id": "create:clockwork_bearing",
         "count": 1
       },
       "type": "heracles:item"
@@ -30,10 +30,11 @@
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

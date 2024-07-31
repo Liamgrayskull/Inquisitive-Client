@@ -1,6 +1,5 @@
 {
   "dependencies": [
-    "Submissions",
     "Community"
   ],
   "tasks": {},
@@ -17,8 +16,8 @@
     "groups": {
       "Core": {
         "position": [
-          -67,
-          10
+          -64,
+          78
         ]
       }
     },
@@ -31,14 +30,15 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Submissions & Tips!"
+      "translate": "Submissions & Tips! WIP"
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

@@ -18,10 +18,6 @@
 			ancient = true
 			blossom = false
 
-		[types.wood_type.mint]
-			wintergreen = true
-			madder = true
-
 		[types.wood_type.bountifulfares]
 			hoary = true
 			walnut = true
@@ -59,9 +55,6 @@
 			driftwood = true
 			river = true
 
-		[types.wood_type.caverns_and_chasms]
-			azalea = true
-
 		[types.wood_type.alexscaves]
 			pewen = true
 			thornwood = true
@@ -96,9 +89,6 @@
 
 	[types.cake]
 
-		[types.cake.mint]
-			velvet_cake = true
-
 		[types.cake.bountifulfares]
 			cocoa_cake = true
 
@@ -121,19 +111,21 @@
 			nightshade_berry_cake = true
 			zure_berry_cake = true
 
-		[types.cake.collectorsreap]
-			lime_cake = true
-			pomegranate_cake = true
-
 		[types.cake.natures_spirit]
 			cheese_block = true
 
-	[types.leaves_type]
+		[types.cake.mynethersdelight]
+			magma_cake = true
 
-		[types.leaves_type.mint]
-			wintergreen = true
-			peach = true
-			flowering_peach = true
+		[types.cake.farmersrespite]
+			coffee_cake = true
+
+		[types.cake.respiteful]
+			green_tea_cake = true
+			yellow_tea_cake = true
+			black_tea_cake = true
+
+	[types.leaves_type]
 
 		[types.leaves_type.bountifulfares]
 			apple = true
@@ -208,6 +200,7 @@
 			yellow_larch = true
 			mahogany = true
 			saxaul = true
+			frosty_redwood = true
 
 		[types.leaves_type.biomemakeover]
 			blighted_balsa = true

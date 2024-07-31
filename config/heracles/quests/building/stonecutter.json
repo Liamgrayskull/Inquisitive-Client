@@ -6,7 +6,9 @@
     "subtitle": {
       "text": ""
     },
-    "description": [],
+    "description": [
+      "Stonecutters enable you to cut costs on all stone block variants, along with crafting other cuts of blocks through stonecutter-unique variants."
+    ],
     "groups": {
       "Building": {
         "position": [
@@ -28,10 +30,11 @@
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

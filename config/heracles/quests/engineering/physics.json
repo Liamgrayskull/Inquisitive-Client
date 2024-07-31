@@ -9,7 +9,9 @@
     "subtitle": {
       "text": ""
     },
-    "description": [],
+    "description": [
+      "Physics perform essentially the same as regular blocks, except for following a rigid body physics system that constructs \"ships\" from assembled blocks into an inaccessible chunk invariably off from players called the \"shipyard\". This is where the true blocks are stored, and when a ship is assembled, these blocks are fully interactable, placeable, destructable and movable using the data from blocks transferred to the shipyard."
+    ],
     "groups": {
       "Engineering": {
         "position": [

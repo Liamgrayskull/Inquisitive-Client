@@ -11,16 +11,17 @@
     "description": [
       "/5/--**Welcome to Inqusitive!**--/5/",
       "",
-      "Cultivated from the remains of a cookie-cutter vanilla+ modpack, Inquisitive aims to be a unique, tailored experience- not just compared to vanilla, but modpacks in general. It's foundations laid in Sinytra Connector, which builds a bridge across the Forge & Fabric loader gap, Inquisitive urges you to ask questions; find your niche, discover lore of varying breadth, and learn about everything the pack has to offer that appeals to how you want to play.",
+      "This is a modpack that aims to take the essence of exploration and take you on a journey through some of the highlights of the modded community in a cohesive, long-term experience, charting skies, stars, the sea, or realms beyond comprehension. It uses a variety of custom content to combine over 300 mods into a unique pack that features an entire redux of vanilla, the most vanilla thing it aims to retain is the feeling of discovering something fresh for the first time. So turn your gaze towards the stars, and keep exploring!",
       "",
-      "- Explore without worrying about Forge or Fabric",
-      "- See all of vanilla given a face-lift",
+      "",
+      "- Discover your niche in the modded community",
+      "- Play one of the oldest public Connector modpacks",
+      "- See all of vanilla given a face-lift ",
       "- Explore new mechanics curtailed to the pack",
-      "- Revamped menus with the loose space theme of   Inquisitive",
-      "- A designated hosted server hosting even more custom configuration, 24 hour uptime",
-      "- Player-submitted photography, documentation, tips, custom content and lore",
-      "- Beautiful ambience that doesn't necessitate shaders to look good (but it still does)",
-      "- Active development & polish to make it the best it can be",
+      "- Navigate reworked menus with plentiful new features",
+      "- Tinker with physics integration through Valkyrien Skies",
+      "- Uncover custom lore written for the server",
+      "- Learn about hundreds of features through Heracles-based documentation",
       "",
       "",
       "",
@@ -30,7 +31,7 @@
       "Core": {
         "position": [
           -1,
-          -37
+          -38
         ]
       }
     },
@@ -47,10 +48,11 @@
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

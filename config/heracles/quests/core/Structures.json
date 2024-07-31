@@ -1,0 +1,42 @@
+{
+  "dependencies": [
+    "exploration"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "So, so many."
+    },
+    "description": [
+      "Structures come with multiples upon multiples more varietyt than that of vanilla's, particularly on the server (with about 2 dozen serverside structure mods installed) These structures, as much variety and mod-specific content as they might have, also happen to spawn less to counteract the variety there is, meaning that there will always be some new structure to explore."
+    ],
+    "groups": {
+      "Core": {
+        "position": [
+          211,
+          -327
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "alexscaves:cave_map_loading",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/hexagons.png",
+    "title": {
+      "translate": "Structures"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

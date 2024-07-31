@@ -338,6 +338,7 @@
 				jungle_spider = true
 				copper_golem = true
 				tortoise_shell = true
+				piranha = true
 
 			[light_sources.settings.entities.species]
 				deepfish = true
@@ -501,6 +502,8 @@
 			[light_sources.settings.entities.surface]
 				rhino = true
 				grizzly_bear = true
+				hardened_snowball = true
+				enchanter = true
 
 			[light_sources.settings.entities.guardvillagers]
 				guard = true
@@ -886,6 +889,7 @@
 				dragonfly = true
 				lightning_bug = true
 				lightning_bug_alternate = true
+				lightning_bottle = true
 
 			[light_sources.settings.entities.autumnity]
 				snail = true
@@ -922,6 +926,7 @@
 
 			[light_sources.settings.entities.glowroot]
 				glowroot_golem = true
+				projectile_glow_ink_balloon = true
 
 			[light_sources.settings.entities.dungeonnowloading]
 				sealed_chaos = true
@@ -987,6 +992,7 @@
 
 			[light_sources.settings.entities.dweller_dweller]
 				dweller_dweller = true
+				ominous_presence = true
 
 			[light_sources.settings.entities.deserts_and_dunes]
 				antlion = true
@@ -1404,10 +1410,37 @@
 				piglin_thrower = true
 				hoglin_brute = true
 				zombified_piglin_thrower = true
+				spores_area_cloud = true
 
 			[light_sources.settings.entities.healpgood]
 				health_bottle = true
 				health = true
+
+			[light_sources.settings.entities.the_bumblezone]
+				rootmin = true
+				variant_bee = true
+				honey_slime = true
+				pollen_puff = true
+				beehemoth = true
+
+			[light_sources.settings.entities.cosmos]
+				moon = true
+				pluto = true
+				mars = true
+				europa = true
+				rocket_seat = true
+				neptune = true
+				jupiter = true
+				jpb = true
+				sin = true
+				glacio = true
+				uranus = true
+				saturn = true
+				venus = true
+				earth = true
+
+			[light_sources.settings.entities.trackwork]
+				wheel_entity = true
 
 		[light_sources.settings.block_entities]
 

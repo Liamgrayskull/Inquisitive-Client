@@ -63,5 +63,6 @@
 		"id": "cakeEat",
 		"soundEvent": "minecraft:entity.generic.eat"
 	},
-	"enableEnderpearlVariety": true
+	"enableEnderpearlVariety": true,
+	"disableBlocksEntirely": false
 }

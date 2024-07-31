@@ -187,6 +187,17 @@
         "value": 40000
       }
     },
+    "shippingbin:crop_sell_multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 64,
+        "value": 64
+      }
+    },
     "thermoo:generic.min_temperature": {
       "enabled": false,
       "min": {
@@ -220,6 +231,17 @@
         "value": 1
       }
     },
+    "shippingbin:gem_sell_multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 64,
+        "value": 64
+      }
+    },
     "ars_nouveau:ars_nouveau.perk.wixie": {
       "enabled": false,
       "min": {
@@ -240,6 +262,17 @@
       "max": {
         "default": 20,
         "value": 1000000
+      }
+    },
+    "shippingbin:meat_sell_multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 64,
+        "value": 64
       }
     },
     "additionalentityattributes:dig_speed": {
@@ -328,6 +361,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "environmental:stealth": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
       }
     },
     "cold_sweat:world_temperature": {
@@ -515,6 +559,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "shippingbin:wood_sell_multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 64,
+        "value": 64
       }
     },
     "witherstormmod:evolution_speed": {
@@ -911,6 +966,17 @@
       "max": {
         "default": 2048,
         "value": 1000000
+      }
+    },
+    "shippingbin:sell_multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 64,
+        "value": 64
       }
     },
     "ars_nouveau:ars_nouveau.perk.feather": {

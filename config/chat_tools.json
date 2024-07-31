@@ -1,0 +1,83 @@
+{
+  "config.version": 2.301,
+  "general.ChatTools.Enabled": true,
+  "general.ShowWelcomeMessageEnabled": false,
+  "general.Timestamp.Enabled": true,
+  "general.Timestamp.Pattern": "\u0026e[{hour}:{minute}:{second}] \u0026r",
+  "general.Timestamp.CopyToChatBar.Enabled": true,
+  "general.RestoreMessages.Enabled": true,
+  "general.RestoreMessages.SplitLineEnabled": true,
+  "general.NickHider.Enabled": false,
+  "general.NickHider.Nickname": "\u00266You\u0026r",
+  "general.ChatHistoryNavigator.Enabled": true,
+  "general.PreviewClickEvents.Enabled": false,
+  "general.Translator.Enabled": false,
+  "general.Translator.API": "",
+  "general.Translator.PostInstead": false,
+  "general.MaxHistoryLength": 500.0,
+  "general.IncreaseChatFieldMaxLength": false,
+  "notifier.Toast.Enabled": false,
+  "notifier.Toast.Mode": "ADDON",
+  "notifier.Sound.Enabled": true,
+  "notifier.Sound.Type": "block.note_block.bit",
+  "notifier.Sound.Volume": 80.0,
+  "notifier.Sound.Pitch": 10.0,
+  "notifier.Actionbar.Enabled": true,
+  "notifier.Highlight.Enabled": true,
+  "notifier.Highlight.Prefix": "\u00266[!]\u0026r ",
+  "notifier.Highlight.OverwriteEnabled": false,
+  "notifier.IgnoreMyMessageEnabled": true,
+  "notifier.MatchMyNameEnabled": true,
+  "notifier.AllowList": [],
+  "notifier.BanList": [],
+  "formatter.Enabled": false,
+  "formatter.List": [],
+  "formatter.DisableOnMatchList": [
+    "^(\\+|-)?\\d+(\\.\\d+)?$|^[.#%$/].*|\\ball\\b",
+    "(^(\\[|\u003c)i(tem)?(\\]|\u003e)$)"
+  ],
+  "chatkeybindings.RepeatKey": "key.keyboard.unknown",
+  "chatkeybindings.RepeatKeyModifier": "NONE",
+  "chatkeybindings.Macro.Enabled": true,
+  "chatkeybindings.Macro.List": [],
+  "bubble.Enabled": true,
+  "bubble.Lifetime": 8.0,
+  "bubble.YOffset": 3.0,
+  "bubble.List": [
+    {
+      "address": ".*\\.hypixel\\.net",
+      "pattern": "(?\u003cname\u003e\\S+): (?\u003cmessage\u003e.*)",
+      "fallback": false
+    },
+    {
+      "address": "*",
+      "pattern": "\u003c(?\u003cname\u003e.*)\u003e (?\u003cmessage\u003e.*)",
+      "fallback": false
+    }
+  ],
+  "responder.Enabled": false,
+  "responder.RespondToFilteredMessages": false,
+  "responder.List": [
+    {
+      "address": "*",
+      "pattern": "Repeat my words:(?\u003cword\u003e.*)",
+      "message": "You said {word}.",
+      "delayInMilliseconds": 50.0,
+      "forceDisableFormatter": false
+    }
+  ],
+  "filter.Enabled": false,
+  "filter.FilteredPlaceholderEnabled": true,
+  "filter.List": [
+    "\u003cCHANGE ME\u003e"
+  ],
+  "customJoinMessage.Enabled": false,
+  "customJoinMessage.List": [
+    {
+      "address": "*",
+      "message": "/login xxx",
+      "delayInMilliseconds": 1000.0,
+      "forceDisableFormatter": false
+    }
+  ]
+}

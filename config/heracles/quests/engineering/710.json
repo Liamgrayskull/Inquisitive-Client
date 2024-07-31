@@ -9,7 +9,11 @@
       "translate": "Totally not Oil"
     },
     "description": [
-      ""
+      "Oil, found only through an oil detector (or raw unfettered luck) is obtainable solely through the use of a pumpjack. Pumpjacks require bearings to draw the oil, in a found oil chunk, from the deepest bedrock and begin drawing it upwards with a rotor. Once set up the pumpjack will have a hoisting mount with a cord to the pumpjack fuel port on one end and a rotating input on the other.",
+      "",
+      "Reference this video for a more proper tutorial;",
+      "",
+      "<component>{\"text\":\"Create Diesel Introduction\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://youtu.be/WkIWK0bWqJY\"}}</component>"
     ],
     "groups": {
       "Engineering": {
@@ -32,10 +36,11 @@
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

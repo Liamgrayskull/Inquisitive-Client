@@ -1,0 +1,42 @@
+{
+  "dependencies": [
+    "exploration"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "The presence of these floating isles is worth noting, some seemingly lifted by crystals that grow deep below the surface of the earth- though not all isles follow this princible, some lifted by other means."
+    ],
+    "groups": {
+      "Core": {
+        "position": [
+          203,
+          -401
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "flying_stuff:chiseled_skyrock",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Floating Isles"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

@@ -4,20 +4,34 @@
   "rewards": {},
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Schematics, Cannons and more!"
     },
-    "description": [],
+    "description": [
+      "There are two branches of cannon: typical armed cannons, and schematicannons. The latter being more complex, typical cannons come in:",
+      "",
+      "Cannon - Great for busting down walls.",
+      "Mortar - Fires projectiles over walls.",
+      "Giant Cannon - Even better for busting down walls.",
+      "Ballista Golem - A friendly sentry for dealing with pesky foes.",
+      "Spewer Golem - Burn your enemies away with a powerful crowd-controlling blast from the spewer. Stackable Golems!",
+      "",
+      "To use these cannons, you need projectiles (cannonnballs, gunpowder barrels, lava, or arrows depending on the weapon) and a fuel (typically gunpowder) ",
+      "Many of them are capable of changing trajectory.",
+      "",
+      "",
+      "Schematicannons however, require use of the schematic and quill, which lets you save sections of a given world as an .nbt file. Through this, using a schematic table and an empty schematic you will be able to access your saved nbt file, and deploy it in the schematicannon with gunpowder and the requested blocks, after you've specified where you want the schematic to be placed."
+    ],
     "groups": {
       "Engineering": {
         "position": [
-          -192,
-          -247
+          -198,
+          -243
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "minecraft:map",
+        "id": "create:schematicannon",
         "count": 1
       },
       "type": "heracles:item"
@@ -28,10 +42,11 @@
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

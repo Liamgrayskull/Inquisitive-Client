@@ -8,12 +8,14 @@
     "subtitle": {
       "text": ""
     },
-    "description": [],
+    "description": [
+      "The undead's original roots are unknown- speculated to derive from species unused to the concentration of gasses in the overworld, thus \"zombifying\"-- although there are a number of different forms of zombification. Through the degrading of once living form's flesh come animated skeletons, persisting via sheer will of their souls."
+    ],
     "groups": {
       "Fauna": {
         "position": [
-          -94,
-          41
+          -122,
+          26
         ]
       }
     },

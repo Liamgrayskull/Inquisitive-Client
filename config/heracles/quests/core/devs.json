@@ -8,12 +8,18 @@
     "subtitle": {
       "text": ""
     },
-    "description": [],
+    "description": [
+      "/5/Grayskull/5/: Creator, Founder, Primary Developer",
+      "",
+      "/2/PlatonicNymph/2/: Moderation, Server Host",
+      "",
+      "/4/Damikdevv/4/: Texture Artist"
+    ],
     "groups": {
       "Core": {
         "position": [
-          -189,
-          -62
+          -210,
+          -74
         ]
       }
     },

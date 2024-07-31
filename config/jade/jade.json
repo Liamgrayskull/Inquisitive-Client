@@ -2,7 +2,7 @@
   "general": {
     "debug": false,
     "itemModNameTooltip": false,
-    "bossBarOverlapMode": "PUSH_DOWN",
+    "bossBarOverlapMode": "HIDE_TOOLTIP",
     "builtinCamouflage": true,
     "ttsMode": "TOGGLE",
     "fluidMode": "ANY",

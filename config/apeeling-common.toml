@@ -1,7 +1,0 @@
-
-["Banana bunch tweaks"]
-	#Banana bunches no longer create banana peels
-	"Bunches don't create peels" = true
-	#Players stepping on banana peels generate an iconic sound effect
-	"Leftover peels" = true
-

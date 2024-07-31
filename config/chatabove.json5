@@ -1,6 +1,0 @@
-{
-	"enabled": true,
-	"maxLineSize": 25,
-	"fadeSeconds": 10.0,
-	"animationType": "INTERPOLATION"
-}

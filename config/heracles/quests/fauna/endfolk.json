@@ -8,12 +8,14 @@
     "subtitle": {
       "text": ""
     },
-    "description": [],
+    "description": [
+      "Corrupted by the dimension-warping, endfolk come in many varieties, often clueing in the circumstances of their corruption."
+    ],
     "groups": {
       "Fauna": {
         "position": [
-          -37,
-          44
+          -67,
+          -9
         ]
       }
     },

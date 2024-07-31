@@ -1,5 +1,7 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "exploration"
+  ],
   "tasks": {},
   "rewards": {},
   "display": {
@@ -7,13 +9,13 @@
       "translate": "Space."
     },
     "description": [
-      "The Void performs in a plethora of strange ways to this day, but it varies from what you may be used to. Certain places, such as the end, will send you in an endless loop (ironically) yet space is immune to this bizzare phenomenon. Airships are most commonly lost to the void, so be wary with them!"
+      "    The Void performs in a plethora of strange ways to this day, but it varies from what you may be used to. Certain places, such as the end, will send you in an endless loop (ironically) yet space is immune to this bizzare phenomenon. Airships are most commonly lost to the void, so be wary with them!"
     ],
     "groups": {
       "Core": {
         "position": [
-          -1,
-          -153
+          161,
+          -234
         ]
       }
     },

@@ -1,5 +1,7 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "construction"
+  ],
   "tasks": {},
   "rewards": {},
   "display": {
@@ -7,22 +9,22 @@
       "translate": "Art covering time, not space"
     },
     "description": [
-      "**Features:**",
-      "The new bard profession for villagers with various musical trades.",
-      "New ways to play music such as the Jukebox Minecart, Album Jukebox, or Radio! Play songs on the go, live from a radio station, or multiple songs in order on repeat, just like an album.",
-      "Insert records into jukeboxes with hoppers! A parity feature from Bedrock.",
-      "Create your own custom records with the Etching Table! Provide a URL (supports SoundCloud, MP3, WAV, OGG, and Sound Events), a blank disc, and a label to decorate your disc.",
+      "**/b/Features:/b/**",
+      "> The new bard profession for villagers with various musical trades.",
+      "> New ways to play music such as the Jukebox Minecart, Album Jukebox, or Radio! Play songs on the go, live from a radio station, or multiple songs in order on repeat, just like an album.",
+      "> Insert records into jukeboxes with hoppers! A parity feature from Bedrock.",
+      "> Create your own custom records with the Etching Table! > Provide a URL (supports SoundCloud, MP3, WAV, OGG, and Sound Events), a blank disc, and a label to decorate your disc.",
       "",
       "",
       "",
-      "**How to create a disc:**",
+      "**/b/How to create a disc:/b/**",
       "It's quite easy to do, simply insert a Blank Music Disc along with a Music Label (right click it to customize the song's info, color with dyes in a crafting table, and craft two dyed music labels together to create a Complex Music Label) and you'll be ready to create your first disc. Once you've got the necessary components, you can select the pattern of the label under the component slots to make your disc look pretty and the URL to your song goes in the bar above! Etched currently supports URLs that lead to an MP3 File, WAV File, OGG File, SoundCloud Song (GO+ songs are not supported, regardless of subscription status), Bandcamp Song, or a Minecraft Sound Event."
     ],
     "groups": {
       "Core": {
         "position": [
-          -247,
-          -168
+          -197,
+          -339
         ]
       }
     },

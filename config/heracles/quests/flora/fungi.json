@@ -7,7 +7,7 @@
       "text": ""
     },
     "description": [
-      "Fungi are some of the more versatile flora avaliable, capable of poisons, food, and even woodsets- some capable of almost magical properties."
+      "Fungi are some of the more versatile flora avaliable, capable of poisons, food, and even woodsets- some even possess magical properties."
     ],
     "groups": {
       "Flora": {
@@ -23,7 +23,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Fungi"
+      "translate": "Fungi!"
     }
   },
   "settings": {

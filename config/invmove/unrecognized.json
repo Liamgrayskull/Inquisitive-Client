@@ -378,6 +378,19 @@
     "org.teacon.slides.screen.ProjectorScreen": true,
     "party.lemons.biomemakeover.crafting.AltarScreen": true,
     "com.simibubi.create.content.equipment.clipboard.ClipboardScreen": true,
-    "net.mehvahdjukaar.supplementaries.client.screens.PresentScreen": true
+    "net.mehvahdjukaar.supplementaries.client.screens.PresentScreen": true,
+    "earth.terrarium.adastra.client.screens.machines.OxygenLoaderScreen": true,
+    "com.simibubi.create.content.equipment.blueprint.BlueprintScreen": true,
+    "dan200.computercraft.client.gui.PrinterScreen": true,
+    "net.minecraft.client.gui.screens.social.SocialInteractionsScreen": true,
+    "com.github.alexmodguy.alexscaves.client.gui.NuclearFurnaceScreen": true,
+    "com.telepathicgrunt.the_bumblezone.client.screens.StrictChestScreen": true,
+    "com.github.alexthe666.alexsmobs.client.gui.GUITransmutationTable": true,
+    "io.github.mortuusars.exposure.gui.screen.PhotographScreen": true,
+    "net.mcreator.chemistcatsarts.client.gui.TuningUIScreen": true,
+    "com.davigj.copperpot.client.gui.CopperPotScreen": true,
+    "com.sammy.minersdelight.content.block.copper_pot.CopperPotScreen": true,
+    "umpaz.farmersrespite.client.gui.KettleScreen": true,
+    "org.infernalstudios.miningmaster.client.gui.screen.inventory.GemForgeScreen": true
   }
 }

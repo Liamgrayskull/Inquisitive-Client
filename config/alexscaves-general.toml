@@ -2,13 +2,13 @@
 [generation]
 	#Average radius (in blocks) of an Alex's Caves cave biome.
 	#Range: 10.0 ~ 1.7976931348623157E308
-	cave_biome_mean_width = 300.0
+	cave_biome_mean_width = 500.0
 	#Average separation (in blocks) between each Alex's Caves cave biome.
 	#Range: > 50
-	cave_biome_mean_separation = 1200
+	cave_biome_mean_separation = 2000
 	#How irregularly shaped Alex's Caves cave biomes can generate. 0 = all biomes nearly circular. 1 = biomes completely squiggly in shape.
 	#Range: 0.0 ~ 1.0
-	cave_biome_width_randomness = 0.15
+	cave_biome_width_randomness = 0.12
 	#Average spacing in between Alex's Caves cave biomes. 0 = all biomes nearly perfectly equidistant. 1 = biomes completely randomly spread out, sometimes next to eachother.
 	#Range: 0.0 ~ 1.0
 	cave_biome_spacing_randomness = 0.45
@@ -57,7 +57,7 @@
 	cave_map_search_attempts = 128000
 	#How wide each search attempt scans for a biome. Increasing this generally makes cave biome maps faster - at the cost of losing fidelity(may skip biomes smaller than this in block width).
 	#Range: 4 ~ 256
-	cave_map_search_width = 64
+	cave_map_search_width = 100
 	#The maximum explosion resistance that a block can have to be destroyed by a nuclear explosion. Set to zero to disable all nuclear explosion block breaking.
 	#Range: > 0
 	nuke_max_block_explosion_resistance = 1000
@@ -65,7 +65,7 @@
 	nuke_spawn_item_drops = true
 	#The scale of nuclear bomb destruction. multiply this by 16 to get the radius of a nuclear bomb explosion.
 	#Range: 0.0 ~ 1.7976931348623157E308
-	nuclear_explosion_size_modifier = 3.0
+	nuclear_explosion_size_modifier = 2.5
 	#Whether the Totem of Possession can be applied to players.
 	totem_of_possession_works_on_players = true
 	#The amount of time (in ticks) it takes to charge up the Cloak of Darkness ability.

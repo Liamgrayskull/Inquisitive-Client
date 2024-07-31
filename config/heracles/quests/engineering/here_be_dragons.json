@@ -6,9 +6,19 @@
   "rewards": {},
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Warnings about the beauties of physics grids."
     },
-    "description": [],
+    "description": [
+      "Physics are especially volatile to tinker with, so if you are interacting with some of the more risky mechanisms, a couple of rules are good to keep in mind:",
+      "",
+      "Avoid assembling large amounts of blocks at a time. ",
+      "Building onto your physics grids after they are assembled is almost always preferable over prebuilding them, for server and client performance.",
+      "",
+      "Build assembled creations with a 2 block gap from any blocks.",
+      "This helps avoid stealing unblacklisted assembly blocks (such as certain grasses) or blocks tied by corners.",
+      "",
+      "Construct more advanced things in a singleplayer world first! And please be courteous of your builds; the mod is in alpha for a number of reasons, so caution is advised."
+    ],
     "groups": {
       "Engineering": {
         "position": [
@@ -19,14 +29,14 @@
     },
     "icon": {
       "item": {
-        "id": "minecraft:map",
+        "id": "minecraft:dragon_egg",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "text": "HERE BE DRAGONS"
+      "translate": "HERE BE DRAGONS"
     }
   },
   "settings": {

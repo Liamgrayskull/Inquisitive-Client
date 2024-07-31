@@ -1,0 +1,43 @@
+{
+  "dependencies": [
+    "Structures"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Pathfinder Quills are an especially useful item that, when found, allow you to locate unique biomes! ",
+      "They can be found primarily from Wandering Traders, though Cartographers may also sell you them!"
+    ],
+    "groups": {
+      "Core": {
+        "position": [
+          258,
+          -307
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "quark:pathfinders_quill",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Quills"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

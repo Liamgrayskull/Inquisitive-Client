@@ -8,12 +8,14 @@
     "subtitle": {
       "text": ""
     },
-    "description": [],
+    "description": [
+      ""
+    ],
     "groups": {
       "Core": {
         "position": [
-          -140,
-          -14
+          -204,
+          0
         ]
       }
     },
@@ -26,14 +28,15 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/pentagons.png",
     "title": {
-      "translate": "Datapacks"
+      "translate": "Curseforge Mods"
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

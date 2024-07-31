@@ -7,12 +7,12 @@
       "text": ""
     },
     "description": [
-      ""
+      "Ceramic is especially unique in it's ability to be dyed to any possible hex code through the same dying system that leather sports, thus enabling millions of combinations, gradients, and much more! These come in tiles, checkered tiles, slabs, stairs, doors, even plates, and much more."
     ],
     "groups": {
       "Building": {
         "position": [
-          -176,
+          -178,
           -22
         ]
       }
@@ -30,10 +30,11 @@
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

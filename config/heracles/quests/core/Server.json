@@ -9,28 +9,31 @@
       "translate": "Discord, MC server, issue tracker, you name it."
     },
     "description": [
-      "--Inquisitive comes with an official server!--",
-      "",
-      "- Regular updates about the pack's development",
+      "We host a server dedicated to Inquisitive! It is the most actively maintained and ideal way to play the pack, featuring:",
+      "- Custom features and server-specific lore",
+      "- 23 hour uptime ",
+      "- Pregeneration ",
+      "- Amplified Terrain Generation",
+      "- Discord Integration",
+      "- Server-specific chat systems",
+      "- Hundreds of unique structures, balanced spawnrates",
+      "- Events ",
       "- Issue trackers",
-      "- Suggestions",
-      "- Beta testing",
-      "- Support & guides",
-      "- Polls to influence it's future",
-      "- Applications to join the team",
-      "- A place to submit custom content for the pack",
-      "- Custom-developed and maintained with more features than the standalone pack",
-      "- A welcoming community",
+      "- Suggestions ",
+      "- Beta Testing",
+      "- Support & Guides",
+      "- A welcoming community!",
+      "",
       "",
       "/d/--Join through the discord!--/d/",
-      "https://discord.gg/6qF5U6sdKJ",
-      "(Use the gui button as this doesn't join directly)"
+      "",
+      "<component>{\"text\":\"https://discord.gg/6qF5U6sdKJ\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://discord.gg/6qF5U6sdKJ\"}}</component>"
     ],
     "groups": {
       "Core": {
         "position": [
-          69,
-          2
+          71,
+          81
         ]
       }
     },
@@ -47,10 +50,11 @@
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

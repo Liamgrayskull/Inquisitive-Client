@@ -12,14 +12,14 @@
     "groups": {
       "Fauna": {
         "position": [
-          12,
-          -21
+          -42,
+          -54
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "minecraft:map",
+        "id": "galosphere:silver_balance",
         "count": 1
       },
       "type": "heracles:item"

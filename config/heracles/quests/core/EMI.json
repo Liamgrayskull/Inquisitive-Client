@@ -1,5 +1,7 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "grassroots"
+  ],
   "tasks": {},
   "rewards": {},
   "display": {
@@ -18,13 +20,33 @@
       "",
       "Ctrl + O - Hide/show REI",
       "",
-      "Double click searchbar - search for item in inventory"
+      "Double click searchbar - search for item in inventory",
+      "",
+      "",
+      "",
+      "Mod: @modname",
+      "Non-case sensitive, searching via mod, for example @materialisation to search for items added by materialisation.",
+      "",
+      "Tooltip: #text",
+      "Non-case sensitive, searching via tooltip, for example #protection to search for protection books.",
+      "",
+      "Tags: $tag",
+      "Non-case sensitive, searching via tags, for example $logs to search for logs.",
+      "",
+      "Regex: r/regex/",
+      "Case sensitive, searching via regex, for example r/(Golden )?Apple) to search for golden apples or apples.",
+      "",
+      "Quotes:",
+      "Allowing spaces, for example \"#protection iii\" to search with spaces.",
+      "",
+      "Or: |",
+      "Or, for example apple|$logs to search for apples or logs."
     ],
     "groups": {
       "Core": {
         "position": [
-          42,
-          -124
+          137,
+          -117
         ]
       }
     },

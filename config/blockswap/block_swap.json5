@@ -795,49 +795,24 @@ to make editing this file much easier.
 	"Name": "galosphere:glinted_allurite_cluster"
 },
 	"old": {
-		"Properties": {
-	"waterlogged": "false",
-	"facing": "south",
-	"face": "floor"
-	},
-	"Name": "flying_stuff:celestium_antenna"
-}
+		"Properties": {"waterlogged": "false","facing": "south","face": "floor"},
+	"Name": "flying_stuff:celestium_antenna"}
 },
 {
 "new": {
-	"Properties": {
-		"waterlogged": "false",
-		"pollinated": "false",
-		"facing": "up"
-	},
-	"Name": "galosphere:glinted_allurite_cluster"
-},
+	"Properties": {"waterlogged": "false","pollinated": "false","facing": "up"},
+	"Name": "galosphere:glinted_allurite_cluster"},
 	"old": {
-		"Properties": {
-	"waterlogged": "false",
-	"facing": "west",
-	"face": "floor"
-	},
-	"Name": "flying_stuff:celestium_antenna"
-}
+		"Properties": {"waterlogged": "false","facing": "west","face": "floor"},
+	"Name": "flying_stuff:celestium_antenna"}
 },
 {
 "new": {
-	"Properties": {
-		"waterlogged": "false",
-		"pollinated": "false",
-		"facing": "up"
-	},
-	"Name": "galosphere:glinted_allurite_cluster"
-},
+	"Properties": {"waterlogged": "false","pollinated": "false","facing": "up"},
+	"Name": "galosphere:glinted_allurite_cluster"},
 	"old": {
-		"Properties": {
-	"waterlogged": "false",
-	"facing": "east",
-	"face": "floor"
-	},
-	"Name": "flying_stuff:celestium_antenna"
-}
+		"Properties": {"waterlogged": "false","facing": "east","face": "floor"},
+"Name": "flying_stuff:celestium_antenna"}
 },
 
 
@@ -845,75 +820,37 @@ to make editing this file much easier.
 
 {
 "new": {
-	"Properties": {
-		"waterlogged": "false",
-		"pollinated": "false",
-		"facing": "up"
-	},
-	"Name": "galosphere:glinted_allurite_cluster"
-},
+	"Properties": {"waterlogged": "false","pollinated": "false","facing": "up"},
+	"Name": "galosphere:glinted_allurite_cluster"},
 	"old": {
-		"Properties": {
-	"waterlogged": "false",
-	"facing": "north",
-	"face": "wall"
-	},
-	"Name": "flying_stuff:celestium_antenna"
-}
+		"Properties": {"waterlogged": "false","facing": "north","face": "wall"},
+	"Name": "flying_stuff:celestium_antenna"}
 },
 {
 "new": {
-	"Properties": {
-		"waterlogged": "false",
-		"pollinated": "false",
-		"facing": "up"
-	},
-	"Name": "galosphere:glinted_allurite_cluster"
-},
+	"Properties": {"waterlogged": "false","pollinated": "false","facing": "up"},
+	"Name": "galosphere:glinted_allurite_cluster"},
 	"old": {
-		"Properties": {
-	"waterlogged": "false",
-	"facing": "south",
-	"face": "wall"
-	},
-	"Name": "flying_stuff:celestium_antenna"
-}
+		"Properties": {"waterlogged": "false","facing": "south","face": "wall"},
+	"Name": "flying_stuff:celestium_antenna"}
 },
 {
 "new": {
-	"Properties": {
-		"waterlogged": "false",
-		"pollinated": "false",
-		"facing": "up"
+	"Properties": {"waterlogged": "false","pollinated": "false","facing": "up"
 	},
 	"Name": "galosphere:glinted_allurite_cluster"
 },
 	"old": {
-		"Properties": {
-	"waterlogged": "false",
-	"facing": "west",
-	"face": "wall"
-	},
-	"Name": "flying_stuff:celestium_antenna"
-}
+		"Properties": {"waterlogged": "false","facing": "west","face": "wall"},
+	"Name": "flying_stuff:celestium_antenna"}
 },
 {
 "new": {
-	"Properties": {
-		"waterlogged": "false",
-		"pollinated": "false",
-		"facing": "up"
-	},
-	"Name": "galosphere:glinted_allurite_cluster"
-},
+	"Properties": {"waterlogged": "false","pollinated": "false","facing": "up"},
+	"Name": "galosphere:glinted_allurite_cluster"},
 	"old": {
-		"Properties": {
-	"waterlogged": "false",
-	"facing": "east",
-	"face": "wall"
-	},
-	"Name": "flying_stuff:celestium_antenna"
-}
+		"Properties": {"waterlogged": "false","facing": "east","face": "wall"},
+	"Name": "flying_stuff:celestium_antenna"}
 },
 	],
 	/* A map of blocks that specifies what the "old" block is and what its "new" block is.
@@ -963,7 +900,7 @@ to make editing this file much easier.
 		"flying_stuff:lavic_skyrock_staircase": "twigs:rhyolite_stairs",
 		"flying_stuff:lavic_skyrock_slab": "twigs:rhyolite_slab",
 		"flying_stuff:lavic_skyrock_walls": "twigs:rhyolite_wall",
-		"flying_stuff:lavic_fungus_block": "spelunkery:inkcap_mushroom_block",
+		"flying_stuff:lavic_fungus_block": "autumnity:red_maple_leaves",
 		"flying_stuff:pale_celestium_ore": "alexscaves:primal_magma",
 		"flying_stuff:pale_celestium_block": "spelunkery:polished_rock_salt",
 		
@@ -995,37 +932,6 @@ to make editing this file much easier.
 		"trials:tuff_stairs": "twigs:tuff_stairs",
 		"trials:tuff_slab": "twigs:tuff_slab",
 		"trials:tuff_wall": "twigs:tuff_wall",
-
-		"caverns_and_chasms:polished_tuff": "twigs:polished_tuff",
-		"caverns_and_chasms:polished_tuff_stairs": "twigs:polished_tuff_stairs",
-		"caverns_and_chasms:polished_tuff_slab": "twigs:polished_tuff_slab",
-		"caverns_and_chasms:tuff_stairs": "twigs:tuff_stairs",
-		"caverns_and_chasms:tuff_slab": "twigs:tuff_slab",
-		"caverns_and_chasms:tuff_wall": "twigs:tuff_wall",
-		
-		"caverns_and_chasms:polished_calcite": "twigs:polished_calcite",
-		"caverns_and_chasms:polished_calcite_stairs": "twigs:polished_calcite_stairs",
-		"caverns_and_chasms:polished_calcite_slab": "twigs:polished_calcite_slab",
-		"caverns_and_chasms:calcite_stairs": "twigs:calcite_stairs",
-		"caverns_and_chasms:calcite_slab": "twigs:calcite_slab",
-		"caverns_and_chasms:calcite_wall": "twigs:calcite_wall",
-
-		"caverns_and_chasms:cobblestone_bricks": "quark:cobblestone_bricks",
-		"caverns_and_chasms:cobblestone_brick_stairs": "quark:cobblestone_bricks_stairs",
-		"caverns_and_chasms:cobblestone_brick_slab": "quark:cobblestone_bricks_slab",
-		"caverns_and_chasms:cobblestone_brick_wall": "quark:cobblestone_bricks_wall",
-		"caverns_and_chasms:mossy_cobblestone_bricks": "quark:mossy_cobblestone_bricks",
-		"caverns_and_chasms:mossy_cobblestone_brick_stairs": "quark:mossy_cobblestone_bricks_stairs",
-		"caverns_and_chasms:mossy_cobblestone_brick_slab": "quark:mossy_cobblestone_bricks_slab",
-		"caverns_and_chasms:mossy_cobblestone_brick_wall": "quark:mossy_cobblestone_bricks_wall",
-		"caverns_and_chasms:cobblestone_tiles": "twigs:cobblestone_bricks",
-		"caverns_and_chasms:cobblestone_tile_stairs": "twigs:cobblestone_brick_stairs",
-		"caverns_and_chasms:cobblestone_tile_slab": "twigs:cobblestone_brick_slab",
-		"caverns_and_chasms:cobblestone_tile_wall": "twigs:cobblestone_brick_wall",
-		"caverns_and_chasms:mossy_cobblestone_tiles": "twigs:mossy_cobblestone_bricks",
-		"caverns_and_chasms:mossy_cobblestone_tile_stairs": "twigs:mossy_cobblestone_brick_stairs",
-		"caverns_and_chasms:mossy_cobblestone_tile_slab": "twigs:mossy_cobblestone_brick_slab",
-		"caverns_and_chasms:mossy_cobblestone_tile_wall": "twigs:mossy_cobblestone_brick_wall",
 
 		"quark:chiseled_dripstone_bricks": "architects_palette:chiseled_dripstone",
 		"quark:dripstone_bricks": "architects_palette:dripstone_bricks",
@@ -1090,7 +996,7 @@ to make editing this file much easier.
 		"quark:iron_plate_slab": "ad_astra:iron_plating_slab",
 		"quark:rusty_iron_plate_slab": "immersive_weathering:rusted_cut_iron_slab",
 		"quark:iron_pillar": "ad_astra:iron_pillar",
-		"quark:gold_bars": "caverns_and_chasms:golden_bars",
+		
 
 		"quark:bamboo_mat": "farmersdelight:tatami",
 		"quark:tuff_pillar": "architects_palette:chiseled_tuff",
@@ -1105,8 +1011,8 @@ to make editing this file much easier.
 		
 		
 		"galosphere:silver_ore": "oreganized:silver_ore",
-		"caverns_and_chasms:silver_ore": "oreganized:silver_ore",
-		"caverns_and_chasms:deepslate_silver_ore": "oreganized:deepslate_silver_ore",
+		
+		
 		"galosphere:deepslate_silver_ore": "oreganized:deepslate_silver_ore",
 
 		"enlightened_end:irradium_ore": "enlightened_end:malachite_ore",
@@ -1222,7 +1128,22 @@ to make editing this file much easier.
 		"natures_spirit:maple_trapdoor": "autumnity:maple_trapdoor",
 		"natures_spirit:maple_sign": "autumnity:maple_sign",
 		"natures_spirit:maple_hanging_sign": "autumnity:maple_hanging_sign",
+
+		"miningmaster:fire_ruby_ore": "ruby_exchange:ruby_ore",
+		"miningmaster:deepslate_fire_ruby_ore": "ruby_exchange:deepslate_ruby_ore",
+		"miningmaster:power_pyrite_ore": "etcetera:nether_bismuth_ore",
+		"miningmaster:air_malachite_ore": "enlightened_end:malachite_ore",
+		"miningmaster:power_pyrite_ore": "etcetera:nether_bismuth_ore",
+		"miningmaster:heart_rhodonite_ore": "healpgood:heart_crystal",
+		"miningmaster:haste_peridot_ore": "sullysmod:jade_ore",
+		"miningmaster:deepslate_haste_peridot_ore": "sullysmod:deepslate_jade_ore",
+		"miningmaster:divine_beryl_ore": "minecraft:emerald_ore",
+		"miningmaster:deepslate_divine_beryl_ore": "minecraft:deepslate_emerald_ore",
+		"miningmaster:unbreaking_iolite_ore": "oreganized:lead_ore",
+		"miningmaster:deepslate_unbreaking_iolite_ore": "oreganized:deepslate_lead_ore",
 		
+		
+	
 		"architects_palette:weeping_blackstone_bricks": "twigs:weeping_polished_blackstone_bricks",
 		"architects_palette:twisting_blackstone_bricks": "twigs:twisting_polished_blackstone_bricks"
 		

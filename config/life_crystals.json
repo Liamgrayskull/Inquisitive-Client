@@ -1,7 +1,0 @@
-{
-  "healthIncrement": 1,
-  "baseHealth": 20,
-  "maxHealth": 40,
-  "lootChance": 0.03,
-  "addChestLoot": true
-}
