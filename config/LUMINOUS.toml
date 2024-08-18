@@ -1,0 +1,63 @@
+
+[WorldGeneration]
+	#Pebble Spawnrate ( 5 is greatest/normal, 0 is disabled )
+	"Pebble Spawnrate" = 5.0
+	#Auburn Tree Spawnrate ( 5 is greatest/normal, 0 is disabled )
+	"Auburn Tree Spawnrate" = 5.0
+	#White Oak Tree Spawnrate ( 5 is greatest/normal, 0 is disabled )
+	"White Oak Tree Spawnrate" = 5.0
+	#Palm Tree Spawnrate ( 5 is greatest/normal, 0 is disabled )
+	"Palm Tree Spawnrate" = 5.0
+	#Birch Tree Spawnrate ( 5 is greatest/normal, 0 is disabled )
+	"Birch Tree Spawnrate" = 5.0
+	#Taiga Tree Spawnrate ( 5 is greatest/normal, 0 is disabled )
+	"Tall Taiga Tree Spawnrate" = 5.0
+	#Baobab Tree Spawnrate ( 5 is greatest/normal, 0 is disabled )
+	"Baobab Tree Spawnrate" = 5.0
+	#Determines if the savannah rework is present
+	"Savannah Additions" = "true"
+
+["Legendary Beasts"]
+	#King Hermit Spawn rate (0 is disabled, 1 is normal, 2 is doubled, and 3 is tripled)
+	"Tree Ent Spawnrate" = 1.0
+	#King Hermit Spawn rate (0 is disabled, 1 is normal, 2 is doubled, and 3 is tripled)
+	"King Hermit Spawnrate" = 1.0
+	#Mummy Spawn rate (1 is normal, 2 is doubled, and 3 is tripled)
+	"Mummy Spawnrate" = 1.0
+	#Sea Viper Egg Spawn rate (1 is normal, 2 is doubled, and 3 is tripled)
+	"Sea Viper Egg Spawnrate" = 1.0
+	#Yeti Spawn rate (1 is normal, 2 is doubled, and 3 is tripled)
+	"Yeti Spawnrate" = 1.0
+	#Pheonix Spawn rate (1 is normal, 2 is doubled, and 3 is tripled)
+	"Pheonix Spawnrate" = 1.0
+	#Vile Gator Spawn rate (1 is normal, 2 is doubled, and 3 is tripled)
+	"Gator Spawnrate" = 1.0
+	#Bone Stalker Spawn rate (1 is normal, 2 is doubled, and 3 is tripled)
+	"Bone Stalker Spawnrate" = 1.0
+	#Determines the range of the Totem of Beasts (150 is default)
+	"Totem of Beasts range" = 150.0
+
+[MobSpawns]
+	#Determines if butterflies and fireflies will spawn - True means enabled, False means disabled
+	"Bug Spawns" = "true"
+	#Determines if custom mob variants will spawn - True means enabled, False means disabled
+	"Mob Variant Spawns" = "true"
+
+["Legendary Items"]
+	#Determines The level of slowness applied to mobs while using the enchanted root
+	"Enchanted Root Slowness Level" = 1.0
+	#Determines the amount of time an enemy will be slowed by the root's attacks (in seconds)
+	"Enchanted Root Slowness Duration" = 4.0
+	#Determines the level of speed granted when wearing the shellmet
+	"Shellmet Speed Level" = 1.0
+	#Determines the amount of seconds between each heal while holding the Frigid Horn
+	"Frigid Horn Heal Timer" = 10.0
+	#Determines the amount of time before the viper fang ticks damage onto itself in seconds
+	"Viper Fang Damage Timer" = 10.0
+	#Determined the level of poison given to mobs with the gator tooth
+	"Gator Tooth Poison Level" = 1.0
+	#determines the amount of time a mob is effected with the gator tooth's poison
+	"Gator Tooth Poison Timer" = 5.0
+	#Determines how long a spawned phantom stalker will stay alive for (in seconds)
+	"Tamed Stalker Life Time" = 300.0
+

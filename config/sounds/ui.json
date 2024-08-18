@@ -86,5 +86,7 @@
 		"soundEvent": "minecraft:block.stone.hit",
 		"shouldPlay": true
 	},
-	"ignoreEmptyHotbarSlots": false
+	"ignoreEmptyHotbarSlots": false,
+	"itemSoundCooldown": 0.05,
+	"enableItemSoundCooldown": true
 }

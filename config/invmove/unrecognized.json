@@ -391,6 +391,9 @@
     "com.davigj.copperpot.client.gui.CopperPotScreen": true,
     "com.sammy.minersdelight.content.block.copper_pot.CopperPotScreen": true,
     "umpaz.farmersrespite.client.gui.KettleScreen": true,
-    "org.infernalstudios.miningmaster.client.gui.screen.inventory.GemForgeScreen": true
+    "org.infernalstudios.miningmaster.client.gui.screen.inventory.GemForgeScreen": true,
+    "com.github.alexmodguy.alexscaves.client.gui.SpelunkeryTableScreen": true,
+    "de.bax.dysonsphere.gui.RailgunGui": true,
+    "aurilux.titles.client.gui.TitleSelectionScreen": true
   }
 }

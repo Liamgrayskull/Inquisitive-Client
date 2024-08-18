@@ -1,7 +1,7 @@
 {
   "format_version_do_not_edit": 2,
   "general": {
-    "mod_enabled": true,
+    "mod_enabled": false,
     "controls": {
       "switch_roll_and_yaw": false,
       "invert_pitch": false,

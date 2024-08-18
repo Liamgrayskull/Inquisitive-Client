@@ -660,6 +660,17 @@
         "value": 10
       }
     },
+    "hexcasting:grid_zoom": {
+      "enabled": false,
+      "min": {
+        "default": 0.5,
+        "value": 0.5
+      },
+      "max": {
+        "default": 4,
+        "value": 4
+      }
+    },
     "witherstormmod:slow_flying_speed": {
       "enabled": false,
       "min": {
@@ -808,6 +819,17 @@
       "min": {
         "default": -1024,
         "value": -1024
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "hexcasting:scry_sight": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
       },
       "max": {
         "default": 1,

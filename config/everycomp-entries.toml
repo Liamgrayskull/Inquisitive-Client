@@ -87,6 +87,14 @@
 			swamp_cypress = false
 			ancient_oak = false
 
+		[types.wood_type.undergarden]
+			smogstem = true
+			wigglewood = true
+			grongle = true
+
+		[types.wood_type.hexcasting]
+			edified = true
+
 	[types.cake]
 
 		[types.cake.bountifulfares]
@@ -207,6 +215,16 @@
 			willow = true
 			swamp_cypress = true
 			ancient_oak = true
+
+		[types.leaves_type.undergarden]
+			smogstem = true
+			wigglewood = true
+			grongle = true
+
+		[types.leaves_type.hexcasting]
+			amethyst_edified = true
+			aventurine_edified = true
+			citrine_edified = true
 
 #Disables specific entries
 [entries]

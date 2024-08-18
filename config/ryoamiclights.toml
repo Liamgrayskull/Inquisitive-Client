@@ -561,6 +561,9 @@
 				gwib = true
 				muncher = true
 				sploogie = true
+				gronglet = true
+				depthrock_pebble = true
+				rotten_blisterberry = true
 
 			[light_sources.settings.entities.immersive_aircraft]
 				gyrodyne = true
@@ -890,6 +893,8 @@
 				lightning_bug = true
 				lightning_bug_alternate = true
 				lightning_bottle = true
+				mushroom_trader = true
+				glowfish = true
 
 			[light_sources.settings.entities.autumnity]
 				snail = true
@@ -1441,6 +1446,30 @@
 
 			[light_sources.settings.entities.trackwork]
 				wheel_entity = true
+
+			[light_sources.settings.entities.legendary_monsters]
+				overgrown_colossus = true
+
+			[light_sources.settings.entities.luminous_nether]
+				piglin_executioner = true
+				revenant_skeleton = true
+
+			[light_sources.settings.entities.luminousworld]
+				grey_squirrel = true
+				deer = true
+				fawn = true
+				swallowtail = true
+				monarch = true
+				sunken_skeleton = true
+				treant = true
+				frigid_zombie = true
+				frigid_skeleton = true
+				swamp_zombie = true
+				trout_fish = true
+				bone_stalker = true
+				stalker = true
+				bass_fish = true
+				crab = true
 
 		[light_sources.settings.block_entities]
 

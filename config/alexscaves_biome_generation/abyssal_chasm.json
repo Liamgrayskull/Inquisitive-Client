@@ -15,6 +15,7 @@
     1.5
   ],
   "dimensions": [
-    "minecraft:overworld"
+    "minecraft:overworld",
+    "undergarden:undergarden"
   ]
 }

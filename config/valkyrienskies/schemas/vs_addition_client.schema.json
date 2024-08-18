@@ -1,0 +1,14 @@
+{
+  "$schema" : "https://json-schema.org/draft/2019-09/schema",
+  "type" : "object",
+  "properties" : {
+    "enablePointRemoval" : {
+      "type" : "boolean",
+      "description" : "Enable mechanical arm item remove unavailable interaction point"
+    },
+    "$schema" : {
+      "type" : "string"
+    }
+  },
+  "additionalProperties" : false
+}

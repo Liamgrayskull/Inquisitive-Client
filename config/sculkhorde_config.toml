@@ -12,9 +12,6 @@
 	chunk_loading_enabled = true
 	#Should players be able to defeat the Sculk Horde?
 	disable_defeating_sculk_horde = false
-	#How many sculk mobs should be allowed to exist at one time?
-	#Range: 0 ~ 1000
-	maximum_sculk_population = 100
 
 ["Trigger Automatically Variables"]
 	#Should the Sculk Horde start automatically? Requires that chunk loading is enabled to work reliably, otherwise will only trigger if the ancient node's chunk is loaded. If enabled on a save where previously disabled, the node will trigger automatically if the time conditions are met. (Default false)
@@ -27,9 +24,6 @@
 	trigger_ancient_node_time_of_day = 2000
 
 ["Infestation / Purification Variables"]
-	#How much faster or slower should infestation spread? (Default 0)
-	#Range: -10.0 ~ 10.0
-	infestation_speed_multiplier = 0.0
 	#How much faster or slower should purification spread? (Default 0)
 	#Range: -10.0 ~ 10.0
 	purification_speed_multiplier = 0.0
@@ -40,19 +34,6 @@
 	items_infection_cursors_can_eat = ["minecraft:wheat_seeds", "minecraft:bamboo", "minecraft:stick", "minecraft:poppy", "minecraft:dandelion", "minecraft:blue_orchid", "minecraft:allium", "minecraft:azure_bluet", "minecraft:red_tulip", "minecraft:orange_tulip", "minecraft:white_tulip", "minecraft:pink_tulip", "minecraft:oxeye_daisy", "minecraft:cornflower", "minecraft:lily_of_the_valley", "minecraft:sunflower", "minecraft:lilac", "minecraft:rose_bush", "minecraft:peony"]
 	#Add blocks to this list to make them infestable. I.E. minecraft:dirt. Be careful what you put in here, this can potentially lead to issues. This will not work with blocks that are air, have a block entity, are already considered an infested block, or have the not infestable tag.
 	make_block_infestable = [""]
-
-["Emergency Manual Cursor Tick Control"]
-	#How many cursors need to exist for this system to kick in. (Default 300)
-	#Range: > 0
-	cursors_threshold_for_activation = 300
-	#How many cursors should we tick, per in game tick. (Default 50)
-	#Range: 0 ~ 100
-	cursors_to_tick_per_tick = 50
-	#How many ticks should there be between intervals of ticking cursors. (Default 1)
-	#Range: 0 ~ 100
-	delay_between_cursor_tick_interval = 1
-	#50% Chance for cursors to discard themselves upon reaching threshold. (Default false)
-	thanos_snap_cursors_after_reaching_threshold = false
 
 ["Gravemind Variables"]
 	#How much mass is needed for the Gravemind to enter the immature stage? (Default 5000)
@@ -96,4 +77,26 @@
 	#How long should the no raid zone last at a location in minutes? This occurs when a raid succeeds or fails so that the same location is not raided for a while. (Default 480)
 	#Range: > 0
 	sculk_raid_no_raid_zone_duration_minutes = 480
+
+["Performance Settings"]
+	#How many sculk mobs should be allowed to exist at one time? (Default 200)
+	#Range: 0 ~ 1000
+	max_unit_population = 200
+	#How many infector cursors should be allowed to exist at one time? (Default 200)
+	#Range: 0 ~ 1000
+	max_infector_cursor_population = 200
+	#How many nodes can be active at once? (Default 1)
+	#Range: 0 ~ 1000
+	max_nodes_active = 1
+	#How many cursors need to exist for performance mode to kick in. (Default 100)
+	#Range: 0 ~ 1000
+	performance_mode_cursor_threshold = 100
+	#How many cursors should we tick, per in game tick. (Default 50)
+	#Range: 0 ~ 100
+	performance_mode_cursors_to_tick_per_tick = 50
+	#How many ticks should there be between intervals of ticking cursors. (Default 1)
+	#Range: 0 ~ 100
+	performance_mode_delay_between_cursor_ticks = 1
+	#50% Chance for cursors to discard themselves upon reaching threshold. (Default false)
+	performance_mode_thanos_snap_cursors = false
 

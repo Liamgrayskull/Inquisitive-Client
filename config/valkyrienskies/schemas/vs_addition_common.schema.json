@@ -1,0 +1,14 @@
+{
+  "$schema" : "https://json-schema.org/draft/2019-09/schema",
+  "type" : "object",
+  "properties" : {
+    "insteadCreateInteractiveDeployer" : {
+      "type" : "boolean",
+      "description" : "Disable Create Interactive deployer mixin to use VS Addition's"
+    },
+    "$schema" : {
+      "type" : "string"
+    }
+  },
+  "additionalProperties" : false
+}

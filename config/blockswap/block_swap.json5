@@ -1142,7 +1142,12 @@ to make editing this file much easier.
 		"miningmaster:unbreaking_iolite_ore": "oreganized:lead_ore",
 		"miningmaster:deepslate_unbreaking_iolite_ore": "oreganized:deepslate_lead_ore",
 		
-		
+		"miningmaster:spider_kunzite_ore":"minecraft:stone",
+		"miningmaster:spirit_garnet_ore":"minecraft:stone",
+		"miningmaster:deepslate_spider_kunzite_ore":"minecraft:deepslate",
+		"miningmaster:deepslate_spirit_garnet_ore":"minecraft:deepslate",
+
+		"undergarden:ink_mushroom_stem":"minecraft:mushroom_stem",
 	
 		"architects_palette:weeping_blackstone_bricks": "twigs:weeping_polished_blackstone_bricks",
 		"architects_palette:twisting_blackstone_bricks": "twigs:twisting_polished_blackstone_bricks"

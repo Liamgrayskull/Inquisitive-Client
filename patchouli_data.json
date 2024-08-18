@@ -2,6 +2,36 @@
   "bookGuiScale": 0,
   "clickedVisualize": false,
   "bookData": {
+    "hexcasting:thehexbook": {
+      "viewedEntries": [
+        "hexcasting:patterns/readers_guide",
+        "hexcasting:basics/couldnt_cast",
+        "hexcasting:items/edified",
+        "hexcasting:items/jeweler_hammer",
+        "hexcasting:greatwork/fanciful_staves",
+        "hexcasting:basics/start_to_see",
+        "hexcasting:basics/media",
+        "hexcasting:basics/geodes",
+        "hexcasting:casting/101",
+        "hexcasting:patterns/circle",
+        "hexcasting:greatwork/spellcircles",
+        "hexcasting:items/slate",
+        "hexcasting:greatwork/impetus",
+        "hexcasting:patterns/basics",
+        "hexcasting:patterns/stackmanip",
+        "hexcasting:patterns/patterns_as_iotas",
+        "hexcasting:patterns/great_spells/create_lava",
+        "hexcasting:patterns/great_spells/greater_sentinel",
+        "hexcasting:patterns/great_spells/make_battery",
+        "hexcasting:patterns/great_spells/brainsweep",
+        "hexcasting:patterns/great_spells/teleport",
+        "hexcasting:patterns/spells/basic",
+        "hexcasting:items/staff",
+        "hexcasting:items/lens"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
     "scriptor:scriptor_guide": {
       "viewedEntries": [
         "scriptor:casting/verbal"

@@ -1,0 +1,44 @@
+{
+  "dependencies": [],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "List forging gems here plz! not all have tooltips"
+    },
+    "description": [],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          -247,
+          19
+        ]
+      },
+      "Core": {
+        "position": [
+          -239,
+          -488
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "miningmaster:gem_forge",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Forging"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}
