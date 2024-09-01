@@ -1,0 +1,5 @@
+
+[where]
+	#Grace only works around Dragon
+	dragon_only = false
+

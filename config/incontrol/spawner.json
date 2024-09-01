@@ -1,1 +1,33 @@
-[]
+[
+    {
+      "mob": ["undergarden:nargoyle", "alexscaves:gloomoth", "alexscaves:underzealot", "alexscaves:watcher", "alexscaves:corrodent", "alexscaves:vesper", "alexsmobs:guster", "alexsmobs:tarantula_hawk", "alexsmobs:rocky_roller"],
+      "persecond": 0.5,
+      "attempts": 20,
+      "amount": {
+        "minimum": 20,
+        "maximum": 50
+      },
+      "conditions": {
+        "norestrictions": true,
+        "dimension": "ad_astra:mars",
+        "maxtotal": 300
+      }
+    },
+    {
+        "mob": ["alexscaves:notor", "alexscaves:ferrouslime", "alexscaves:boundroid", "alexscaves:magnetron", "alexscaves:teletor", "undergarden:gloomper", "endermanoverhaul:nether_wastes_enderman", "alexsmobs:laviathan", "alexsmobs:straddler", "alexsmobs:sunbird"],
+        "persecond": 0.5,
+        "attempts": 20,
+        "amount": {
+          "minimum": 2,
+          "maximum": 5
+        },
+        "conditions": {
+          "dimension": "ad_astra:mercury",
+          "mindist": 25,
+          "maxdist": 100,
+          "minheight": 15,
+          "maxheight": 200,
+          "maxthis": 100
+        }
+      }
+  ]

@@ -1,0 +1,15 @@
+
+[overtime]
+	#Overtime will be applied to all entities in the Overtime entity types tag
+	"Overtime for All" = true
+	#Mobs lose a level of speed after getting hit
+	"Mobs Get Slowed on Hit" = true
+	#Mobs can't move at all after getting hit
+	"Mobs Get Stunned on Hit" = false
+	#Lower values mean Overtime activates sooner
+	"Minimum amount of time before a mob's Overtime activates" = 120.0
+	#Higher values mean Overtime activates later
+	"Maximum amount of time before a mob's Overtime activates" = 200.0
+	#0 means Speed I, 1 means Speed II, etc
+	"Max Speed Effect level amplifier" = 2.0
+

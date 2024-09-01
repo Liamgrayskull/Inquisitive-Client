@@ -16,13 +16,6 @@
       {
         "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "ad_astra:martian_canyon_creek"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
         "value": "terralith:cave/andesite_caves"
       }
     ],

@@ -1,7 +1,3 @@
-# Zeroes out waypoint owner UUIDs to use the new 'host uuid' system, which mirrors vanilla behaviour
-# Only occurs when loading into a singleplayer world - Will be removed in the next version
-# default: true
-migrateSingleplayerLandmarksFrom05to06 = true
 # Terrain system - records layers of blocks and biomes for maps to render
 # DISABLED prevents loading, FROZEN loads but prevents updates, DYNAMIC loads with addons or on servers, ENABLED always loads
 # options: DISABLED, FROZEN, DYNAMIC, ENABLED

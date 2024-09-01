@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = sound_options_screen
   render_custom_elements_behind_vanilla = true
-  last_edited_time = 1715393783152
+  last_edited_time = 1724444478530
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:4c4adf98-76b0-4eb9-aac0-9c0b639c92ae-1715393763934] = [groups:][instances:]
+  [loading_requirement_container_meta:25db70fb-1ba1-477b-8b39-007e128dbce2-1724444474273] = [groups:][instances:]
 }
 
 customization {
@@ -24,34 +24,6 @@ scroll_list_customization {
   show_scroll_list_header_footer_preview_in_editor = false
   repeat_scroll_list_header_texture = false
   repeat_scroll_list_footer_texture = false
-}
-
-element {
-  source = [source:local]/config/fancymenu/assets/gifs/galaxy.gif
-  repeat_texture = false
-  nine_slice_texture = false
-  nine_slice_texture_border_x = 5
-  nine_slice_texture_border_y = 5
-  element_type = image
-  instance_identifier = a2ebcc36-a8cf-4693-8c8a-8848d2132948-1715393765451
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in = false
-  fade_in_speed = 1.0
-  anchor_point = bottom-centered
-  advanced_posx = 115
-  advanced_posy = 118
-  advanced_width = 250
-  advanced_height = 250
-  x = -126
-  y = -230
-  width = 50
-  height = 50
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = false
-  element_loading_requirement_container_identifier = 4b233c9d-fdc1-41ea-8193-55b8c1d7ebb5-1713063226475
-  [loading_requirement_container_meta:4b233c9d-fdc1-41ea-8193-55b8c1d7ebb5-1713063226475] = [groups:][instances:]
 }
 
 vanilla_button {

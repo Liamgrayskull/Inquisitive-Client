@@ -14,13 +14,16 @@ filterPaths = []
 # Whether to filter advancements that are triggered when obtaining a recipe, used for recipe advancements
 # default: true
 filterRecipes = true
+# Whether to remove the advancements keybind from the game
+# default: true
+removeAdvancementsKeybind = true
 # Whether to remove the advancements button from the pause menu, extending the stats button to fill space
 # default: true
 removeAdvancementsButton = true
 # Whether to hide the toast that appears when an advancement is completed
 # default: true
 removeAdvancementToasts = true
-# Whether to hide the toast that appears when a you unlock a recipe
+# Whether to hide the toast that appears when you unlock a recipe
 # default: true
 removeRecipeToasts = true
 

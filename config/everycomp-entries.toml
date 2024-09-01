@@ -22,10 +22,6 @@
 			hoary = true
 			walnut = true
 
-		[types.wood_type.flying_stuff]
-			glaciated = false
-			lavic = false
-
 		[types.wood_type.ad_astra]
 			aeronos = true
 			strophar = true
@@ -94,6 +90,10 @@
 
 		[types.wood_type.hexcasting]
 			edified = true
+
+		[types.wood_type.flying_stuff]
+			glaciated = true
+			lavic = true
 
 	[types.cake]
 

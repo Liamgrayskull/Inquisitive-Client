@@ -1,6 +1,6 @@
-[22:50:24] [WARN] [FabricLoader/Metadata]: The mod "sushi_bar" contains invalid entries in its mod json:
+[19:31:26] [WARN] [FabricLoader/Metadata]: The mod "sushi_bar" contains invalid entries in its mod json:
 - Unsupported root entry "plugin" at line 42 column 11
-[22:50:25] [WARN] [FabricLoader/Resolution]: Warnings were found!
+[19:31:26] [WARN] [FabricLoader/Resolution]: Warnings were found!
  - §Emod 'OptiGUI' (optigui)§r 2.1.7 recommends any version of §6animatica§r, which is missing!
 	 - You should install any version of §6animatica§r for the optimal experience.
  - §Emod 'Wakes' (wakes)§r 0.2.4+1.20.1 recommends version 3.2.2 or later of §6yacl§r, which is missing!

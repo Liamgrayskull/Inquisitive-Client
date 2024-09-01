@@ -870,9 +870,9 @@ to make editing this file much easier.
 		"flying_stuff:celestiumore": "architects_palette:moonstone",
 		"flying_stuff:amber_celestium_ore": "architects_palette:sunstone",
 		"flying_stuff:cristalizedice": "enlightened_end:frostburn_ice",
-		"flying_stuff:celestium_anvil": "sleep_tight:dreamer_essence",
+		"flying_stuff:celestium_anvil": "miningmaster:gem_forge",
 
-		"flying_stuff:molten_metal": "spelunkery:spring_water",
+		"flying_stuff:molten_metal": "molten_metals:molten_silver",
 
 		"flying_stuff:lavic_skyrock_tiles": "architects_palette:chiseled_sunmetal_block",
 		"flying_stuff:lavic_skyrock_pipe": "architects_palette:sunmetal_pillar",
@@ -909,6 +909,8 @@ to make editing this file much easier.
 
 		"flying_stuff:golden_sky_level_2_chest": "waystones:warp_plate",
 		"flying_stuff:golden_sky_level_1_chest": "waystones:warp_plate",
+		"flying_stuff:lavic_sky_lvl_2_chest": "galosphere:pink_salt_chamber",
+		"flying_stuff:lavic_sky_lvl_1_chest": "waystones:warp_plate",
 		"flying_stuff:glaciated_sky_level_1_chest": "waystones:warp_plate",
 		"flying_stuff:glaciated_sky_level_2_chest": "blockofsky:void_block",
 

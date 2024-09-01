@@ -63,9 +63,9 @@ net.minecraft.client.gui.screens.LanguageSelectScreen {
 net.blay09.mods.hardcorerevival.client.KnockoutScreen {
 }
 
-net.minecraft.client.gui.screens.controls.ControlsScreen {
+net.minecraft.client.gui.screens.LevelLoadingScreen {
 }
 
-net.minecraft.client.gui.screens.LevelLoadingScreen {
+net.minecraft.client.gui.screens.controls.ControlsScreen {
 }
 

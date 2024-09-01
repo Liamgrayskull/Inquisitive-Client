@@ -1,0 +1,100 @@
+{
+	/* 
+	   
+	   Duration of a normal Everlasting potion (in seconds)
+	*/
+	"PotionDuration": 90,
+	/* 
+	   
+	   Duration of an extended Everlasting potion (in seconds)
+	*/
+	"PotionBigDuration": 180,
+	/* 
+	   
+	   Starting durability of the Capsule
+	*/
+	"CapsuleDurability": 250,
+	/* 
+	   
+	   Radius in which the Obelisk will give the Everlasting Effect
+	   The Obelisk itself doesn't count towards this setting
+	*/
+	"ObeliskRadius": 16,
+	/* 
+	   
+	   How much charge does the Obelisk get per 1 Sculk
+	*/
+	"ObeliskChargePerSculk": 10,
+	/* 
+	   
+	   How much charge is used per player
+	*/
+	"ObeliskChargeUsedPerPlayer": 1,
+	/* 
+	   
+	   The maximum amount of charge that an Obelisk can have
+	   Overcharge is x*2 where x - this value
+	*/
+	"ObeliskChargeMax": 120,
+	/* 
+	   
+	   Modifies the Item Entity behaviour to not despawn items
+	   which's rarity isn't that of ItemSaveRarity.
+	*/
+	"EnableSaveRarity": false,
+	/* 
+	   
+	   Which rarity of items doesn't despawn
+	   This setting will make items that aren't of this rarity be despawnable.
+	   Note: The undespawnable items can still be destroyed by lava, cactus, anvils etc.
+	   Rarities: COMMON, UNCOMMON, RARE, EPIC
+	*/
+	"ItemSaveRarity": "COMMON",
+	/* 
+	   
+	   Whether the UI of the Obelisk should be "Impactful".
+	   If enabled, the Ui will "Explode" whenever the Obelisk is Overcharged
+	*/
+	"ImpactfulUI": true,
+	/* 
+	   
+	   An item blacklist. Every item in this List will be ignored by:
+	   the Capsule, the Obelisk, the Enchantment and the Potion effect.
+	*/
+	"ItemBlacklist": [
+		"aquamirae:sweet_lance",
+		"meadow:watering_can",
+		"amethyst_imbuement:furious_scepter",
+		"amethyst_imbuement:witty_scepter",
+		"amethyst_imbuement:graceful_scepter",
+		"amethyst_imbuement:blazing_scepter",
+		"amethyst_imbuement:sparking_scepter",
+		"amethyst_imbuement:frosted_scepter",
+		"amethyst_imbuement:scepter_of_blades",
+		"amethyst_imbuement:scepter_of_recall",
+		"amethyst_imbuement:clerics_scepter",
+		"amethyst_imbuement:bardic_scepter",
+		"amethyst_imbuement:scepter_of_summoning",
+		"amethyst_imbuement:builders_scepter",
+		"amethyst_imbuement:scepter_of_the_vanguard",
+		"amethyst_imbuement:scepter_of_the_paladin",
+		"amethyst_imbuement:scepter_of_the_pacifist",
+		"amethyst_imbuement:scepter_of_harvests",
+		"amethyst_imbuement:corrupted_scepter",
+		"amethyst_imbuement:scepter_of_agonies",
+		"amethyst_imbuement:dangerous_scepter",
+		"amethyst_imbuement:skillful_scepter",
+		"amethyst_imbuement:enduring_scepter",
+		"amethyst_imbuement:scepter_of_insight",
+		"amethyst_imbuement:persuasive_scepter",
+		"amethyst_imbuement:travelers_scepter",
+		"amethyst_imbuement:lethality",
+		"amethyst_imbuement:resonance",
+		"amethyst_imbuement:redemption",
+		"amethyst_imbuement:equinox",
+		"amethyst_imbuement:sojourn",
+		"amethyst_imbuement:aegis",
+		"amethyst_imbuement:judgment",
+		"amethyst_imbuement:a_scepter_so_fowl"
+	]
+}

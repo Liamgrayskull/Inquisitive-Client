@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = %fancymenu:universal_layout%
   render_custom_elements_behind_vanilla = true
-  last_edited_time = 1721706921836
+  last_edited_time = 1725070615294
   is_enabled = true
   randommode = true
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:e6ccc65e-8f6b-4ace-9bb5-b167a4b1d46c-1721706921934] = [groups:][instances:]
+  [loading_requirement_container_meta:431f06ac-bfdb-4ec3-a303-a6e61887efab-1725070591369] = [groups:][instances:]
 }
 
 customization {
@@ -29,28 +29,98 @@ scroll_list_customization {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/gifs/galaxy.gif
+  source = [source:local]/config/fancymenu/assets/buttons/bottomright.png
   repeat_texture = false
   nine_slice_texture = false
   nine_slice_texture_border_x = 5
   nine_slice_texture_border_y = 5
   element_type = image
-  instance_identifier = 8120975a-847f-4c80-b5da-c9e1e7408dd4-1719267906629
+  instance_identifier = 903df3ac-4204-469e-8c77-e8bc4de95964-1725064254471
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
   fade_in = false
   fade_in_speed = 1.0
-  anchor_point = bottom-centered
-  advanced_width = 250
-  advanced_height = 250
-  x = -125
-  y = -137
-  width = 50
-  height = 50
+  anchor_point = bottom-right
+  x = -30
+  y = -30
+  width = 30
+  height = 30
   stretch_x = false
   stretch_y = false
   stay_on_screen = false
-  element_loading_requirement_container_identifier = 4b233c9d-fdc1-41ea-8193-55b8c1d7ebb5-1713063226475
-  [loading_requirement_container_meta:4b233c9d-fdc1-41ea-8193-55b8c1d7ebb5-1713063226475] = [groups:][instances:]
+  element_loading_requirement_container_identifier = 0ff5791a-e5e5-4ebc-9b97-e0f370892cf1-1725064254471
+  [loading_requirement_container_meta:0ff5791a-e5e5-4ebc-9b97-e0f370892cf1-1725064254471] = [groups:][instances:]
+}
+
+element {
+  source = [source:local]/config/fancymenu/assets/buttons/bottomleft.png
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  element_type = image
+  instance_identifier = 664adab7-8fca-43c7-9988-948699e9b7b4-1725064294202
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = bottom-left
+  x = 0
+  y = -30
+  width = 30
+  height = 30
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 0ff5791a-e5e5-4ebc-9b97-e0f370892cf1-1725064254471
+  [loading_requirement_container_meta:0ff5791a-e5e5-4ebc-9b97-e0f370892cf1-1725064254471] = [groups:][instances:]
+}
+
+element {
+  source = [source:local]/config/fancymenu/assets/buttons/topleft.png
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  element_type = image
+  instance_identifier = 77c348cf-8687-4572-8cda-c06114f93601-1725064322069
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = top-left
+  x = 0
+  y = 0
+  width = 30
+  height = 30
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 0ff5791a-e5e5-4ebc-9b97-e0f370892cf1-1725064254471
+  [loading_requirement_container_meta:0ff5791a-e5e5-4ebc-9b97-e0f370892cf1-1725064254471] = [groups:][instances:]
+}
+
+element {
+  source = [source:local]/config/fancymenu/assets/buttons/topright.png
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  element_type = image
+  instance_identifier = 62903e50-3e53-4265-b1f5-785d97386478-1725064343658
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = top-right
+  x = -30
+  y = 0
+  width = 30
+  height = 30
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 0ff5791a-e5e5-4ebc-9b97-e0f370892cf1-1725064254471
+  [loading_requirement_container_meta:0ff5791a-e5e5-4ebc-9b97-e0f370892cf1-1725064254471] = [groups:][instances:]
 }
 

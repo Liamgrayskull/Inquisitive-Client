@@ -1189,6 +1189,7 @@
 			[light_sources.settings.entities.trials]
 				wind_charge = true
 				bogged = true
+				breeze = true
 
 			[light_sources.settings.entities.terraform]
 				boat = true
@@ -1470,6 +1471,38 @@
 				stalker = true
 				bass_fish = true
 				crab = true
+
+			[light_sources.settings.entities.paradise_lost]
+				moa = true
+				envoy = true
+
+			[light_sources.settings.entities.phantasm]
+				crystie = true
+				behemoth = true
+
+			[light_sources.settings.entities.impaled]
+				elder_trident = true
+				soulfork = true
+				hellfork = true
+				atlan = true
+				pitchfork = true
+				guardian_trident = true
+
+			[light_sources.settings.entities.mythicmounts]
+				netherbat = true
+				archelon = true
+				acencia = true
+				courierbird = true
+				dragon = true
+				griffon = true
+				geckotoalizard = true
+				moth = true
+				nightmare = true
+				nudibranch = true
+				ridinglizard = true
+				direwolf = true
+				colelytra = true
+				firebird = true
 
 		[light_sources.settings.block_entities]
 
