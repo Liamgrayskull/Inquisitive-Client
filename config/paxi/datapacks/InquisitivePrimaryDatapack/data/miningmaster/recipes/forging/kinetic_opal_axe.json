@@ -1,0 +1,26 @@
+{
+    "type": "miningmaster:forging_recipe",
+    "gems": [
+        {
+            "item": "miningmaster:kinetic_opal"
+        },
+        {
+            "item": "miningmaster:kinetic_opal"
+        },
+        {
+            "item": "miningmaster:kinetic_opal"
+        }
+    ],
+    "catalyst": {
+        "item": "minecraft:diamond_axe"
+    },
+    "result": {
+        "item": "miningmaster:kinetic_opal_axe"
+    },
+    "enchantments": [
+        {
+            "enchantment": "minecraft:knockback",
+            "lvl": 1
+        }
+    ]
+}

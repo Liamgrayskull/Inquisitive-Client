@@ -96,6 +96,24 @@ to make editing this file much easier.
 	}
 	},
 	{
+"new": {
+	"Properties": {
+		"waterlogged": "true",
+		"pollinated": "false",
+		"facing": "up"
+	},
+	"Name": "galosphere:lumiere_cluster"
+},
+	"old": {
+		"Properties": {
+	"waterlogged": "true",
+	"facing": "north",
+	"face": "floor"
+	},
+	"Name": "flying_stuff:amber_celestium_spike"
+}
+},
+	{
 	"new": {
 		"Properties": {
 			"waterlogged": "false",
@@ -404,7 +422,25 @@ to make editing this file much easier.
 	},
 	"old": {
 		"Properties": {
-	"waterlogged": "false",
+			"waterlogged": "false",
+			"facing": "north",
+			"face": "floor"
+		},
+		"Name": "flying_stuff:celestium_spike"
+	},
+	},
+	{
+	"new": {
+	"Properties": {
+		"waterlogged": "true",
+		"pollinated": "false",
+		"facing": "up"
+	},
+	"Name": "galosphere:allurite_cluster"
+	},
+	"old": {
+		"Properties": {
+	"waterlogged": "true",
 	"facing": "north",
 	"face": "floor"
 	},
@@ -546,140 +582,50 @@ to make editing this file much easier.
 
 
 	{
-"new": {
-	"Properties": {
-		"waterlogged": "false",
-		"pollinated": "false",
-		"facing": "up"
+	"new": {
+		"Properties": {
+			"waterlogged": "false",
+			"pollinated": "false",
+			"facing": "up"
+		},
+		"Name": "galosphere:allurite_cluster"
 	},
-	"Name": "galosphere:allurite_cluster"
-},
-"old": {
-	"Properties": {
-"waterlogged": "false",
-"facing": "north",
-"face": "wall"
-},
-"Name": "flying_stuff:celestium_spike"
-},
-},
-{
-"new": {
-	"Properties": {
-		"waterlogged": "false",
-		"pollinated": "false",
-		"facing": "up"
-	},
-	"Name": "galosphere:allurite_cluster"
-},
-"old": {
-	"Properties": {
-"waterlogged": "false",
-"facing": "south",
-"face": "wall"
-},
-"Name": "flying_stuff:celestium_spike"
-}
-},
-{
-"new": {
-	"Properties": {
-		"waterlogged": "false",
-		"pollinated": "false",
-		"facing": "up"
-	},
-	"Name": "galosphere:allurite_cluster"
-},
-"old": {
-	"Properties": {
-"waterlogged": "false",
-"facing": "west",
-"face": "wall"
-},
-"Name": "flying_stuff:celestium_spike"
-}
-},
-{
-"new": {
-"Properties": {
+	"old": {
+		"Properties": {
 	"waterlogged": "false",
-	"pollinated": "false",
-	"facing": "up"
-},
-"Name": "galosphere:allurite_cluster"
-},
-"old": {
-	"Properties": {
-"waterlogged": "false",
-"facing": "east",
-"face": "wall"
-},
-"Name": "flying_stuff:celestium_spike"
-}
-},
-{
-"new": {
-	"Properties": {
-		"waterlogged": "false",
-		"pollinated": "false",
-		"facing": "down"
+	"facing": "north",
+	"face": "wall"
 	},
-	"Name": "galosphere:allurite_cluster"
-},
-"old": {
-	"Properties": {
-"waterlogged": "false",
-"facing": "north",
-"face": "wall"
-},
-"Name": "flying_stuff:celestium_spike"
-}
-},
-{
-"new": {
-"Properties": {
-	"waterlogged": "false",
-	"pollinated": "false",
-	"facing": "down"
-},
-"Name": "galosphere:allurite_cluster"
-},
-"old": {
-	"Properties": {
-"waterlogged": "false",
-"facing": "south",
-"face": "wall"
-},
-"Name": "flying_stuff:celestium_spike"
-}
-},
-{
-"new": {
-"Properties": {
-	"waterlogged": "false",
-	"pollinated": "false",
-	"facing": "down"
-},
-"Name": "galosphere:allurite_cluster"
-},
-"old": {
-	"Properties": {
-"waterlogged": "false",
-"facing": "east",
-"face": "wall"
-},
-"Name": "flying_stuff:celestium_spike"
-}
-},
-{
-"new": {
-	"Properties": {
-		"waterlogged": "false",
-		"pollinated": "false",
-		"facing": "down"
+	"Name": "flying_stuff:celestium_spike"
 	},
-	"Name": "galosphere:allurite_cluster"
-},
+	},
+	{
+	"new": {
+		"Properties": {
+			"waterlogged": "false",
+			"pollinated": "false",
+			"facing": "up"
+		},
+		"Name": "galosphere:allurite_cluster"
+	},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "south",
+	"face": "wall"
+	},
+	"Name": "flying_stuff:celestium_spike"
+	}
+	},
+	{
+	"new": {
+		"Properties": {
+			"waterlogged": "false",
+			"pollinated": "false",
+			"facing": "up"
+		},
+		"Name": "galosphere:allurite_cluster"
+	},
 	"old": {
 		"Properties": {
 	"waterlogged": "false",
@@ -687,8 +633,112 @@ to make editing this file much easier.
 	"face": "wall"
 	},
 	"Name": "flying_stuff:celestium_spike"
-}
-},
+	}
+	},
+	{
+	"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "up"
+	},
+	"Name": "galosphere:allurite_cluster"
+	},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "east",
+	"face": "wall"
+	},
+	"Name": "flying_stuff:celestium_spike"
+	}
+	},
+	{
+	"new": {
+		"Properties": {
+			"waterlogged": "false",
+			"pollinated": "false",
+			"facing": "down"
+		},
+		"Name": "galosphere:allurite_cluster"
+	},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "north",
+	"face": "wall"
+	},
+	"Name": "flying_stuff:celestium_spike"
+	}
+	},
+	{
+	"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "down"
+	},
+	"Name": "galosphere:allurite_cluster"
+	},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "south",
+	"face": "wall"
+	},
+	"Name": "flying_stuff:celestium_spike"
+	}
+	},
+	{
+	"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"pollinated": "false",
+		"facing": "down"
+	},
+	"Name": "galosphere:allurite_cluster"
+	},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "east",
+	"face": "wall"
+	},
+	"Name": "flying_stuff:celestium_spike"
+	}
+	},
+	{
+	"new": {
+		"Properties": {
+			"waterlogged": "false",
+			"pollinated": "false",
+			"facing": "down"
+		},
+		"Name": "galosphere:allurite_cluster"
+	},
+		"old": {
+			"Properties": {
+		"waterlogged": "false",
+		"facing": "west",
+		"face": "wall"
+		},
+		"Name": "flying_stuff:celestium_spike"
+	}
+	},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 {
@@ -852,6 +902,481 @@ to make editing this file much easier.
 		"Properties": {"waterlogged": "false","facing": "east","face": "wall"},
 	"Name": "flying_stuff:celestium_antenna"}
 },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"facing": "up"
+	},
+	"Name": "galosphere:pink_salt_cluster"
+},
+"old": {
+	"Properties": {
+		"waterlogged": "false",
+		"facing": "north",
+		"face": "floor"
+	},
+	"Name": "flying_stuff:pale_celestium_spike"
+},
+},
+{
+"new": {
+"Properties": {
+	"waterlogged": "true"
+	"facing": "up"
+},
+"Name": "galosphere:pink_salt_cluster"
+},
+"old": {
+	"Properties": {
+"waterlogged": "true",
+"facing": "north",
+"face": "floor"
+},
+"Name": "flying_stuff:pale_celestium_spike"
+},
+},
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"facing": "up"
+	},
+	"Name": "galosphere:pink_salt_cluster"
+},
+"old": {
+	"Properties": {
+"waterlogged": "false",
+"facing": "south",
+"face": "floor"
+},
+"Name": "flying_stuff:pale_celestium_spike"
+}
+},
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"facing": "up"
+	},
+	"Name": "galosphere:pink_salt_cluster"
+},
+"old": {
+	"Properties": {
+"waterlogged": "false",
+"facing": "west",
+"face": "floor"
+},
+"Name": "flying_stuff:pale_celestium_spike"
+}
+},
+{
+"new": {
+"Properties": {
+	"waterlogged": "false"
+	"facing": "up"
+},
+"Name": "galosphere:pink_salt_cluster"
+},
+"old": {
+	"Properties": {
+"waterlogged": "false",
+"facing": "east",
+"face": "floor"
+},
+"Name": "flying_stuff:pale_celestium_spike"
+}
+},
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"facing": "down"
+	},
+	"Name": "galosphere:pink_salt_cluster"
+},
+"old": {
+	"Properties": {
+"waterlogged": "false",
+"facing": "north",
+"face": "ceiling"
+},
+"Name": "flying_stuff:pale_celestium_spike"
+}
+},
+{
+"new": {
+"Properties": {
+	"waterlogged": "false"
+	"facing": "down"
+},
+"Name": "galosphere:pink_salt_cluster"
+},
+"old": {
+	"Properties": {
+"waterlogged": "false",
+"facing": "south",
+"face": "ceiling"
+},
+"Name": "flying_stuff:pale_celestium_spike"
+}
+},
+{
+"new": {
+"Properties": {
+	"waterlogged": "false"
+	"facing": "down"
+},
+"Name": "galosphere:pink_salt_cluster"
+},
+"old": {
+	"Properties": {
+"waterlogged": "false",
+"facing": "east",
+"face": "ceiling"
+},
+"Name": "flying_stuff:pale_celestium_spike"
+}
+},
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"facing": "down"
+	},
+	"Name": "galosphere:pink_salt_cluster"
+},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "west",
+	"face": "ceiling"
+	},
+	"Name": "flying_stuff:pale_celestium_spike"
+}
+},
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"facing": "up"
+	},
+	"Name": "galosphere:pink_salt_cluster"
+},
+"old": {
+	"Properties": {
+"waterlogged": "false",
+"facing": "north",
+"face": "wall"
+},
+"Name": "flying_stuff:pale_celestium_spike"
+},
+},
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"facing": "up"
+	},
+	"Name": "galosphere:pink_salt_cluster"
+},
+"old": {
+	"Properties": {
+"waterlogged": "false",
+"facing": "south",
+"face": "wall"
+},
+"Name": "flying_stuff:pale_celestium_spike"
+}
+},
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"facing": "up"
+	},
+	"Name": "galosphere:pink_salt_cluster"
+},
+"old": {
+	"Properties": {
+"waterlogged": "false",
+"facing": "west",
+"face": "wall"
+},
+"Name": "flying_stuff:pale_celestium_spike"
+}
+},
+{
+"new": {
+"Properties": {
+	"waterlogged": "false"
+	"facing": "up"
+},
+"Name": "galosphere:pink_salt_cluster"
+},
+"old": {
+	"Properties": {
+"waterlogged": "false",
+"facing": "east",
+"face": "wall"
+},
+"Name": "flying_stuff:pale_celestium_spike"
+}
+},
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"facing": "down"
+	},
+	"Name": "galosphere:pink_salt_cluster"
+},
+"old": {
+	"Properties": {
+"waterlogged": "false",
+"facing": "north",
+"face": "wall"
+},
+"Name": "flying_stuff:pale_celestium_spike"
+}
+},
+{
+"new": {
+"Properties": {
+	"waterlogged": "false"
+	"facing": "down"
+},
+"Name": "galosphere:pink_salt_cluster"
+},
+"old": {
+	"Properties": {
+"waterlogged": "false",
+"facing": "south",
+"face": "wall"
+},
+"Name": "flying_stuff:pale_celestium_spike"
+}
+},
+{
+"new": {
+"Properties": {
+	"waterlogged": "false"
+	"facing": "down"
+},
+"Name": "galosphere:pink_salt_cluster"
+},
+"old": {
+	"Properties": {
+"waterlogged": "false",
+"facing": "east",
+"face": "wall"
+},
+"Name": "flying_stuff:pale_celestium_spike"
+}
+},
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"facing": "down"
+	},
+	"Name": "galosphere:pink_salt_cluster"
+},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "west",
+	"face": "wall"
+	},
+	"Name": "flying_stuff:pale_celestium_spike"
+}
+},
+
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"lit": "true",
+		"hanging": "false"
+	},
+	"Name": "spelunkery:salt_lamp"
+},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "north",
+	"face": "ceiling"
+	},
+	"Name": "flying_stuff:pale_celestium_antenna"
+}
+},
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"lit": "true",
+		"hanging": "true"
+	},
+	"Name": "spelunkery:salt_lamp"
+},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "south",
+	"face": "ceiling"
+	},
+	"Name": "flying_stuff:pale_celestium_antenna"
+}
+},
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"lit": "true",
+		"hanging": "true"
+	},
+	"Name": "spelunkery:salt_lamp"
+},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "west",
+	"face": "ceiling"
+	},
+	"Name": "flying_stuff:pale_celestium_antenna"
+}
+},
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"lit": "true",
+		"hanging": "true"
+	},
+	"Name": "spelunkery:salt_lamp"
+},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "east",
+	"face": "ceiling"
+	},
+	"Name": "flying_stuff:pale_celestium_antenna"
+}
+},
+
+
+
+
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"lit": "true",
+		"hanging": "false"
+	},
+	"Name": "spelunkery:salt_lamp"
+},
+	"old": {
+		"Properties": {
+	"waterlogged": "false",
+	"facing": "north",
+	"face": "floor"
+	},
+	"Name": "flying_stuff:pale_celestium_antenna"
+}
+},
+{
+"new": {
+	"Properties": {
+		"waterlogged": "false",
+		"lit": "true",
+		"hanging": "false"
+	},
+	"Name": "spelunkery:salt_lamp"
+},
+	"old": {
+		"Properties": {"waterlogged": "false","facing": "south","face": "floor"},
+	"Name": "flying_stuff:pale_celestium_antenna"}
+},
+{
+"new": {
+	"Properties": {"waterlogged": "false","lit": "true","hanging": "false"},
+	"Name": "spelunkery:salt_lamp"},
+	"old": {
+		"Properties": {"waterlogged": "false","facing": "west","face": "floor"},
+	"Name": "flying_stuff:pale_celestium_antenna"}
+},
+{
+"new": {
+	"Properties": {"waterlogged": "false","lit": "true","hanging": "false"},
+	"Name": "spelunkery:salt_lamp"},
+	"old": {
+		"Properties": {"waterlogged": "false","facing": "east","face": "floor"},
+"Name": "flying_stuff:pale_celestium_antenna"}
+},
+
+
+
+
+{
+"new": {
+	"Properties": {"waterlogged": "false","lit": "true","hanging": "false"},
+	"Name": "spelunkery:salt_lamp"},
+	"old": {
+		"Properties": {"waterlogged": "false","facing": "north","face": "wall"},
+	"Name": "flying_stuff:pale_celestium_antenna"}
+},
+{
+"new": {
+	"Properties": {"waterlogged": "false","lit": "true","hanging": "false"},
+	"Name": "spelunkery:salt_lamp"},
+	"old": {
+		"Properties": {"waterlogged": "false","facing": "south","face": "wall"},
+	"Name": "flying_stuff:pale_celestium_antenna"}
+},
+{
+"new": {
+	"Properties": {"waterlogged": "false","lit": "true","hanging": "false"
+	},
+	"Name": "spelunkery:salt_lamp"
+},
+	"old": {
+		"Properties": {"waterlogged": "false","facing": "west","face": "wall"},
+	"Name": "flying_stuff:pale_celestium_antenna"}
+},
+{
+"new": {
+	"Properties": {"waterlogged": "false","lit": "true","hanging": "false"},
+	"Name": "spelunkery:salt_lamp"},
+	"old": {
+		"Properties": {"waterlogged": "false","facing": "east","face": "wall"},
+	"Name": "flying_stuff:pale_celestium_antenna"}
+},
+
+
 	],
 	/* A map of blocks that specifies what the "old" block is and what its "new" block is.
 	   Example:
@@ -862,6 +1387,7 @@ to make editing this file much easier.
 	*/
 	"swapper": { 
 		"flying_stuff:glaciated_log": "ad_astra:glacian_log",
+		"flying_stuff:glaciated_wood": "ad_astra:glacian_log",
 		"flying_stuff:glaciated_leaves": "ad_astra:glacian_leaves",
 		"flying_stuff:fiery_log": "quark:ancient_log",
 		"flying_stuff:fiery_leaves": "quark:ancient_leaves",
@@ -894,8 +1420,6 @@ to make editing this file much easier.
 		"flying_stuff:stripped_lavic_stem": "immersive_weathering:charred_log",
 		"flying_stuff:lavic_stem": "immersive_weathering:charred_log",
 		"flying_stuff:lavic_wood": "immersive_weathering:charred_log",
-		"flying_stuff:pale_celestium_spike": "galosphere:pink_salt_cluster",
-		"flying_stuff:pale_celestium_antenna": "spelunkery:salt_lamp",
 		"flying_stuff:lavic_skyrock": "twigs:rhyolite",
 		"flying_stuff:lavic_skyrock_staircase": "twigs:rhyolite_stairs",
 		"flying_stuff:lavic_skyrock_slab": "twigs:rhyolite_slab",
@@ -912,7 +1436,7 @@ to make editing this file much easier.
 		"flying_stuff:lavic_sky_lvl_2_chest": "galosphere:pink_salt_chamber",
 		"flying_stuff:lavic_sky_lvl_1_chest": "waystones:warp_plate",
 		"flying_stuff:glaciated_sky_level_1_chest": "waystones:warp_plate",
-		"flying_stuff:glaciated_sky_level_2_chest": "blockofsky:void_block",
+		"flying_stuff:glaciated_sky_level_2_chest": "minecraft:bedrock",
 
 
 		"enlightened_end:bismuth_ore": "etcetera:raw_bismuth_block",

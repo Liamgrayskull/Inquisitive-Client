@@ -1,0 +1,48 @@
+{
+    "type": "miningmaster:forging_recipe",
+    "gems": [
+        {
+            "item": "sullysmod:polished_jade"
+        },
+        {
+            "item": "sullysmod:polished_jade"
+        },
+        {
+            "item": "sullysmod:polished_jade"
+        },
+        {
+            "item": "miningmaster:kinetic_opal"
+        },
+        {
+            "item": "miningmaster:kinetic_opal"
+        }
+    ],
+    "catalyst": {
+        "item": "miningmaster:power_pyrite_axe"
+    },
+    "result": {
+        "item": "miningmaster:ultima_axe"
+    },
+    "enchantments": [
+        {
+            "enchantment": "minecraft:sharpness",
+            "lvl": 1
+        },
+        {
+            "enchantment": "minecraft:efficiency",
+            "lvl": 1
+        },
+        {
+            "enchantment": "enchancement:beheading",
+            "lvl": 1
+        },
+        {
+            "enchantment": "enchancement:lumberjack",
+            "lvl": 1
+        },
+        {
+            "enchantment": "minecraft:knockback",
+            "lvl": 2
+        }
+    ]
+}

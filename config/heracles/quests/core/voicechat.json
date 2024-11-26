@@ -19,14 +19,14 @@
     },
     "icon": {
       "item": {
-        "id": "minecraft:map",
+        "id": "simpleradio:microphone",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "text": "Voice/Chat!"
+      "translate": "Voice/Chat!"
     }
   },
   "settings": {

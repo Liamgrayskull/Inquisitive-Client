@@ -1,0 +1,70 @@
+{
+  "enableMod": true,
+  "heightOffset": 0,
+  "useWorldOffset": false,
+  "layers": [
+    {
+      "name": "Thicc",
+      "seed": 11,
+      "height": 495,
+      "appearance": {
+        "thickness": 4,
+        "scale": 12,
+        "color": 16777215,
+        "opacity": 40
+      },
+      "movement": {
+        "speed": 100,
+        "direction": "WEST",
+        "useRelativeHeight": false
+      },
+      "conditions": {
+        "dimension": "minecraft:overworld",
+        "rainingOnly": false
+      }
+    },
+    {
+      "name": "Final Layer",
+      "seed": 12,
+      "height": 595,
+      "appearance": {
+        "thickness": 2,
+        "scale": 10,
+        "color": 16777215,
+        "opacity": 20
+      },
+      "movement": {
+        "speed": 100,
+        "direction": "WEST",
+        "useRelativeHeight": false
+      },
+      "conditions": {
+        "dimension": "minecraft:overworld",
+        "rainingOnly": false
+      }
+    },
+    {
+      "name": "Rain",
+      "seed": -2912054900799153469,
+      "height": 392,
+      "appearance": {
+        "thickness": 4,
+        "scale": 12,
+        "color": 16777215,
+        "opacity": 50
+      },
+      "movement": {
+        "speed": 460,
+        "direction": "WEST",
+        "useRelativeHeight": false
+      },
+      "conditions": {
+        "dimension": "minecraft:overworld",
+        "rainingOnly": true
+      }
+    }
+  ],
+  "useWorldTime": true,
+  "renderDistance": 0,
+  "disableFog": false
+}

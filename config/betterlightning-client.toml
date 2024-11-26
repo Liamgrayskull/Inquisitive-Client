@@ -10,4 +10,6 @@
 "Medium Delay" = 85
 #Ticks (Default: 130)
 "Far Delay" = 130
+#Elevation to mute lightning sounds beneath
+"Muffle Below" = 30
 

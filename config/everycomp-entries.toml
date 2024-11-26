@@ -92,8 +92,17 @@
 			edified = true
 
 		[types.wood_type.flying_stuff]
-			glaciated = true
-			lavic = true
+			glaciated = false
+			lavic = false
+
+		[types.wood_type.aromatic]
+			cinnamon = true
+
+		[types.wood_type.netherexp]
+			claret = true
+
+		[types.wood_type.unusualend]
+			chorus_cane = true
 
 	[types.cake]
 
@@ -151,9 +160,9 @@
 			glacian = true
 
 		[types.leaves_type.goodending]
-			cypress = true
-			dense_birch = true
-			dense_dark_oak = true
+			cypress = false
+			dense_birch = false
+			dense_dark_oak = false
 
 		[types.leaves_type.architects_palette]
 			twisted = true
@@ -172,11 +181,11 @@
 
 		[types.leaves_type.quark]
 			ancient = true
-			blue_blossom = true
-			lavender_blossom = true
-			orange_blossom = true
-			yellow_blossom = true
-			red_blossom = true
+			blue_blossom = false
+			lavender_blossom = false
+			orange_blossom = false
+			yellow_blossom = false
+			red_blossom = false
 
 		[types.leaves_type.natures_spirit]
 			redwood = true
@@ -211,10 +220,10 @@
 			frosty_redwood = true
 
 		[types.leaves_type.biomemakeover]
-			blighted_balsa = true
-			willow = true
-			swamp_cypress = true
-			ancient_oak = true
+			blighted_balsa = false
+			willow = false
+			swamp_cypress = false
+			ancient_oak = false
 
 		[types.leaves_type.undergarden]
 			smogstem = true
@@ -225,6 +234,172 @@
 			amethyst_edified = true
 			aventurine_edified = true
 			citrine_edified = true
+
+		[types.leaves_type.aromatic]
+			cinnamon = true
+
+	[types.stone_type]
+
+		[types.stone_type.natures_spirit]
+			travertine = true
+			chert = true
+			kaolin = true
+			white_kaolin = true
+			light_gray_kaolin = true
+			gray_kaolin = true
+			black_kaolin = true
+			brown_kaolin = true
+			red_kaolin = true
+			orange_kaolin = true
+			yellow_kaolin = true
+			lime_kaolin = true
+			green_kaolin = true
+			cyan_kaolin = true
+			light_blue_kaolin = true
+			blue_kaolin = true
+			purple_kaolin = true
+			magenta_kaolin = true
+			pink_kaolin = true
+			maroon_kaolin = true
+			rose_kaolin = true
+			coral_kaolin = true
+			ginger_kaolin = true
+			tan_kaolin = true
+			beige_kaolin = true
+			amber_kaolin = true
+			olive_kaolin = true
+			forest_kaolin = true
+			verdant_kaolin = true
+			teal_kaolin = true
+			mint_kaolin = true
+			aqua_kaolin = true
+			slate_kaolin = true
+			navy_kaolin = true
+			indigo_kaolin = true
+
+		[types.stone_type.flying_stuff]
+			glaciated_skyrock = true
+			mossy_glaciated_skyrock = true
+			lavic_skyrock = true
+			grimstone = false
+
+		[types.stone_type.trials]
+			chiseled_tuff = true
+
+		[types.stone_type.immersive_weathering]
+			snowy_stone = true
+			sandy_stone = true
+
+		[types.stone_type.ad_astra]
+			moon_stone = true
+			mars_stone = true
+			mercury_stone = true
+			venus_stone = true
+			venus_sandstone = true
+			glacio_stone = true
+			permafrost = true
+
+		[types.stone_type.galosphere]
+			pink_salt = true
+			rose_pink_salt = true
+			pastel_pink_salt = true
+
+		[types.stone_type.undergarden]
+			depthrock = true
+			shiverstone = true
+			tremblecrust = true
+
+		[types.stone_type.enlightened_end]
+			palerock = true
+			void_shale = true
+
+		[types.stone_type.spelunkery]
+			rock_salt = true
+			polished_nephrite = true
+
+		[types.stone_type.architects_palette]
+			abyssaline = true
+			hadaline = true
+			myonite = true
+			weeping_blackstone = true
+			twisting_blackstone = true
+			esoterrack = true
+			onyx = true
+			wardstone = true
+			moonshale = true
+
+		[types.stone_type.twigs]
+			polished_tuff = true
+			polished_calcite = true
+			polished_schist = true
+			polished_rhyolite = true
+			polished_bloodstone = true
+			silt = true
+
+		[types.stone_type.sculkhorde]
+			infested_mud = true
+			infested_stone = true
+			infested_blackstone = true
+
+		[types.stone_type.biomemakeover]
+			dried_peat = true
+
+		[types.stone_type.create]
+			cut_granite = true
+			cut_diorite = true
+			cut_andesite = true
+			cut_calcite = true
+			cut_dripstone = true
+			cut_deepslate = true
+			cut_tuff = true
+			cut_asurine = true
+			cut_crimsite = true
+			cut_limestone = true
+			cut_ochrum = true
+			cut_scoria = true
+			cut_scorchia = true
+			cut_veridium = true
+
+		[types.stone_type.upgrade_aquatic]
+			kelpy_cobblestone = true
+
+		[types.stone_type.hexcasting]
+			quenched_allay = false
+			slate = true
+
+		[types.stone_type.alexscaves]
+			galena = true
+			radrock = true
+			abyssmarine = true
+			guanostone = true
+
+		[types.stone_type.netherdungeons]
+			ominous_quartz = true
+			polished_gilded_blackstone = true
+
+		[types.stone_type.oreganized]
+			glance = true
+
+		[types.stone_type.quark]
+			soul_sandstone = true
+			permafrost = true
+			limestone = true
+			jasper = true
+			shale = true
+			myalite = true
+
+		[types.stone_type.supplementaries]
+			ash = true
+
+		[types.stone_type.netherexp]
+			soul_slate = true
+
+		[types.stone_type.unusualend]
+			polished_purpur = true
+			gneiss = true
+			gloopstone = true
+			gloopslate = true
+			warped_stone = true
 
 #Disables specific entries
 [entries]

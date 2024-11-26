@@ -1,0 +1,56 @@
+{
+    "type": "miningmaster:forging_recipe",
+    "gems": [
+        {
+            "item": "biomemakeover:illunite_shard"
+        },
+        {
+            "item": "miningmaster:lucky_citrine"
+        },
+        {
+            "item": "sullysmod:polished_jade"
+        },
+        {
+            "item": "sullysmod:polished_jade"
+        },
+        {
+            "item": "ruby_exchange:ruby"
+        },
+        {
+            "item": "sullysmod:polished_jade"
+        },
+        {
+            "item": "sullysmod:polished_jade"
+        },
+        {
+            "item": "miningmaster:lucky_citrine"
+        },
+        {
+            "item": "biomemakeover:illunite_shard"
+        }
+    ],
+    "catalyst": {
+        "item": "minecraft:diamond_pickaxe"
+    },
+    "result": {
+        "item": "miningmaster:ultima_pickaxe"
+    },
+    "enchantments": [
+        {
+            "enchantment": "minecraft:efficiency",
+            "lvl": 1
+        },
+        {
+            "enchantment": "enchancement:extracting",
+            "lvl": 1
+        },
+        {
+            "enchantment": "minecraft:unbreaking",
+            "lvl": 1
+        },
+        {
+            "enchantment": "miningmaster:smelting",
+            "lvl": 1
+        }
+    ]
+}

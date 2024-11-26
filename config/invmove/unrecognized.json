@@ -395,6 +395,22 @@
     "com.github.alexmodguy.alexscaves.client.gui.SpelunkeryTableScreen": true,
     "de.bax.dysonsphere.gui.RailgunGui": true,
     "aurilux.titles.client.gui.TitleSelectionScreen": true,
-    "com.simibubi.create.content.schematics.client.SchematicPromptScreen": true
+    "com.simibubi.create.content.schematics.client.SchematicPromptScreen": true,
+    "net.backupcup.everlasting.obelisk.ObeliskScreen": true,
+    "com.dolthhaven.easeldoesit.common.inventory.EaselScreen": true,
+    "occult.client.gui.GuideBookIntroScreen": true,
+    "occult.client.gui.GuideBookMobSelectScreen": true,
+    "occult.client.gui.GuideBookToolSelectScreen": true,
+    "net.mcreator.unusualend.client.gui.BolokNotesScreen": true,
+    "net.lointain.cosmos.client.gui.ProjectionSelectorScreen": true,
+    "net.lointain.cosmos.client.gui.AntenaNamerScreen": true,
+    "net.lointain.cosmos.client.gui.LandingSelectorScreen": true,
+    "net.lointain.cosmos.client.gui.PlanetSelectorScreen": true,
+    "net.lointain.cosmos.client.gui.CHamberedsupersmelterScreen": true,
+    "gg.moonflower.etched.client.screen.EtchingScreen": true,
+    "net.mcreator.unusualend.client.gui.BuildingInhibitorGUIScreen": true,
+    "net.mehvahdjukaar.supplementaries.client.screens.CannonScreen": true,
+    "net.lixir.vminus.client.gui.DefaultGuiScreen": true,
+    "net.mehvahdjukaar.supplementaries.client.screens.VariableSizeContainerScreen": true
   }
 }

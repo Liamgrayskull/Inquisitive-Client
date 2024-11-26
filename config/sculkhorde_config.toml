@@ -24,9 +24,9 @@
 	trigger_ancient_node_time_of_day = 2000
 
 ["Infestation / Purification Variables"]
-	#How much faster or slower should purification spread? (Default 0)
-	#Range: -10.0 ~ 10.0
-	purification_speed_multiplier = 0.0
+	#How much faster or slower should purification spread? (Default 1)
+	#Range: 0.001 ~ 10.0
+	purification_speed_multiplier = 0.001
 	#How far should the infestation purifier reach? (Default 5)
 	#Range: 0 ~ 100
 	purifier_range = 48
@@ -34,6 +34,9 @@
 	items_infection_cursors_can_eat = ["minecraft:wheat_seeds", "minecraft:bamboo", "minecraft:stick", "minecraft:poppy", "minecraft:dandelion", "minecraft:blue_orchid", "minecraft:allium", "minecraft:azure_bluet", "minecraft:red_tulip", "minecraft:orange_tulip", "minecraft:white_tulip", "minecraft:pink_tulip", "minecraft:oxeye_daisy", "minecraft:cornflower", "minecraft:lily_of_the_valley", "minecraft:sunflower", "minecraft:lilac", "minecraft:rose_bush", "minecraft:peony"]
 	#Add blocks to this list to make them infestable. I.E. minecraft:dirt. Be careful what you put in here, this can potentially lead to issues. This will not work with blocks that are air, have a block entity, are already considered an infested block, or have the not infestable tag.
 	make_block_infestable = [""]
+	#How much faster or slower should infection spread? (Default 1)
+	#Range: 0.001 ~ 10.0
+	infection_speed_multiplier = 1.0
 
 ["Gravemind Variables"]
 	#How much mass is needed for the Gravemind to enter the immature stage? (Default 5000)
@@ -58,6 +61,10 @@
 ["Sculk Phantom Variables"]
 	#Should sculk phantoms load chunks? (Default true)
 	should_phantoms_load_chunks = false
+	#Should sculk phantoms be spawned by sculk nodes and raids? (Default true)
+	should_sculk_nodes_and_raids_spawn_phantoms = true
+	#Should sculk phantoms be spawned when the ancient node is triggered? (Default true)
+	should_ancient_node_spawn_phantoms = true
 
 ["Experimental Features"]
 	#Should experimental features be enabled? (Default false)
@@ -82,21 +89,15 @@
 	#How many sculk mobs should be allowed to exist at one time? (Default 200)
 	#Range: 0 ~ 1000
 	max_unit_population = 200
-	#How many infector cursors should be allowed to exist at one time? (Default 200)
-	#Range: 0 ~ 1000
-	max_infector_cursor_population = 200
 	#How many nodes can be active at once? (Default 1)
 	#Range: 0 ~ 1000
 	max_nodes_active = 1
-	#How many cursors need to exist for performance mode to kick in. (Default 100)
-	#Range: 0 ~ 1000
-	performance_mode_cursor_threshold = 100
-	#How many cursors should we tick, per in game tick. (Default 50)
-	#Range: 0 ~ 100
-	performance_mode_cursors_to_tick_per_tick = 50
-	#How many ticks should there be between intervals of ticking cursors. (Default 1)
-	#Range: 0 ~ 100
-	performance_mode_delay_between_cursor_ticks = 1
-	#50% Chance for cursors to discard themselves upon reaching threshold. (Default false)
-	performance_mode_thanos_snap_cursors = false
+	#Should the automatic performance system be disabled? (Default False)
+	disable_auto_performance_system = false
+	#How many MINUTES of good performance required before increasing performance mode? (Default 5)
+	#Range: > 1
+	minutes_required_for_performance_increase = 5
+	#How many SECONDS of poor performance required before decreasing performance mode? (Default 30)
+	#Range: > 1
+	seconds_required_for_performance_decrease = 30
 

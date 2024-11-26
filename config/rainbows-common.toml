@@ -1,0 +1,8 @@
+
+[General]
+	#Global toggle for controlling rainbow detail.
+	globalDetailOverride = false
+	#How high of a resolution should the rainbow render in? Lower value = lower resolution and quality but more FPS.
+	#Range: > 0
+	rainbowDetail = 150
+

@@ -4,7 +4,7 @@
   "button_active_color": -1608507360,
   "favorite_color": -256,
   "hide_font_button": false,
-  "hide_settings_button": false,
+  "hide_settings_button": true,
   "hide_table_button": false,
   "symbol_panel_height": 200,
   "max_symbol_suggestions": 5,

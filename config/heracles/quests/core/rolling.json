@@ -19,14 +19,14 @@
     },
     "icon": {
       "item": {
-        "id": "minecraft:map",
+        "id": "spawn:snail_shell",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "text": "Rolling!"
+      "translate": "Rolling!"
     }
   },
   "settings": {

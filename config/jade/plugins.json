@@ -55,6 +55,9 @@
     "lightroom": true,
     "photograph_frame": true
   },
+  "vsch": {
+    "thruster_component_config": true
+  },
   "supplementaries": {
     "hat_stand": true
   },

@@ -1,0 +1,42 @@
+{
+  "dependencies": [
+    "ironthing"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Pack it up!"
+    },
+    "description": [
+      "The traveller's best friend, backpacks are multi-role equipment tied to your back slot (bottom-right of your player in the inventory) which will hold a plentiful amount of item stacks, not unlike a more powerful bundle. You may place it on the floor, or hang it on walls while holding ctrl and right clicking- but be warned, others can easily snag items from your bag if you haven't used a lock item."
+    ],
+    "groups": {
+      "Core": {
+        "position": [
+          -72,
+          -282
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "beansbackpacks:backpack",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Backpacks"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

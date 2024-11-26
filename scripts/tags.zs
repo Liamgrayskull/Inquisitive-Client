@@ -26,9 +26,18 @@ import stdlib.List;
 <tag:items:c:hidden_from_recipe_viewers>.add(<item:ad_astra:tier_3_rocket>);
 <tag:items:c:hidden_from_recipe_viewers>.add(<item:ad_astra:tier_4_rocket>);
 <tag:items:c:hidden_from_recipe_viewers>.add(<item:ad_astra:tier_1_rover>);
-
-
-
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:miningmaster:spirit_garnet>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:miningmaster:haste_peridot>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:cloudstorage:balloon_buddy_inventory>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:cloudstorage:balloon_inventory>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:piglinproliferation:travelers_compass>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:hexcasting:conjured_light>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:hexcasting:conjured_block>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sculkhorde:tome_of_sacrifice>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sculkhorde:tome_of_spore>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sculkhorde:tome_of_veil>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sculkhorde:tome_of_reinforcement>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sculkhorde:tome_of_spines>);
 
 
 

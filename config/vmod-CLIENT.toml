@@ -1,0 +1,16 @@
+
+[VModConfig]
+
+	[VModConfig.ClientRenderingSettings]
+		#Max distance in blocks some renderers are able to render. Reload the game for change to take the effect.
+		#Range: 1.0 ~ 1.7976931348623157E308
+		MAX_RENDERING_DISTANCE = 200.0
+
+	[VModConfig.ClientToolgunSettings]
+		#
+		#Range: 1.0 ~ 1.7976931348623157E308
+		MAX_RAYCAST_DISTANCE = 100.0
+		#Reload the game for change to take the effect.
+		#Range: 512 ~ 1000000
+		SCHEMATIC_PACKET_PART_SIZE = 30000
+

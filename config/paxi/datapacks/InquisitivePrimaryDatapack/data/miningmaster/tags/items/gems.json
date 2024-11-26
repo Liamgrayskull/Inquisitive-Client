@@ -1,0 +1,21 @@
+{
+    "replace": true,
+    "values": [
+        "tetra:pristine_amethyst",
+        "biomemakeover:illunite_shard",
+        "minecraft:echo_shard",
+        "dungeonnowloading:chaotic_hexahedron",
+        "ruby_exchange:ruby",
+        "miningmaster:ice_sapphire",
+        "miningmaster:lucky_citrine",
+        "sullysmod:polished_jade",
+        "miningmaster:dive_aquamarine",
+        "tetra:pristine_emerald",
+        "create:rose_quartz",
+        "etcetera:raw_bismuth",
+        "miningmaster:kinetic_opal",
+        "enlightened_end:malachite",
+        "galosphere:lumiere_shard",
+        "galosphere:allurite_shard"
+    ]
+}

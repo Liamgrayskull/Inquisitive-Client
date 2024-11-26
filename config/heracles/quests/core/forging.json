@@ -4,9 +4,11 @@
   "rewards": {},
   "display": {
     "subtitle": {
-      "translate": "List forging gems here plz! not all have tooltips"
+      "translate": "Casted curiously."
     },
-    "description": [],
+    "description": [
+      "The Tool Forge is essential for crafting equipment beyond the ordinary. It's requirements are low, but the process of smelting materials into preexisting equipment is vital for more advanced weaponry or utilities."
+    ],
     "groups": {
       "Spelunking": {
         "position": [
@@ -30,7 +32,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Forging"
+      "translate": "Tool Forge"
     }
   },
   "settings": {

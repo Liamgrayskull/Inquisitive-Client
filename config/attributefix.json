@@ -209,6 +209,17 @@
         "value": 8192
       }
     },
+    "vminus:health_lost_stat_boost": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "caverns_and_chasms:magic_damage": {
       "enabled": false,
       "min": {
@@ -291,6 +302,17 @@
       "min": {
         "default": 0,
         "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "vminus:magic_protection": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
       },
       "max": {
         "default": 100,
@@ -396,6 +418,17 @@
         "value": 1024
       }
     },
+    "vminus:protection": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "caverns_and_chasms:slowness_infliction": {
       "enabled": false,
       "min": {
@@ -429,6 +462,28 @@
         "value": 1024
       }
     },
+    "vminus:fire_protection": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "oreganized:kinetic_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 30,
+        "value": 30
+      }
+    },
     "cold_sweat:body_temp_immutable": {
       "enabled": false,
       "min": {
@@ -449,6 +504,17 @@
       "max": {
         "default": 1,
         "value": 1
+      }
+    },
+    "vminus:projectile_damage": {
+      "enabled": false,
+      "min": {
+        "default": -255,
+        "value": -255
+      },
+      "max": {
+        "default": 255,
+        "value": 255
       }
     },
     "ars_nouveau:ars_nouveau.perk.max_mana": {
@@ -493,6 +559,17 @@
       "max": {
         "default": 1024,
         "value": 1000000
+      }
+    },
+    "vminus:blast_protection": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "ned:hurt_up": {
@@ -825,6 +902,17 @@
         "value": 1
       }
     },
+    "vminus:critical_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "hexcasting:scry_sight": {
       "enabled": false,
       "min": {
@@ -889,6 +977,17 @@
       "max": {
         "default": 2048,
         "value": 2048
+      }
+    },
+    "vminus:mob_detection_range": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 0,
+        "value": 0
       }
     },
     "reach-entity-attributes:attack_range": {
@@ -1032,6 +1131,39 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "vminus:blunt_protection": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "vminus:fall_protection": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "vminus:mining_speed": {
+      "enabled": false,
+      "min": {
+        "default": -255,
+        "value": -255
+      },
+      "max": {
+        "default": 255,
+        "value": 255
       }
     },
     "cold_sweat:core_temperature": {

@@ -1,0 +1,98 @@
+{
+  "has_precipitation": true,
+  "temperature": 0.13,
+  "downfall": 0.1,
+  "effects": {
+    "mood_sound": {
+      "sound": "flying_stuff:glaciated_sky",
+      "tick_delay": 6000,
+      "offset": 8,
+      "block_search_extent": 2
+    },
+    "music": {
+      "sound": "flying_stuff:glaciated_sky",
+      "min_delay": 12000,
+      "max_delay": 24000,
+      "replace_current_music": true
+    },
+    "particle": {
+      "options": {
+        "type": "flying_stuff:snowfall_0"
+      },
+      "probability": 0.00301
+    },
+    "foliage_color": -6684673,
+    "grass_color": -16711732,
+    "sky_color": -3355444,
+    "fog_color": -3355444,
+    "water_color": -16750849,
+    "water_fog_color": -16763956
+  },
+  "spawners": {
+    "monster": [],
+    "creature": [],
+    "ambient": [],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
+  "features": [
+    [],
+    [
+      "minecraft:lake_lava_underground"
+    ],
+    [
+      "minecraft:iceberg_packed",
+      "minecraft:iceberg_blue"
+    ],
+    [
+      "inq:isles/noise_stripes_sunstone_isles",
+      "inq:isles/noise_stripes_lumiere_isles"
+    ],
+    [
+      
+      "inq:fissures/lumiere_fissure",
+      "inq:isles/large_floor_lumiere_crystals",
+      "inq:isles/large_ceiling_lumiere_crystals",
+      "inq:glacio/icicles"
+    ],
+    [
+      
+    ],
+    [
+      "minecraft:ore_coal_upper",
+      "minecraft:ore_coal_lower",
+      "minecraft:ore_iron_upper",
+      "minecraft:ore_iron_middle",
+      "minecraft:ore_iron_small",
+      "minecraft:ore_gold",
+      "minecraft:ore_gold_lower",
+      "minecraft:ore_redstone",
+      "minecraft:ore_redstone_lower",
+      "minecraft:ore_diamond",
+      "minecraft:ore_diamond_large",
+      "minecraft:ore_diamond_buried",
+      "minecraft:ore_lapis",
+      "minecraft:ore_lapis_buried",
+      "minecraft:ore_copper",
+      "minecraft:underwater_magma"
+    ],
+    [],
+    [
+    ],
+    [],
+    [
+      "minecraft:freeze_top_layer"
+    ]
+  ]
+}

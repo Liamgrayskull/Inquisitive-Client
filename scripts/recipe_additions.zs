@@ -27,10 +27,6 @@ craftingTable.remove(<item:alexsmobs:transmutation_table>);
 craftingTable.remove(<item:waystones:warp_dust>);
 craftingTable.remove(<item:waystones:warp_plate>);
 
-
-craftingTable.remove(<item:blockofsky:void_block>);
-craftingTable.remove(<item:blockofsky:sky_block>);
-
 craftingTable.remove(<item:waystones:warp_stone>);
 craftingTable.remove(<item:waystones:waystone>);
 craftingTable.remove(<item:waystones:mossy_waystone>);
@@ -61,6 +57,12 @@ craftingTable.addShapeless("coldeye", <item:endrem:cold_eye> * 1, [<item:enderma
 craftingTable.addShapeless("blackeye", <item:endrem:black_eye> * 1, [<item:endermanoverhaul:ancient_pearl>, <item:biomemakeover:soul_embers>]);
 craftingTable.addShapeless("corruptedeye", <item:endrem:corrupted_eye> * 1, [<item:endermanoverhaul:corrupted_pearl>, <item:biomemakeover:soul_embers>]);
 
+craftingTable.addShapeless("mintdye1", <item:dye_depot:mint_dye> * 1, [<item:neapolitan:mint_sprout>]);
+craftingTable.addShapeless("indigodye1", <item:dye_depot:indigo_dye> * 2, [<item:enlightened_end:indigo_roots>]);
+craftingTable.addShapeless("indigodye2", <item:dye_depot:indigo_dye> * 1, [<item:enlightened_end:indigo_sprouts>]);
+craftingTable.addShapeless("gingerdye1", <item:dye_depot:ginger_dye> * 2, [<item:snowyspirit:ginger>]);
+craftingTable.addShapeless("gingerdye2", <item:dye_depot:ginger_dye> * 1, [<item:alexscaves:gingerbread_crumbs>]);
+craftingTable.addShapeless("amberdye1", <item:dye_depot:amber_dye> * 4, [<item:alexscaves:amber>]);
 
 
 
@@ -95,8 +97,5 @@ craftingTable.addShaped("transciever", <item:simpleradio:transceiver> * 1, [[<it
 
 
 craftingTable.addShaped("warp_dust", <item:waystones:warp_dust> * 1, [[<item:minecraft:air>, <item:enlightened_end:stardust>, <item:minecraft:air>], [<item:enlightened_end:stardust>, <item:spelunkery:portal_fluid_bottle>, <item:enlightened_end:stardust>], [<item:minecraft:air>, <item:enlightened_end:stardust>, <item:minecraft:air>]]);
-
-craftingTable.addShaped("void_block", <item:blockofsky:void_block> * 1, [[<item:minecraft:air>, <item:enlightened_end:stardust>, <item:minecraft:air>], [<item:enlightened_end:stardust>, <item:enlightened_end:void_shale>, <item:enlightened_end:stardust>], [<item:minecraft:air>, <item:enlightened_end:stardust>, <item:minecraft:air>]]);
-craftingTable.addShaped("sky_block", <item:blockofsky:sky_block> * 1, [[<item:minecraft:air>, <item:enlightened_end:stardust>, <item:minecraft:air>], [<item:enlightened_end:stardust>, <item:minecraft:glowstone>, <item:enlightened_end:stardust>], [<item:minecraft:air>, <item:enlightened_end:stardust>, <item:minecraft:air>]]);
 
 craftingTable.addShaped("transmutation_table", <item:alexsmobs:transmutation_table> * 1, [[<item:minecraft:air>, <item:minecraft:nether_star>, <item:minecraft:air>], [<item:alexsmobs:farseer_arm>, <item:alexsmobs:mimicream>, <item:alexsmobs:farseer_arm>], [<item:minecraft:obsidian>, <item:minecraft:obsidian>, <item:minecraft:obsidian>]]);

@@ -5,11 +5,11 @@
       "name": "Grayskulll",
       "uniqueId": "00d5f600-d470-41fb-bc1e-7861382e204d"
     },
-    "time": 1724218143772,
+    "time": 1732601231572,
     "type": "Profiler (live)",
     "data": {
       "type": "url",
-      "value": "https://spark.lucko.me/GJ2Xr5Eez7"
+      "value": "https://spark.lucko.me/LUk4pNHmna"
     }
   },
   {
@@ -18,11 +18,11 @@
       "name": "Grayskulll",
       "uniqueId": "00d5f600-d470-41fb-bc1e-7861382e204d"
     },
-    "time": 1724206938097,
+    "time": 1729402151134,
     "type": "Profiler (live)",
     "data": {
       "type": "url",
-      "value": "https://spark.lucko.me/DjyRs2h3JK"
+      "value": "https://spark.lucko.me/2aWJbXzBxb"
     }
   },
   {
@@ -31,11 +31,11 @@
       "name": "Grayskulll",
       "uniqueId": "00d5f600-d470-41fb-bc1e-7861382e204d"
     },
-    "time": 1723870865367,
+    "time": 1728179479463,
     "type": "Profiler (live)",
     "data": {
       "type": "url",
-      "value": "https://spark.lucko.me/QitGawSq08"
+      "value": "https://spark.lucko.me/38HhHcptvd"
     }
   },
   {
@@ -44,11 +44,24 @@
       "name": "Grayskulll",
       "uniqueId": "00d5f600-d470-41fb-bc1e-7861382e204d"
     },
-    "time": 1723854105130,
+    "time": 1728177978390,
     "type": "Profiler (live)",
     "data": {
       "type": "url",
-      "value": "https://spark.lucko.me/HU1MaGNjLG"
+      "value": "https://spark.lucko.me/OiHGDpMIHm"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Grayskulll",
+      "uniqueId": "00d5f600-d470-41fb-bc1e-7861382e204d"
+    },
+    "time": 1728089187970,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/dVQuxpQZWk"
     }
   }
 ]

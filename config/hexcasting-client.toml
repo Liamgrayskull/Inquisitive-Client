@@ -7,4 +7,6 @@ invertAbacusScrollDirection = false
 #When using a staff, the distance from one dot you have to go to snap to the next dot, where 0.5 means 50% of the way.
 #Range: 0.5 ~ 1.0
 gridSnapThreshold = 0.5
+#Whether you click to start and stop drawing instead of clicking and dragging
+clickingTogglesDrawing = false
 

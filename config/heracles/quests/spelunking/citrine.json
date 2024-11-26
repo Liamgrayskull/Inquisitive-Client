@@ -1,0 +1,40 @@
+{
+  "dependencies": [],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "A mineral formed through citric acids spread through the prevalance of lemon trees among the overworld, citrine bears increased yield when combined with equipment in a smithing table."
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          -105,
+          127
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "miningmaster:lucky_citrine_block",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Citrine"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

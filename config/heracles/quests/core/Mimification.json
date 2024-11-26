@@ -1,6 +1,7 @@
 {
   "dependencies": [
-    "outerreach"
+    "outerreach",
+    "ender"
   ],
   "tasks": {},
   "rewards": {},
@@ -23,8 +24,8 @@
     "groups": {
       "Core": {
         "position": [
-          -45,
-          -630
+          -59,
+          -574
         ]
       }
     },

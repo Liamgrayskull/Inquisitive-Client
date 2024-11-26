@@ -347,6 +347,14 @@
 				wraptor = true
 				limpet = true
 				birt_egg = true
+				cruncher = true
+				goober = true
+				goober_goo = true
+				mammutilation = true
+				mammutilation_ichor = true
+				trooper = true
+				springling = true
+				treeper = true
 
 			[light_sources.settings.entities.corpse]
 				corpse = true
@@ -416,6 +424,23 @@
 				thrown_waste_drum = true
 				depth_charge = true
 				falling_guano = true
+				candy_cane_hook = true
+				candicorn = true
+				gummy_bear = true
+				caramel_cube = true
+				gumbeeper = true
+				sweetish_fish = true
+				gingerbread_man = true
+				caniac = true
+				melted_caramel = true
+				gumball = true
+				gum_worm = true
+				soda_bottle_rocket = true
+				gum_worm_segment = true
+				licowitch = true
+				sugar_staff_hex = true
+				spinning_peppermint = true
+				frostmint_spear = true
 
 			[light_sources.settings.entities.habitat]
 				passerine = true
@@ -484,6 +509,9 @@
 				projectile_fire_wave = true
 				sky_automaton_brute = true
 				igneo_robo_feline = true
+				arid_sky_automaton = true
+				sky_pharaoh = true
+				sky_bird = true
 
 			[light_sources.settings.entities.sihywtcamd]
 				cobweb = true
@@ -683,6 +711,7 @@
 			[light_sources.settings.entities.natures_spirit]
 				cypress_boat = true
 				fir_boat = true
+				cheese_arrow = true
 
 			[light_sources.settings.entities.etcetera]
 				chapple = true
@@ -1238,6 +1267,7 @@
 			[light_sources.settings.entities.oreganized]
 				shrapnel_bomb = true
 				shrapnel_bomb_minecart = true
+				lead_bolt = true
 
 			[light_sources.settings.entities.ravageandcabbage]
 				corrupted_cabbage = true
@@ -1444,6 +1474,7 @@
 				saturn = true
 				venus = true
 				earth = true
+				steel_rover = true
 
 			[light_sources.settings.entities.trackwork]
 				wheel_entity = true
@@ -1503,6 +1534,99 @@
 				direwolf = true
 				colelytra = true
 				firebird = true
+
+			[light_sources.settings.entities.aromatic]
+				caddle = true
+
+			[light_sources.settings.entities.netherexp]
+				soul_bullet = true
+				vessel = true
+				wisp = true
+				apparition = true
+				ecto_slab = true
+				carcass = true
+				banshee = true
+				phasmo_arrow = true
+				will_o_wisp = true
+				blood_drop = true
+				stampede = true
+
+			[light_sources.settings.entities.skyfall]
+				meteorite_1_iron_ore = true
+				meteorite_1_pentafthalmos_egg = true
+				meteorite_1_stone = true
+				meteorite_1_skyrock = true
+				meteorite_1_ancient_debris = true
+				meteorite_2_stone = true
+				meteorite_3_skyrock = true
+				pentafthalmos = true
+				angry_moon = true
+				meteorite_1_gold_ore = true
+				meteorite_2_pentafthalmos_egg = true
+
+			[light_sources.settings.entities.zombiesmore]
+				crawler = true
+				explosive_zombie = true
+				cursed_zombie = true
+				cursed_head = true
+				tank_zombie = true
+				boomer_zombie = true
+
+			[light_sources.settings.entities.unusualend]
+				undead_enderling = true
+				benevolent_leeching_charge_projectile = true
+				block_updater = true
+				bluk = true
+				bolok = true
+				endstone_golem = true
+				dragling = true
+				spunkler = true
+				glub = true
+				small_enderbulb = true
+				ender_blob = true
+				enderbulb = true
+				endstone_trapper = true
+				ender_firefly = true
+				void_bomb = true
+
+			[light_sources.settings.entities.oddities]
+				ajar = true
+
+			[light_sources.settings.entities.under_the_moon]
+				baby_echobug = true
+				baby_lugbeetle = true
+				clinger_eyes = true
+				night_crawler = true
+				peeker = true
+				peeker_saddled = true
+				pentagram = true
+				shroom = true
+				wendigo = true
+				wendigo_boom = true
+				cursed_pinecone_projectile = true
+				poison_sac_projectile = true
+
+			[light_sources.settings.entities.particlepresets]
+				ritualcirclesmall = true
+				summoningcircle = true
+
+			[light_sources.settings.entities.occult]
+				occultore = true
+				seeping = true
+				weaver = true
+
+			[light_sources.settings.entities.doom_and_gloom]
+				holler = true
+
+			[light_sources.settings.entities.sleepy_hollows]
+				spectral_horse = true
+
+			[light_sources.settings.entities.puppypaws]
+				borzoi = true
+				chihuahua = true
+				golden_retriever = true
+				great_dane = true
+				pug = true
 
 		[light_sources.settings.block_entities]
 

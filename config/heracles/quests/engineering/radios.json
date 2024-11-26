@@ -9,7 +9,12 @@
       "text": ""
     },
     "description": [
-      ""
+      "By manipulating the power of frequencies, either through sculk's capabilities to transmit vibrations, or amethyst's nigh-magical resonance, these properties can be calibrated into specialized radios, microphones, speakers, or transceivers. These devices are configured with a frequency table, and will connect to any device on the same frequency. These devices even work on physics grids!",
+      "> - AM: Longer distance frequencies at a loss of quality.",
+      "> - FM: Shorter transmission ranges with a superior audio quality.",
+      "> - Transceivers: Not unlike a walkie talkie, though with more durability, transceivers allow the broadcasting of voice across wide distances. ",
+      "> - Microphone: A block which detects audio in a ~1.5 block radius and broadcasts it on the configured frequency.",
+      "> - Speaker & Radio: Blocks which will recieve and play audio transmitted to their frequency."
     ],
     "groups": {
       "Engineering": {

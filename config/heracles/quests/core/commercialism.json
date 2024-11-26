@@ -12,14 +12,14 @@
     "groups": {
       "Core": {
         "position": [
-          -66,
-          -333
+          -97,
+          -314
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "minecraft:map",
+        "id": "ruby_exchange:ruby_card",
         "count": 1
       },
       "type": "heracles:item"

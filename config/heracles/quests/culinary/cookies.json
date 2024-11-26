@@ -6,36 +6,38 @@
   "rewards": {},
   "display": {
     "subtitle": {
-      "translate": "Smart, Tough"
+      "translate": "Formerly Flavorful"
     },
     "description": [
-      "Cookies are short, sweet, provide effects, and efficient to eat. The perfect mid-combat snack."
+      "You can whip up a variety of beverages, cakes, cookies, ice creams, pies, and tarts- each with their own, otherwise-unobtainable effects!",
+      "",
+      "- Milkshakes remove other effects.",
+      "- Cut cakes & pies into slices with a knife.",
+      "- Cookies provide the perfect mid-combat snack."
     ],
     "groups": {
       "Culinary": {
         "position": [
-          -352,
+          -267,
           -163
         ]
       }
     },
     "icon": {
-      "item": {
-        "id": "bountifulfares:artisan_cookie",
-        "count": 1
-      },
+      "item": "#neapolitan:ice_cream",
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Cookies"
+      "translate": "Flavors"
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

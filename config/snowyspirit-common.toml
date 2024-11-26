@@ -20,8 +20,6 @@
 	[snowy_season.season_mod_compat]
 		#Enables compatibility with Serene Seasons (Forge) or Fabric Seasons (Fabric). Only takes effect if the mod is installed. Will make snowy season only active during certain seasons. Note that this will override previous time window settings
 		enabled = false
-		#Season in which the mod villager AI behaviors will be active
-		winter_season_sub_seasons = ["MID_WINTER", "LATE_WINTER"]
 
 [misc]
 	#Save generated resources to disk in a 'debug' folder in your game directory. Mainly for debug purposes but can be used to generate assets in all wood types for your mods :0

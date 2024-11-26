@@ -17,7 +17,7 @@
     },
     "icon": {
       "item": {
-        "id": "minecraft:map",
+        "id": "alexscaves:metal_scaffolding",
         "count": 1
       },
       "type": "heracles:item"

@@ -1,0 +1,140 @@
+# Set language for this configuration file. Delete the rest of the file to update. Thanks to the translators: Morty#0273 (ru_ru), PixelVoxel#4327 (ko_kr), thearchy.helios (zh_cn)
+# Supported languages: en_us, fr_fr, ru_ru, ko_kr, zh_cn
+lang = "en_us"
+
+# Mc2Discord configuration file
+#  - Curseforge (Download): https://www.curseforge.com/minecraft/mc-mods/mc2discord
+#  - Modrinth (Download): https://modrinth.com/mod/mc2discord
+#  - Discord (Support): https://discord.gg/rzzd76c
+#  - Github (Source code): https://github.com/DenisD3D/Mc2Discord
+#  - Wiki (Configuration guide): https://github.com/DenisD3D/Mc2Discord/wiki
+#
+#
+# FOLLOW THE CONFIGURATION GUIDE IN THE WIKI: https://github.com/DenisD3D/Mc2Discord/wiki
+#
+#
+# Support is available through the Discord server
+[General]
+	# Token for the Discord bot account, equivalent to a password obtainable through the Discord website (see: https://github.com/DenisD3D/Mc2Discord/wiki/Discord-token)
+	token = ""
+
+# Channels configuration
+# One [[Channels.Channel]] block should be created per Discord channel you want to setup
+[Channels]
+
+	[[Channels.Channel]]
+		# Id of the Discord channel to send messages in (see: https://github.com/DenisD3D/Mc2Discord/wiki/Discord-ids)
+		id = 0
+		# List of messages types to send that will be sent in this channel. Available values: "info", "chat", "command", "logs" ("info" is equivalent to adding "server_start", "server_stop", "player_connect", "player_disconnect", "player_death", "player_advancement")
+		subscriptions = ["info", "chat", "command"]
+		# Messages format in this channel. Available values: WEBHOOK, PLAIN_TEXT, EMBED
+		mode = "WEBHOOK"
+
+# Messages content configuration
+# Variables (${xxx}) are replaced by corresponding values (see complete list of variables: https://github.com/DenisD3D/Mc2Discord/wiki/Variables)
+# "global" variables may be used in any field
+[Messages]
+	# When server start
+	start = "The server has started"
+	# When server stop
+	stop = "The server has stopped"
+	# When a player join the server ("player" variables are available)
+	join = "${player_display_name} joined the game"
+	# When a player join the server ("player" variables are available)
+	leave = "${player_display_name} left the game"
+	# When a player die ("player" and "death" variables are available)
+	death = "${death_message}"
+	# When a player unlock an advancement ("player" and "advancement" variables are available)
+	advancement = "${player_display_name} has made the advancement ${advancement_title}. ${advancement_description}."
+
+# Commands configuration
+[Commands]
+	# Prefix before each command. Minecraft default one is '/' (eg : /help)
+	prefix = "!"
+	# If true, commands result are sent in a code block (```result```)
+	use_codeblocks = true
+
+	# Commands permissions configuration.
+	# One [[Commands.Permission]] block should be created per Discord channel you want to setup
+	[[Commands.Permission]]
+		# Id of the Discord member or Discord role the permission apply to (0 <=> everyone)
+		id = 0
+		# Minecraft permission level that will be allowed, all commands up to that level will be available (-1 <=> No commands, 0 <=> all non-op commands, 3 <=> all op commands)
+		permission_level = -1
+		# List of commands that will be allowed in addition of the permission level
+		commands = [""]
+
+# Enable additional features
+# Executing "/mc2discord restart" is required to generate feature-related parts of the configuration file
+[Features]
+	# Regular channels name and topic updates with global variables
+	status_channels = false
+	# Minecraft and Discord accounts linking with optional whitelist
+	account_linking = false
+
+# Style configuration
+[Style]
+	# Override the bot name in webhook and embed mode ("global" variables are available)
+	bot_name = ""
+	# Override the bot avatar in webhook and embed mode, must be a valid URL to an image ("global" variables are available)
+	bot_avatar = ""
+	# Set the format of the player name appearing next to chat message when using webhook mode ("player" and "global" variables are available)
+	webhook_display_name = "${player_display_name}"
+	# URL used to get players head, must be a valid URL to an image ("player" and "global" variables are available)
+	webhook_avatar_api = "https://mc-heads.net/head/${player_uuid}/right"
+	# Format used for messages sent in minecraft chat. ("${reply}", "${attachements}", "member", "message", "global" and minecraft formatting variables are available)
+	minecraft_chat_format = "<Discord - ${member_display_name}> ${reply}${message}"
+	# Replace ${reply} in minecraft_chat_format if the message has a referenced message. ("member" (author of the referenced message) and "global" variables are available).
+	reply_format = "Replying to ${member_nickname}: "
+	# Format used for chat messages in PLAIN_TEXT mode ("player", "message" and "global" variables are available)
+	discord_chat_format = "**${player_display_name}**: ${message}"
+	# If true, bot avatar will be shown in the embed for info messages
+	embed_show_bot_avatar = false
+
+	# Embed colors. A color from https://github.com/DenisD3D/Mc2Discord/wiki/Embed-Colors or a decimal color
+	[Style.EmbedColors]
+		info = "SUMMER_SKY"
+		chat = "MEDIUM_SEA_GREEN"
+		command = "MEDIUM_SEA_GREEN"
+		log = "SUMMER_SKY"
+
+	# Presence configuration
+	[Style.Presence]
+		# Message to display under the bot in the member list on Discord ("global" variables are available)
+		message = "${online_players} / ${max_players} players"
+		# The type of presence (PLAYING, STREAMING, LISTENING, WATCHING, COMPETING or CUSTOM)
+		type = "PLAYING"
+		# Delay between to update of the channel (in seconds, any value below 610 may cause issues)
+		update = 60
+		# Only if type is STREAMING, ignored for others type, must be a valid youtube or twitch link.
+		link = ""
+
+# Miscellaneous settings
+[Misc]
+	# If true, other bots messages will be sent in minecraft chat
+	relay_bot_messages = false
+	# List of allowed mentions from minecraft (supported value: "EVERYONE_AND_HERE", "ROLE", "USER")
+	allowed_mention = ["ROLE", "USER"]
+	# Text of the /discord command
+	discord_text = "Invitation link not set"
+	# Link of the /discord command
+	discord_link = "https://discord.gg/"
+	# Format for server logs on Discord
+	logs_format = "[${log_time|HH:mm:ss}] [${log_thread_name}/${log_level}] [${log_logger_name}]: ${log_message}"
+	# Level for server logs on Discord (supported values: FATAL, ERROR, WARN, INFO, DEBUG, TRACE, ALL)
+	logs_level = "INFO"
+	# List of commands to broadcast to Discord. If absent message will only be sent to Minecraft (supported values: say, me, tellraw)
+	broadcast_commands = ["say", "me", "tellraw"]
+	# If true, any message sent by another mod will be logged to the console (used only for configuration of [[Misc.OtherModMessage]], must be disabled after)
+	verbose_other_mods_messages = false
+
+	# Configuration for messages from others mods
+	# Values may be found on the wiki (https://github.com/DenisD3D/Mc2Discord/wiki/Other-Mods-Messages) or by enabling verbose_other_mods_messages
+	[[Misc.other_mods_messages]]
+		# Name of the Java class the message is comming from
+		class_name = ""
+		# Index of the class in the stacktrace
+		class_index = 0
+		# Type the message will be sent as, must be one found in a Channels.Channel configuration
+		type = "info"
+

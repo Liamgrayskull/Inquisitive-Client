@@ -1,0 +1,40 @@
+{
+  "dependencies": [],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Found in the most high pressure regions of the Depths, Regalium is a material found high and low, characterized by it's cleansing properties, practical for health and protection through unique warding properties."
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          -103,
+          167
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "undergarden:regalium_crystal",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Regalium"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

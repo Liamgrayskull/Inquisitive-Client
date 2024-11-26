@@ -1,0 +1,35 @@
+
+#General Settings
+[general]
+	#Use list instead of mobCategory for despawning?
+	enableList = false
+	#Changes the list to be a blacklist. Requires enableList.
+	isBlacklist = false
+	#List of mobs to despawn. Requires enableList.
+	#Formatting: ["minecraft:creeper", "minecraft:zombie", "minecraft:spider", "modID:entityID"]
+	mobs = ["minecraft:creeper", "minecraft:zombie", "minecraft:spider"]
+
+#Range Settings
+[range]
+	#Should difficulty based range scaling be enabled?
+	#Difficulty Scaling: EASY = base | NORMAL = base / 2 | HARD = base / 4
+	enableScaling = true
+	#Vertical radius to check for mobs to despawn.
+	#Range: 0 ~ 64
+	verticalRange = 16
+	#Horizontal radius to check for mobs to despawn.
+	#Range: 0 ~ 256
+	horizontalRange = 64
+
+#Conditional Checks
+[checks]
+	#Latest time a player can sleep to allow despawning.
+	#Allowed Values: MORNING_E, MORNING, MORNING_L, NOON_E, NOON, NOON_L, EVENING_E, EVENING, EVENING_L, NIGHT_E, NIGHT, NIGHT_L, DISABLED
+	lateCheck = "NIGHT_L"
+	#Should non-sleeping players prevent despawning around them?
+	playerCheck = true
+	#Should nearby monsters prevent sleep?
+	monsterCheck = true
+	#Should only monsters tracking the player prevent sleep? Requires enableMobCheck.
+	betterChecking = true
+
