@@ -411,6 +411,7 @@
     "net.mcreator.unusualend.client.gui.BuildingInhibitorGUIScreen": true,
     "net.mehvahdjukaar.supplementaries.client.screens.CannonScreen": true,
     "net.lixir.vminus.client.gui.DefaultGuiScreen": true,
-    "net.mehvahdjukaar.supplementaries.client.screens.VariableSizeContainerScreen": true
+    "net.mehvahdjukaar.supplementaries.client.screens.VariableSizeContainerScreen": true,
+    "com.simibubi.create.content.redstone.link.controller.LinkedControllerScreen": true
   }
 }

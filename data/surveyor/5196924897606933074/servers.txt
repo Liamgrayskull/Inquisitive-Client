@@ -1,0 +1,2 @@
+Minecraft Server
+76.164.196.84:25565

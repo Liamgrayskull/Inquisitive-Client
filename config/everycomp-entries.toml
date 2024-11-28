@@ -260,22 +260,6 @@
 			purple_kaolin = true
 			magenta_kaolin = true
 			pink_kaolin = true
-			maroon_kaolin = true
-			rose_kaolin = true
-			coral_kaolin = true
-			ginger_kaolin = true
-			tan_kaolin = true
-			beige_kaolin = true
-			amber_kaolin = true
-			olive_kaolin = true
-			forest_kaolin = true
-			verdant_kaolin = true
-			teal_kaolin = true
-			mint_kaolin = true
-			aqua_kaolin = true
-			slate_kaolin = true
-			navy_kaolin = true
-			indigo_kaolin = true
 
 		[types.stone_type.flying_stuff]
 			glaciated_skyrock = true

@@ -1,5 +1,0 @@
-#Flight Conduit Mod Config - select blocks allowed for Conduit Structure
-#
-#Allowed blocks for structure around the flight conduit
-blocks = ["minecraft:oxidized_copper", "minecraft:waxed_oxidized_copper", "minecraft:weathered_copper", "minecraft:waxed_weathered_copper"]
-

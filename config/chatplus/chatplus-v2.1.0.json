@@ -51,7 +51,7 @@
     "arrowCycleTabEnabled": false,
     "moveToTabWhenCycling": true,
     "tabNotificationSettings": {
-        "enabled": true,
+        "enabled": false,
         "scale": 0.4
     },
     "chatWindows": [
@@ -59,7 +59,7 @@
             "generalSettings": {
                 "disabled": false,
                 "backgroundColor": -2147483648,
-                "unfocusedBackgroundColorOpacityMultiplier": 0.39999998,
+                "unfocusedBackgroundColorOpacityMultiplier": 0.4,
                 "scale": 1.0,
                 "textOpacity": 1.0,
                 "unfocusedTextOpacityMultiplier": 1.0,
@@ -72,7 +72,7 @@
                 "enabled": false,
                 "showWhenChatNotOpen": false,
                 "outlineColor": 0,
-                "unfocusedOutlineColorOpacityMultiplier": 0.39999998,
+                "unfocusedOutlineColorOpacityMultiplier": 0.4,
                 "outlineBoxType": "TEXT_BOX",
                 "outlineTabType": "SELECTED_TAB_OPEN_TOP"
             },
@@ -94,7 +94,7 @@
                 "showTabsWhenChatNotOpen": false,
                 "tabTextColorSelected": -1,
                 "tabTextColorUnselected": -6710887,
-                "unfocusedTabOpacityMultiplier": 0.39999998,
+                "unfocusedTabOpacityMultiplier": 0.4,
                 "tabs": [
                     {
                         "pattern": "(?s).*",
@@ -117,6 +117,8 @@
     "movableChatEnabled": false,
     "movableChatShowEnabledOnScreen": true,
     "movableChatToggleKey": "key.keyboard.right.control",
+    "movableChatColor": -922746881,
+    "movableChatSelectedColor": -939458816,
     "filterMessagesEnabled": true,
     "filterMessagesLinePriority": 150,
     "filterMessagesPatterns": [],

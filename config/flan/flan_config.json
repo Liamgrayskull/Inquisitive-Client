@@ -7,7 +7,7 @@
   "ticksForNextBlock": 600,
   "minClaimsize": 100,
   "defaultClaimDepth": 10,
-  "maxClaims": -1,
+  "maxClaims": 3,
   "defaultClaimName": "",
   "defaultEnterMessage": "",
   "defaultLeaveMessage": "",
@@ -15,27 +15,34 @@
   "claimingCooldown": 0,
   "blacklistedWorlds": [],
   "worldWhitelist": false,
-  "claimingItem": "minecraft:golden_hoe",
+  "claimingItem": "healpgood:heart_crystal_shard",
   "claimingNBT": {},
-  "inspectionItem": "minecraft:stick",
+  "inspectionItem": "minecraft:paper",
   "inspectionNBT": {},
   "claimDisplayTime": 600,
   "particleDisplay": false,
   "claimDisplayActionBar": false,
   "permissionLevel": 2,
   "autoClaimStructures": false,
-  "ftbChunksCheck": true,
-  "gomlReservedCheck": true,
-  "mineColoniesCheck": true,
+  "ftbChunksCheck": false,
+  "gomlReservedCheck": false,
+  "mineColoniesCheck": false,
   "buySellHandler": {
-    "buyType": "MONEY",
-    "buyValue": -1.0,
-    "buyIngredients": [],
-    "sellType": "MONEY",
-    "sellValue": -1.0,
+    "buyType": "ITEM",
+    "buyValue": 1.0,
+    "buyIngredients": [
+      {
+        "amount": 1.0,
+        "ingredient": {
+          "item": "ruby_exchange:ruby"
+        }
+      }
+    ],
+    "sellType": "ITEM",
+    "sellValue": 1.0,
     "sellIngredient": []
   },
-  "maxBuyBlocks": -1,
+  "maxBuyBlocks": 2000,
   "lenientBlockEntityCheck": false,
   "breakBlockBlacklist": [
     "universal_graves:grave",
@@ -43,6 +50,7 @@
   ],
   "interactBlockBlacklist": [
     "universal_graves:grave",
+    "ruby_exchange:exchange_block",
     "yigd:grave",
     "waystones",
     "universal_shops:trade_block"
@@ -60,20 +68,14 @@
     "graves.marker"
   ],
   "customItemPermission": [
-    "@c:wrenches-flan:interact_block",
-    "appliedenergistics2:nether_quartz_wrench-flan:interact_block",
-    "appliedenergistics2:certus_quartz_wrench-flan:interact_block"
+    "@c:wrenches-flan:interact_block"
   ],
   "customBlockPermission": [],
   "customEntityPermission": [
     "taterzens:npc-flan:trading"
   ],
   "leftClickBlockPermission": [
-    "@storagedrawers:drawers-flan:open_container",
-    "mekanism:basic_bin-flan:open_container",
-    "mekanism:advanced_bin-flan:open_container",
-    "mekanism:ultimate_bin-flan:open_container",
-    "mekanism:creative_bin-flan:open_container"
+    "@storagedrawers:drawers-flan:open_container"
   ],
   "dropTicks": 6000,
   "inactivityTimeDays": 30,

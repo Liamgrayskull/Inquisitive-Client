@@ -14,7 +14,7 @@
         "secondary_stone_type": {
           "type": "minecraft:simple_state_provider",
           "state": {
-            "Name": "natures_spirit:coral_kaolin"
+            "Name": "natures_spirit:pink_kaolin"
           }
         },
         "stone_pattern": {
@@ -34,14 +34,14 @@
         "primary_stone_type": {
           "type": "minecraft:simple_state_provider",
           "state": {
-            "Name": "natures_spirit:rose_kaolin"
+            "Name": "natures_spirit:pink_kaolin"
           }
         },
         
         "secondary_stone_type": {
           "type": "minecraft:simple_state_provider",
           "state": {
-            "Name": "natures_spirit:pink_kaolin"
+            "Name": "natures_spirit:kaolin"
           }
         },
         "stone_pattern": {

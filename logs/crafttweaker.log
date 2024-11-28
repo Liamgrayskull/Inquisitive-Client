@@ -1,12 +1,522 @@
-[22:22:09.199][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production client modded with platform Forge
-[22:22:09.250][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
-[22:22:09.396][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
-[22:22:09.402][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
-[22:22:09.414][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
-[22:22:12.217][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
-[22:22:12.218][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.44'
-[22:22:12.218][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.5'
-[22:22:34.944][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
-[22:22:35.574][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[22:22:35.620][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
-[22:22:35.744][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
+[16:44:53.346][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production client modded with platform Forge
+[16:44:53.427][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[16:44:53.612][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[16:44:53.618][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[16:44:53.645][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
+[16:44:57.078][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[16:44:57.079][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.44'
+[16:44:57.079][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.5'
+[16:45:18.692][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
+[16:45:19.211][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[16:45:19.255][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[16:45:19.355][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
+[16:49:13.885][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
+[16:49:13.905][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[16:49:13.921][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[16:49:13.929][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
+[16:49:18.588][INFO][CraftTweaker]: CraftTweaker reload starting!
+[16:49:18.595][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
+[16:49:18.610][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[16:49:19.077][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[16:49:19.078][INFO][CraftTweaker-ZenCode]: Loading file 'recipe_additions.zs' with priority 0
+[16:49:19.081][INFO][CraftTweaker-ZenCode]: Loading file 'tags.zs' with priority 0
+[16:49:19.232][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:simpleradio:transceiver>'
+[16:49:19.243][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:simpleradio:radiosmither>'
+[16:49:19.250][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:simpleradio:radio>'
+[16:49:19.257][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:scriptor:casting_crystal>'
+[16:49:19.265][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:scriptor:chalk>'
+[16:49:19.273][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:minecraft:spyglass>'
+[16:49:19.280][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:ad_astra:energizer>'
+[16:49:19.288][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:ad_astra:etrionic_capacitor>'
+[16:49:19.293][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:brewery:breathalyzer>'
+[16:49:19.299][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:transmog:void_fragment>'
+[16:49:19.306][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:transmog:transmogrification_table>'
+[16:49:19.312][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:alexsmobs:transmutation_table>'
+[16:49:19.317][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:waystones:warp_dust>'
+[16:49:19.324][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:waystones:warp_plate>'
+[16:49:19.335][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:waystones:warp_stone>'
+[16:49:19.341][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:waystones:waystone>'
+[16:49:19.345][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:waystones:mossy_waystone>'
+[16:49:19.349][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:waystones:sandy_waystone>'
+[16:49:19.353][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:waystones:sharestone>'
+[16:49:19.357][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:heartstone:heartstone>'
+[16:49:19.359][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:healpgood:withered_heart>'
+[16:49:19.361][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:healpgood:golden_heart>'
+[16:49:19.369][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:ruby_craft' that outputs: '<item:ruby_exchange:ruby>'
+[16:49:19.371][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:rubybreak' that outputs: '<item:healpgood:heart_crystal_shard> * 6'
+[16:49:19.371][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:electrumcontainer' that outputs: '<item:healpgood:withered_heart>'
+[16:49:19.371][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:soulheart' that outputs: '<item:healpgood:golden_heart>'
+[16:49:19.372][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:emberheart' that outputs: '<item:healpgood:golden_heart>'
+[16:49:19.372][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:enderheart' that outputs: '<item:healpgood:golden_heart>'
+[16:49:19.372][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:soulheartstone' that outputs: '<item:heartstone:heartstone> * 2'
+[16:49:19.373][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:seaheartstone' that outputs: '<item:heartstone:heartstone> * 2'
+[16:49:19.373][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:ironheartstone' that outputs: '<item:heartstone:heartstone> * 2'
+[16:49:19.373][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:diamondheartstone' that outputs: '<item:heartstone:heartstone> * 2'
+[16:49:19.378][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:evileye' that outputs: '<item:endrem:evil_eye>.withTag({Damage: 0})'
+[16:49:19.378][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:coldeye' that outputs: '<item:endrem:cold_eye>.withTag({Damage: 0})'
+[16:49:19.378][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:blackeye' that outputs: '<item:endrem:black_eye>.withTag({Damage: 0})'
+[16:49:19.378][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:corruptedeye' that outputs: '<item:endrem:corrupted_eye>.withTag({Damage: 0})'
+[16:49:19.379][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:spyglass' that outputs: '<item:minecraft:spyglass>'
+[16:49:19.379][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:casting_crystal' that outputs: '<item:scriptor:casting_crystal>'
+[16:49:19.379][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:chalk' that outputs: '<item:scriptor:chalk>'
+[16:49:19.379][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:identify_scroll' that outputs: '<item:scriptor:identify_scroll>'
+[16:49:19.379][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:paper' that outputs: '<item:minecraft:paper>'
+[16:49:19.379][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:ink_sac' that outputs: '<item:minecraft:ink_sac>'
+[16:49:19.379][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:antique_ink' that outputs: '<item:supplementaries:antique_ink>'
+[16:49:19.379][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:scrap_tier1' that outputs: '<item:scriptor:scrap_tier1>'
+[16:49:19.380][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:scrap_tier2' that outputs: '<item:scriptor:scrap_tier2>'
+[16:49:19.380][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:scrap_tier3' that outputs: '<item:scriptor:scrap_tier3>'
+[16:49:19.380][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:mimicatalyst' that outputs: '<item:transmog:void_fragment>'
+[16:49:19.380][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:mimification_table' that outputs: '<item:transmog:transmogrification_table>'
+[16:49:19.380][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:spudtalkie' that outputs: '<item:simpleradio:spuddie_talkie>'
+[16:49:19.381][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:antenna' that outputs: '<item:simpleradio:antenna>'
+[16:49:19.381][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:speaker' that outputs: '<item:simpleradio:speaker>'
+[16:49:19.381][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:walkie' that outputs: '<item:simpleradio:walkie_talkie>'
+[16:49:19.381][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:frequencer' that outputs: '<item:simpleradio:frequencer>'
+[16:49:19.382][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:microphone' that outputs: '<item:simpleradio:microphone>'
+[16:49:19.382][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:radiomaker' that outputs: '<item:simpleradio:radio>'
+[16:49:19.382][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:radiosmither' that outputs: '<item:simpleradio:radiosmither>'
+[16:49:19.382][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:transciever' that outputs: '<item:simpleradio:transceiver>'
+[16:49:19.383][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:warp_dust' that outputs: '<item:waystones:warp_dust>'
+[16:49:19.383][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:transmutation_table' that outputs: '<item:alexsmobs:transmutation_table>'
+[16:49:19.391][INFO][CraftTweaker]: Adding: [natures_spirit:quarter_pizza] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.393][INFO][CraftTweaker]: Adding: [natures_spirit:half_pizza] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.393][INFO][CraftTweaker]: Adding: [natures_spirit:three_quarters_pizza] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.393][INFO][CraftTweaker]: Adding: [beansbackpacks:ender_backpack] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.394][INFO][CraftTweaker]: Adding: [tetra:holo] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.394][INFO][CraftTweaker]: Adding: [tetra:modular_double] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.394][INFO][CraftTweaker]: Adding: [tetra:modular_sword] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.394][INFO][CraftTweaker]: Adding: [enlightened_end:everglint_mirror] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.395][INFO][CraftTweaker]: Adding: [biomemakeover:enchanted_totem] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.395][INFO][CraftTweaker]: Adding: [create:creative_motor] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.395][INFO][CraftTweaker]: Adding: [trials:trial_key] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.395][INFO][CraftTweaker]: Adding: [create:mysterious_cuckoo_clock] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.396][INFO][CraftTweaker]: Adding: [tetra:modular_toolbelt] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.396][INFO][CraftTweaker]: Adding: [ad_astra:energizer] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.396][INFO][CraftTweaker]: Adding: [ad_astra:etrionic_capacitor] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.396][INFO][CraftTweaker]: Adding: [ad_astra:energizer] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.396][INFO][CraftTweaker]: Adding: [ad_astra:tier_1_rocket] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.396][INFO][CraftTweaker]: Adding: [ad_astra:tier_2_rocket] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.397][INFO][CraftTweaker]: Adding: [ad_astra:tier_3_rocket] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.397][INFO][CraftTweaker]: Adding: [ad_astra:tier_4_rocket] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.397][INFO][CraftTweaker]: Adding: [ad_astra:tier_1_rover] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.397][INFO][CraftTweaker]: Adding: [miningmaster:spirit_garnet] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.397][INFO][CraftTweaker]: Adding: [miningmaster:haste_peridot] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.397][INFO][CraftTweaker]: Adding: [cloudstorage:balloon_buddy_inventory] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.398][INFO][CraftTweaker]: Adding: [cloudstorage:balloon_inventory] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.398][INFO][CraftTweaker]: Adding: [piglinproliferation:travelers_compass] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.398][INFO][CraftTweaker]: Adding: [hexcasting:conjured_light] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.398][INFO][CraftTweaker]: Adding: [hexcasting:conjured_block] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.398][INFO][CraftTweaker]: Adding: [sculkhorde:tome_of_sacrifice] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.399][INFO][CraftTweaker]: Adding: [sculkhorde:tome_of_spore] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.399][INFO][CraftTweaker]: Adding: [sculkhorde:tome_of_veil] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.399][INFO][CraftTweaker]: Adding: [sculkhorde:tome_of_reinforcement] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.400][INFO][CraftTweaker]: Adding: [sculkhorde:tome_of_spines] to tag: <tag:items:c:hidden_from_recipe_viewers>
+[16:49:19.400][INFO][CraftTweaker]: Adding: [bountifulfares:hoary_apple_block] to tag: <tag:items:diet:special_food>
+[16:49:19.400][INFO][CraftTweaker]: Adding: [bountifulfares:golden_apple_block] to tag: <tag:items:diet:special_food>
+[16:49:19.400][INFO][CraftTweaker]: Adding: [bountifulfares:lemon_block] to tag: <tag:items:diet:special_food>
+[16:49:19.401][INFO][CraftTweaker]: Adding: [bountifulfares:plum_block] to tag: <tag:items:diet:special_food>
+[16:49:19.401][INFO][CraftTweaker]: Adding: [bountifulfares:orange_block] to tag: <tag:items:diet:special_food>
+[16:49:19.401][INFO][CraftTweaker]: Adding: [bountifulfares:apple_block] to tag: <tag:items:diet:special_food>
+[16:49:19.401][INFO][CraftTweaker]: Adding: [bountifulfares:artisan_bread] to tag: <tag:items:diet:special_food>
+[16:49:19.401][INFO][CraftTweaker]: Adding: [bountifulfares:artisan_cookie] to tag: <tag:items:diet:special_food>
+[16:49:19.402][INFO][CraftTweaker]: Adding: [bountifulfares:passion_fruit_tart] to tag: <tag:items:diet:special_food>
+[16:49:19.402][INFO][CraftTweaker]: Adding: [bountifulfares:elderberry_tart] to tag: <tag:items:diet:special_food>
+[16:49:19.402][INFO][CraftTweaker]: Adding: [bountifulfares:glow_berry_tart] to tag: <tag:items:diet:special_food>
+[16:49:19.402][INFO][CraftTweaker]: Adding: [bountifulfares:sweet_berry_tart] to tag: <tag:items:diet:special_food>
+[16:49:19.403][INFO][CraftTweaker]: Adding: [bountifulfares:lapisberry_tart] to tag: <tag:items:diet:special_food>
+[16:49:19.403][INFO][CraftTweaker]: Adding: [minecraft:pumpkin_pie] to tag: <tag:items:diet:special_food>
+[16:49:19.403][INFO][CraftTweaker]: Adding: [respiteful:green_tea_cake] to tag: <tag:items:diet:special_food>
+[16:49:19.404][INFO][CraftTweaker]: Adding: [respiteful:yellow_tea_cake] to tag: <tag:items:diet:special_food>
+[16:49:19.404][INFO][CraftTweaker]: Adding: [respiteful:black_tea_cake] to tag: <tag:items:diet:special_food>
+[16:49:19.404][INFO][CraftTweaker]: Adding: [mynethersdelight:striderloaf] to tag: <tag:items:diet:special_food>
+[16:49:19.404][INFO][CraftTweaker]: Adding: [mynethersdelight:ghasta_with_cream] to tag: <tag:items:diet:special_food>
+[16:49:19.404][INFO][CraftTweaker]: Adding: [mynethersdelight:roast_stuffed_hoglin] to tag: <tag:items:diet:special_food>
+[16:49:19.405][INFO][CraftTweaker]: Adding: [exquisito:jelly_ring_cake] to tag: <tag:items:diet:special_food>
+[16:49:19.405][INFO][CraftTweaker]: Adding: [exquisito:zure_berry_cake] to tag: <tag:items:diet:special_food>
+[16:49:19.405][INFO][CraftTweaker]: Adding: [exquisito:chorus_cake] to tag: <tag:items:diet:special_food>
+[16:49:19.405][INFO][CraftTweaker]: Adding: [bountifulfares:cocoa_cake] to tag: <tag:items:diet:special_food>
+[16:49:19.405][INFO][CraftTweaker]: Adding: [farmersrespite:coffee_cake] to tag: <tag:items:diet:special_food>
+[16:49:19.405][INFO][CraftTweaker]: Adding: [mynethersdelight:magma_cake] to tag: <tag:items:diet:special_food>
+[16:49:19.406][INFO][CraftTweaker]: Adding: [farmersdelight:shepherds_pie_block] to tag: <tag:items:diet:special_food>
+[16:49:19.406][INFO][CraftTweaker]: Adding: [farmersdelight:rice_roll_medley_block] to tag: <tag:items:diet:special_food>
+[16:49:19.406][INFO][CraftTweaker]: Adding: [farmersdelight:roast_chicken_block] to tag: <tag:items:diet:special_food>
+[16:49:19.406][INFO][CraftTweaker]: Adding: [farmersdelight:stuffed_pumpkin_block] to tag: <tag:items:diet:special_food>
+[16:49:19.406][INFO][CraftTweaker]: Adding: [farmersrespite:rose_hip_pie] to tag: <tag:items:diet:special_food>
+[16:49:19.406][INFO][CraftTweaker]: Adding: [miners_delight:stuffed_squid] to tag: <tag:items:diet:special_food>
+[16:49:19.407][INFO][CraftTweaker]: Adding: [miners_delight:stuffed_squid] to tag: <tag:items:diet:vegetables>
+[16:49:19.407][INFO][CraftTweaker]: Adding: [miners_delight:stuffed_squid] to tag: <tag:items:diet:grains>
+[16:49:19.407][INFO][CraftTweaker]: Adding: [miners_delight:stuffed_squid] to tag: <tag:items:diet:proteins>
+[16:49:19.407][INFO][CraftTweaker]: Adding: [miners_delight:bowl_of_stuffed_squid] to tag: <tag:items:diet:vegetables>
+[16:49:19.407][INFO][CraftTweaker]: Adding: [miners_delight:bowl_of_stuffed_squid] to tag: <tag:items:diet:grains>
+[16:49:19.407][INFO][CraftTweaker]: Adding: [miners_delight:bowl_of_stuffed_squid] to tag: <tag:items:diet:proteins>
+[16:49:19.408][INFO][CraftTweaker]: Adding: [farmersdelight:shepherds_pie_block] to tag: <tag:items:diet:grains>
+[16:49:19.408][INFO][CraftTweaker]: Adding: [farmersdelight:rice_roll_medley_block] to tag: <tag:items:diet:grains>
+[16:49:19.408][INFO][CraftTweaker]: Adding: [farmersdelight:roast_chicken_block] to tag: <tag:items:diet:grains>
+[16:49:19.408][INFO][CraftTweaker]: Adding: [farmersdelight:stuffed_pumpkin_block] to tag: <tag:items:diet:grains>
+[16:49:19.408][INFO][CraftTweaker]: Adding: [farmersdelight:shepherds_pie_block] to tag: <tag:items:diet:vegetables>
+[16:49:19.408][INFO][CraftTweaker]: Adding: [farmersdelight:rice_roll_medley_block] to tag: <tag:items:diet:vegetables>
+[16:49:19.409][INFO][CraftTweaker]: Adding: [farmersdelight:roast_chicken_block] to tag: <tag:items:diet:vegetables>
+[16:49:19.409][INFO][CraftTweaker]: Adding: [farmersdelight:stuffed_pumpkin_block] to tag: <tag:items:diet:vegetables>
+[16:49:19.409][INFO][CraftTweaker]: Adding: [farmersdelight:shepherds_pie_block] to tag: <tag:items:diet:proteins>
+[16:49:19.409][INFO][CraftTweaker]: Adding: [farmersdelight:rice_roll_medley_block] to tag: <tag:items:diet:proteins>
+[16:49:19.409][INFO][CraftTweaker]: Adding: [farmersdelight:roast_chicken_block] to tag: <tag:items:diet:proteins>
+[16:49:19.410][INFO][CraftTweaker]: Adding: [farmersdelight:stuffed_pumpkin_block] to tag: <tag:items:diet:proteins>
+[16:49:19.410][INFO][CraftTweaker]: Adding: [farmersrespite:rose_hip_pie] to tag: <tag:items:diet:vegetables>
+[16:49:19.410][INFO][CraftTweaker]: Adding: [farmersrespite:rose_hip_pie] to tag: <tag:items:diet:grains>
+[16:49:19.410][INFO][CraftTweaker]: Adding: [farmersrespite:rose_hip_pie] to tag: <tag:items:diet:sugars>
+[16:49:19.410][INFO][CraftTweaker]: Adding: [mynethersdelight:ghasta_with_cream] to tag: <tag:items:diet:grains>
+[16:49:19.410][INFO][CraftTweaker]: Adding: [mynethersdelight:roast_stuffed_hoglin] to tag: <tag:items:diet:grains>
+[16:49:19.411][INFO][CraftTweaker]: Adding: [mynethersdelight:striderloaf] to tag: <tag:items:diet:proteins>
+[16:49:19.411][INFO][CraftTweaker]: Adding: [mynethersdelight:strider_egg] to tag: <tag:items:diet:proteins>
+[16:49:19.411][INFO][CraftTweaker]: Adding: [mynethersdelight:boiled_egg] to tag: <tag:items:diet:proteins>
+[16:49:19.411][INFO][CraftTweaker]: Adding: [mynethersdelight:ghasta_with_cream] to tag: <tag:items:diet:proteins>
+[16:49:19.411][INFO][CraftTweaker]: Adding: [mynethersdelight:plate_of_striderloaf] to tag: <tag:items:diet:proteins>
+[16:49:19.411][INFO][CraftTweaker]: Adding: [mynethersdelight:plate_of_cold_striderloaf] to tag: <tag:items:diet:proteins>
+[16:49:19.412][INFO][CraftTweaker]: Adding: [mynethersdelight:plate_of_ghasta_with_cream] to tag: <tag:items:diet:proteins>
+[16:49:19.412][INFO][CraftTweaker]: Adding: [mynethersdelight:plate_of_ghasta_with_cream] to tag: <tag:items:diet:sugars>
+[16:49:19.412][INFO][CraftTweaker]: Adding: [mynethersdelight:ghasmati] to tag: <tag:items:diet:proteins>
+[16:49:19.412][INFO][CraftTweaker]: Adding: [mynethersdelight:ghasmati] to tag: <tag:items:diet:sugars>
+[16:49:19.412][INFO][CraftTweaker]: Adding: [mynethersdelight:plate_of_stuffed_hoglin] to tag: <tag:items:diet:proteins>
+[16:49:19.412][INFO][CraftTweaker]: Adding: [mynethersdelight:plate_of_stuffed_hoglin_ham] to tag: <tag:items:diet:proteins>
+[16:49:19.412][INFO][CraftTweaker]: Adding: [mynethersdelight:plate_of_stuffed_hoglin] to tag: <tag:items:diet:grains>
+[16:49:19.413][INFO][CraftTweaker]: Adding: [mynethersdelight:plate_of_stuffed_hoglin_ham] to tag: <tag:items:diet:grains>
+[16:49:19.413][INFO][CraftTweaker]: Adding: [mynethersdelight:plate_of_stuffed_hoglin] to tag: <tag:items:diet:vegetables>
+[16:49:19.413][INFO][CraftTweaker]: Adding: [mynethersdelight:plate_of_stuffed_hoglin_ham] to tag: <tag:items:diet:vegetables>
+[16:49:19.413][INFO][CraftTweaker]: Adding: [mynethersdelight:ghasta_with_cream] to tag: <tag:items:diet:sugars>
+[16:49:19.413][INFO][CraftTweaker]: Adding: [mynethersdelight:roast_stuffed_hoglin] to tag: <tag:items:diet:proteins>
+[16:49:19.413][INFO][CraftTweaker]: Adding: [mynethersdelight:roast_stuffed_hoglin] to tag: <tag:items:diet:vegetables>
+[16:49:19.414][INFO][CraftTweaker]: Adding: [miners_delight:spicy_hoglin_stew_cup] to tag: <tag:items:diet:vegetables>
+[16:49:19.414][INFO][CraftTweaker]: Adding: [miners_delight:rock_soup_cup] to tag: <tag:items:diet:vegetables>
+[16:49:19.414][INFO][CraftTweaker]: Adding: [miners_delight:spicy_noodle_soup_cup] to tag: <tag:items:diet:vegetables>
+[16:49:19.414][INFO][CraftTweaker]: Adding: [miners_delight:spicy_hoglin_stew_cup] to tag: <tag:items:diet:proteins>
+[16:49:19.414][INFO][CraftTweaker]: Adding: [miners_delight:rock_soup_cup] to tag: <tag:items:diet:proteins>
+[16:49:19.414][INFO][CraftTweaker]: Adding: [miners_delight:spicy_noodle_soup_cup] to tag: <tag:items:diet:proteins>
+[16:49:19.415][INFO][CraftTweaker]: Adding: [miners_delight:spicy_noodle_soup_cup] to tag: <tag:items:diet:sugars>
+[16:49:19.415][INFO][CraftTweaker]: Adding: [mynethersdelight:ghasta] to tag: <tag:items:diet:proteins>
+[16:49:19.415][INFO][CraftTweaker]: Adding: [mynethersdelight:ghasta] to tag: <tag:items:diet:sugars>
+[16:49:19.415][INFO][CraftTweaker]: Adding: [exquisito:jelly_ring_cake] to tag: <tag:items:diet:sugars>
+[16:49:19.415][INFO][CraftTweaker]: Adding: [exquisito:zure_berry_cake] to tag: <tag:items:diet:sugars>
+[16:49:19.416][INFO][CraftTweaker]: Adding: [exquisito:chorus_cake] to tag: <tag:items:diet:sugars>
+[16:49:19.416][INFO][CraftTweaker]: Adding: [exquisito:jelly_ring_cake] to tag: <tag:items:diet:grains>
+[16:49:19.416][INFO][CraftTweaker]: Adding: [exquisito:zure_berry_cake] to tag: <tag:items:diet:grains>
+[16:49:19.416][INFO][CraftTweaker]: Adding: [exquisito:chorus_cake] to tag: <tag:items:diet:grains>
+[16:49:19.416][INFO][CraftTweaker]: Adding: [exquisito:jelly_ring_cake] to tag: <tag:items:diet:fruits>
+[16:49:19.416][INFO][CraftTweaker]: Adding: [exquisito:zure_berry_cake] to tag: <tag:items:diet:fruits>
+[16:49:19.417][INFO][CraftTweaker]: Adding: [exquisito:chorus_cake] to tag: <tag:items:diet:fruits>
+[16:49:19.417][INFO][CraftTweaker]: Adding: [bountifulfares:cocoa_cake] to tag: <tag:items:diet:sugars>
+[16:49:19.417][INFO][CraftTweaker]: Adding: [farmersrespite:coffee_cake] to tag: <tag:items:diet:sugars>
+[16:49:19.417][INFO][CraftTweaker]: Adding: [bountifulfares:cocoa_cake] to tag: <tag:items:diet:grains>
+[16:49:19.417][INFO][CraftTweaker]: Adding: [farmersrespite:coffee_cake] to tag: <tag:items:diet:grains>
+[16:49:19.417][INFO][CraftTweaker]: Adding: [mynethersdelight:magma_cake] to tag: <tag:items:diet:grains>
+[16:49:19.419][INFO][CraftTweaker]: Registering new items tag with name <tag:items:diet:protiens>
+[16:49:19.419][INFO][CraftTweaker]: Adding: [mynethersdelight:magma_cake] to tag: <tag:items:diet:protiens>
+[16:49:19.419][INFO][CraftTweaker]: Adding: [mynethersdelight:magma_cake] to tag: <tag:items:diet:vegetables>
+[16:49:19.419][INFO][CraftTweaker]: Adding: [respiteful:green_tea_cake] to tag: <tag:items:diet:grains>
+[16:49:19.420][INFO][CraftTweaker]: Adding: [respiteful:yellow_tea_cake] to tag: <tag:items:diet:grains>
+[16:49:19.420][INFO][CraftTweaker]: Adding: [respiteful:black_tea_cake] to tag: <tag:items:diet:grains>
+[16:49:19.420][INFO][CraftTweaker]: Adding: [respiteful:green_tea_cake] to tag: <tag:items:diet:vegetables>
+[16:49:19.420][INFO][CraftTweaker]: Adding: [respiteful:yellow_tea_cake] to tag: <tag:items:diet:vegetables>
+[16:49:19.420][INFO][CraftTweaker]: Adding: [respiteful:black_tea_cake] to tag: <tag:items:diet:vegetables>
+[16:49:19.421][INFO][CraftTweaker]: Adding: [respiteful:green_tea_cake] to tag: <tag:items:diet:sugars>
+[16:49:19.421][INFO][CraftTweaker]: Adding: [respiteful:yellow_tea_cake] to tag: <tag:items:diet:sugars>
+[16:49:19.421][INFO][CraftTweaker]: Adding: [respiteful:black_tea_cake] to tag: <tag:items:diet:sugars>
+[16:49:19.421][INFO][CraftTweaker]: Adding: [bountifulfares:hoary_apple_block] to tag: <tag:items:diet:fruits>
+[16:49:19.421][INFO][CraftTweaker]: Adding: [bountifulfares:golden_apple_block] to tag: <tag:items:diet:fruits>
+[16:49:19.421][INFO][CraftTweaker]: Adding: [bountifulfares:lemon_block] to tag: <tag:items:diet:fruits>
+[16:49:19.422][INFO][CraftTweaker]: Adding: [bountifulfares:plum_block] to tag: <tag:items:diet:fruits>
+[16:49:19.422][INFO][CraftTweaker]: Adding: [bountifulfares:orange_block] to tag: <tag:items:diet:fruits>
+[16:49:19.422][INFO][CraftTweaker]: Adding: [bountifulfares:apple_block] to tag: <tag:items:diet:fruits>
+[16:49:19.422][INFO][CraftTweaker]: Adding: [bountifulfares:artisan_bread] to tag: <tag:items:diet:grains>
+[16:49:19.422][INFO][CraftTweaker]: Adding: [bountifulfares:artisan_cookie] to tag: <tag:items:diet:grains>
+[16:49:19.422][INFO][CraftTweaker]: Adding: [bountifulfares:passion_fruit_tart] to tag: <tag:items:diet:grains>
+[16:49:19.423][INFO][CraftTweaker]: Adding: [bountifulfares:elderberry_tart] to tag: <tag:items:diet:grains>
+[16:49:19.423][INFO][CraftTweaker]: Adding: [bountifulfares:glow_berry_tart] to tag: <tag:items:diet:grains>
+[16:49:19.423][INFO][CraftTweaker]: Adding: [bountifulfares:sweet_berry_tart] to tag: <tag:items:diet:grains>
+[16:49:19.423][INFO][CraftTweaker]: Adding: [bountifulfares:lapisberry_tart] to tag: <tag:items:diet:grains>
+[16:49:19.423][INFO][CraftTweaker]: Adding: [minecraft:pumpkin_pie] to tag: <tag:items:diet:grains>
+[16:49:19.423][INFO][CraftTweaker]: Adding: [bountifulfares:passion_fruit_tart] to tag: <tag:items:diet:fruits>
+[16:49:19.423][INFO][CraftTweaker]: Adding: [bountifulfares:elderberry_tart] to tag: <tag:items:diet:fruits>
+[16:49:19.424][INFO][CraftTweaker]: Adding: [bountifulfares:glow_berry_tart] to tag: <tag:items:diet:fruits>
+[16:49:19.424][INFO][CraftTweaker]: Adding: [bountifulfares:sweet_berry_tart] to tag: <tag:items:diet:fruits>
+[16:49:19.424][INFO][CraftTweaker]: Adding: [bountifulfares:lapisberry_tart] to tag: <tag:items:diet:fruits>
+[16:49:19.424][INFO][CraftTweaker]: Adding: [minecraft:pumpkin_pie] to tag: <tag:items:diet:fruits>
+[16:49:19.424][INFO][CraftTweaker]: Adding: [bountifulfares:passion_fruit_tart] to tag: <tag:items:diet:sugars>
+[16:49:19.424][INFO][CraftTweaker]: Adding: [bountifulfares:elderberry_tart] to tag: <tag:items:diet:sugars>
+[16:49:19.425][INFO][CraftTweaker]: Adding: [bountifulfares:glow_berry_tart] to tag: <tag:items:diet:sugars>
+[16:49:19.425][INFO][CraftTweaker]: Adding: [bountifulfares:sweet_berry_tart] to tag: <tag:items:diet:sugars>
+[16:49:19.425][INFO][CraftTweaker]: Adding: [bountifulfares:lapisberry_tart] to tag: <tag:items:diet:sugars>
+[16:49:19.425][INFO][CraftTweaker]: Adding: [minecraft:pumpkin_pie] to tag: <tag:items:diet:sugars>
+[16:49:19.425][INFO][CraftTweaker]: Adding: [bountifulfares:plum] to tag: <tag:items:diet:fruits>
+[16:49:19.425][INFO][CraftTweaker]: Adding: [bountifulfares:orange] to tag: <tag:items:diet:fruits>
+[16:49:19.426][INFO][CraftTweaker]: Adding: [bountifulfares:lemon] to tag: <tag:items:diet:fruits>
+[16:49:19.426][INFO][CraftTweaker]: Adding: [bountifulfares:hoary_apple] to tag: <tag:items:diet:fruits>
+[16:49:19.426][INFO][CraftTweaker]: Adding: [bountifulfares:passion_fruit] to tag: <tag:items:diet:fruits>
+[16:49:19.426][INFO][CraftTweaker]: Adding: [bountifulfares:spongekin_slice] to tag: <tag:items:diet:fruits>
+[16:49:19.426][INFO][CraftTweaker]: Adding: [bountifulfares:elderberries] to tag: <tag:items:diet:fruits>
+[16:49:19.427][INFO][CraftTweaker]: Adding: [bountifulfares:lapisberries] to tag: <tag:items:diet:fruits>
+[16:49:19.427][INFO][CraftTweaker]: Adding: [enlightened_end:elevibloom] to tag: <tag:items:diet:fruits>
+[16:49:19.427][INFO][CraftTweaker]: Adding: [enlightened_end:frost_fruit] to tag: <tag:items:diet:fruits>
+[16:49:19.427][INFO][CraftTweaker]: Adding: [enlightened_end:azure_berries] to tag: <tag:items:diet:fruits>
+[16:49:19.427][INFO][CraftTweaker]: Adding: [enlightened_end:glow_gourd_slice] to tag: <tag:items:diet:fruits>
+[16:49:19.428][INFO][CraftTweaker]: Adding: [quark:ancient_fruit] to tag: <tag:items:diet:fruits>
+[16:49:19.428][INFO][CraftTweaker]: Adding: [bountifulfares:tea_berries] to tag: <tag:items:diet:fruits>
+[16:49:19.428][INFO][CraftTweaker]: Adding: [farmersdelight:pumpkin_slice] to tag: <tag:items:diet:fruits>
+[16:49:19.429][INFO][CraftTweaker]: Adding: [natures_spirit:coconut_half] to tag: <tag:items:diet:fruits>
+[16:49:19.429][INFO][CraftTweaker]: Adding: [domesticationinnovation:rotten_apple] to tag: <tag:items:diet:fruits>
+[16:49:19.429][INFO][CraftTweaker]: Adding: [alexsmobs:rainbow_jelly] to tag: <tag:items:diet:fruits>
+[16:49:19.429][INFO][CraftTweaker]: Adding: [farmersrespite:gamblers_tea] to tag: <tag:items:diet:fruits>
+[16:49:19.429][INFO][CraftTweaker]: Adding: [farmersdelight:melon_juice] to tag: <tag:items:diet:fruits>
+[16:49:19.430][INFO][CraftTweaker]: Adding: [farmersdelight:apple_cider] to tag: <tag:items:diet:fruits>
+[16:49:19.430][INFO][CraftTweaker]: Adding: [miners_delight:pumpkin_soup_cup] to tag: <tag:items:diet:fruits>
+[16:49:19.430][INFO][CraftTweaker]: Adding: [bountifulfares:plum_cider_jar] to tag: <tag:items:diet:fruits>
+[16:49:19.430][INFO][CraftTweaker]: Adding: [bountifulfares:hoary_cider_jar] to tag: <tag:items:diet:fruits>
+[16:49:19.431][INFO][CraftTweaker]: Adding: [bountifulfares:apple_cider_jar] to tag: <tag:items:diet:fruits>
+[16:49:19.431][INFO][CraftTweaker]: Adding: [bountifulfares:citrus_essence] to tag: <tag:items:diet:fruits>
+[16:49:19.431][INFO][CraftTweaker]: Adding: [bountifulfares:lapisberry_wine_bottle] to tag: <tag:items:diet:fruits>
+[16:49:19.431][INFO][CraftTweaker]: Adding: [bountifulfares:elderberry_wine_bottle] to tag: <tag:items:diet:fruits>
+[16:49:19.431][INFO][CraftTweaker]: Adding: [bountifulfares:apple_block] to tag: <tag:items:diet:fruits>
+[16:49:19.432][INFO][CraftTweaker]: Adding: [bountifulfares:plum_block] to tag: <tag:items:diet:fruits>
+[16:49:19.432][INFO][CraftTweaker]: Adding: [bountifulfares:orange_block] to tag: <tag:items:diet:fruits>
+[16:49:19.432][INFO][CraftTweaker]: Adding: [bountifulfares:lemon_block] to tag: <tag:items:diet:fruits>
+[16:49:19.432][INFO][CraftTweaker]: Adding: [bountifulfares:hoary_apple_block] to tag: <tag:items:diet:fruits>
+[16:49:19.432][INFO][CraftTweaker]: Adding: [bountifulfares:golden_apple_block] to tag: <tag:items:diet:fruits>
+[16:49:19.433][INFO][CraftTweaker]: Adding: [immersive_weathering:moss_clump] to tag: <tag:items:diet:vegetables>
+[16:49:19.433][INFO][CraftTweaker]: Adding: [galosphere:lichen_cordyceps] to tag: <tag:items:diet:vegetables>
+[16:49:19.433][INFO][CraftTweaker]: Adding: [bountifulfares:leek] to tag: <tag:items:diet:vegetables>
+[16:49:19.433][INFO][CraftTweaker]: Adding: [bountifulfares:tea_leaves] to tag: <tag:items:diet:vegetables>
+[16:49:19.433][INFO][CraftTweaker]: Adding: [miners_delight:cave_carrot] to tag: <tag:items:diet:vegetables>
+[16:49:19.434][INFO][CraftTweaker]: Adding: [alexscaves:green_soylent] to tag: <tag:items:diet:vegetables>
+[16:49:19.434][INFO][CraftTweaker]: Adding: [spawn:sunflower_seeds] to tag: <tag:items:diet:vegetables>
+[16:49:19.434][INFO][CraftTweaker]: Adding: [spelunkery:portabella] to tag: <tag:items:diet:vegetables>
+[16:49:19.434][INFO][CraftTweaker]: Adding: [onion_onion:onion_slice] to tag: <tag:items:diet:vegetables>
+[16:49:19.434][INFO][CraftTweaker]: Adding: [natures_spirit:desert_turnip] to tag: <tag:items:diet:vegetables>
+[16:49:19.435][INFO][CraftTweaker]: Adding: [natures_spirit:green_olives] to tag: <tag:items:diet:vegetables>
+[16:49:19.435][INFO][CraftTweaker]: Adding: [brewery:mashed_potatoes] to tag: <tag:items:diet:vegetables>
+[16:49:19.435][INFO][CraftTweaker]: Adding: [miners_delight:mushroom_stew_cup] to tag: <tag:items:diet:vegetables>
+[16:49:19.435][INFO][CraftTweaker]: Adding: [miners_delight:beetroot_soup_cup] to tag: <tag:items:diet:vegetables>
+[16:49:19.435][INFO][CraftTweaker]: Adding: [miners_delight:chicken_soup_cup] to tag: <tag:items:diet:vegetables>
+[16:49:19.435][INFO][CraftTweaker]: Adding: [miners_delight:beef_stew_cup] to tag: <tag:items:diet:vegetables>
+[16:49:19.436][INFO][CraftTweaker]: Adding: [miners_delight:noodle_soup_cup] to tag: <tag:items:diet:vegetables>
+[16:49:19.436][INFO][CraftTweaker]: Adding: [miners_delight:baked_cod_stew_cup] to tag: <tag:items:diet:vegetables>
+[16:49:19.436][INFO][CraftTweaker]: Adding: [miners_delight:rabbit_stew_cup] to tag: <tag:items:diet:vegetables>
+[16:49:19.436][INFO][CraftTweaker]: Adding: [miners_delight:cave_soup_cup] to tag: <tag:items:diet:vegetables>
+[16:49:19.436][INFO][CraftTweaker]: Adding: [miners_delight:vegetable_soup_cup] to tag: <tag:items:diet:vegetables>
+[16:49:19.436][INFO][CraftTweaker]: Adding: [miners_delight:pumpkin_soup_cup] to tag: <tag:items:diet:vegetables>
+[16:49:19.436][INFO][CraftTweaker]: Adding: [miners_delight:fish_stew_cup] to tag: <tag:items:diet:vegetables>
+[16:49:19.437][INFO][CraftTweaker]: Adding: [biomemakeover:bulbus_root] to tag: <tag:items:diet:vegetables>
+[16:49:19.437][INFO][CraftTweaker]: Adding: [respiteful:mint_green_tea] to tag: <tag:items:diet:vegetables>
+[16:49:19.437][INFO][CraftTweaker]: Adding: [farmersrespite:rose_hip_tea] to tag: <tag:items:diet:vegetables>
+[16:49:19.437][INFO][CraftTweaker]: Adding: [farmersrespite:dandelion_tea] to tag: <tag:items:diet:vegetables>
+[16:49:19.437][INFO][CraftTweaker]: Adding: [farmersrespite:gamblers_tea] to tag: <tag:items:diet:vegetables>
+[16:49:19.437][INFO][CraftTweaker]: Adding: [farmersdelight:hot_cocoa] to tag: <tag:items:diet:vegetables>
+[16:49:19.438][INFO][CraftTweaker]: Adding: [mynethersdelight:bullet_pepper] to tag: <tag:items:diet:vegetables>
+[16:49:19.438][INFO][CraftTweaker]: Adding: [netherdungeons:neofolia_petal] to tag: <tag:items:diet:vegetables>
+[16:49:19.438][INFO][CraftTweaker]: Adding: [netherdungeons:artichoke_fruit] to tag: <tag:items:diet:vegetables>
+[16:49:19.438][INFO][CraftTweaker]: Adding: [netherdungeons:mauve_fungus] to tag: <tag:items:diet:vegetables>
+[16:49:19.438][INFO][CraftTweaker]: Adding: [upgrade_aquatic:boiled_pickerelweed] to tag: <tag:items:diet:vegetables>
+[16:49:19.438][INFO][CraftTweaker]: Adding: [spelunkery:crimini] to tag: <tag:items:diet:vegetables>
+[16:49:19.438][INFO][CraftTweaker]: Adding: [spelunkery:button_mushroom] to tag: <tag:items:diet:vegetables>
+[16:49:19.439][INFO][CraftTweaker]: Adding: [immersive_weathering:enchanted_golden_moss_clump] to tag: <tag:items:diet:vegetables>
+[16:49:19.439][INFO][CraftTweaker]: Adding: [onion_onion:motley_grill] to tag: <tag:items:diet:vegetables>
+[16:49:19.439][INFO][CraftTweaker]: Adding: [farmersrespite:green_tea_leaves] to tag: <tag:items:diet:vegetables>
+[16:49:19.439][INFO][CraftTweaker]: Adding: [farmersrespite:yellow_tea_leaves] to tag: <tag:items:diet:vegetables>
+[16:49:19.439][INFO][CraftTweaker]: Adding: [farmersrespite:black_tea_leaves] to tag: <tag:items:diet:vegetables>
+[16:49:19.439][INFO][CraftTweaker]: Adding: [domesticationinnovation:sinister_carrot] to tag: <tag:items:diet:vegetables>
+[16:49:19.440][INFO][CraftTweaker]: Adding: [bountifulfares:walnut] to tag: <tag:items:diet:grains>
+[16:49:19.440][INFO][CraftTweaker]: Adding: [bountifulfares:maize] to tag: <tag:items:diet:grains>
+[16:49:19.440][INFO][CraftTweaker]: Adding: [bountifulfares:flour] to tag: <tag:items:diet:grains>
+[16:49:19.440][INFO][CraftTweaker]: Adding: [minecraft:wheat] to tag: <tag:items:diet:grains>
+[16:49:19.440][INFO][CraftTweaker]: Adding: [farmersdelight:rice] to tag: <tag:items:diet:grains>
+[16:49:19.440][INFO][CraftTweaker]: Adding: [create:wheat_flour] to tag: <tag:items:diet:grains>
+[16:49:19.440][INFO][CraftTweaker]: Adding: [brewery:barley] to tag: <tag:items:diet:grains>
+[16:49:19.441][INFO][CraftTweaker]: Adding: [brewery:corn] to tag: <tag:items:diet:grains>
+[16:49:19.441][INFO][CraftTweaker]: Adding: [bountifulfares:flour] to tag: <tag:items:diet:grains>
+[16:49:19.441][INFO][CraftTweaker]: Adding: [bountifulfares:artisan_cookie] to tag: <tag:items:diet:grains>
+[16:49:19.441][INFO][CraftTweaker]: Adding: [minecraft:wheat] to tag: <tag:items:diet:grains>
+[16:49:19.441][INFO][CraftTweaker]: Adding: [supplementaries:flax] to tag: <tag:items:diet:grains>
+[16:49:19.442][INFO][CraftTweaker]: Adding: [create:wheat_flour] to tag: <tag:items:diet:grains>
+[16:49:19.442][INFO][CraftTweaker]: Adding: [create:dough] to tag: <tag:items:diet:grains>
+[16:49:19.442][INFO][CraftTweaker]: Adding: [create_central_kitchen:sweet_berry_cake_slice] to tag: <tag:items:diet:grains>
+[16:49:19.442][INFO][CraftTweaker]: Adding: [create_central_kitchen:passionfruit_cake_slice] to tag: <tag:items:diet:grains>
+[16:49:19.442][INFO][CraftTweaker]: Adding: [create_central_kitchen:pumpkin_cake_slice] to tag: <tag:items:diet:grains>
+[16:49:19.443][INFO][CraftTweaker]: Adding: [create_central_kitchen:honey_cake_slice] to tag: <tag:items:diet:grains>
+[16:49:19.443][INFO][CraftTweaker]: Adding: [create_central_kitchen:yucca_cake_slice] to tag: <tag:items:diet:grains>
+[16:49:19.443][INFO][CraftTweaker]: Adding: [create_central_kitchen:aloe_cake_slice] to tag: <tag:items:diet:grains>
+[16:49:19.443][INFO][CraftTweaker]: Adding: [create_central_kitchen:chocolate_cake_slice] to tag: <tag:items:diet:grains>
+[16:49:19.443][INFO][CraftTweaker]: Adding: [farmersdelight:sweet_berry_cheesecake_slice] to tag: <tag:items:diet:grains>
+[16:49:19.444][INFO][CraftTweaker]: Adding: [farmersdelight:cake_slice] to tag: <tag:items:diet:grains>
+[16:49:19.444][INFO][CraftTweaker]: Adding: [exquisito:chorus_cake_slice] to tag: <tag:items:diet:grains>
+[16:49:19.444][INFO][CraftTweaker]: Adding: [exquisito:zure_berry_cake_slice] to tag: <tag:items:diet:grains>
+[16:49:19.444][INFO][CraftTweaker]: Adding: [exquisito:jelly_ring_cake_slice] to tag: <tag:items:diet:grains>
+[16:49:19.444][INFO][CraftTweaker]: Adding: [exquisito:exquisite_battenberg_cake_slice] to tag: <tag:items:diet:grains>
+[16:49:19.444][INFO][CraftTweaker]: Adding: [exquisito:enlightened_battenberg_cake_slice] to tag: <tag:items:diet:grains>
+[16:49:19.445][INFO][CraftTweaker]: Adding: [exquisito:beloved_battenberg_cake_slice] to tag: <tag:items:diet:grains>
+[16:49:19.445][INFO][CraftTweaker]: Adding: [bountifulfares:artisan_bread] to tag: <tag:items:diet:grains>
+[16:49:19.445][INFO][CraftTweaker]: Adding: [alexscaves:sea_pig] to tag: <tag:items:diet:sugars>
+[16:49:19.445][INFO][CraftTweaker]: Adding: [enlightened_end:squished_bouncer] to tag: <tag:items:diet:sugars>
+[16:49:19.445][INFO][CraftTweaker]: Adding: [minecraft:cocoa_beans] to tag: <tag:items:diet:sugars>
+[16:49:19.446][INFO][CraftTweaker]: Adding: [autumnity:sap_bottle] to tag: <tag:items:diet:sugars>
+[16:49:19.446][INFO][CraftTweaker]: Adding: [create_central_kitchen:sweet_berry_cake_slice] to tag: <tag:items:diet:sugars>
+[16:49:19.446][INFO][CraftTweaker]: Adding: [create_central_kitchen:passionfruit_cake_slice] to tag: <tag:items:diet:sugars>
+[16:49:19.446][INFO][CraftTweaker]: Adding: [create_central_kitchen:pumpkin_cake_slice] to tag: <tag:items:diet:sugars>
+[16:49:19.446][INFO][CraftTweaker]: Adding: [create_central_kitchen:honey_cake_slice] to tag: <tag:items:diet:sugars>
+[16:49:19.446][INFO][CraftTweaker]: Adding: [create_central_kitchen:yucca_cake_slice] to tag: <tag:items:diet:sugars>
+[16:49:19.446][INFO][CraftTweaker]: Adding: [create_central_kitchen:aloe_cake_slice] to tag: <tag:items:diet:sugars>
+[16:49:19.447][INFO][CraftTweaker]: Adding: [create_central_kitchen:chocolate_cake_slice] to tag: <tag:items:diet:sugars>
+[16:49:19.447][INFO][CraftTweaker]: Adding: [farmersdelight:sweet_berry_cheesecake_slice] to tag: <tag:items:diet:sugars>
+[16:49:19.447][INFO][CraftTweaker]: Adding: [farmersdelight:cake_slice] to tag: <tag:items:diet:sugars>
+[16:49:19.447][INFO][CraftTweaker]: Adding: [exquisito:chorus_cake_slice] to tag: <tag:items:diet:sugars>
+[16:49:19.447][INFO][CraftTweaker]: Adding: [exquisito:zure_berry_cake_slice] to tag: <tag:items:diet:sugars>
+[16:49:19.447][INFO][CraftTweaker]: Adding: [exquisito:jelly_ring_cake_slice] to tag: <tag:items:diet:sugars>
+[16:49:19.447][INFO][CraftTweaker]: Adding: [exquisito:exquisite_battenberg_cake_slice] to tag: <tag:items:diet:sugars>
+[16:49:19.448][INFO][CraftTweaker]: Adding: [exquisito:enlightened_battenberg_cake_slice] to tag: <tag:items:diet:sugars>
+[16:49:19.448][INFO][CraftTweaker]: Adding: [exquisito:beloved_battenberg_cake_slice] to tag: <tag:items:diet:sugars>
+[16:49:19.448][INFO][CraftTweaker]: Adding: [bountifulfares:citrus_essence] to tag: <tag:items:diet:sugars>
+[16:49:19.448][INFO][CraftTweaker]: Adding: [farmersdelight:melon_juice] to tag: <tag:items:diet:sugars>
+[16:49:19.448][INFO][CraftTweaker]: Adding: [farmersdelight:hot_cocoa] to tag: <tag:items:diet:sugars>
+[16:49:19.448][INFO][CraftTweaker]: Adding: [farmersdelight:apple_cider] to tag: <tag:items:diet:sugars>
+[16:49:19.449][INFO][CraftTweaker]: Adding: [respiteful:vanilla_milk_tea] to tag: <tag:items:diet:sugars>
+[16:49:19.449][INFO][CraftTweaker]: Adding: [respiteful:mocha_coffee] to tag: <tag:items:diet:sugars>
+[16:49:19.449][INFO][CraftTweaker]: Adding: [respiteful:adzuki_milk_tea] to tag: <tag:items:diet:sugars>
+[16:49:19.449][INFO][CraftTweaker]: Adding: [alexscaves:vesper_wing] to tag: <tag:items:diet:proteins>
+[16:49:19.449][INFO][CraftTweaker]: Adding: [miners_delight:bat_wing] to tag: <tag:items:diet:proteins>
+[16:49:19.449][INFO][CraftTweaker]: Adding: [miners_delight:arthropod] to tag: <tag:items:diet:proteins>
+[16:49:19.449][INFO][CraftTweaker]: Adding: [alexscaves:trilocaris_tail] to tag: <tag:items:diet:proteins>
+[16:49:19.450][INFO][CraftTweaker]: Adding: [mynethersdelight:hoglin_loin] to tag: <tag:items:diet:proteins>
+[16:49:19.450][INFO][CraftTweaker]: Adding: [mynethersdelight:hoglin_sausage] to tag: <tag:items:diet:proteins>
+[16:49:19.450][INFO][CraftTweaker]: Adding: [species:cracked_wraptor_egg] to tag: <tag:items:diet:proteins>
+[16:49:19.450][INFO][CraftTweaker]: Adding: [galosphere:preserved_flesh] to tag: <tag:items:diet:proteins>
+[16:49:19.450][INFO][CraftTweaker]: Adding: [farmersdelight:salmon_slice] to tag: <tag:items:diet:proteins>
+[16:49:19.450][INFO][CraftTweaker]: Adding: [farmersdelight:cod_slice] to tag: <tag:items:diet:proteins>
+[16:49:19.451][INFO][CraftTweaker]: Adding: [farmersdelight:bacon] to tag: <tag:items:diet:proteins>
+[16:49:19.451][INFO][CraftTweaker]: Adding: [farmersdelight:chicken_cuts] to tag: <tag:items:diet:proteins>
+[16:49:19.451][INFO][CraftTweaker]: Adding: [miners_delight:tentacles] to tag: <tag:items:diet:proteins>
+[16:49:19.451][INFO][CraftTweaker]: Adding: [enlightened_end:raw_stalker] to tag: <tag:items:diet:proteins>
+[16:49:19.451][INFO][CraftTweaker]: Adding: [mynethersdelight:strider_slice] to tag: <tag:items:diet:proteins>
+[16:49:19.451][INFO][CraftTweaker]: Adding: [mynethersdelight:roast_ear] to tag: <tag:items:diet:proteins>
+[16:49:19.451][INFO][CraftTweaker]: Adding: [architects_palette:cod_scales] to tag: <tag:items:diet:proteins>
+[16:49:19.451][INFO][CraftTweaker]: Adding: [architects_palette:cod_log] to tag: <tag:items:diet:proteins>
+[16:49:19.451][INFO][CraftTweaker]: Adding: [architects_palette:salmon_log] to tag: <tag:items:diet:proteins>
+[16:49:19.451][INFO][CraftTweaker]: Adding: [architects_palette:salmon_scales] to tag: <tag:items:diet:proteins>
+[16:49:19.452][INFO][CraftTweaker]: Adding: [alexscaves:dinosaur_chop] to tag: <tag:items:diet:proteins>
+[16:49:19.452][INFO][CraftTweaker]: Adding: [alexscaves:cooked_dinosaur_chop] to tag: <tag:items:diet:proteins>
+[16:49:19.452][INFO][CraftTweaker]: Adding: [netherdungeons:hoglin_leg] to tag: <tag:items:diet:proteins>
+[16:49:19.452][INFO][CraftTweaker]: Adding: [miners_delight:silverfish_eggs] to tag: <tag:items:diet:proteins>
+[16:49:19.452][INFO][CraftTweaker]: Adding: [alexsmobs:cosmic_cod] to tag: <tag:items:diet:proteins>
+[16:49:19.453][INFO][CraftTweaker]: Adding: [brewery:half_chicken] to tag: <tag:items:diet:proteins>
+[16:49:19.453][INFO][CraftTweaker]: Adding: [onion_onion:motley_grill] to tag: <tag:items:diet:proteins>
+[16:49:19.453][INFO][CraftTweaker]: Adding: [biomemakeover:raw_crab] to tag: <tag:items:diet:proteins>
+[16:49:19.453][INFO][CraftTweaker]: Adding: [miners_delight:fish_stew_cup] to tag: <tag:items:diet:proteins>
+[16:49:19.453][INFO][CraftTweaker]: Adding: [miners_delight:cave_soup_cup] to tag: <tag:items:diet:proteins>
+[16:49:19.453][INFO][CraftTweaker]: Adding: [miners_delight:insect_stew_cup] to tag: <tag:items:diet:proteins>
+[16:49:19.453][INFO][CraftTweaker]: Adding: [miners_delight:bone_broth_cup] to tag: <tag:items:diet:proteins>
+[16:49:19.454][INFO][CraftTweaker]: Adding: [farmersrespite:coffee] to tag: <tag:items:diet:proteins>
+[16:49:19.454][INFO][CraftTweaker]: Adding: [farmersrespite:gamblers_tea] to tag: <tag:items:diet:proteins>
+[16:49:19.454][INFO][CraftTweaker]: Adding: [miners_delight:bat_soup_cup] to tag: <tag:items:diet:proteins>
+[16:49:19.454][INFO][CraftTweaker]: Adding: [miners_delight:noodle_soup_cup] to tag: <tag:items:diet:proteins>
+[16:49:19.454][INFO][CraftTweaker]: Adding: [miners_delight:baked_cod_stew_cup] to tag: <tag:items:diet:proteins>
+[16:49:19.454][INFO][CraftTweaker]: Adding: [miners_delight:rabbit_stew_cup] to tag: <tag:items:diet:proteins>
+[16:49:19.455][INFO][CraftTweaker]: Adding: [miners_delight:beef_stew_cup] to tag: <tag:items:diet:proteins>
+[16:49:19.455][INFO][CraftTweaker]: Adding: [miners_delight:chicken_soup_cup] to tag: <tag:items:diet:proteins>
+[16:49:19.455][INFO][CraftTweaker]: Adding: [alexscaves:diving_boots] to tag: <tag:items:ad_astra:space_suit_items>
+[16:49:19.455][INFO][CraftTweaker]: Adding: [alexscaves:diving_leggings] to tag: <tag:items:ad_astra:space_suit_items>
+[16:49:19.455][INFO][CraftTweaker]: Adding: [alexscaves:diving_chestplate] to tag: <tag:items:ad_astra:space_suit_items>
+[16:49:19.455][INFO][CraftTweaker]: Adding: [alexscaves:diving_helmet] to tag: <tag:items:ad_astra:space_suit_items>
+[16:49:19.455][INFO][CraftTweaker]: Adding: [alexscaves:hazmat_boots] to tag: <tag:items:ad_astra:space_suit_items>
+[16:49:19.456][INFO][CraftTweaker]: Adding: [alexscaves:hazmat_leggings] to tag: <tag:items:ad_astra:space_suit_items>
+[16:49:19.456][INFO][CraftTweaker]: Adding: [alexscaves:hazmat_chestplate] to tag: <tag:items:ad_astra:space_suit_items>
+[16:49:19.456][INFO][CraftTweaker]: Adding: [alexscaves:hazmat_mask] to tag: <tag:items:ad_astra:space_suit_items>
+[16:49:19.456][INFO][CraftTweaker]: Adding: [galosphere:sterling_helmet] to tag: <tag:items:ad_astra:space_suit_items>
+[16:49:19.456][INFO][CraftTweaker]: Adding: [galosphere:sterling_leggings] to tag: <tag:items:ad_astra:space_suit_items>
+[16:49:19.456][INFO][CraftTweaker]: Adding: [galosphere:sterling_boots] to tag: <tag:items:ad_astra:space_suit_items>
+[16:49:19.457][INFO][CraftTweaker]: Adding: [enlightened_end:boost_boots_boots] to tag: <tag:items:ad_astra:space_suit_items>
+[16:49:19.457][INFO][CraftTweaker]: Adding: [enlightened_end:adamantite_armor_leggings] to tag: <tag:items:ad_astra:space_suit_items>
+[16:49:19.457][INFO][CraftTweaker]: Adding: [enlightened_end:adamantite_armor_boots] to tag: <tag:items:ad_astra:space_suit_items>
+[16:49:19.457][INFO][CraftTweaker]: Adding: [enlightened_end:dashing_leggings_leggings] to tag: <tag:items:ad_astra:space_suit_items>
+[16:49:19.457][INFO][CraftTweaker]: Adding: [alexsmobs:centipede_leggings] to tag: <tag:items:ad_astra:space_suit_items>
+[16:49:19.457][INFO][CraftTweaker]: Adding: [alexsmobs:roadrunner_boots] to tag: <tag:items:ad_astra:space_suit_items>
+[16:49:19.457][INFO][CraftTweaker]: Adding: [minecraft:iron_boots] to tag: <tag:items:ad_astra:space_suit_items>
+[16:49:19.458][INFO][CraftTweaker]: Adding: [minecraft:iron_leggings] to tag: <tag:items:ad_astra:space_suit_items>
+[16:49:19.458][INFO][CraftTweaker]: Adding: [minecraft:diamond_leggings] to tag: <tag:items:ad_astra:space_suit_items>
+[16:49:19.458][INFO][CraftTweaker]: Adding: [minecraft:diamond_boots] to tag: <tag:items:ad_astra:space_suit_items>
+[16:49:19.458][INFO][CraftTweaker]: Adding: [minecraft:golden_leggings] to tag: <tag:items:ad_astra:space_suit_items>
+[16:49:19.458][INFO][CraftTweaker]: Adding: [minecraft:golden_boots] to tag: <tag:items:ad_astra:space_suit_items>
+[16:49:19.458][INFO][CraftTweaker]: Adding: [oreganized:electrum_leggings] to tag: <tag:items:ad_astra:space_suit_items>
+[16:49:19.458][INFO][CraftTweaker]: Adding: [oreganized:electrum_boots] to tag: <tag:items:ad_astra:space_suit_items>
+[16:49:19.459][INFO][CraftTweaker]: Adding: [minecraft:netherite_leggings] to tag: <tag:items:ad_astra:space_suit_items>
+[16:49:19.459][INFO][CraftTweaker]: Adding: [minecraft:netherite_boots] to tag: <tag:items:ad_astra:space_suit_items>
+[16:49:19.459][INFO][CraftTweaker]: Adding: [create:copper_diving_helmet] to tag: <tag:items:ad_astra:space_suit_items>
+[16:49:19.459][INFO][CraftTweaker]: Adding: [create:netherite_diving_helmet] to tag: <tag:items:ad_astra:space_suit_items>
+[16:49:19.459][INFO][CraftTweaker]: Adding: [create:copper_diving_boots] to tag: <tag:items:ad_astra:space_suit_items>
+[16:49:19.459][INFO][CraftTweaker]: Adding: [create:netherite_diving_boots] to tag: <tag:items:ad_astra:space_suit_items>
+[16:49:19.460][INFO][CraftTweaker]: Registering new items tag with name <tag:items:ad_astra:nether_space_suit_items>
+[16:49:19.460][INFO][CraftTweaker]: Adding: [create:netherite_diving_boots] to tag: <tag:items:ad_astra:nether_space_suit_items>
+[16:49:19.460][INFO][CraftTweaker]: Adding: [create:netherite_diving_helmet] to tag: <tag:items:ad_astra:nether_space_suit_items>
+[16:49:19.460][INFO][CraftTweaker]: Adding: [alexsmobs:straddler] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.460][INFO][CraftTweaker]: Adding: [alexsmobs:cosmic_cod] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.460][INFO][CraftTweaker]: Adding: [alexsmobs:spectre] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.460][INFO][CraftTweaker]: Adding: [alexsmobs:cosmaw] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.460][INFO][CraftTweaker]: Adding: [alexsmobs:endergrade] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.460][INFO][CraftTweaker]: Adding: [enlightened_end:void_leviathan] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.460][INFO][CraftTweaker]: Adding: [enlightened_end:falling_heliosand] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.460][INFO][CraftTweaker]: Adding: [alexsmobs:laviathan] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.460][INFO][CraftTweaker]: Adding: [alexsmobs:rocky_roller] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.461][INFO][CraftTweaker]: Adding: [alexsmobs:guster] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.461][INFO][CraftTweaker]: Adding: [alexsmobs:bone_serpent] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.461][INFO][CraftTweaker]: Adding: [alexsmobs:tarantula_hawk] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.461][INFO][CraftTweaker]: Adding: [galosphere:preserved] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.461][INFO][CraftTweaker]: Adding: [alexsmobs:tusklin] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.461][INFO][CraftTweaker]: Adding: [alexsmobs:froststalker] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.461][INFO][CraftTweaker]: Adding: [mowziesmobs:umvuthana] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.461][INFO][CraftTweaker]: Adding: [mowziesmobs:umvuthana_raptor] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.461][INFO][CraftTweaker]: Adding: [mowziesmobs:umvuthana_crane] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.461][INFO][CraftTweaker]: Adding: [mowziesmobs:lantern] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.462][INFO][CraftTweaker]: Adding: [mowziesmobs:naga] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.462][INFO][CraftTweaker]: Adding: [undergarden:mog] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.462][INFO][CraftTweaker]: Adding: [undergarden:scintling] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.462][INFO][CraftTweaker]: Adding: [undergarden:smog_mog] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.462][INFO][CraftTweaker]: Adding: [alexscaves:gammaroach] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.462][INFO][CraftTweaker]: Adding: [alexscaves:notor] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.462][INFO][CraftTweaker]: Adding: [alexscaves:ferrouslime] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.462][INFO][CraftTweaker]: Adding: [alexscaves:boundroid] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.462][INFO][CraftTweaker]: Adding: [alexscaves:boundroid_winch] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.462][INFO][CraftTweaker]: Adding: [alexscaves:magnetron] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.462][INFO][CraftTweaker]: Adding: [alexscaves:teletor] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.462][INFO][CraftTweaker]: Adding: [undergarden:gloomper] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.462][INFO][CraftTweaker]: Adding: [endermanoverhaul:nether_wastes_enderman] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.462][INFO][CraftTweaker]: Adding: [alexsmobs:sunbird] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.462][INFO][CraftTweaker]: Adding: [alexsmobs:cosmaw] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.462][INFO][CraftTweaker]: Adding: [alexsmobs:endergrade] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.462][INFO][CraftTweaker]: Adding: [alexsmobs:mungus] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.462][INFO][CraftTweaker]: Adding: [galosphere:specterpillar] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.462][INFO][CraftTweaker]: Adding: [galosphere:spectre] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.462][INFO][CraftTweaker]: Adding: [alexsmobs:spectre] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.462][INFO][CraftTweaker]: Adding: [endermanoverhaul:swamp_enderman] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.462][INFO][CraftTweaker]: Adding: [creeperoverhaul:cave_creeper] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.462][INFO][CraftTweaker]: Adding: [undergarden:nargoyle] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.462][INFO][CraftTweaker]: Adding: [alexscaves:gloomoth] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.463][INFO][CraftTweaker]: Adding: [alexscaves:underzealot] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.463][INFO][CraftTweaker]: Adding: [alexscaves:watcher] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.463][INFO][CraftTweaker]: Adding: [alexscaves:corrodent] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.463][INFO][CraftTweaker]: Adding: [alexscaves:vesper] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.463][INFO][CraftTweaker]: Adding: [alexscaves:forsaken] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.463][INFO][CraftTweaker]: Adding: [endermanoverhaul:ice_spikes_enderman] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.463][INFO][CraftTweaker]: Adding: [endermanoverhaul:snowy_enderman] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.463][INFO][CraftTweaker]: Adding: [endermanoverhaul:dark_oak_enderman] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.463][INFO][CraftTweaker]: Adding: [endermanoverhaul:windswept_hills_enderman] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.463][INFO][CraftTweaker]: Adding: [dweller_dweller:ominous_presence] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.463][INFO][CraftTweaker]: Adding: [dweller_dweller:dweller_dweller] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.463][INFO][CraftTweaker]: Adding: [minecraft:bat] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.463][INFO][CraftTweaker]: Adding: [spelunkery:dust_bunny] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.463][INFO][CraftTweaker]: Adding: [alexsmobs:underminer] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.463][INFO][CraftTweaker]: Adding: [alexsmobs:mimicube] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.463][INFO][CraftTweaker]: Adding: [undergarden:rotwalker] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.463][INFO][CraftTweaker]: Adding: [undergarden:rotbeast] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.463][INFO][CraftTweaker]: Adding: [undergarden:forgotten] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.463][INFO][CraftTweaker]: Adding: [species:roombug] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.463][INFO][CraftTweaker]: Adding: [alexsmobs:cockroach] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.463][INFO][CraftTweaker]: Adding: [ribbits:ribbit] to tag: <tag:entity_types:ad_astra:can_survive_in_space>
+[16:49:19.463][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
+[16:49:19.466][INFO][CraftTweaker]: CraftTweaker reload complete!
+[16:49:19.466][INFO][CraftTweaker]: This reload was made possible by Genryu and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod

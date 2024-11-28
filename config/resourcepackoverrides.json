@@ -1,3 +1,111 @@
 {
-  "schema_version": "2"
+  "schema_version": "2",
+  "default_overrides": {
+  "force_compatible": true
+},
+  "default_packs": [
+    "vanilla",
+    "mod_resources",
+    "fabric",
+    "Moonlight Mods Dynamic Assets",
+    "bountifulfares:amendments_res",
+    "bountifulfares:natures_spirit_res",
+    "bountifulfares:spawn_res",
+    "netherexp:jne_retextures",
+    "netherexp:conflicting_retextures",
+    "unique_nether_wood",
+    "bountifulfares:vanilla_item_override",
+    "black_icons"
+],
+"pack_overrides": {
+    "white_icons": {
+      "hidden": true
+    },
+    "supplementaries:darker_ropes": {
+  "hidden": true
+},
+"sullysmod:zombie_retextures": {
+  "hidden": true
+},
+"spelunkery:better_vanilla_gems": {
+  "hidden": true
+},
+"programmer_art": {
+  "hidden": true
+},
+"potionparticlepack:legacy_colors": {
+  "hidden": true
+},
+"netherexp:conflicting_retextures": {
+  "hidden": true
+},
+"natures_spirit:plank_consistency": {
+  "hidden": true
+},
+"natures_spirit:emissive_ores_compatibility": {
+  "hidden": true
+},
+"natures_spirit:better_leaves_compatibility": {
+  "hidden": true
+},
+"minecraft:perspective": {
+  "hidden": true
+},
+"immersive_weathering:visual_waxed_iron_items": {
+  "hidden": true
+},
+"unique_nether_wood": {
+  "hidden": true
+},
+"enchancement:alternate_gale": {
+  "hidden": true
+},
+"enchancement:alternate_dash": {
+  "hidden": true
+},
+"high_contrast": {
+  "hidden": true
+},
+"create_central_kitchen:create_styled": {
+  "hidden": true
+},
+"create:legacy_copper": {
+  "hidden": true
+},
+"classic_icons": {
+  "hidden": true
+},
+"vanilla": {
+  "hidden": true
+},
+"mod_resources": {
+  "hidden": true
+},
+"Moonlight Mods Dynamic Assets": {
+  "hidden": true
+},
+"bountifulfares:vanilla_item_override": {
+  "hidden": true
+},
+"bountifulfares:amendments_res": {
+  "hidden": true
+},
+"bountifulfares:natures_spirit_res": {
+  "hidden": true
+},
+"bountifulfares:spawn_res": {
+  "hidden": true
+},
+"bountifulfares:twigs_res": {
+  "hidden": true
+},
+"fabric": {
+  "hidden": true
+},
+"netherexp:jne_retextures": {
+  "hidden": true
+}
+  }
+
+
 }

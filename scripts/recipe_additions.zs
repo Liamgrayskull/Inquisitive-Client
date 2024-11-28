@@ -57,12 +57,11 @@ craftingTable.addShapeless("coldeye", <item:endrem:cold_eye> * 1, [<item:enderma
 craftingTable.addShapeless("blackeye", <item:endrem:black_eye> * 1, [<item:endermanoverhaul:ancient_pearl>, <item:biomemakeover:soul_embers>]);
 craftingTable.addShapeless("corruptedeye", <item:endrem:corrupted_eye> * 1, [<item:endermanoverhaul:corrupted_pearl>, <item:biomemakeover:soul_embers>]);
 
-craftingTable.addShapeless("mintdye1", <item:dye_depot:mint_dye> * 1, [<item:neapolitan:mint_sprout>]);
-craftingTable.addShapeless("indigodye1", <item:dye_depot:indigo_dye> * 2, [<item:enlightened_end:indigo_roots>]);
-craftingTable.addShapeless("indigodye2", <item:dye_depot:indigo_dye> * 1, [<item:enlightened_end:indigo_sprouts>]);
-craftingTable.addShapeless("gingerdye1", <item:dye_depot:ginger_dye> * 2, [<item:snowyspirit:ginger>]);
-craftingTable.addShapeless("gingerdye2", <item:dye_depot:ginger_dye> * 1, [<item:alexscaves:gingerbread_crumbs>]);
-craftingTable.addShapeless("amberdye1", <item:dye_depot:amber_dye> * 4, [<item:alexscaves:amber>]);
+
+
+
+
+
 
 
 

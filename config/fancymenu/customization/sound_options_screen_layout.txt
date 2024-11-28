@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = sound_options_screen
   render_custom_elements_behind_vanilla = true
-  last_edited_time = 1724444478530
+  last_edited_time = 1732752510234
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:25db70fb-1ba1-477b-8b39-007e128dbce2-1724444474273] = [groups:][instances:]
+  [loading_requirement_container_meta:4d7c9dc8-c0da-4b83-ad46-c219ba89fe5a-1732752507064] = [groups:][instances:]
 }
 
 customization {
@@ -35,12 +35,21 @@ vanilla_button {
   nine_slice_border_x = 5
   nine_slice_border_y = 5
   navigatable = true
+  widget_active_state_requirement_container_identifier = de3db817-7251-4651-860a-f5261b891c7f-1732752507069
+  [loading_requirement_container_meta:de3db817-7251-4651-860a-f5261b891c7f-1732752507069] = [groups:][instances:]
   element_type = vanilla_button
   instance_identifier = 400973
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
   anchor_point = vanilla
   x = 140
   y = 243
@@ -67,12 +76,21 @@ vanilla_button {
   nine_slice_border_x = 5
   nine_slice_border_y = 5
   navigatable = true
+  widget_active_state_requirement_container_identifier = a2e92996-2354-464c-aef2-fd5709c49051-1732752507069
+  [loading_requirement_container_meta:a2e92996-2354-464c-aef2-fd5709c49051-1732752507069] = [groups:][instances:]
   element_type = vanilla_button
   instance_identifier = 9445
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
+  sticky_anchor = false
   anchor_point = vanilla
   x = 424
   y = 5
@@ -83,7 +101,7 @@ vanilla_button {
   stay_on_screen = true
   element_loading_requirement_container_identifier = 7a6ea4a1-b77a-4a72-8da7-16e99bd289b9-1715393763939
   [loading_requirement_container_meta:7a6ea4a1-b77a-4a72-8da7-16e99bd289b9-1715393763939] = [groups:][instances:]
-  is_hidden = false
+  is_hidden = true
   automated_button_clicks = 0
   nine_slice_slider_handle = false
   nine_slice_slider_handle_border_x = 5

@@ -1,0 +1,7 @@
+{
+    "mod_name:feature_name": {
+      "bool_property": false,
+      "num_property": 512,
+      "string_property": "vminus is EPIC"
+      }
+  }

@@ -314,10 +314,7 @@
         "then_run": {
           "type": "minecraft:block",
           "result_state": {
-            "Name": "undergarden:shiverstone",
-            "Properties": {
-              "axis": "y"
-            }
+            "Name": "undergarden:shiverstone"
           }
         }
       },

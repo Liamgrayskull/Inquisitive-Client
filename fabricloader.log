@@ -1,7 +1,5 @@
-[22:21:35] [WARN] [FabricLoader/Metadata]: The mod "sushi_bar" contains invalid entries in its mod json:
+[16:19:56] [WARN] [FabricLoader/Metadata]: The mod "sushi_bar" contains invalid entries in its mod json:
 - Unsupported root entry "plugin" at line 42 column 11
-[22:21:39] [WARN] [FabricLoader/Resolution]: Warnings were found!
- - §Emod 'Chat Patches' (chatpatches)§r 201.5.6 recommends any version of §6menulogue§r, which is missing!
-	 - You should install any version of §6menulogue§r for the optimal experience.
+[16:19:58] [WARN] [FabricLoader/Resolution]: Warnings were found!
  - §Emod 'Wakes' (wakes)§r 0.2.4+1.20.1 recommends version 3.2.2 or later of §6yacl§r, which is missing!
 	 - You should install version 3.2.2 or later of §6yacl§r for the optimal experience.
