@@ -2,19 +2,19 @@
     "type": "miningmaster:forging_recipe",
     "gems": [
         {
-            "item": "sullysmod:polished_jade"
+            "item": "sullysmod:jade"
         },
         {
-            "item": "sullysmod:polished_jade"
+            "item": "sullysmod:jade"
         },
         {
-            "item": "sullysmod:polished_jade"
+            "item": "sullysmod:jade"
         },
         {
-            "item": "sullysmod:polished_jade"
+            "item": "sullysmod:jade"
         },
         {
-            "item": "sullysmod:polished_jade"
+            "item": "sullysmod:jade"
         }
     ],
     "catalyst": {

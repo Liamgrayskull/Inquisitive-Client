@@ -23,9 +23,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
+			"scale_health": "normal",
 			"scale_damage": "none",
-			"scale_speed": "inverse_square"
+			"scale_speed": "inverse"
 		},
 		"netherdungeons:baby_ghast": {
 			"type": "uniform",
@@ -33,9 +33,9 @@
 			"max_scaling": 1.5,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
+			"scale_health": "normal",
 			"scale_damage": "none",
-			"scale_speed": "inverse_square"
+			"scale_speed": "inverse"
 		},
 		"endermanoverhaul:badlands_enderman": {
 			"type": "uniform",
@@ -43,9 +43,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"creeperoverhaul:beach_creeper": {
 			"type": "uniform",
@@ -53,9 +53,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
+			"scale_health": "normal",
 			"scale_damage": "none",
-			"scale_speed": "inverse_square"
+			"scale_speed": "inverse"
 		},
 		"minecraft:bee": {
 			"type": "uniform",
@@ -63,9 +63,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"alexsmobs:bison": {
 			"type": "uniform",
@@ -73,19 +73,19 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
+			"scale_health": "normal",
 			"scale_damage": "none",
-			"scale_speed": "inverse_square"
+			"scale_speed": "inverse"
 		},
 		"minecraft:blaze": {
 			"type": "uniform",
-			"min_scaling": 0.8,
+			"min_scaling": 0.9,
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"alexsmobs:bone_serpent": {
 			"type": "uniform",
@@ -93,9 +93,9 @@
 			"max_scaling": 2.0,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"sullysmod:bouldering_zombie": {
 			"type": "uniform",
@@ -103,9 +103,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"alexscaves:boundroid": {
 			"type": "uniform",
@@ -113,9 +113,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"alexscaves:brainiac": {
 			"type": "uniform",
@@ -123,9 +123,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"trials:breeze": {
 			"type": "uniform",
@@ -133,9 +133,19 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
+		},
+		"netherexp:carcass": {
+			"type": "uniform",
+			"min_scaling": 0.9,
+			"max_scaling": 1.1,
+			"scale_loot": true,
+			"scale_xp": true,
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"minecraft:cat": {
 			"type": "uniform",
@@ -143,9 +153,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
+			"scale_health": "normal",
 			"scale_damage": "none",
-			"scale_speed": "inverse_square"
+			"scale_speed": "inverse"
 		},
 		"creeperoverhaul:cave_creeper": {
 			"type": "uniform",
@@ -153,9 +163,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
+			"scale_health": "normal",
 			"scale_damage": "none",
-			"scale_speed": "inverse_square"
+			"scale_speed": "inverse"
 		},
 		"endermanoverhaul:cave_enderman": {
 			"type": "uniform",
@@ -163,9 +173,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"minecraft:cave_spider": {
 			"type": "uniform",
@@ -173,9 +183,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"etcetera:chapple": {
 			"type": "uniform",
@@ -183,9 +193,9 @@
 			"max_scaling": 1.5,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
+			"scale_health": "normal",
 			"scale_damage": "none",
-			"scale_speed": "inverse_square"
+			"scale_speed": "inverse"
 		},
 		"minecraft:chicken": {
 			"type": "uniform",
@@ -193,9 +203,9 @@
 			"max_scaling": 1.5,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
+			"scale_health": "normal",
 			"scale_damage": "none",
-			"scale_speed": "inverse_square"
+			"scale_speed": "inverse"
 		},
 		"endermanoverhaul:coral_enderman": {
 			"type": "uniform",
@@ -203,9 +213,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"alexscaves:corrodent": {
 			"type": "uniform",
@@ -213,9 +223,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"alexsmobs:cosmic_cod": {
 			"type": "uniform",
@@ -223,9 +233,9 @@
 			"max_scaling": 3.0,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
+			"scale_health": "normal",
 			"scale_damage": "none",
-			"scale_speed": "inverse_square"
+			"scale_speed": "inverse"
 		},
 		"minecraft:cow": {
 			"type": "gaussian",
@@ -238,15 +248,25 @@
 			"scale_damage": "normal",
 			"scale_speed": "inverse"
 		},
+		"biomemakeover:cowboy": {
+			"type": "uniform",
+			"min_scaling": 0.9,
+			"max_scaling": 1.1,
+			"scale_loot": true,
+			"scale_xp": true,
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
+		},
 		"minecraft:creeper": {
 			"type": "uniform",
 			"min_scaling": 0.8,
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
+			"scale_health": "normal",
 			"scale_damage": "none",
-			"scale_speed": "inverse_square"
+			"scale_speed": "inverse"
 		},
 		"endermanoverhaul:crimson_forest_enderman": {
 			"type": "uniform",
@@ -254,9 +274,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"alexsmobs:crow": {
 			"type": "uniform",
@@ -264,9 +284,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"creeperoverhaul:dark_oak_creeper": {
 			"type": "uniform",
@@ -274,9 +294,9 @@
 			"max_scaling": 2.5,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
+			"scale_health": "normal",
 			"scale_damage": "none",
-			"scale_speed": "inverse_square"
+			"scale_speed": "inverse"
 		},
 		"endermanoverhaul:dark_oak_enderman": {
 			"type": "uniform",
@@ -284,9 +304,9 @@
 			"max_scaling": 2.5,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"endermanoverhaul:desert_enderman": {
 			"type": "uniform",
@@ -294,9 +314,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"spelunkery:dust_bunny": {
 			"type": "uniform",
@@ -304,9 +324,9 @@
 			"max_scaling": 2.5,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"alexsmobs:elephant": {
 			"type": "uniform",
@@ -314,9 +334,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"endermanoverhaul:end_enderman": {
 			"type": "uniform",
@@ -324,9 +344,9 @@
 			"max_scaling": 1.5,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
+			"scale_health": "normal",
 			"scale_damage": "none",
-			"scale_speed": "inverse_square"
+			"scale_speed": "inverse"
 		},
 		"endermanoverhaul:end_islands_enderman": {
 			"type": "uniform",
@@ -334,9 +354,9 @@
 			"max_scaling": 3.0,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
+			"scale_health": "normal",
 			"scale_damage": "none",
-			"scale_speed": "inverse_square"
+			"scale_speed": "inverse"
 		},
 		"alexsmobs:enderiophage": {
 			"type": "uniform",
@@ -344,9 +364,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
+			"scale_health": "normal",
 			"scale_damage": "none",
-			"scale_speed": "inverse_square"
+			"scale_speed": "inverse"
 		},
 		"minecraft:enderman": {
 			"type": "uniform",
@@ -354,9 +374,19 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
+		},
+		"minecraft:evoker": {
+			"type": "uniform",
+			"min_scaling": 0.9,
+			"max_scaling": 1.1,
+			"scale_loot": true,
+			"scale_xp": true,
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"endermanoverhaul:flower_fields_enderman": {
 			"type": "uniform",
@@ -364,9 +394,9 @@
 			"max_scaling": 1.0,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"alexsmobs:fly": {
 			"type": "uniform",
@@ -374,9 +404,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"minecraft:frog": {
 			"type": "gaussian",
@@ -395,9 +425,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
+			"scale_health": "normal",
 			"scale_damage": "none",
-			"scale_speed": "inverse_square"
+			"scale_speed": "inverse"
 		},
 		"alexscaves:gammaroach": {
 			"type": "uniform",
@@ -405,9 +435,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"minecraft:ghast": {
 			"type": "uniform",
@@ -415,9 +445,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"alexscaves:gloomoth": {
 			"type": "uniform",
@@ -425,9 +455,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"upgrade_aquatic:great_thrasher": {
 			"type": "uniform",
@@ -435,9 +465,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"alexsmobs:grizzly_bear": {
 			"type": "uniform",
@@ -445,9 +475,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"creeperoverhaul:hills_creeper": {
 			"type": "uniform",
@@ -455,9 +485,9 @@
 			"max_scaling": 1.7,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
+			"scale_health": "normal",
 			"scale_damage": "none",
-			"scale_speed": "inverse_square"
+			"scale_speed": "inverse"
 		},
 		"minecraft:hoglin": {
 			"type": "uniform",
@@ -465,9 +495,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"alexscaves:hullbreaker": {
 			"type": "uniform",
@@ -475,9 +505,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"minecraft:husk": {
 			"type": "uniform",
@@ -485,9 +515,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"endermanoverhaul:ice_spikes_enderman": {
 			"type": "uniform",
@@ -495,9 +525,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"minecraft:iron_golem": {
 			"type": "uniform",
@@ -505,9 +535,9 @@
 			"max_scaling": 1.5,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"creeperoverhaul:jungle_creeper": {
 			"type": "uniform",
@@ -515,9 +545,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
+			"scale_health": "normal",
 			"scale_damage": "none",
-			"scale_speed": "inverse_square"
+			"scale_speed": "inverse"
 		},
 		"sullysmod:jungle_spider": {
 			"type": "uniform",
@@ -525,9 +555,9 @@
 			"max_scaling": 2.0,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"alexscaves:magnetron": {
 			"type": "uniform",
@@ -535,9 +565,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"alexscaves:mine_guardian": {
 			"type": "uniform",
@@ -545,9 +575,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"creeperoverhaul:mushroom_creeper": {
 			"type": "uniform",
@@ -555,9 +585,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
+			"scale_health": "normal",
 			"scale_damage": "none",
-			"scale_speed": "inverse_square"
+			"scale_speed": "inverse"
 		},
 		"endermanoverhaul:mushroom_fields_enderman": {
 			"type": "uniform",
@@ -565,9 +595,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"endermanoverhaul:nether_wastes_enderman": {
 			"type": "uniform",
@@ -575,9 +605,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"alexscaves:notor": {
 			"type": "uniform",
@@ -585,9 +615,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"alexscaves:nucleeper": {
 			"type": "uniform",
@@ -595,9 +625,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"minecraft:pig": {
 			"type": "gaussian",
@@ -616,9 +646,19 @@
 			"max_scaling": 1.5,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
+		},
+		"minecraft:pillager": {
+			"type": "uniform",
+			"min_scaling": 0.8,
+			"max_scaling": 1.3,
+			"scale_loot": true,
+			"scale_xp": true,
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"galosphere:preserved": {
 			"type": "uniform",
@@ -626,9 +666,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
+			"scale_health": "normal",
 			"scale_damage": "none",
-			"scale_speed": "inverse_square"
+			"scale_speed": "inverse"
 		},
 		"alexscaves:radgill": {
 			"type": "uniform",
@@ -636,9 +676,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"minecraft:ravager": {
 			"type": "uniform",
@@ -646,9 +686,9 @@
 			"max_scaling": 1.5,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
+			"scale_health": "normal",
 			"scale_damage": "none",
-			"scale_speed": "inverse_square"
+			"scale_speed": "inverse"
 		},
 		"alexsmobs:rhinoceros": {
 			"type": "uniform",
@@ -656,9 +696,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"endermanoverhaul:savanna_enderman": {
 			"type": "uniform",
@@ -666,9 +706,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"creeperoverhaul:savannah_creeper": {
 			"type": "uniform",
@@ -676,9 +716,9 @@
 			"max_scaling": 1.7,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
+			"scale_health": "normal",
 			"scale_damage": "none",
-			"scale_speed": "inverse_square"
+			"scale_speed": "inverse"
 		},
 		"endermanoverhaul:scarab": {
 			"type": "uniform",
@@ -686,9 +726,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"minecraft:sheep": {
 			"type": "gaussian",
@@ -707,9 +747,9 @@
 			"max_scaling": 1.5,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"minecraft:skeleton": {
 			"type": "uniform",
@@ -717,9 +757,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"alexsmobs:skreecher": {
 			"type": "uniform",
@@ -727,9 +767,9 @@
 			"max_scaling": 1.7,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
+			"scale_health": "normal",
 			"scale_damage": "none",
-			"scale_speed": "inverse_square"
+			"scale_speed": "inverse"
 		},
 		"creeperoverhaul:snowy_creeper": {
 			"type": "uniform",
@@ -737,9 +777,9 @@
 			"max_scaling": 2.5,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
+			"scale_health": "normal",
 			"scale_damage": "none",
-			"scale_speed": "inverse_square"
+			"scale_speed": "inverse"
 		},
 		"endermanoverhaul:snowy_enderman": {
 			"type": "uniform",
@@ -747,9 +787,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"alexsmobs:spectre": {
 			"type": "uniform",
@@ -757,9 +797,9 @@
 			"max_scaling": 4.0,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"endermanoverhaul:spirit": {
 			"type": "uniform",
@@ -767,9 +807,9 @@
 			"max_scaling": 2.0,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"creeperoverhaul:spruce_creeper": {
 			"type": "uniform",
@@ -777,9 +817,19 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
+			"scale_health": "normal",
 			"scale_damage": "none",
-			"scale_speed": "inverse_square"
+			"scale_speed": "inverse"
+		},
+		"netherexp:stampede": {
+			"type": "uniform",
+			"min_scaling": 0.9,
+			"max_scaling": 1.5,
+			"scale_loot": true,
+			"scale_xp": true,
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"ad_astra:star_crawler": {
 			"type": "uniform",
@@ -787,9 +837,9 @@
 			"max_scaling": 4.0,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"minecraft:stray": {
 			"type": "uniform",
@@ -797,9 +847,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"alexscaves:subterranodon": {
 			"type": "uniform",
@@ -807,9 +857,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"alexsmobs:sunbird": {
 			"type": "uniform",
@@ -817,9 +867,9 @@
 			"max_scaling": 3.0,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
+			"scale_health": "normal",
 			"scale_damage": "none",
-			"scale_speed": "inverse_square"
+			"scale_speed": "inverse"
 		},
 		"endermanoverhaul:swamp_enderman": {
 			"type": "uniform",
@@ -827,9 +877,9 @@
 			"max_scaling": 1.6,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"alexscaves:teletor": {
 			"type": "uniform",
@@ -837,9 +887,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"upgrade_aquatic:thrasher": {
 			"type": "uniform",
@@ -847,9 +897,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
+			"scale_health": "normal",
 			"scale_damage": "none",
-			"scale_speed": "inverse_square"
+			"scale_speed": "inverse"
 		},
 		"alexscaves:tremorsaurus": {
 			"type": "uniform",
@@ -857,9 +907,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"alexscaves:vallumraptor": {
 			"type": "uniform",
@@ -867,9 +917,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"alexscaves:vesper": {
 			"type": "uniform",
@@ -877,9 +927,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"minecraft:vex": {
 			"type": "uniform",
@@ -887,9 +937,19 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
+			"scale_health": "normal",
 			"scale_damage": "none",
-			"scale_speed": "inverse_square"
+			"scale_speed": "inverse"
+		},
+		"minecraft:vindicator": {
+			"type": "uniform",
+			"min_scaling": 0.9,
+			"max_scaling": 1.1,
+			"scale_loot": true,
+			"scale_xp": true,
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"enlightened_end:void_leviathan": {
 			"type": "uniform",
@@ -897,9 +957,9 @@
 			"max_scaling": 3.0,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"minecraft:warden": {
 			"type": "uniform",
@@ -907,9 +967,9 @@
 			"max_scaling": 1.5,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"endermanoverhaul:warped_forest_enderman": {
 			"type": "uniform",
@@ -917,9 +977,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"endermanoverhaul:windswept_hills_enderman": {
 			"type": "uniform",
@@ -927,9 +987,19 @@
 			"max_scaling": 2.0,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
+		},
+		"netherexp:wisp": {
+			"type": "uniform",
+			"min_scaling": 0.7,
+			"max_scaling": 1.5,
+			"scale_loot": true,
+			"scale_xp": true,
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"minecraft:wither_skeleton": {
 			"type": "uniform",
@@ -937,9 +1007,9 @@
 			"max_scaling": 1.5,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"minecraft:wolf": {
 			"type": "uniform",
@@ -947,9 +1017,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"quark:wraith": {
 			"type": "uniform",
@@ -957,9 +1027,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		},
 		"minecraft:zombie": {
 			"type": "uniform",
@@ -967,9 +1037,9 @@
 			"max_scaling": 1.3,
 			"scale_loot": true,
 			"scale_xp": true,
-			"scale_health": "square",
-			"scale_damage": "square",
-			"scale_speed": "inverse_square"
+			"scale_health": "normal",
+			"scale_damage": "normal",
+			"scale_speed": "inverse"
 		}
 	}
 }

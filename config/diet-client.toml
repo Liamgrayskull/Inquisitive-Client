@@ -5,7 +5,7 @@ addButton = true
 buttonX = 105
 #The y-position of the Diet GUI button in player inventories.
 #Range: -10000 ~ 10000
-buttonY = -22
+buttonY = -20
 #The primary text color of the Diet GUI, as an integer or hexadecimal.
 textColor = "#FFFFFF"
 

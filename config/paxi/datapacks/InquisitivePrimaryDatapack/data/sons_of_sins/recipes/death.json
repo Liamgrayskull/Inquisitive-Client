@@ -1,0 +1,12 @@
+{
+  "type": "sons_of_sins:etheric_blood_imbibation",
+  "ingredients": [
+    {
+      "item": "minecraft:wither_skeleton_skull"
+    }
+  ],
+  "output": {
+    "item": "sullysmod:death_whistle",
+    "count": 1
+  }
+}

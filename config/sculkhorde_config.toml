@@ -4,6 +4,34 @@
 	target_faw_entities = false
 	#Should the Sculk Horde attack mobs from the mod 'Fungal Infection:Spore'? (Default false)
 	target_spore_entities = false
+	#Should the Sculk Horde attack mobs from the mod 'Deeper and Darker'? (Default true)
+	target_deeper_and_darker_entities = true
+	#Should the Sculk Horde attack mobs from the mod 'Mi Alliance'? (Default true)
+	target_mi_alliance_entities = true
+	#Should the Sculk Horde attack mobs from the mod 'Scape and Run Parsites'? (Default true)
+	target_scape_and_run_parasites_entities = true
+	#Should the Sculk Horde attack mobs from the mod 'The Flesh That Hates'? (Default true)
+	target_the_flesh_that_hates_entities = true
+	#Should the Sculk Horde attack mobs from the mod 'Dawn of the Flood'? (Default true)
+	target_dawn_of_the_flood_entities = true
+	#Should the Sculk Horde attack mobs from the mod 'Prion Infection'? (Default true)
+	target_prion_infection_entities = true
+	#Should the Sculk Horde attack mobs from the mod 'Withering Away: Reborn'? (Default true)
+	target_withering_away_reborn_entities = true
+	#Should the Sculk Horde attack mobs from the mod 'Entomophobia'? (Default true)
+	target_entomophobia_entities = true
+	#Should the Sculk Horde attack mobs from the mod 'Abominations Infection'? (Default true)
+	target_abominations_infection_entities = true
+	#Should the Sculk Horde attack mobs from the mod 'Another Dimension Infection'? (Default true)
+	target_another_dimension_infection_entities = true
+	#Should the Sculk Horde attack mobs from the mod 'Pharyriosis Parasite Infection'? (Default true)
+	target_phayriosis_entities = true
+	#Should the Sculk Horde attack mobs from the mod 'Complete Distortion: Infection from Otherworld'? (Default true)
+	target_complete_distortion_entities = true
+	#Should the Sculk Horde attack mobs from the mod 'Swarm Infection'? (Default true)
+	target_swarm_infection_entities = true
+	#Should the Sculk Horde attack mobs from the mod 'The Bulbus Infection'? (Default true)
+	target_bulbus_infection_entities = true
 
 ["General Variables"]
 	#Should the Sculk Horde infest blocks? (Default true)
@@ -12,6 +40,8 @@
 	chunk_loading_enabled = true
 	#Should players be able to defeat the Sculk Horde?
 	disable_defeating_sculk_horde = false
+	#Add entities to this list to stop the sculk horde from attacking them. I.E. minecraft:creeper. Be careful what you put in here, this can potentially lead to issues.
+	sculk_horde_target_blacklist = [""]
 
 ["Trigger Automatically Variables"]
 	#Should the Sculk Horde start automatically? Requires that chunk loading is enabled to work reliably, otherwise will only trigger if the ancient node's chunk is loaded. If enabled on a save where previously disabled, the node will trigger automatically if the time conditions are met. (Default false)
@@ -37,6 +67,9 @@
 	#How much faster or slower should infection spread? (Default 1)
 	#Range: 0.001 ~ 10.0
 	infection_speed_multiplier = 1.0
+	#How many infestation cursors are allowed to exist at one time. WARNING: This only applies if performance mode is at HIGH. To keep performance at HIGH, set disable_auto_performance_system to true (Default 200)
+	#Range: > 1
+	max_infestation_cursor_population = 200
 
 ["Gravemind Variables"]
 	#How much mass is needed for the Gravemind to enter the immature stage? (Default 5000)
@@ -69,8 +102,6 @@
 ["Experimental Features"]
 	#Should experimental features be enabled? (Default false)
 	experimental_features_enabled = false
-	#Should the Sculk Horde be unable to function without Ancient Node Activation (Default false).
-	disable_sculk_horde_unless_activated = false
 
 ["Sculk Raid Variables"]
 	#Should sculk raids be enabled? (Default true)

@@ -1,0 +1,12 @@
+{
+  "type": "sons_of_sins:etheric_blood_imbibation",
+  "ingredients": [
+    {
+      "item": "undergarden:utherium_crystal"
+    }
+  ],
+  "output": {
+    "item": "alexscaves:occult_gem",
+    "count": 1
+  }
+}

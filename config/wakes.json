@@ -1,6 +1,6 @@
 {
 	"effectSpawningRules": {
-		"mobs": "SIMULATION_AND_PLANES",
+		"mobs": "ONLY_PLANES",
 		"other_players": "SIMULATION_AND_PLANES",
 		"items": "SIMULATION_AND_PLANES",
 		"boat": "SIMULATION_AND_PLANES",

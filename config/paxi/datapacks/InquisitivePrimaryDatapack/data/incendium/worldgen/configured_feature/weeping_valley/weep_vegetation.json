@@ -19,19 +19,55 @@
             "type": "minecraft:weighted_state_provider",
             "entries": [
               {
-                "weight": 33,
+                "weight": 20,
                 "data": {
                   "Name": "netherexp:cerebrage_skull"
                 }
               },
               {
-                "weight": 11,
+                "weight": 20,
+                "data": {
+                  "Name": "netherexp:bone_rod"
+                }
+              },
+              {
+                "weight": 20,
+                "data": {
+                  "Name": "netherexp:soul_swirls"
+                }
+              },
+              {
+                "weight": 10,
+                "data": {
+                  "Name": "species:bone_spike"
+                }
+              },
+              {
+                "weight": 10,
+                "data": {
+                  "Name": "sons_of_sins:flesh_block"
+                }
+              },
+              {
+                "weight": 10,
                 "data": {
                   "Name": "alexscaves:bone_ribs"
                 }
               },
               {
-                "weight": 1,
+                "weight": 8,
+                "data": {
+                  "Name": "alexscaves:bone_nodule"
+                }
+              },
+              {
+                "weight": 5,
+                "data": {
+                  "Name": "sons_of_sins:urn_block"
+                }
+              },
+              {
+                "weight": 8,
                 "data": {
                   "Name": "alexscaves:baleen_bone"
                 }

@@ -1,0 +1,12 @@
+{
+  "type": "sons_of_sins:etheric_blood_imbibation",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_helmet"
+    }
+  ],
+  "output": {
+    "item": "undergarden:ancient_helmet",
+    "count": 1
+  }
+}

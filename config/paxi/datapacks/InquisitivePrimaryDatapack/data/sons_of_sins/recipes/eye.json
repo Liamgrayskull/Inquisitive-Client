@@ -1,0 +1,12 @@
+{
+  "type": "sons_of_sins:etheric_blood_imbibation",
+  "ingredients": [
+    {
+      "item": "minecraft:ender_eye"
+    }
+  ],
+  "output": {
+    "item": "endrem:undead_eye",
+    "count": 1
+  }
+}

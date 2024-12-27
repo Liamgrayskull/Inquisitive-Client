@@ -1,0 +1,12 @@
+{
+    "type": "architects_palette:warping",
+    "ingredient": [
+        {
+            "item": "ad_astra:steel_ingot"
+        }
+    ],
+    "result": {
+        "item": "sons_of_sins:soul_steel"
+    },
+    "dimension": "minecraft:the_nether"
+}

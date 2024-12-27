@@ -5,6 +5,9 @@
   "maxSecondsHaunt": 720,
   "minSecondsGrief": 60,
   "maxSecondsGrief": 720,
+  "minStalkDistance": 42.0,
+  "maxStalkDistance": 64.0,
+  "enableBlindingPlayer": true,
   "enablePhantomAudio": true,
   "enableManipulateBlocks": true,
   "enableChatMessage": true,
@@ -17,5 +20,7 @@
   "enablePlaceSign": true,
   "enablePlaceTorch": true,
   "enableTrimTrees": true,
-  "enableSetFire": true
+  "enableSetFire": true,
+  "GSON": {},
+  "CONFIG_PATH": {}
 }

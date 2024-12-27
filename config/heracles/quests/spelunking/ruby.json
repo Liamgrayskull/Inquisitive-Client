@@ -9,13 +9,13 @@
       "translate": "I <3 Rubies"
     },
     "description": [
-      "Rubies carry a multitude of unique properties, namely being useful for their associated regenerative abilities. Found underground, they have as much use in imbuing life as much as being an attractive commerce option."
+      "A most peculiar material, Rubies are notable for many reasons. They namely possess healing properties, which can be utilized with other materials to elevate one's life- along with this, they are particularly well suited towards currency, as well as being used to claim land."
     ],
     "groups": {
       "Spelunking": {
         "position": [
-          -20,
-          118
+          -21,
+          93
         ]
       }
     },

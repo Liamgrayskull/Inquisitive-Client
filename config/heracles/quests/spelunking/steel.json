@@ -14,7 +14,7 @@
     "groups": {
       "Spelunking": {
         "position": [
-          -295,
+          -296,
           282
         ]
       }
@@ -32,10 +32,11 @@
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

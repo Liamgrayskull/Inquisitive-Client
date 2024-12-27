@@ -1,0 +1,12 @@
+{
+  "type": "sons_of_sins:etheric_blood_imbibation",
+  "ingredients": [
+    {
+      "item": "copperative:oxidized_cog_block"
+    }
+  ],
+  "output": {
+    "item": "sullysmod:copper_cog",
+    "count": 1
+  }
+}

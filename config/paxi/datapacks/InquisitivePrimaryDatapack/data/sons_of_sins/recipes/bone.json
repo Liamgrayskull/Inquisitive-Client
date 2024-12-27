@@ -1,0 +1,12 @@
+{
+  "type": "sons_of_sins:etheric_blood_imbibation",
+  "ingredients": [
+    {
+      "item": "alexscaves:heavy_bone"
+    }
+  ],
+  "output": {
+    "item": "sullysmod:fossilised_bone",
+    "count": 1
+  }
+}

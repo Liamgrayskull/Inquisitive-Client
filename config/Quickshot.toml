@@ -1,0 +1,17 @@
+
+["Grip Shot"]
+	#defines the range of the grip shot (Default: 20) this value should be at least 2 or above
+	Range = 20.0
+	#if this is set to true, the grip shot will ignore the hardness values of the blocks it hits
+	"Sticky Grip Shot" = false
+
+["Barrel Blast"]
+	"Ignore Knockback Resistance" = true
+	"Damage Multiplier" = 1.0
+
+["Tactical Crossbow"]
+	"Damage Multiplier" = 1.0
+
+["Netherite Hand Plate"]
+	"Damage Multiplier" = 1.0
+

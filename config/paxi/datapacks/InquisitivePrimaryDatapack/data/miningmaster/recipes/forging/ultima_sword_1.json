@@ -11,7 +11,7 @@
             "item": "etcetera:raw_bismuth"
         },
         {
-            "item": "miningmaster:kinetic_opal"
+            "item": "rubinated_nether:ruby"
         },
         {
             "item": "miningmaster:ice_sapphire"
@@ -26,7 +26,7 @@
             "item": "create:rose_quartz"
         },
         {
-            "item": "miningmaster:lucky_citrine"
+            "item": "unusualend:citrine_chunk"
         }
     ],
     "catalyst": {

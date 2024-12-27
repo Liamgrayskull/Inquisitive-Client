@@ -1,0 +1,12 @@
+{
+  "type": "sons_of_sins:etheric_blood_imbibation",
+  "ingredients": [
+    {
+      "item": "minecraft:nautilus_shell"
+    }
+  ],
+  "output": {
+    "item": "sullysmod:fossilised_shells",
+    "count": 1
+  }
+}

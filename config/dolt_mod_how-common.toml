@@ -21,6 +21,10 @@
 		#If dispensers should be able to dispense into cauldrons
 		"Dispenser Cauldrons" = true
 
+	[Vanilla.disc]
+		#The disc that should be spawned when a jukebox is struck with lightning. Disables if string is "no"
+		"Lightning Disc" = "minecraft:music_disc_ward"
+
 [atmospheric]
 
 	[atmospheric.Oranges]
@@ -39,15 +43,17 @@
 		#If fungus colonies should grow on normal rich soil instead of soul rich soil
 		"Rich Fungus" = true
 
-[supplementaries]
+	[nethersdelight.bullet_peppers]
+		#If bullet peppers should become unplaceable, thus killing letios plants forever
+		"Kill letios plants" = true
 
-	[supplementaries.quivers]
-		#If processing a quiver in a cutting board will eject all the arrows in that quiver
-		"Realistic Quivers" = true
+	[nethersdelight.magma_cakes]
+		#If frogs should become unable to consume magma cakes
+		"Magma Cakes Good" = false
 
-[anchor]
+	[nethersdelight.supplementaries]
 
-	[anchor."epilogue Disc"]
-		#If striking a jukebox with lightning with a filled disc inside will change that disc to Epilogue
-		"AWESOME epilogue disc" = true
+		[nethersdelight.supplementaries.quivers]
+			#If processing a quiver in a cutting board will eject all the arrows in that quiver
+			"Realistic Quivers" = true
 

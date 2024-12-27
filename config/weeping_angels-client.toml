@@ -1,0 +1,5 @@
+
+[seasonal]
+	#Show Santa hats on angels at Xmas?
+	santa_hats = true
+

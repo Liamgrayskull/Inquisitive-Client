@@ -1,0 +1,12 @@
+{
+  "type": "sons_of_sins:etheric_blood_imbibation",
+  "ingredients": [
+    {
+      "item": "dungeonnowloading:spawner_frame"
+    }
+  ],
+  "output": {
+    "item": "sullysmod:metallic_skull",
+    "count": 1
+  }
+}

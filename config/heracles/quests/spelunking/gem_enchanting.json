@@ -1,0 +1,57 @@
+{
+  "dependencies": [],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "By utilizing the smithing table with a number of gems, one can enchant their tools without experience depending on the stone used. These stones are:",
+      "",
+      "> - Malachite",
+      "> - Allurite",
+      "> - Lumiere",
+      "> - Chaotic Hexahedron",
+      "> - Aquamarine",
+      "> - Pristine Emerald",
+      "> - Echo Shard",
+      "> - Ruby",
+      "> - Jade",
+      "> - Sapphire",
+      "> - Carnelian",
+      "> - Citrine",
+      "> - Raw Bismuth",
+      "> - Rose Quartz",
+      "> - Pristine Amethyst",
+      "> - Illunite"
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          -314,
+          76
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:smithing_table",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Gem Enchanting"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

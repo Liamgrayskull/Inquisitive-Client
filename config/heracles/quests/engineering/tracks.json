@@ -1,5 +1,7 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "physics"
+  ],
   "tasks": {},
   "rewards": {},
   "display": {
@@ -10,21 +12,21 @@
     "groups": {
       "Engineering": {
         "position": [
-          -262,
-          -117
+          -266,
+          -107
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "minecraft:map",
+        "id": "trackwork:track_tool_kit",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "text": "Tracks"
+      "translate": "Tracks"
     }
   },
   "settings": {

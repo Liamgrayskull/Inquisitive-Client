@@ -5,6 +5,102 @@ import crafttweaker.api.item.ItemDefinition;
 import stdlib.List;
 
 
+
+
+
+
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:endermanoverhaul:soul_pearl>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:endermanoverhaul:ancient_pearl>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:quark:cloud>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:grapplemod:long_fall_boots>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:grapplemod:blueprint>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:netherexp:necromium_plating>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:alexscaves:amber>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:quark:grate>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:exquisito:elmond>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:just_dandy:fluffy_dandelion>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:neapolitan:banana_bunch>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:twigs:twig>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:immersive_weathering:fulgurite>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:immersive_weathering:nulch_block>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:immersive_weathering:loam>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:immersive_weathering:icicle>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:immersive_weathering:mortar>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:extraalchemy:potion_bag>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:netherexp:soul_ruby_ore>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:rubinated_nether:soakstone>);
+
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:cosmos:steel_landing_pad_on>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:palegardenbackport:closed_eyeblossom>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:palegardenbackport:open_eyeblossom>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:rubinated_nether:dry_ice>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:etched:complex_music_label>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:architects_palette:unobtanium>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:deltaboxlib:arboria_icon>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:shadered:space_block>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:shadered:stormy_block>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:shadered:ocean_block>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:shadered:darkness_block>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:shadered:light_block>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:shadered:end_block>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:shadered:end_sky_block>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:broken_vase>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:primitive_knife>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:miners_helmet>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:small_dented_helmet>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:lost_crown>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:jade_amulet>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:primitive_ring>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:rusty_tools>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:broken_bowl>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:copper_cog>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:petrified_cookie>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:arrowhead>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:death_whistle>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:ominous_tablet>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:moon_tablet>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:stone_idol>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:red_cap>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:dried_cyan_flower>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:dried_red_flower>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:metallic_skull>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:lost_bag>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:mysterious_plate>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:familiar_cube>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:amber_encased_bug>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:fossilised_shells>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:fossilised_bone>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:fossilised_footstep>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:fossilised_fish>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:torn_manuscript>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:lost_journal>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:lost_sketchbook>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:lost_recipe_book>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:golden_belt_buckle>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:deepslate_vase>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:small_geode>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:torn_cloth>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:golden_goblet>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:emerald_earring>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:frog_idol>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:cracked_ancient_skull>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:crested_ancient_skull>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:flatbilled_ancient_skull>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:gigantic_ancient_skull>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:horned_ancient_skull>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:long_ancient_skull>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:tiny_ancient_skull>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:wide_ancient_skull>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:ribbed_ancient_skull>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sullysmod:unicorn_ancient_skull>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:species:youth_potion>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:netherexp:sanctum_compass>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:flying_stuff:glider>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:spelunkery:nephrite_charm>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:spelunkery:handheld_compactor>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:unusualend:void_tracker>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:rubinated_nether:ruby_icon>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:sons_of_sins:wistivers_jaws>);
 <tag:items:c:hidden_from_recipe_viewers>.add(<item:natures_spirit:quarter_pizza>);
 <tag:items:c:hidden_from_recipe_viewers>.add(<item:natures_spirit:half_pizza>);
 <tag:items:c:hidden_from_recipe_viewers>.add(<item:natures_spirit:three_quarters_pizza>);
@@ -38,9 +134,20 @@ import stdlib.List;
 <tag:items:c:hidden_from_recipe_viewers>.add(<item:sculkhorde:tome_of_veil>);
 <tag:items:c:hidden_from_recipe_viewers>.add(<item:sculkhorde:tome_of_reinforcement>);
 <tag:items:c:hidden_from_recipe_viewers>.add(<item:sculkhorde:tome_of_spines>);
-
-
-
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:mighty_mail:package>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:roasted:soul_marshmallow_on_a_stick>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:hexcasting:creative_unlocker>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:hexcasting:lore_fragment>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:create:chromatic_compound>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:scriptor:empty_casting_crystal>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:brewery:breathalyzer>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:alexsmobs:ancient_dart>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:alexsmobs:leafcutter_ant_pupa>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:dungeonnowloading:skull_of_chaos>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:species:ichor_bottle>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:spelunkery:bunny_ears>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:unusualend:void_rune>);
+<tag:items:c:hidden_from_recipe_viewers>.add(<item:unusualend:void_totem>);
 
 
 
@@ -85,6 +192,10 @@ import stdlib.List;
 <tag:items:diet:special_food>.add(<item:farmersdelight:stuffed_pumpkin_block>);
 <tag:items:diet:special_food>.add(<item:farmersrespite:rose_hip_pie>);
 <tag:items:diet:special_food>.add(<item:miners_delight:stuffed_squid>);
+<tag:items:diet:special_food>.add(<item:onion_onion:motley_grill_block>);
+
+<tag:items:diet:vegetables>.add(<item:onion_onion:motley_grill_block>);
+<tag:items:diet:proteins>.add(<item:onion_onion:motley_grill_block>);
 
 <tag:items:diet:vegetables>.add(<item:miners_delight:stuffed_squid>);
 <tag:items:diet:grains>.add(<item:miners_delight:stuffed_squid>);
@@ -110,7 +221,7 @@ import stdlib.List;
 <tag:items:diet:vegetables>.add(<item:farmersrespite:rose_hip_pie>);
 <tag:items:diet:grains>.add(<item:farmersrespite:rose_hip_pie>);
 <tag:items:diet:sugars>.add(<item:farmersrespite:rose_hip_pie>);
-
+<tag:items:diet:sugars>.add(<item:roasted:soul_marshmallow_on_a_stick>);
 
 
 <tag:items:diet:grains>.add(<item:mynethersdelight:ghasta_with_cream>);
@@ -120,6 +231,33 @@ import stdlib.List;
 <tag:items:diet:proteins>.add(<item:mynethersdelight:strider_egg>);
 <tag:items:diet:proteins>.add(<item:mynethersdelight:boiled_egg>);
 <tag:items:diet:proteins>.add(<item:mynethersdelight:ghasta_with_cream>);
+
+<tag:items:diet:proteins>.add(<item:ender_sins:golem_heart>);
+<tag:items:diet:proteins>.add(<item:ender_sins:enderling_muscle>);
+<tag:items:diet:proteins>.add(<item:ender_sins:warped_ribs>);
+<tag:items:diet:proteins>.add(<item:ender_sins:firefly_muscle>);
+<tag:items:diet:proteins>.add(<item:ender_sins:shiny_muscle>);
+<tag:items:diet:proteins>.add(<item:ender_sins:sticky_muscle>);
+<tag:items:diet:proteins>.add(<item:sons_of_sins:flesh_of_demise>);
+<tag:items:diet:proteins>.add(<item:sons_of_sins:ribs>);
+<tag:items:diet:proteins>.add(<item:sons_of_sins:muscle>);
+<tag:items:diet:proteins>.add(<item:sons_of_sins:heart>);
+<tag:items:diet:proteins>.add(<item:sons_of_sins:flesh_block>);
+<tag:items:diet:proteins>.add(<item:sons_of_sins:creeper_ribs>);
+<tag:items:diet:proteins>.add(<item:sons_of_sins:golem_cuirass>);
+<tag:items:diet:proteins>.add(<item:sons_of_sins:slime_rear>);
+<tag:items:diet:proteins>.add(<item:sons_of_sins:enderman_muscle>);
+<tag:items:diet:proteins>.add(<item:sons_of_sins:strider_muscle>);
+<tag:items:diet:proteins>.add(<item:sons_of_sins:ravager_muscle>);
+<tag:items:diet:proteins>.add(<item:sons_of_sins:blazing_heart>);
+<tag:items:diet:proteins>.add(<item:sons_of_sins:spider_heart>);
+<tag:items:diet:proteins>.add(<item:sons_of_sins:ice_heart>);
+<tag:items:diet:proteins>.add(<item:sons_of_sins:charged_creeper_ribs>);
+
+
+<tag:items:diet:proteins>.add(<item:goated:chevon>);
+<tag:items:diet:proteins>.add(<item:extra_compat:chevon_chop>);
+<tag:items:diet:proteins>.add(<item:biomemakeover:raw_toad>);
 
 <tag:items:diet:proteins>.add(<item:mynethersdelight:plate_of_striderloaf>);
 <tag:items:diet:proteins>.add(<item:mynethersdelight:plate_of_cold_striderloaf>);
@@ -134,6 +272,10 @@ import stdlib.List;
 <tag:items:diet:vegetables>.add(<item:mynethersdelight:plate_of_stuffed_hoglin>);
 <tag:items:diet:vegetables>.add(<item:mynethersdelight:plate_of_stuffed_hoglin_ham>);
 
+<tag:items:diet:grains>.add(<item:architects_palette:bread_block>);
+<tag:items:diet:grains>.add(<item:architects_palette:bread_slab>);
+<tag:items:diet:grains>.add(<item:architects_palette:crustless_bread_block>);
+
 <tag:items:diet:sugars>.add(<item:mynethersdelight:ghasta_with_cream>);
 <tag:items:diet:proteins>.add(<item:mynethersdelight:roast_stuffed_hoglin>);
 <tag:items:diet:vegetables>.add(<item:mynethersdelight:roast_stuffed_hoglin>);
@@ -147,6 +289,9 @@ import stdlib.List;
 
 <tag:items:diet:proteins>.add(<item:mynethersdelight:ghasta>);
 <tag:items:diet:sugars>.add(<item:mynethersdelight:ghasta>);
+
+<tag:items:diet:proteins>.add(<item:mynethersdelight:ghasmati>);
+<tag:items:diet:sugars>.add(<item:mynethersdelight:ghasmati>);
 
 <tag:items:diet:sugars>.add(<item:exquisito:jelly_ring_cake>);
 <tag:items:diet:sugars>.add(<item:exquisito:zure_berry_cake>);
@@ -183,9 +328,17 @@ import stdlib.List;
 <tag:items:diet:fruits>.add(<item:bountifulfares:plum_block>);
 <tag:items:diet:fruits>.add(<item:bountifulfares:orange_block>);
 <tag:items:diet:fruits>.add(<item:bountifulfares:apple_block>);
+<tag:items:diet:fruits>.add(<item:neapolitan:banana_bunch>);
 
 <tag:items:diet:grains>.add(<item:bountifulfares:artisan_bread>);
 <tag:items:diet:grains>.add(<item:bountifulfares:artisan_cookie>);
+
+<tag:items:diet:grains>.add(<item:natures_spirit:three_quarters_pizza>);
+<tag:items:diet:grains>.add(<item:natures_spirit:half_pizza>);
+<tag:items:diet:grains>.add(<item:natures_spirit:quarter_pizza>);
+<tag:items:diet:vegetables>.add(<item:natures_spirit:three_quarters_pizza>);
+<tag:items:diet:vegetables>.add(<item:natures_spirit:half_pizza>);
+<tag:items:diet:vegetables>.add(<item:natures_spirit:quarter_pizza>);
 
 <tag:items:diet:grains>.add(<item:bountifulfares:passion_fruit_tart>);
 <tag:items:diet:grains>.add(<item:bountifulfares:elderberry_tart>);
@@ -416,7 +569,8 @@ import stdlib.List;
 <tag:items:diet:proteins>.add(<item:miners_delight:beef_stew_cup>);
 <tag:items:diet:proteins>.add(<item:miners_delight:chicken_soup_cup>);
 
-
+<tag:items:diet:sugars>.add(<item:respiteful:mocha_coffee>);
+<tag:items:diet:proteins>.add(<item:respiteful:mocha_coffee>);
 
 <tag:items:ad_astra:space_suit_items>.add(<item:alexscaves:diving_boots>);
 <tag:items:ad_astra:space_suit_items>.add(<item:alexscaves:diving_leggings>);
@@ -449,6 +603,34 @@ import stdlib.List;
 <tag:items:ad_astra:space_suit_items>.add(<item:create:netherite_diving_helmet>);
 <tag:items:ad_astra:space_suit_items>.add(<item:create:copper_diving_boots>);
 <tag:items:ad_astra:space_suit_items>.add(<item:create:netherite_diving_boots>);
+<tag:items:ad_astra:space_suit_items>.add(<item:cosmos:steel_flash_helmet_on_helmet>);
+<tag:items:ad_astra:space_suit_items>.add(<item:miningmaster:paragon_boots>);
+<tag:items:ad_astra:space_suit_items>.add(<item:miningmaster:paragon_leggings>);
+<tag:items:ad_astra:space_suit_items>.add(<item:sons_of_sins:remnant_helmet>);
+<tag:items:ad_astra:space_suit_items>.add(<item:sons_of_sins:remnant_leggings>);
+<tag:items:ad_astra:space_suit_items>.add(<item:sons_of_sins:remnant_boots>);
+<tag:items:ad_astra:space_suit_items>.add(<item:vsch:magnet_boot>);
+<tag:items:ad_astra:space_suit_items>.add(<item:alexscaves_torpedoes:ferrousslime_boots>);
+<tag:items:ad_astra:space_suit_items>.add(<item:alexscaves_torpedoes:tectonic_leggings>);
+<tag:items:ad_astra:space_suit_items>.add(<item:alexscaves_torpedoes:tectonic_boots>);
+<tag:items:ad_astra:space_suit_items>.add(<item:alexscaves:gingerbread_boots>);
+<tag:items:ad_astra:space_suit_items>.add(<item:alexscaves:gingerbread_leggings>);
+<tag:items:ad_astra:space_suit_items>.add(<item:undergarden:froststeel_leggings>);
+<tag:items:ad_astra:space_suit_items>.add(<item:undergarden:froststeel_boots>);
+<tag:items:ad_astra:space_suit_items>.add(<item:undergarden:froststeel_helmet>);
+<tag:items:ad_astra:space_suit_items>.add(<item:undergarden:utherium_leggings>);
+<tag:items:ad_astra:space_suit_items>.add(<item:undergarden:utherium_boots>);
+<tag:items:ad_astra:space_suit_items>.add(<item:undergarden:cloggrum_helmet>);
+<tag:items:ad_astra:space_suit_items>.add(<item:undergarden:cloggrum_leggings>);
+<tag:items:ad_astra:space_suit_items>.add(<item:undergarden:cloggrum_boots>);
+<tag:items:ad_astra:space_suit_items>.add(<item:undergarden:ancient_leggings>);
+<tag:items:ad_astra:space_suit_items>.add(<item:undergarden:ancient_helmet>);
+<tag:items:ad_astra:space_suit_items>.add(<item:unusualend:warped_boots>);
+<tag:items:ad_astra:space_suit_items>.add(<item:unusualend:spectral_leggings>);
+<tag:items:ad_astra:space_suit_items>.add(<item:etcetera:tidal_helmet>);
+<tag:items:ad_astra:space_suit_items>.add(<item:alexsmobs:emu_leggings>);
+<tag:items:ad_astra:space_suit_items>.add(<item:masquerade:plauge_mask_helmet>);
+
 <tag:items:ad_astra:nether_space_suit_items>.add(<item:create:netherite_diving_boots>);
 <tag:items:ad_astra:nether_space_suit_items>.add(<item:create:netherite_diving_helmet>);
 
@@ -467,7 +649,6 @@ import stdlib.List;
 <tag:entity_types:ad_astra:can_survive_in_space>.add(<entitytype:galosphere:preserved>);
 <tag:entity_types:ad_astra:can_survive_in_space>.add(<entitytype:alexsmobs:tusklin>);
 <tag:entity_types:ad_astra:can_survive_in_space>.add(<entitytype:alexsmobs:froststalker>);
-
 
 <tag:entity_types:ad_astra:can_survive_in_space>.add(<entitytype:mowziesmobs:umvuthana>);
 <tag:entity_types:ad_astra:can_survive_in_space>.add(<entitytype:mowziesmobs:umvuthana_raptor>);

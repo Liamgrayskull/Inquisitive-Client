@@ -17,6 +17,12 @@
   //    Example: minecraft:diamond
   "blacklisted_items": [
     
+"relics_in_chaos:echoing_pedestal",
+"relics_in_chaos:occult_grimoire",
+"relics_in_chaos:book_of_war",
+"relics_in_chaos:rewidium_ingot",
+"relics_in_chaos:rulers_scepter",
+"cosmos:sulphuric_acid_bucket",
 "thecomfortzone:oak_table",
 "flying_stuff:molten_metal_bucket",
 "flying_stuff:molten_metal",
@@ -25,6 +31,10 @@
 "impaled:trident_upgrade_smithing_template",
 "impaled:loyalty_upgrade_smithing_template",
 "impaled:maelstrom",
+"sculkhorde:essence_of_purity",
+"alexscaves:block_of_uranium",
+"miningmaster:kinetic_opal_block",
+"miningmaster:kinetic_opal",
 
 "miningmaster:haste_peridot",
 "miningmaster:spirit_garnet",
@@ -35,7 +45,9 @@
 "miningmaster:heart_rhodonite",
 "miningmaster:power_pyrite",
 "miningmaster:air_malachite",
+"miningmaster:lucky_citrine",
 "miningmaster:spirit_garnet_block",
+"miningmaster:lucky_citrine_block",
 
 "hexcasting:conjured_light",
 "hexcasting:conjured_block",
@@ -57,7 +69,6 @@
 "ad_astra:ostrum_fluid_pipe",
 "ad_astra:cable_duct",
 "ad_astra:fluid_pipe_duct",
-"ad_astra:compressor",
 "ad_astra:energizer",
 "ad_astra:water_pump",
 
@@ -620,28 +631,15 @@
 
 "spelunkery:copper_nugget",
 
-"enlightened_end:bismuth_ore",
-"enlightened_end:raw_bismuth",
-"enlightened_end:bismuth_nugget",
-"enlightened_end:bismuth_ingot",
-"enlightened_end:raw_irradium",
-"enlightened_end:irradium_bar",
-"enlightened_end:depleted_irradium_bar",
-"enlightened_end:nuclear_bomb",
-"enlightened_end:nuclear_furnace",
-"enlightened_end:irradium_lamp",
-"enlightened_end:raw_irradium_block",
-"enlightened_end:irradium_block",
-"enlightened_end:depleted_irradium_block",
-"enlightened_end:irradium_bricks",
-"enlightened_end:depleted_irradium_bricks",
-"enlightened_end:irradium_brick_stairs",
-"enlightened_end:depleted_irradium_brick_stairs",
-"enlightened_end:irradium_brick_wall",
-"enlightened_end:depleted_irradium_brick_wall",
-"enlightened_end:irradium_brick_slab",
-"enlightened_end:depleted_irradium_brick_slab",
-"enlightened_end:irradium_ore",
+
+
+
+
+
+
+
+
+
     
 
 "computercraft:turtle_normal",
@@ -654,6 +652,16 @@
 "ruby_exchange:admin_trade_block",
 "ruby_exchange:trade_block",
  
+"enlightened_end:raw_irradium",
+"enlightened_end:nuclear_bomb",
+"enlightened_end:nuclear_furnace",
+"enlightened_end:irradium_lamp",
+"enlightened_end:irradium_ore",
+
+"enlightened_end:bismuth_ore",
+"enlightened_end:raw_bismuth",
+"enlightened_end:bismuth_nugget",
+"enlightened_end:bismuth_ingot",
 "enlightened_end:raw_bismuth_block",
 "enlightened_end:bismuth_block",
 "enlightened_end:bismuth_sheets",

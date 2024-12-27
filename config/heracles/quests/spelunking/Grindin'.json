@@ -9,15 +9,15 @@
       "translate": "Refining Materials!"
     },
     "description": [
-      "The grindstone has become a crucible of progression via enabling rough gems or unpolished blocks to be polishable, similar to the process of smelting raw ore blocks.",
+      "The grindstone has become a crucible of progression via enabling rough gems or unpolished blocks to be polishable, similar to the process of smelting raw ore blocks. The diamond grindstone is an extention of this, used to grind down harder gemstones such as diamonds, crafted with rough diamond nuggets found in deepslate diamond ore.",
       "",
-      "This also yields XP!"
+      "This process also yields XP!"
     ],
     "groups": {
       "Spelunking": {
         "position": [
-          3,
-          70
+          7,
+          58
         ]
       }
     },

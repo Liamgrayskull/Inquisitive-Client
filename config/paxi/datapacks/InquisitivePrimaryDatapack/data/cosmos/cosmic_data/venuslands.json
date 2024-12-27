@@ -109,20 +109,23 @@
       "roll_speed": 1,
       "scale": 0.03
     },
-    "venus": {
-      "type": "object",
-      "phased": true,
-      "texture_id": "venus",
-      "object_yaw": 5,
-      "object_pitch": 5,
-      "object_roll": -5,
-      "yaw": 0,
-      "pitch": 0,
-      "roll": 180,
-      "yaw_speed": 0,
-      "pitch_speed": 0,
-      "roll_speed": 0,
-      "scale": 1.2
-    }
+    "ring1": {
+  "type": "ring",
+  "yaw": 0,
+  "pitch": 23,
+  "roll": 12,
+  "texture_id": "sat1",
+  "additive": true,
+  "scale_radius": 0.07
+},
+"ring2": {
+  "type": "ring",
+  "yaw": 0,
+  "pitch": 23,
+  "roll": 12,
+  "texture_id": "sat2",
+  "additive": true,
+  "scale_radius": 0.14
+}
   }
 }

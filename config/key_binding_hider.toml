@@ -1,0 +1,7 @@
+# Visit https://github.com/gizmo-ds/key-binding-hider-mod for detailed configuration options.
+
+# Set the key bindings to unknown
+SetKeyBindingToUnknown = false
+
+# List of key bindings to hide
+KeyBindings = ["key.cosmos.placeplatform","key.flying_stuff.freefall"]

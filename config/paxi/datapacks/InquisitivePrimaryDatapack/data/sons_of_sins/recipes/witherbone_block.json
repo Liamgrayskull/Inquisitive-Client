@@ -1,0 +1,12 @@
+{
+  "type": "sons_of_sins:etheric_blood_imbibation",
+  "ingredients": [
+    {
+      "item": "minecraft:bone_block"
+    }
+  ],
+  "output": {
+    "item": "netherexp:wither_bone_block",
+    "count": 1
+  }
+}

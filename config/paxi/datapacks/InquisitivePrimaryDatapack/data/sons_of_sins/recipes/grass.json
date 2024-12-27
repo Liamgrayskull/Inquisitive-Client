@@ -1,0 +1,12 @@
+{
+  "type": "sons_of_sins:etheric_blood_imbibation",
+  "ingredients": [
+    {
+      "item": "minecraft:grass_block"
+    }
+  ],
+  "output": {
+    "item": "minecraft:crimson_nylium",
+    "count": 1
+  }
+}

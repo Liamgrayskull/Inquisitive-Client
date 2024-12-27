@@ -1,0 +1,12 @@
+{
+  "type": "sons_of_sins:etheric_blood_imbibation",
+  "ingredients": [
+    {
+      "item": "alexscaves:amber_curiosity"
+    }
+  ],
+  "output": {
+    "item": "sullysmod:amber_encased_bug",
+    "count": 1
+  }
+}

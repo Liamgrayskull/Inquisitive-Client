@@ -1,0 +1,12 @@
+{
+  "type": "sons_of_sins:etheric_blood_imbibation",
+  "ingredients": [
+    {
+      "item": "minecraft:beetroot"
+    }
+  ],
+  "output": {
+    "item": "enlightened_end:ancient_root",
+    "count": 1
+  }
+}

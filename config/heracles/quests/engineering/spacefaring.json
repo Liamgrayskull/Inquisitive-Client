@@ -1,6 +1,6 @@
 {
   "dependencies": [
-    "electricity"
+    "here_be_dragons"
   ],
   "tasks": {},
   "rewards": {},
@@ -8,18 +8,20 @@
     "subtitle": {
       "text": ""
     },
-    "description": [],
+    "description": [
+      ""
+    ],
     "groups": {
       "Engineering": {
         "position": [
-          -27,
-          -224
+          -321,
+          -190
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "ad_astra:tier_1_rocket",
+        "id": "vsch:thruster_block",
         "count": 1
       },
       "type": "heracles:item"
@@ -30,10 +32,11 @@
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

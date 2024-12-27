@@ -357,7 +357,7 @@
 			#Allow spawns in these biomes regardless of the biome tag settings
 			biome_whitelist = []
 			#Prevent spawns in these biomes regardless of the biome tag settings
-			biome_blacklist = []
+			biome_blacklist = ["minecraft:deep_dark"]
 
 		#Controls for vanilla-style mob spawning
 		[mobs.grottol.spawn_config]
@@ -392,7 +392,7 @@
 			#Set to true to only spawn mob if it can't see the sky.
 			needs_cant_see_sky = true
 			#Names of structures this mob will avoid spawning near.
-			avoid_structures = []
+			avoid_structures = ["minecraft:ancient_city"]
 
 		[mobs.grottol.combat_config]
 			#Scale mob health by this value

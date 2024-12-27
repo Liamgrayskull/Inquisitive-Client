@@ -90,55 +90,6 @@
           "alpha": 255
         }
       }
-    },
-    "saturn": {
-      "type": "object",
-      "phased": false,
-      "fade": "night",
-      "texture_id": "saturn",
-      "object_yaw": 45,
-      "object_pitch": 40,
-      "object_roll": 45,
-      "yaw": 0,
-      "pitch": 0,
-      "roll": 180,
-      "yaw_speed": 0,
-      "pitch_speed": 0,
-      "roll_speed": 1,
-      "scale": 0.02,
-      "atmosphere_color": {
-        "r": 195,
-        "g": 180,
-        "b": 150,
-        "alpha": 29
-      },
-      "ring_data": {
-        "ring1": {
-          "texture_id": "sat1",
-          "scale_radius": 0.04,
-          "radius": 10
-        },
-        "ring2": {
-          "texture_id": "sat2",
-          "scale_radius": 0.08,
-          "radius": 13
-        }
-      }
-    },
-    "mars": {
-      "type": "object",
-      "phased": true,
-      "texture_id": "mars",
-      "object_yaw": 7,
-      "object_pitch": -6,
-      "object_roll": -5,
-      "yaw": 0,
-      "pitch": 0,
-      "roll": 180,
-      "yaw_speed": 0,
-      "pitch_speed": 0,
-      "roll_speed": 0,
-      "scale": 1.2
     }
   }
 }

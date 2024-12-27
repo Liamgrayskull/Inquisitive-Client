@@ -11,13 +11,13 @@
             "item": "create:rose_quartz"
         },
         {
-            "item": "miningmaster:kinetic_opal"
+            "item": "rubinated_nether:ruby"
         },
         {
             "item": "etcetera:raw_bismuth"
         },
         {
-            "item": "miningmaster:lucky_citrine"
+            "item": "unusualend:citrine_chunk"
         }
     ],
     "catalyst": {

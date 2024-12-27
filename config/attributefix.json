@@ -110,17 +110,6 @@
         "value": 30
       }
     },
-    "obscure_api:magic_resistance": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
     "forge:entity_reach": {
       "enabled": false,
       "min": {
@@ -130,6 +119,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "obscure_api:magic_resistance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "cold_sweat:world_temp_immutable": {
@@ -185,6 +185,17 @@
       "max": {
         "default": 40000,
         "value": 40000
+      }
+    },
+    "brainstorm:spell_cooldown_reduction": {
+      "enabled": false,
+      "min": {
+        "default": -30,
+        "value": -30
+      },
+      "max": {
+        "default": 400,
+        "value": 400
       }
     },
     "shippingbin:crop_sell_multiplier": {
@@ -660,17 +671,6 @@
         "value": 1024
       }
     },
-    "obscure_api:resilience": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
     "forge:entity_gravity": {
       "enabled": false,
       "min": {
@@ -680,6 +680,17 @@
       "max": {
         "default": 8,
         "value": 8
+      }
+    },
+    "obscure_api:resilience": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "cold_sweat:core_temperature_offset": {
@@ -746,6 +757,17 @@
       "max": {
         "default": 4,
         "value": 4
+      }
+    },
+    "brainstorm:soul_gathering": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 8,
+        "value": 8
       }
     },
     "witherstormmod:slow_flying_speed": {
@@ -1122,6 +1144,17 @@
         "value": 1000000
       }
     },
+    "legionary:sprinting_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 500,
+        "value": 500
+      }
+    },
     "obscure_api:critical_hit": {
       "enabled": false,
       "min": {
@@ -1149,6 +1182,17 @@
       "min": {
         "default": -100,
         "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "brainstorm:spell_power": {
+      "enabled": false,
+      "min": {
+        "default": -99,
+        "value": -99
       },
       "max": {
         "default": 100,

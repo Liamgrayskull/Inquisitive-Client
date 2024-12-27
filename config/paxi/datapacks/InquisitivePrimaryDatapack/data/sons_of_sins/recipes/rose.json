@@ -1,0 +1,12 @@
+{
+  "type": "sons_of_sins:etheric_blood_imbibation",
+  "ingredients": [
+    {
+      "item": "minecraft:poppy"
+    }
+  ],
+  "output": {
+    "item": "sullysmod:dried_red_flower",
+    "count": 1
+  }
+}

@@ -1399,6 +1399,7 @@ to make editing this file much easier.
 		"flying_stuff:celestium_anvil": "miningmaster:gem_forge",
 
 		"flying_stuff:molten_metal": "molten_metals:molten_silver",
+		"alexscaves:amber": "sullysmod:amber",
 
 		"flying_stuff:lavic_skyrock_tiles": "architects_palette:chiseled_sunmetal_block",
 		"flying_stuff:lavic_skyrock_pipe": "architects_palette:sunmetal_pillar",

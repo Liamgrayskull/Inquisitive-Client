@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "stray",
+    "vindicator",
+    "zombie",
+    "husk",
+    "#sons_of_sins:is_a_sin",
+    "piglin_brute",
+    "evoker",
+    "sons_of_sins:guzzler",
+    "wither_skeleton",
+    "sons_of_sins:betrayed_guzzler",
+    "enderman",
+    "zombified_piglin",
+    "piglin",
+    "villager",
+    "wandering_trader",
+    "zombie_villager",
+    "skeleton",
+    "pillager",
+    "witch"
+  ]
+}

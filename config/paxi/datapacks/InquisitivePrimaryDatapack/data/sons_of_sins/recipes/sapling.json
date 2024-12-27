@@ -1,0 +1,12 @@
+{
+  "type": "sons_of_sins:etheric_blood_imbibation",
+  "ingredients": [
+    {
+      "item": "minecraft:jungle_sapling"
+    }
+  ],
+  "output": {
+    "item": "alexscaves:ancient_sapling",
+    "count": 1
+  }
+}

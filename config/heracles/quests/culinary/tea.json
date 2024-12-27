@@ -9,9 +9,12 @@
       "translate": "Gimme it sis!"
     },
     "description": [
-      "- Tea Shrub plants can be found in Jungle and Forest biomes.",
+      "With a tea kettle, one can brew a myriad of beverages. Teas especially have three variants, depending on how long a bushel has grown, being green, yellow and black- yet coffee and many other brews are found across the realms.",
       "",
-      "- Drops Tea Berries, which can be used to replant Tea Shrubs.",
+      "",
+      "- Oolong Shrub plants can be found in Jungle and Forest biomes.",
+      "",
+      "- Drops Oolong Berries, which can be used to replant Tea Shrubs.",
       "",
       "- Chamomile Flowers can be found often across the world.",
       "",
@@ -21,10 +24,10 @@
       "",
       "- Violet Bellflowers can be found in Taiga, Meadow, and Birch Forest biomes.",
       "",
-      "Each type of tea removes a different set of negative status effects:",
-      "Green tea removes Stupor, Hunger, and Acidic",
+      "Each type of Oolong removes a different set of negative status effects:",
+      "Green Oolong removes Stupor, Hunger, and Acidic",
       "",
-      "Black tea removes Weakness, Slowness, and Acidic",
+      "Black Oolong removes Weakness, Slowness, and Acidic",
       "",
       "Chamomile tea removes Nausea, Poison, and Acidic",
       "",
@@ -55,10 +58,11 @@
     }
   },
   "settings": {
-    "unlockNotification": false,
     "showDependencyArrow": true,
     "repeatable": false,
+    "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED"
+    "hidden": "LOCKED",
+    "unlockNotification": false
   }
 }

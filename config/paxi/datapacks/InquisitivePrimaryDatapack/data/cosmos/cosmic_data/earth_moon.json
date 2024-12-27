@@ -143,21 +143,6 @@
           "alpha": 255
         }
       }
-    },
-    "moon": {
-      "type": "object",
-      "phased": true,
-      "texture_id": "moon",
-      "object_yaw": 4,
-      "object_pitch": 5,
-      "object_roll": 0,
-      "yaw": 0,
-      "pitch": 0,
-      "roll": 180,
-      "yaw_speed": 0,
-      "pitch_speed": 0,
-      "roll_speed": 0,
-      "scale": 1.05
     }
   }
 }

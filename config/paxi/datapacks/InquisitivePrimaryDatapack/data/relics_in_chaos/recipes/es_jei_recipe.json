@@ -1,0 +1,21 @@
+{
+  "type": "relics_in_chaos:eon_infusion",
+  "ingredients": [
+    {
+      "item": "minecraft:echo_shard"
+    },
+    {
+      "item": "minecraft:echo_shard"
+    },
+    {
+      "item": "minecraft:sculk_catalyst"
+    },
+    {
+      "item": "minecraft:fishing_rod"
+    }
+  ],
+  "output": {
+    "item": "minecraft:barrier",
+    "count": 1
+  }
+}

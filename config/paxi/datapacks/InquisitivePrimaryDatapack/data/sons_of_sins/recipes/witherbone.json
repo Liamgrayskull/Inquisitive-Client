@@ -1,0 +1,12 @@
+{
+  "type": "sons_of_sins:etheric_blood_imbibation",
+  "ingredients": [
+    {
+      "item": "minecraft:bone"
+    }
+  ],
+  "output": {
+    "item": "architects_palette:withered_bone",
+    "count": 1
+  }
+}

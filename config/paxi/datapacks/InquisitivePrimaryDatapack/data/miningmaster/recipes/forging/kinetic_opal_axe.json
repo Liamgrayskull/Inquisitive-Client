@@ -2,13 +2,13 @@
     "type": "miningmaster:forging_recipe",
     "gems": [
         {
-            "item": "miningmaster:kinetic_opal"
+            "item": "rubinated_nether:ruby"
         },
         {
-            "item": "miningmaster:kinetic_opal"
+            "item": "rubinated_nether:ruby"
         },
         {
-            "item": "miningmaster:kinetic_opal"
+            "item": "rubinated_nether:ruby"
         }
     ],
     "catalyst": {
@@ -19,7 +19,7 @@
     },
     "enchantments": [
         {
-            "enchantment": "minecraft:knockback",
+            "enchantment": "supplementaries:lumisene_fire_aspect",
             "lvl": 1
         }
     ]

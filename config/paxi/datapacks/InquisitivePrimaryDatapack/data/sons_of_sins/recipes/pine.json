@@ -1,0 +1,12 @@
+{
+  "type": "sons_of_sins:etheric_blood_imbibation",
+  "ingredients": [
+    {
+      "item": "alexscaves:pine_nuts"
+    }
+  ],
+  "output": {
+    "item": "species:ancient_pinecone",
+    "count": 1
+  }
+}

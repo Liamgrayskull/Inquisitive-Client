@@ -3,6 +3,7 @@ import crafttweaker.api.item.IItemStack;
 import crafttweaker.api.ingredient.IIngredient;
 import crafttweaker.api.item.ItemDefinition;
 import stdlib.List;
+import crafttweaker.api.recipe.FurnaceRecipeManager;
 
 craftingTable.remove(<item:simpleradio:transceiver>);
 craftingTable.remove(<item:simpleradio:radiosmither>);
@@ -36,6 +37,39 @@ craftingTable.remove(<item:waystones:sharestone>);
 craftingTable.remove(<item:heartstone:heartstone>);
 craftingTable.remove(<item:healpgood:withered_heart>);
 craftingTable.remove(<item:healpgood:golden_heart>);
+
+craftingTable.remove(<item:alexscaves:nuclear_bomb>);
+craftingTable.remove(<item:alexscaves:nuclear_furnace_component>);
+craftingTable.remove(<item:alexscaves:nuclear_siren>);
+craftingTable.remove(<item:alexscaves:uranium_rod>);
+craftingTable.remove(<item:sculkhorde:purification_flask>);
+
+craftingTable.remove(<item:shadered:space_block>);
+craftingTable.remove(<item:shadered:stormy_block>);
+craftingTable.remove(<item:shadered:ocean_block>);
+craftingTable.remove(<item:shadered:darkness_block>);
+craftingTable.remove(<item:shadered:light_block>);
+craftingTable.remove(<item:shadered:end_block>);
+craftingTable.remove(<item:shadered:end_sky_block>);
+
+craftingTable.remove(<item:angelblockrenewed:angel_block>);
+
+craftingTable.addShapeless("angel", <item:angelblockrenewed:angel_block> * 1, [<item:undergarden:regalium_crystal>, <item:cloudstorage:cloud>]);
+
+furnace.addRecipe("uranium_bar", <item:enlightened_end:irradium_bar>, <item:alexscaves:uranium>, 8, 400);
+furnace.addRecipe("depleted_uranium_bar", <item:enlightened_end:depleted_irradium_bar>, <item:create:crushed_raw_uranium>, 2, 200);
+furnace.addRecipe("steelsmelt", <item:minecraft:iron_ingot>, <item:ad_astra:steel_nugget>, 1.0, 20);
+
+craftingTable.addShaped("raw_uranium_block", <item:enlightened_end:raw_irradium_block> * 1, [[<item:alexscaves:uranium>, <item:alexscaves:uranium>, <item:alexscaves:uranium>], [<item:alexscaves:uranium>, <item:alexscaves:uranium>, <item:alexscaves:uranium>], [<item:alexscaves:uranium>, <item:alexscaves:uranium>, <item:alexscaves:uranium>]]);
+craftingTable.addShapeless("raw_uranium_item", <item:alexscaves:uranium> * 9, [<item:enlightened_end:raw_irradium_block>]);
+craftingTable.addShaped("nuclear_siren", <item:alexscaves:nuclear_siren> * 1, [[<item:enlightened_end:irradium_bar>, <item:alexscaves:charred_remnant>, <item:enlightened_end:irradium_bar>], [<item:minecraft:air>, <item:alexscaves:polymer_plate>, <item:minecraft:air>], [<item:minecraft:air>, <item:alexscaves:polymer_plate>, <item:minecraft:air>]]);
+craftingTable.addShaped("nuclear_rod", <item:alexscaves:uranium_rod> * 1, [[<item:minecraft:air>, <item:alexscaves:polymer_plate>, <item:minecraft:air>], [<item:minecraft:air>, <item:enlightened_end:irradium_bar>, <item:minecraft:air>], [<item:minecraft:air>, <item:alexscaves:polymer_plate>, <item:minecraft:air>]]);
+craftingTable.addShaped("nuclear_furnace", <item:alexscaves:nuclear_furnace_component> * 2, [[<item:alexscaves:charred_remnant>, <item:enlightened_end:irradium_bricks>, <item:alexscaves:charred_remnant>], [<item:enlightened_end:irradium_bar>, <item:minecraft:blast_furnace>, <item:enlightened_end:irradium_bar>], [<item:alexscaves:charred_remnant>, <item:enlightened_end:irradium_bricks>, <item:alexscaves:charred_remnant>]]);
+craftingTable.addShaped("nuclear_bomb", <item:alexscaves:nuclear_bomb> * 1, [[<item:alexscaves:charred_remnant>, <item:alexscaves:fissile_core>, <item:alexscaves:charred_remnant>], [<item:alexscaves:nuclear_furnace_component>, <item:enlightened_end:irradium_block>, <item:alexscaves:nuclear_furnace_component>], [<item:alexscaves:charred_remnant>, <item:alexscaves:fissile_core>, <item:alexscaves:charred_remnant>]]);
+
+craftingTable.addShaped("purifierbottle", <item:sculkhorde:purification_flask> * 8, [[<item:minecraft:glass_bottle>, <item:minecraft:glass_bottle>, <item:minecraft:glass_bottle>], [<item:minecraft:glass_bottle>, <item:undergarden:regalium_crystal>, <item:minecraft:glass_bottle>], [<item:minecraft:glass_bottle>, <item:minecraft:glass_bottle>, <item:minecraft:glass_bottle>]]);
+craftingTable.addShapeless("purifierblock", <item:sculkhorde:infestation_ward_block> * 1, [<item:undergarden:regalium_crystal>, <item:undergarden:regalium_crystal>, <item:undergarden:regalium_crystal>, <item:undergarden:regalium_crystal>]);
+craftingTable.addShaped("purifier", <item:sculkhorde:infestation_purifier> * 1, [[<item:minecraft:air>, <item:sculkhorde:calcite_clump>, <item:minecraft:air>], [<item:sculkhorde:calcite_clump>, <item:undergarden:regalium_crystal>, <item:sculkhorde:calcite_clump>], [<item:minecraft:air>, <item:sculkhorde:calcite_clump>, <item:minecraft:air>]]);
 
 
 craftingTable.addShaped("ruby_craft", <item:ruby_exchange:ruby> * 1, [[<item:healpgood:heart_crystal_shard>, <item:minecraft:air>, <item:minecraft:air>], [<item:healpgood:heart_crystal_shard>, <item:healpgood:heart_crystal_shard>, <item:minecraft:air>], [<item:healpgood:heart_crystal_shard>, <item:healpgood:heart_crystal_shard>, <item:healpgood:heart_crystal_shard>]]);

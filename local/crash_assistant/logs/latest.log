@@ -1,0 +1,3 @@
+[2024-12-26 17:10:54.498] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Parent PID: 36976
+[2024-12-26 17:23:53.736] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: PID "36976" is not alive. Minecraft JVM appears to have stopped.
+[2024-12-26 17:23:53.873] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Seems like Minecraft finished normally. Exiting Crash Assistant app.

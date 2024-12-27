@@ -10,13 +10,15 @@
       "translate": "Cu2CO3(OH)2!"
     },
     "description": [
-      "Reflective properties- some sort of a derivative of jade, but special in it's  laser-focused properties."
+      "Reflective properties- some sort of a derivative of jade, but special in it's  laser-focused properties.",
+      "",
+      "An airy and reflective material, malachite boasts properties of floating and hollowness, able to reflect and refract certain forms of lasers."
     ],
     "groups": {
       "Spelunking": {
         "position": [
-          40,
-          138
+          50,
+          107
         ]
       }
     },

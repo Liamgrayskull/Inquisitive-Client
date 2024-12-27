@@ -4,7 +4,7 @@
         "tag": "miningmaster:gem_enchanting_blacklist"
     },
     "gem": {
-        "item": "sullysmod:polished_jade"
+        "item": "sullysmod:jade"
     },
     "enchantments": [
         "enchancement:veil",

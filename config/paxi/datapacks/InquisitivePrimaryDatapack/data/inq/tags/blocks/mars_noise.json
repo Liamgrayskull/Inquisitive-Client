@@ -8,6 +8,7 @@
     "minecraft:dripstone_block",
     "minecraft:pointed_dripstone",
     "minecraft:packed_mud",
+    "grounded:earthen_clay",
     "alexscaves:guanostone"
   ]
 }

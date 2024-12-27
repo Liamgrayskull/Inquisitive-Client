@@ -1,0 +1,5 @@
+
+[Config]
+	#The probability (in percents) for a Gulber to activate the Golem Heart Skill when attacked
+	"Golem Heart" = 20.0
+

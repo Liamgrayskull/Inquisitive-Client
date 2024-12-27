@@ -82,21 +82,6 @@
         "b": 102,
         "alpha": 33
       }
-    },
-    "mercury": {
-      "type": "object",
-      "phased": true,
-      "texture_id": "mercury",
-      "object_yaw": 6,
-      "object_pitch": -6,
-      "object_roll": -6,
-      "yaw": 0,
-      "pitch": 0,
-      "roll": 180,
-      "yaw_speed": 0,
-      "pitch_speed": 0,
-      "roll_speed": 0,
-      "scale": 1.2
     }
   }
 }

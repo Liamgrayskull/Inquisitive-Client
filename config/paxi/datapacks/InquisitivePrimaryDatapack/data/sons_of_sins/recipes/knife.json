@@ -1,0 +1,12 @@
+{
+  "type": "sons_of_sins:etheric_blood_imbibation",
+  "ingredients": [
+    {
+      "item": "farmersdelight:flint_knife"
+    }
+  ],
+  "output": {
+    "item": "sullysmod:primitive_knife",
+    "count": 1
+  }
+}

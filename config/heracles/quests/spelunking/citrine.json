@@ -1,5 +1,7 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "crystals"
+  ],
   "tasks": {},
   "rewards": {},
   "display": {
@@ -12,14 +14,14 @@
     "groups": {
       "Spelunking": {
         "position": [
-          -105,
-          127
+          72,
+          274
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "miningmaster:lucky_citrine_block",
+        "id": "unusualend:condensed_citrine_block",
         "count": 1
       },
       "type": "heracles:item"

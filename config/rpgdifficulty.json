@@ -1,7 +1,7 @@
 {
-  "increasingDistance": 500,
+  "increasingDistance": 1000,
   "distanceFactor": 0.05,
-  "increasingTime": 160,
+  "increasingTime": 0,
   "timeFactor": 0.05,
   "heightDistance": 30,
   "heightFactor": 0.1,
@@ -20,7 +20,7 @@
   "startingHeight": 62,
   "positiveHeightIncreasion": true,
   "negativeHeightIncreasion": true,
-  "affectBosses": true,
+  "affectBosses": false,
   "excludeDistanceInOtherDimension": true,
   "excludeTimeInOtherDimension": true,
   "excludeHeightInOtherDimension": true,
@@ -28,11 +28,11 @@
   "moreLootChance": 0.02,
   "maxLootChance": 0.7,
   "chanceForEachItem": 0.5,
-  "levelZLevelFactor": 0.0,
-  "levelZPlayerRadius": 100.0,
+  "levelFactor": 0.0,
+  "playerRadius": 100.0,
   "hudTesting": false,
   "excludedEntity": [],
-  "allowSpecialZombie": true,
+  "allowSpecialZombie": false,
   "bigZombieChance": 10,
   "bigZombieSlownessFactor": 0.7,
   "bigZombieBonusLifePoints": 10,
@@ -46,5 +46,5 @@
   "bossMaxFactor": 3.0,
   "bossDistanceFactor": 0.0,
   "bossTimeFactor": 0.1,
-  "creeperExplosionFactor": 1.0
+  "creeperExplosionFactor": 0.0
 }

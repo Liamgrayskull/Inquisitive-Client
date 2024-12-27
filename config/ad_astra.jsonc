@@ -22,7 +22,7 @@
     // Disables temperature damage.
     "disableTemperature": false,
     // Uses normal gravity for all planets.
-    "disableGravity": false,
+    "disableGravity": true,
     // An Air Vortex is created when an oxygenated structure breaks its seal, causing every entity inside to rapidly get sucked out. This setting disables that.
     "disableAirVortexes": false,
     "cryoFreezer": {

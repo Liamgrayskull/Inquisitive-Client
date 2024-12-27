@@ -1,0 +1,12 @@
+{
+  "type": "sons_of_sins:etheric_blood_imbibation",
+  "ingredients": [
+    {
+      "item": "minecraft:echo_shard"
+    }
+  ],
+  "output": {
+    "item": "unusualend:ancient_shard",
+    "count": 1
+  }
+}

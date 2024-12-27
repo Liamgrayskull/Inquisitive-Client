@@ -1,0 +1,12 @@
+{
+  "type": "sons_of_sins:etheric_blood_imbibation",
+  "ingredients": [
+    {
+      "item": "sullysmod:jade"
+    }
+  ],
+  "output": {
+    "item": "sullysmod:jade_amulet",
+    "count": 1
+  }
+}

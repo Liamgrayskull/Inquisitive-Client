@@ -1,0 +1,5 @@
+
+[general]
+	#Range: 0.01 ~ 1.0
+	portal_fluid_seed = 1.0
+

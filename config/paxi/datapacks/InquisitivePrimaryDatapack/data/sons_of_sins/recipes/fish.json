@@ -1,0 +1,12 @@
+{
+  "type": "sons_of_sins:etheric_blood_imbibation",
+  "ingredients": [
+    {
+      "item": "alexsmobs:fish_bones"
+    }
+  ],
+  "output": {
+    "item": "sullysmod:fossilised_fish",
+    "count": 1
+  }
+}

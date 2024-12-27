@@ -4,7 +4,7 @@
         "tag": "miningmaster:gem_enchanting_blacklist"
     },
     "gem": {
-        "item": "miningmaster:lucky_citrine"
+        "item": "unusualend:citrine_chunk"
     },
     "enchantments": [
         "enchancement:strafe",

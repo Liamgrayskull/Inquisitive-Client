@@ -73,7 +73,25 @@
       },
       "travel_to": "ad_astra:venus",
       "glowing": false,
-      "ringed": false
+      "ringed": true,
+"ring_data": {
+  "ring1": {
+    "texture_id": "sat1",
+    "radius": 1500,
+    "scale_radius": 3550,
+    "flip_y": true,
+    "flip_x": false,
+    "flip_z": false
+  },
+  "ring2": {
+    "texture_id": "sat2",
+    "radius": 1900,
+    "scale_radius": 6600,
+    "flip_y": true,
+    "flip_x": false,
+    "flip_z": false
+  }
+}
     },
     "earth": {
       "object_name": "Gaia",

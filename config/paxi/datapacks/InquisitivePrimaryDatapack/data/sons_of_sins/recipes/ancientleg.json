@@ -1,0 +1,12 @@
+{
+  "type": "sons_of_sins:etheric_blood_imbibation",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_leggings"
+    }
+  ],
+  "output": {
+    "item": "undergarden:ancient_leggings",
+    "count": 1
+  }
+}

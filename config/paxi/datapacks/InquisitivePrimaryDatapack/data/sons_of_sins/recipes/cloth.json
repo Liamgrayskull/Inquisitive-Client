@@ -1,0 +1,12 @@
+{
+  "type": "sons_of_sins:etheric_blood_imbibation",
+  "ingredients": [
+    {
+      "item": "dungeonnowloading:soul_cloth"
+    }
+  ],
+  "output": {
+    "item": "sullysmod:torn_cloth",
+    "count": 1
+  }
+}

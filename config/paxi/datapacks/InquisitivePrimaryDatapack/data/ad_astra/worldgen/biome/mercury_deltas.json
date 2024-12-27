@@ -33,7 +33,9 @@
     "water_fog_color": 329011
   },
   "features": [
-    [],
+    [
+      "inq:orbit/asteroid"
+    ],
     [],
     [
       "minecraft:basalt_pillar",

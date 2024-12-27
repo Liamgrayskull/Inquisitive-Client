@@ -1,0 +1,17 @@
+
+[changes]
+	#Ticks of frost added to an entity upon getting hit by a stray
+	"Stray freeze ticks" = 200
+	#Ticks of frost added to an entity upon getting hit by a snow golem
+	"Snow Golem freeze ticks" = 150
+	#Ticks of frost added to an entity upon getting hit by a snowball
+	"Snowball freeze ticks" = 50
+	#Ticks of frost added to an entity upon getting hurt by entities in the frost_damage_dealers tag
+	"Frost damage dealer ticks" = 150
+	#Frost ticks upon getting hit by the wind of a Bloviator from Cloud Storage
+	"Bloviator freeze ticks" = 3
+	#Upper bound for ticks of frost accrued by mob attacks
+	"Freeze cap" = 300
+	#Stray arrows no longer give Slowness
+	"Stray slowness disabled" = true
+

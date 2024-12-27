@@ -1,0 +1,12 @@
+{
+  "type": "sons_of_sins:etheric_blood_imbibation",
+  "ingredients": [
+    {
+      "item": "minecraft:wheat_seeds"
+    }
+  ],
+  "output": {
+    "item": "netherexp:cerebrage_seeds",
+    "count": 1
+  }
+}

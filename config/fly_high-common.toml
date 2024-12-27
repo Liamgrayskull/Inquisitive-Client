@@ -1,0 +1,23 @@
+
+[changes]
+	#Flies seek out food to munch on
+	"fly munch goal" = true
+	#Flies rarely breed after munching on food
+	"full flies breed" = true
+	#Chance of a fly entering love mode after eating. 1 in X chance
+	"love chance" = 7
+
+	[changes.neapolitan]
+		#Dirty chimps rarely spawn flies
+		"chimp fly spawners" = true
+		#Chance of a fly spawning from a dirty chimp. 1 in X chance per tick
+		"fly chance" = 2000
+
+	[changes.farmersdelight]
+		#Organic compost spawns flies
+		"compost fly spawners" = true
+
+	[changes.buzzierbees]
+		#Flies can be bottled
+		"bottles of fly" = true
+

@@ -1,0 +1,40 @@
+{
+  "dependencies": [],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Hammer on!"
+    },
+    "description": [
+      "With a simple crafting table, one can craft a hammer (of many types, such as wood, stone, blackstone, iron, obsidian, or even netherite) When the crafting table is clicked with a hammer, it will turn into a Workbench, with which you will be able to use a number of tools (such as hammers, shortblades, and shears of varying quality) to craft and customize your own specialized equipment. It is a complex and fickle trade, yet rewarding."
+    ],
+    "groups": {
+      "Spelunking": {
+        "position": [
+          -265,
+          40
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "tetra:forged_workbench",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Toolsmithing"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

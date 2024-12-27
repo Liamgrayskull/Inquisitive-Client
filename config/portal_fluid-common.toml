@@ -1,0 +1,14 @@
+
+[config]
+	flint_and_steel_portal_lighting = true
+	portal_destruction_crying_obsidian = true
+	portal_creation_sound = true
+	portal_destruction_sound = true
+	portal_fluid_drinking = true
+	instant_teleportation = true
+	piglins_give_crying_obsidian = true
+	dimensional_tears_from_crying_obsidian = false
+	dimensional_tears_from_respawn_anchor = true
+	portal_fluid_ocean = true
+	end_ocean_bucketable = false
+

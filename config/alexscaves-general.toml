@@ -71,7 +71,7 @@
 	nuke_spawn_item_drops = true
 	#The scale of nuclear bomb destruction. multiply this by 16 to get the radius of a nuclear bomb explosion.
 	#Range: 0.0 ~ 1.7976931348623157E308
-	nuclear_explosion_size_modifier = 2.5
+	nuclear_explosion_size_modifier = 3.5
 	#Whether the Totem of Possession can be applied to players.
 	totem_of_possession_works_on_players = true
 	#The amount of time (in ticks) it takes to charge up the Cloak of Darkness ability.
