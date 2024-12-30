@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:end/in_the"
+  },
+  "spawners": {
+    "type": "born_in_chaos_v1:phantom_creeper",
+    "weight": 8,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

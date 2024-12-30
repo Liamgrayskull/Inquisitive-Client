@@ -12,7 +12,7 @@
   "type":"create:filling",
   "ingredients":[
      {
-        "item":"alexscaves:amber"
+        "item":"sullysmob:amber"
      },
      {
         "amount":250,

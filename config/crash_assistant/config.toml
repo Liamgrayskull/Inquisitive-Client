@@ -27,12 +27,12 @@
 [text]
 	#$SUPPORT_NAME$ in lang files will be replaced with this value.
 	#For example this placeHolder used in: "gui.request_help_button": "request help in $SUPPORT_NAME$"
-	support_name = "Modded Minecraft Discord"
+	support_name = "Inquisitive Discord"
 	#$SUPPORT_PLACE$ in lang files will be replaced with this value.
-	support_place = "player_help channel"
+	support_place = "FAQ channel"
 	#$MODPACK_NAME$ in lang files will be replaced with this value.
 	#For example this placeHolder used in: "gui.title_crashed_with_report": "Oops, $MODPACK_NAME$ crashed!"
-	modpack_name = "Minecraft"
+	modpack_name = "Inquisitive"
 
 #Settings of modlist feature.
 #Adds in generated msg block about which mods modpack user added/removed/updated.
@@ -42,7 +42,7 @@
 	#UUID's of players, who considered as modpack creator.
 	#Only this players can overwrite modlist.json
 	#If this feature is enabled and this array is empty, will be appended with UUID of current player.
-	modpack_creators = ["00d5f600d47041fbbc1e7861382e204d"]
+	modpack_creators = ["Grayskulll"]
 	#If enabled, modlist.json will be overwritten on every launch(mod loading),
 	#then game is launched by modpack creator.
 	#So you won't forget to save it before publishing.

@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:is_underground"
+  },
+  "spawners": {
+    "type": "born_in_chaos_v1:mother_spider",
+    "weight": 12,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:is_hot/nether"
+  },
+  "spawners": {
+    "type": "born_in_chaos_v1:bonescaller",
+    "weight": 11,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

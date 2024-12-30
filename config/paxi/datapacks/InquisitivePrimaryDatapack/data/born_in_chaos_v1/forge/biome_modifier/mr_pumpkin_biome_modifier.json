@@ -1,0 +1,14 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+  "autumnity:maple_forest",
+  "autumnity:pumpkin_fields",
+  "natures_spirit:maple_woodlands"
+  ],
+  "spawners": {
+    "type": "born_in_chaos_v1:mr_pumpkin",
+    "weight": 15,
+    "minCount": 1,
+    "maxCount": 3
+  }
+}

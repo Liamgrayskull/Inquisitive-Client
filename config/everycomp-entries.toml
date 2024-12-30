@@ -95,9 +95,6 @@
 			glaciated = false
 			lavic = false
 
-		[types.wood_type.aromatic]
-			cinnamon = true
-
 		[types.wood_type.unusualend]
 			chorus_cane = true
 
@@ -109,6 +106,9 @@
 
 		[types.wood_type.netherexp]
 			claret = true
+
+		[types.wood_type.born_in_chaos_v1]
+			scorched = true
 
 	[types.cake]
 
@@ -240,9 +240,6 @@
 			amethyst_edified = true
 			aventurine_edified = true
 			citrine_edified = true
-
-		[types.leaves_type.aromatic]
-			cinnamon = true
 
 		[types.leaves_type.palegardenbackport]
 			pale_oak = true

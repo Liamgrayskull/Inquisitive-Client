@@ -1,10 +1,13 @@
 {
   "carvers": {
     "air": [
+      
       "minecraft:cave",
       "minecraft:cave_extra_underground",
-      "inq:mars_canyon",
-      "minecraft:canyon"
+      "minecraft:canyon",
+      "inq:mars_cave",
+      "inq:mars_canyon"
+      
     ]
   },
   "downfall": 0.0,

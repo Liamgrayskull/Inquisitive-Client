@@ -1,0 +1,14 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:dark_forest",
+    "palegardenbackport:pale_garden",
+    "natures_spirit:aspen_forest"
+    ],
+  "spawners": {
+    "type": "born_in_chaos_v1:nightmare_stalker",
+    "weight": 4,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

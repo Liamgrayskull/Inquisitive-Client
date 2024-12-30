@@ -20,7 +20,7 @@ key.smoothCamera:key.keyboard.unknown
 key.fullscreen:key.keyboard.f11
 key.spectatorOutlines:key.keyboard.unknown
 key.swapOffhand:key.keyboard.f
-key.saveToolbarActivator:key.keyboard.c
+key.saveToolbarActivator:key.keyboard.unknown
 key.loadToolbarActivator:key.keyboard.unknown
 key.hotbar.1:key.keyboard.1
 key.hotbar.2:key.keyboard.2
@@ -42,11 +42,11 @@ key.additionalplacements.placement_toggle:key.keyboard.unknown
 iris.keybind.reload:key.keyboard.unknown
 iris.keybind.toggleShaders:key.keyboard.backslash
 iris.keybind.shaderPackSelection:key.keyboard.o
-key.push_to_talk:key.keyboard.unknown
+key.push_to_talk:key.mouse.5
 key.whisper:key.keyboard.unknown
-key.mute_microphone:key.keyboard.m
-key.disable_voice_chat:key.keyboard.period
-key.hide_icons:key.keyboard.h
+key.mute_microphone:key.keyboard.unknown
+key.disable_voice_chat:key.keyboard.unknown
+key.hide_icons:key.keyboard.unknown
 key.voice_chat:key.keyboard.v
 key.voice_chat_settings:key.keyboard.unknown
 key.voice_chat_group:key.keyboard.unknown
@@ -54,7 +54,7 @@ key.voice_chat_toggle_recording:key.keyboard.unknown
 key.voice_chat_adjust_volumes:key.keyboard.unknown
 key.ryoamiclights.dyn_light:key.keyboard.unknown
 key.valkyrienskies.ship_down:key.keyboard.left.control
-key.valkyrienskies.ship_cruise:key.keyboard.c
+key.valkyrienskies.ship_cruise:key.keyboard.left.bracket
 key.ad_astra.toggle_suit_flight:key.keyboard.unknown
 key.ad_astra.open_radio:key.keyboard.unknown
 key.weaponmaster_ydm.opengui:key.keyboard.comma
@@ -99,9 +99,8 @@ key.picohud.show:key.keyboard.left.alt
 key.extraalchemy.magnetism_toggle:key.keyboard.unknown
 key.extraalchemy.potion_bag_mode:key.keyboard.unknown
 key.diet.open.desc:key.keyboard.unknown
-keyinfo.copycats.fill_copycat:key.keyboard.left.alt
 key.enlightened_end.dashing_leggings_ability:key.keyboard.g
-key.do_a_barrel_roll.toggle_enabled:key.keyboard.i
+key.do_a_barrel_roll.toggle_enabled:key.keyboard.unknown
 key.do_a_barrel_roll.toggle_thrust:key.keyboard.unknown
 key.do_a_barrel_roll.open_config:key.keyboard.unknown
 key.do_a_barrel_roll.pitch_up:key.keyboard.unknown
@@ -116,15 +115,15 @@ key.toggleVisualItemContents:key.keyboard.unknown
 key.toggleSelectedItemTooltips:key.keyboard.unknown
 key.toggleCarriedItemTooltips:key.keyboard.unknown
 key.cycleLeft:key.keyboard.unknown
-key.cycleRight:key.keyboard.h
+key.cycleRight:key.keyboard.unknown
 key.heracles.open_quests:key.keyboard.u
 keybinds.bettercombat.feint:key.keyboard.unknown
 keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
 keybinds.combatroll.roll:key.keyboard.r
-tetra.toolbelt.binding.access:key.keyboard.b
-tetra.toolbelt.binding.restock:key.keyboard.b:SHIFT
-tetra.toolbelt.binding.open:key.keyboard.b:ALT
-tetra.toolbelt.binding.secondary_use:key.keyboard.y
+tetra.toolbelt.binding.access:key.keyboard.y
+tetra.toolbelt.binding.restock:key.keyboard.i:SHIFT
+tetra.toolbelt.binding.open:key.keyboard.i:ALT
+tetra.toolbelt.binding.secondary_use:key.keyboard.j
 key.immersive_aircraft.fallback_control_left:key.keyboard.unknown
 key.immersive_aircraft.fallback_control_right:key.keyboard.unknown
 key.immersive_aircraft.fallback_control_forward:key.keyboard.unknown
@@ -135,7 +134,8 @@ key.immersive_aircraft.fallback_control_pull:key.keyboard.unknown
 key.immersive_aircraft.fallback_control_push:key.keyboard.unknown
 key.immersive_aircraft.fallback_use:key.keyboard.unknown
 key.immersive_aircraft.dismount:key.keyboard.left.shift
-key.immersive_aircraft.boost:key.keyboard.g
+key.immersive_aircraft.boost:key.keyboard.apostrophe
+Take Panorama Screenshot:key.keyboard.minus
 key.beansbackpacks.action:key.keyboard.unknown
 key.beansbackpacks.inventory:key.keyboard.unknown
 key.playeremotes.trigger:key.keyboard.b
@@ -194,7 +194,7 @@ quark.keybind.lock_rotation:key.keyboard.unknown
 quark.keybind.narrator_readout:key.keyboard.unknown
 quark.keybind.narrator_full_readout:key.keyboard.unknown
 quark.keybind.variant_selector:key.keyboard.unknown
-supplementaries.keybind.quiver:key.keyboard.unknown
+supplementaries.keybind.quiver:key.keyboard.semicolon
 key.screenshot_viewer.open_screenshots_screen:key.keyboard.unknown
 key.entityculling.toggle:key.keyboard.unknown
 keybind.invmove.toggleMove:key.keyboard.equal

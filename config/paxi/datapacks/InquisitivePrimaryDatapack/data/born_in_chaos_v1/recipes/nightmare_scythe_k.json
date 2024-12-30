@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aab",
+    "  c",
+    " c "
+  ],
+  "key": {
+    "a": {
+      "item": "born_in_chaos_v1:nightmare_claw"
+    },
+    "b": {
+      "item": "sons_of_sins:soul_steel"
+    },
+    "c": {
+      "item": "born_in_chaos_v1:bone_handle"
+    }
+  },
+  "result": {
+    "item": "born_in_chaos_v1:nightmare_scythe",
+    "count": 1
+  }
+}

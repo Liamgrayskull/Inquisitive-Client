@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:is_dry"
+  },
+  "spawners": {
+    "type": "born_in_chaos_v1:dread_hound",
+    "weight": 5,
+    "minCount": 3,
+    "maxCount": 5
+  }
+}

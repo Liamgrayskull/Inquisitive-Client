@@ -24,7 +24,22 @@
     "supplementaries:darker_ropes": {
   "hidden": true
 },
-"sullysmod:zombie_retextures": {
+"sullysmod:mob_retextures": {
+  "hidden": true
+},
+"mod/subtle_effects:resourcepacks/biome_color_water_particles": {
+  "hidden": true
+},
+"grapplemod:original_textures": {
+  "hidden": true
+},
+"armorrack:flat": {
+  "hidden": true
+},
+"rubinated_nether/better_netherite_template": {
+  "hidden": true
+},
+"rubinated_nether/compat_spelunkery": {
   "hidden": true
 },
 "spelunkery:better_vanilla_gems": {

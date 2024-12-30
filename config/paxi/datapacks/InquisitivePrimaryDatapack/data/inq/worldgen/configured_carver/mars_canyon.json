@@ -8,27 +8,24 @@
     "replaceable": "#inq:mars_noise",
     "shape": {
       "distance_factor": {
-        "type": "minecraft:trapezoid",
+        "type": "minecraft:uniform",
         "value": {
-          "max": 6.0,
-          "min": 1.0,
-          "plateau": 2.1
+          "max_exclusive": 15,
+          "min_inclusive": 5
         }
       },
       "horizontal_radius_factor": {
-        "type": "minecraft:trapezoid",
+        "type": "minecraft:uniform",
         "value": {
-          "max": 2.5,
-          "min": 0.02,
-          "plateau": 0.9
+          "max_exclusive": 2,
+          "min_inclusive": 1
         }
       },
       "thickness": {
-        "type": "minecraft:trapezoid",
+        "type": "minecraft:uniform",
         "value": {
-          "max": 6.0,
-          "min": 3.0,
-          "plateau": 3.0
+          "max_exclusive": 2,
+          "min_inclusive": 1
         }
       },
       "vertical_radius_center_factor": 10.0,
@@ -38,8 +35,8 @@
     "vertical_rotation": {
       "type": "minecraft:uniform",
       "value": {
-        "max_exclusive": 0.2,
-        "min_inclusive": 0
+        "max_exclusive": 1,
+        "min_inclusive": 0.5
       }
     },
     "y": {
@@ -51,6 +48,6 @@
         "absolute": 10
       }
     },
-    "yScale": 18.0
+    "yScale": 10.0
   }
 }

@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:plains"
+  },
+  "spawners": {
+    "type": "born_in_chaos_v1:door_knight",
+    "weight": 13,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:nether/in"
+  },
+  "spawners": {
+    "type": "born_in_chaos_v1:restless_spirit",
+    "weight": 20,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

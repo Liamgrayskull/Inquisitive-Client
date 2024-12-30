@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "crimson_forest",
+    "nether_wastes"
+  ],
+  "spawners": {
+    "type": "born_in_chaos_v1:firelight",
+    "weight": 15,
+    "minCount": 1,
+    "maxCount": 3
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:is_swamp"
+  },
+  "spawners": {
+    "type": "born_in_chaos_v1:corpse_fish",
+    "weight": 7,
+    "minCount": 1,
+    "maxCount": 3
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aab",
+    "bbb",
+    "baa"
+  ],
+  "key": {
+    "a": {
+      "item": "architects_palette:withered_bone"
+    },
+    "b": {
+      "item": "sons_of_sins:soul_steel"
+    }
+  },
+  "result": {
+    "item": "born_in_chaos_v1:armor_plate_from_dark_metal",
+    "count": 1
+  }
+}

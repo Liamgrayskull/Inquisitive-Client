@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "spawners": {
+    "type": "born_in_chaos_v1:baby_spider",
+    "weight": 16,
+    "minCount": 3,
+    "maxCount": 5
+  }
+}

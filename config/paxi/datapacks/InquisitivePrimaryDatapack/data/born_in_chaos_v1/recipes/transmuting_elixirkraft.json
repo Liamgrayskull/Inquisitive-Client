@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:sculk_catalyst"
+    },
+    {
+      "item": "born_in_chaos_v1:chaos_component"
+    },
+    {
+      "item": "minecraft:chorus_fruit"
+    },
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "alexsmobs:mimicream"
+    },
+    {
+      "item": "born_in_chaos_v1:holiday_candy"
+    },
+    {
+      "item": "born_in_chaos_v1:intoxicating_decoction"
+    },
+    {
+      "item": "minecraft:torchflower"
+    }
+  ],
+  "result": {
+    "item": "born_in_chaos_v1:transmuting_elixir",
+    "count": 1
+  }
+}

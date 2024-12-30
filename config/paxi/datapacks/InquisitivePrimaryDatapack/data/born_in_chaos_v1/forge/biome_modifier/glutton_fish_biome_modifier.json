@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:is_swamp"
+  },
+  "spawners": {
+    "type": "born_in_chaos_v1:glutton_fish",
+    "weight": 2,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

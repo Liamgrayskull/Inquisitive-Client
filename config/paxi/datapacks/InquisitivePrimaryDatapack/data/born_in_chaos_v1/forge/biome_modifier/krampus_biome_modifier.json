@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:is_snowy"
+  },
+  "spawners": {
+    "type": "born_in_chaos_v1:krampus",
+    "weight": 1,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

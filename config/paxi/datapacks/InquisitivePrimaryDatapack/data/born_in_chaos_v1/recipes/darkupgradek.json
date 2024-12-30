@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "born_in_chaos_v1:seedof_chaos"
+    },
+    "b": {
+      "item": "born_in_chaos_v1:dark_upgrade"
+    },
+    "c": {
+      "item": "sons_of_sins:soul_steel"
+    }
+  },
+  "result": {
+    "item": "born_in_chaos_v1:dark_upgrade",
+    "count": 2
+  }
+}

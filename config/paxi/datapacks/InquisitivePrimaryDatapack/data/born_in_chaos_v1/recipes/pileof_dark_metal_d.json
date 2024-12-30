@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "born_in_chaos_v1:pieceofdarkmetal"
+    }
+  },
+  "result": {
+    "item": "born_in_chaos_v1:pileof_dark_metal",
+    "count": 1
+  }
+}

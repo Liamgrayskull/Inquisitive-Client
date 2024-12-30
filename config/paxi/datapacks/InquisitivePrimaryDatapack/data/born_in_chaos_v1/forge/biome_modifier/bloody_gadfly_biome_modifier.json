@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:is_sandy"
+  },
+  "spawners": {
+    "type": "born_in_chaos_v1:bloody_gadfly",
+    "weight": 15,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

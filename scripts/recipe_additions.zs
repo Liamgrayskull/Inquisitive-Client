@@ -52,9 +52,6 @@ craftingTable.remove(<item:shadered:light_block>);
 craftingTable.remove(<item:shadered:end_block>);
 craftingTable.remove(<item:shadered:end_sky_block>);
 
-craftingTable.remove(<item:angelblockrenewed:angel_block>);
-
-craftingTable.addShapeless("angel", <item:angelblockrenewed:angel_block> * 1, [<item:undergarden:regalium_crystal>, <item:cloudstorage:cloud>]);
 
 furnace.addRecipe("uranium_bar", <item:enlightened_end:irradium_bar>, <item:alexscaves:uranium>, 8, 400);
 furnace.addRecipe("depleted_uranium_bar", <item:enlightened_end:depleted_irradium_bar>, <item:create:crushed_raw_uranium>, 2, 200);

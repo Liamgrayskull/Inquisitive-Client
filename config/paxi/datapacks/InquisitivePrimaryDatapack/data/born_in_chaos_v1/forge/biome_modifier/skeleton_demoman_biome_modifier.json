@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:mesa"
+  },
+  "spawners": {
+    "type": "born_in_chaos_v1:skeleton_demoman",
+    "weight": 12,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

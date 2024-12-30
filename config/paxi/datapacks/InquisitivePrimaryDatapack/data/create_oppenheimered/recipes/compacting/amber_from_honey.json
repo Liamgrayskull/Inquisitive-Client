@@ -12,7 +12,7 @@
   "type":"create:compacting",
   "ingredients":[
      {
-        "item":"sullysmod:amber"
+        "item":"sullysmob:amber"
      },
      {
         "amount": 1000,
@@ -21,7 +21,7 @@
   ],
   "results":[
      {
-        "item":"sullysmod:amber",
+        "item":"sullysmob:amber",
         "count":2
      }
   ]

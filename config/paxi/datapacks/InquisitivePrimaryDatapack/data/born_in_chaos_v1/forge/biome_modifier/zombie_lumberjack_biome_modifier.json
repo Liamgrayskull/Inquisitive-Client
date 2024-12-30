@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:forest"
+  },
+  "spawners": {
+    "type": "born_in_chaos_v1:zombie_lumberjack",
+    "weight": 25,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

@@ -896,6 +896,11 @@
 				lifestealer_true_form = true
 				staffof_magic_arrows_2_projectile = true
 				missionary_charge = true
+				baby_spider_controlled = true
+				krampus_henchman = true
+				krampus = true
+				controlled_spiritual_assistant = true
+				felsteed = true
 
 			[light_sources.settings.entities.gnumus]
 				gnumus_hunter = true
@@ -1803,6 +1808,9 @@
 				gargoyle = true
 				possessed_armor = true
 				imp = true
+
+			[light_sources.settings.entities.goat_man]
+				goat_man = true
 
 		[light_sources.settings.block_entities]
 

@@ -24,7 +24,7 @@
             "type": "create:deploying",
             "ingredients": [
                 {
-                    "item": "create:incomplete_track"
+                    "item": "minecraft:glass_bottle"
                 },
                 {
                     "item": "alexscaves:peppermint_powder"

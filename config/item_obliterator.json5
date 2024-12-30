@@ -17,11 +17,13 @@
   //    Example: minecraft:diamond
   "blacklisted_items": [
     
-"relics_in_chaos:echoing_pedestal",
-"relics_in_chaos:occult_grimoire",
-"relics_in_chaos:book_of_war",
-"relics_in_chaos:rewidium_ingot",
-"relics_in_chaos:rulers_scepter",
+"born_in_chaos_v1:dark_metal_block",
+"born_in_chaos_v1:dark_metal_ingot",
+"born_in_chaos_v1:river_mint",
+"born_in_chaos_v1:magicskull",
+"born_in_chaos_v1:supreme_measure",
+"born_in_chaos_v1:stop_hammer",
+"born_in_chaos_v1:staffof_blindness",
 "cosmos:sulphuric_acid_bucket",
 "thecomfortzone:oak_table",
 "flying_stuff:molten_metal_bucket",

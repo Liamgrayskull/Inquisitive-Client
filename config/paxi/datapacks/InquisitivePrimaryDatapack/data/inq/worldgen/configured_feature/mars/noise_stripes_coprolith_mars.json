@@ -33,7 +33,7 @@
         "primary_stone_type": {
           "type": "minecraft:simple_state_provider",
           "state": {
-            "Name": "grounded:earthen_clay"
+            "Name": "minecraft:air"
           }
         },
         "secondary_stone_type": {

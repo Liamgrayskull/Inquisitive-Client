@@ -13,7 +13,7 @@
    "heatRequirement":"heated",
    "ingredients":[
       {
-         "item":"sullysmod:amber"
+         "item":"sullysmob:amber"
       },
       {
          "item":"minecraft:glow_berries"
