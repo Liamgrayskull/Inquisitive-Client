@@ -1,8 +1,14 @@
 {
   "type": "forge:add_spawns",
-  "biomes": {
-    "type": "forge:is_snowy"
-  },
+  "biomes": [
+  "snowy_taiga",
+  "snowy_slopes",
+  "frozen_peaks",
+  "natures_spirit:sleeted_slopes",
+  "natures_spirit:snowy_fir_forest",
+  "natures_spirit:snowy_redwood_forest",
+  "natures_spirit:snowcapped_red_peaks"
+  ],
   "spawners": {
     "type": "born_in_chaos_v1:krampus",
     "weight": 1,

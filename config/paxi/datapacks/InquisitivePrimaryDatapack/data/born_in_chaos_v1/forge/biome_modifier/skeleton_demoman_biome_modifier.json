@@ -1,8 +1,11 @@
 {
   "type": "forge:add_spawns",
-  "biomes": {
-    "type": "forge:mesa"
-  },
+  "biomes": [
+    "eroded_badlands",
+    "badlands",
+    "natures_spirit:drylands",
+    "natures_spirit:dusty_slopes"
+    ],
   "spawners": {
     "type": "born_in_chaos_v1:skeleton_demoman",
     "weight": 12,

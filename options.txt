@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","fabric","Moonlight Mods Dynamic Assets","bountifulfares:amendments_res","bountifulfares:natures_spirit_res","bountifulfares:spawn_res","netherexp:jne_retextures","netherexp:conflicting_retextures","unique_nether_wood","bountifulfares:vanilla_item_override","black_icons","Inquisitive-Resources-3.0.0.zip","bountifulfares:twigs_res","rubinated_nether/compat_spelunkery"]
+resourcePacks:["vanilla","mod_resources","fabric","Moonlight Mods Dynamic Assets","bountifulfares:amendments_res","bountifulfares:natures_spirit_res","bountifulfares:spawn_res","netherexp:jne_retextures","netherexp:conflicting_retextures","unique_nether_wood","bountifulfares:vanilla_item_override","black_icons"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -163,6 +163,9 @@ key_key.climbdown.desc:key.keyboard.unknown
 key_key.enderlaunch.desc:key.mouse.left
 key_key.rocket.desc:key.mouse.left
 key_key.slide.desc:key.keyboard.left.shift
+key_key.mixtape.skip:key.keyboard.unknown
+key_key.mixtape.pause:key.keyboard.unknown
+key_key.mixtape.play:key.keyboard.unknown
 key_gui.perspective.keybindings.keybinding.cycle_shaders:key.keyboard.f7
 key_gui.perspective.keybindings.keybinding.hold_perspective_third_person_back:key.keyboard.unknown
 key_gui.perspective.keybindings.keybinding.hold_perspective_third_person_front:key.keyboard.unknown
@@ -186,6 +189,7 @@ key_key.picohud.show:key.keyboard.left.alt
 key_key.extraalchemy.magnetism_toggle:key.keyboard.unknown
 key_key.extraalchemy.potion_bag_mode:key.keyboard.unknown
 key_key.diet.open.desc:key.keyboard.unknown
+key_keyinfo.copycats.fill_copycat:key.keyboard.left.alt
 key_key.enlightened_end.dashing_leggings_ability:key.keyboard.g
 key_key.do_a_barrel_roll.toggle_enabled:key.keyboard.unknown
 key_key.do_a_barrel_roll.toggle_thrust:key.keyboard.unknown
@@ -204,6 +208,7 @@ key_key.toggleCarriedItemTooltips:key.keyboard.unknown
 key_key.cycleLeft:key.keyboard.unknown
 key_key.cycleRight:key.keyboard.unknown
 key_key.heracles.open_quests:key.keyboard.u
+key_key.plonk.place:key.keyboard.p
 key_keybinds.bettercombat.feint:key.keyboard.unknown
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
 key_keybinds.combatroll.roll:key.keyboard.r
@@ -238,7 +243,7 @@ key_key.cosmos.custom_shift:key.keyboard.left.shift
 key_key.cosmos.open_gui:key.keyboard.unknown
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
-key_create.keyinfo.ponder:key.keyboard.p
+key_create.keyinfo.ponder:key.keyboard.left.alt
 key_key.personality.crawl:key.keyboard.x
 key_key.personality.sit:key.keyboard.z
 key_key.special_ability:key.keyboard.g
@@ -282,6 +287,7 @@ key_quark.keybind.narrator_full_readout:key.keyboard.unknown
 key_quark.keybind.variant_selector:key.keyboard.unknown
 key_supplementaries.keybind.quiver:key.keyboard.semicolon
 key_key.screenshot_viewer.open_screenshots_screen:key.keyboard.unknown
+key_key.pickup.item:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_keybind.invmove.toggleMove:key.keyboard.equal
 soundCategory_master:1.0

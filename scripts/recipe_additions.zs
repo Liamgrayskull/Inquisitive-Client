@@ -52,10 +52,56 @@ craftingTable.remove(<item:shadered:light_block>);
 craftingTable.remove(<item:shadered:end_block>);
 craftingTable.remove(<item:shadered:end_sky_block>);
 
+craftingTable.remove(<item:born_in_chaos_v1:mint_candy>);
+craftingTable.remove(<item:born_in_chaos_v1:transmuting_elixir>);
+craftingTable.remove(<item:born_in_chaos_v1:sharpened_dark_metal_sword>);
+craftingTable.remove(<item:born_in_chaos_v1:spider_bite_sword>);
+craftingTable.remove(<item:born_in_chaos_v1:soul_cutlass>);
+craftingTable.remove(<item:born_in_chaos_v1:frostbitten_blade>);
+craftingTable.remove(<item:born_in_chaos_v1:darkwarblade>);
+craftingTable.remove(<item:born_in_chaos_v1:great_reaper_axe>);
+craftingTable.remove(<item:born_in_chaos_v1:skullbreaker_hammer>);
+craftingTable.remove(<item:born_in_chaos_v1:intoxicating_dagger>);
+craftingTable.remove(<item:born_in_chaos_v1:eternal_candy>);
 
 furnace.addRecipe("uranium_bar", <item:enlightened_end:irradium_bar>, <item:alexscaves:uranium>, 8, 400);
 furnace.addRecipe("depleted_uranium_bar", <item:enlightened_end:depleted_irradium_bar>, <item:create:crushed_raw_uranium>, 2, 200);
-furnace.addRecipe("steelsmelt", <item:minecraft:iron_ingot>, <item:ad_astra:steel_nugget>, 1.0, 20);
+furnace.addRecipe("steelsmelt", <item:ad_astra:steel_nugget>, <item:minecraft:iron_ingot>, 1.0, 60);
+furnace.addRecipe("soulsteelsmelt", <item:sons_of_sins:soul_steel>, <item:born_in_chaos_v1:pileof_dark_metal>, 9.0, 100);
+furnace.addRecipe("soulsteelnuggetsmelt", <item:born_in_chaos_v1:dark_metal_nugget>, <item:born_in_chaos_v1:pieceofdarkmetal>, 1.0, 50);
+
+
+
+craftingTable.addShapeless("mint_candy", <item:born_in_chaos_v1:mint_candy> * 1, [<item:minecraft:sugar>,<item:neapolitan:mint_leaves>]);
+craftingTable.addShapeless("transbrew", <item:born_in_chaos_v1:transmuting_elixir> * 1, [<item:sons_of_sins:crystallized_ether>,<item:born_in_chaos_v1:intoxicating_decoction>,<item:bountifulfares:torchflower_tea_blend>,<item:alexsmobs:mimicream>,<item:ruby_exchange:ruby>,<item:minecraft:blaze_powder>,<item:minecraft:chorus_fruit>,<item:born_in_chaos_v1:chaos_component>]);
+craftingTable.addShaped("darkupgrade", <item:born_in_chaos_v1:dark_upgrade> * 1, [[<item:born_in_chaos_v1:seedof_chaos>, <item:born_in_chaos_v1:dark_upgrade>, <item:born_in_chaos_v1:seedof_chaos>], [<item:born_in_chaos_v1:seedof_chaos>, <item:sons_of_sins:soul_steel>, <item:born_in_chaos_v1:seedof_chaos>], [<item:born_in_chaos_v1:seedof_chaos>, <item:born_in_chaos_v1:seedof_chaos>, <item:born_in_chaos_v1:seedof_chaos>]]);
+craftingTable.addShaped("eternal_candy", <item:born_in_chaos_v1:eternal_candy> * 1, [[<item:bountifulfares:sour_candy>, <item:born_in_chaos_v1:transmuting_elixir>, <item:bountifulfares:piquant_candy>], [<item:bountifulfares:bitter_candy>, <item:alexscaves:radiant_essence>, <item:bountifulfares:candy>], [<item:minecraft:air>, <item:cloudstorage:cotton_candy>, <item:minecraft:air>]]);
+craftingTable.addShapeless("nuggetcraftsoul", <item:born_in_chaos_v1:dark_metal_nugget> * 9, [<item:sons_of_sins:soul_steel>]);
+craftingTable.addShaped("soulgrid", <item:born_in_chaos_v1:dark_grid> * 24, [[<item:sons_of_sins:soul_steel>, <item:sons_of_sins:soul_steel>, <item:sons_of_sins:soul_steel>], [<item:sons_of_sins:soul_steel>, <item:sons_of_sins:soul_steel>, <item:sons_of_sins:soul_steel>], [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);
+craftingTable.addShaped("ingotnuggetsoul", <item:sons_of_sins:soul_steel> * 1, [[<item:born_in_chaos_v1:dark_metal_nugget>, <item:born_in_chaos_v1:dark_metal_nugget>, <item:born_in_chaos_v1:dark_metal_nugget>], [<item:born_in_chaos_v1:dark_metal_nugget>, <item:born_in_chaos_v1:dark_metal_nugget>, <item:born_in_chaos_v1:dark_metal_nugget>], [<item:born_in_chaos_v1:dark_metal_nugget>, <item:born_in_chaos_v1:dark_metal_nugget>, <item:born_in_chaos_v1:dark_metal_nugget>]]);
+craftingTable.addShaped("witherarmorplate", <item:born_in_chaos_v1:armor_plate_from_dark_metal> * 1, [[<item:born_in_chaos_v1:lifestealer_bone>, <item:born_in_chaos_v1:lifestealer_bone>, <item:sons_of_sins:soul_steel>], [<item:sons_of_sins:soul_steel>, <item:sons_of_sins:soul_steel>, <item:sons_of_sins:soul_steel>], [<item:sons_of_sins:soul_steel>, <item:born_in_chaos_v1:lifestealer_bone>, <item:born_in_chaos_v1:lifestealer_bone>]]);
+
+
+
+craftingTable.addShaped("skullbreaker", <item:born_in_chaos_v1:skullbreaker_hammer> * 1, [[<item:sons_of_sins:soul_steel_block>, <item:sons_of_sins:soul_steel_block>, <item:sons_of_sins:soul_steel_block>], [<item:minecraft:air>, <item:born_in_chaos_v1:bone_handle>, <item:minecraft:air>], [<item:minecraft:air>, <item:born_in_chaos_v1:bone_handle>, <item:minecraft:air>]]);
+craftingTable.addShaped("intox_dag", <item:born_in_chaos_v1:intoxicating_dagger> * 1, [[<item:born_in_chaos_v1:intoxicating_decoction>, <item:sons_of_sins:soul_steel>, <item:minecraft:air>], [<item:born_in_chaos_v1:intoxicating_decoction>, <item:sons_of_sins:soul_steel>, <item:minecraft:air>], [<item:minecraft:air>, <item:born_in_chaos_v1:bone_handle>, <item:minecraft:air>]]);
+craftingTable.addShaped("reapaxe", <item:born_in_chaos_v1:great_reaper_axe> * 1, [[<item:sons_of_sins:soul_steel_block>, <item:sons_of_sins:soul_steel_block>, <item:sons_of_sins:soul_steel_block>], [<item:sons_of_sins:soul_steel_block>, <item:born_in_chaos_v1:bone_handle>, <item:minecraft:air>], [<item:minecraft:air>, <item:born_in_chaos_v1:bone_handle>, <item:minecraft:air>]]);
+craftingTable.addShaped("soul_saber", <item:born_in_chaos_v1:soul_cutlass> * 1, [[<item:minecraft:air>, <item:sons_of_sins:soul_steel>, <item:born_in_chaos_v1:dark_metal_nugget>], [<item:sons_of_sins:soul_steel>, <item:born_in_chaos_v1:nightmare_claw>, <item:minecraft:air>], [<item:minecraft:air>, <item:born_in_chaos_v1:bone_handle>, <item:minecraft:air>]]);
+craftingTable.addShaped("nightmare_scythe", <item:born_in_chaos_v1:nightmare_scythe> * 1, [[<item:sons_of_sins:soul_steel>, <item:sons_of_sins:soul_steel>, <item:born_in_chaos_v1:nightmare_claw>], [<item:minecraft:air>, <item:minecraft:air>, <item:born_in_chaos_v1:bone_handle>], [<item:minecraft:air>, <item:born_in_chaos_v1:bone_handle>, <item:minecraft:air>]]);
+craftingTable.addShaped("warblade", <item:born_in_chaos_v1:darkwarblade> * 1, [[<item:minecraft:air>, <item:sons_of_sins:soul_steel_block>, <item:minecraft:air>], [<item:minecraft:air>, <item:sons_of_sins:soul_steel_block>, <item:minecraft:air>], [<item:minecraft:air>, <item:born_in_chaos_v1:bone_handle>, <item:minecraft:air>]]);
+craftingTable.addShaped("sharpdarksword", <item:born_in_chaos_v1:sharpened_dark_metal_sword> * 1, [[<item:minecraft:air>, <item:sons_of_sins:soul_steel>, <item:minecraft:air>], [<item:minecraft:air>, <item:sons_of_sins:soul_steel>, <item:minecraft:air>], [<item:minecraft:air>, <item:born_in_chaos_v1:bone_handle>, <item:minecraft:air>]]);
+craftingTable.addShaped("spider_bite", <item:born_in_chaos_v1:spider_bite_sword> * 1, [[<item:born_in_chaos_v1:spider_mandible>, <item:sons_of_sins:soul_steel>, <item:born_in_chaos_v1:spider_mandible>], [<item:born_in_chaos_v1:spider_mandible>, <item:sons_of_sins:soul_steel>, <item:born_in_chaos_v1:spider_mandible>], [<item:minecraft:air>, <item:born_in_chaos_v1:bone_handle>, <item:minecraft:air>]]);
+craftingTable.addShaped("frostbitten", <item:born_in_chaos_v1:frostbitten_blade> * 1, [[<item:minecraft:air>, <item:born_in_chaos_v1:permafrost_shard>, <item:born_in_chaos_v1:permafrost_shard>], [<item:born_in_chaos_v1:permafrost_shard>, <item:undergarden:froststeel_ingot>, <item:born_in_chaos_v1:permafrost_shard>], [<item:born_in_chaos_v1:bone_handle>, <item:born_in_chaos_v1:permafrost_shard>, <item:minecraft:air>]]);
+craftingTable.addShaped("nightmare_pants", <item:born_in_chaos_v1:nightmare_mantleofthe_night_leggings> * 1, [[<item:born_in_chaos_v1:monster_skin>, <item:sons_of_sins:soul_steel>, <item:born_in_chaos_v1:monster_skin>], [<item:born_in_chaos_v1:monster_skin>, <item:minecraft:air>, <item:born_in_chaos_v1:monster_skin>], [<item:born_in_chaos_v1:monster_skin>, <item:minecraft:air>, <item:born_in_chaos_v1:monster_skin>]]);
+craftingTable.addShaped("nightmare_robe", <item:born_in_chaos_v1:nightmare_mantleofthe_night_chestplate> * 1, [[<item:sons_of_sins:soul_steel>, <item:minecraft:air>, <item:sons_of_sins:soul_steel>], [<item:born_in_chaos_v1:monster_skin>, <item:born_in_chaos_v1:monster_skin>, <item:born_in_chaos_v1:monster_skin>], [<item:born_in_chaos_v1:monster_skin>, <item:born_in_chaos_v1:monster_skin>, <item:born_in_chaos_v1:monster_skin>]]);
+
+
+
+
+
+
+
+
 
 craftingTable.addShaped("raw_uranium_block", <item:enlightened_end:raw_irradium_block> * 1, [[<item:alexscaves:uranium>, <item:alexscaves:uranium>, <item:alexscaves:uranium>], [<item:alexscaves:uranium>, <item:alexscaves:uranium>, <item:alexscaves:uranium>], [<item:alexscaves:uranium>, <item:alexscaves:uranium>, <item:alexscaves:uranium>]]);
 craftingTable.addShapeless("raw_uranium_item", <item:alexscaves:uranium> * 9, [<item:enlightened_end:raw_irradium_block>]);

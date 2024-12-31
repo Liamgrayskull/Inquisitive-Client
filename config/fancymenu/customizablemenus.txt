@@ -69,3 +69,6 @@ net.minecraft.client.gui.screens.controls.ControlsScreen {
 net.minecraft.client.gui.screens.ConnectScreen {
 }
 
+com.gmail.rawlxxxviii.visual_keybinder.screen.AlternativeKeybindScreen {
+}
+

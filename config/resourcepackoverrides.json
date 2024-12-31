@@ -27,6 +27,15 @@
 "sullysmod:mob_retextures": {
   "hidden": true
 },
+"composite_material:cm_reinforced_legacy": {
+  "hidden": true
+},
+"composite_material:cm_no_larger_swords": {
+  "hidden": true
+},
+"composite_material:cm_legacy": {
+  "hidden": true
+},
 "mod/subtle_effects:resourcepacks/biome_color_water_particles": {
   "hidden": true
 },

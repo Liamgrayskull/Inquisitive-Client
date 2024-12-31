@@ -51,7 +51,13 @@
               {
                 "weight": 10,
                 "data": {
-                  "Name": "alexscaves:bone_ribs"
+                  "Name": "born_in_chaos_v1:pile_of_skulls"
+                }
+              },
+              {
+                "weight": 10,
+                "data": {
+                  "Name": "born_in_chaos_v1:gnawed_bones"
                 }
               },
               {
@@ -64,6 +70,42 @@
                 "weight": 5,
                 "data": {
                   "Name": "sons_of_sins:urn_block"
+                }
+              },
+              {
+                "weight": 5,
+                "data": {
+                  "Name": "minecraft:skeleton_skull"
+                }
+              },
+              {
+                "weight": 5,
+                "data": {
+                  "Name": "undergarden:blood_mushroom"
+                }
+              },
+              {
+                "weight": 5,
+                "data": {
+                  "Name": "netherexp:sorrowsquash"
+                }
+              },
+              {
+                "weight": 5,
+                "data": {
+                  "Name": "alexscaves:bone_worms"
+                }
+              },
+              {
+                "weight": 5,
+                "data": {
+                  "Name": "realmrpg_skeletons:devastated_skeleton"
+                }
+              },
+              {
+                "weight": 5,
+                "data": {
+                  "Name": "realmrpg_skeletons:quicksand_skeleton"
                 }
               },
               {

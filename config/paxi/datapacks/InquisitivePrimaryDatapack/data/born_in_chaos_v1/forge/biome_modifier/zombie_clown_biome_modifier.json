@@ -1,8 +1,9 @@
 {
   "type": "forge:add_spawns",
-  "biomes": {
-    "type": "forge:dead"
-  },
+  "biomes": [
+  "minecraft:dark_forest",
+  "nether_wastes"
+  ],
   "spawners": {
     "type": "born_in_chaos_v1:zombie_clown",
     "weight": 8,

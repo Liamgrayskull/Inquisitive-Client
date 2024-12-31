@@ -1,8 +1,17 @@
 {
   "type": "forge:add_spawns",
-  "biomes": {
-    "type": "forge:forest"
-  },
+  "biomes": [
+  "dark_forest",
+  "birch_forest",
+  "forest",
+  "windswept_forest",
+  "old_growth_birch_forest",
+  "natures_spirit:aspen_forest",
+  "natures_spirit:blooming_sugi_forest",
+  "natures_spirit:fir_forest",
+  "natures_spirit:redwood_forest",
+  "natures_spirit:windswept_sugi_forest"
+],
   "spawners": {
     "type": "born_in_chaos_v1:zombie_lumberjack",
     "weight": 25,

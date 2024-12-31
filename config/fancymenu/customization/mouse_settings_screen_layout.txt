@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = mouse_settings_screen
   render_custom_elements_behind_vanilla = true
-  last_edited_time = 1715393844635
+  last_edited_time = 1735620064409
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:2a966417-82b1-4645-8141-66ffb108fdfb-1715393839518] = [groups:][instances:]
+  [loading_requirement_container_meta:b716890d-db51-4965-9520-1bfc2394c364-1735620060360] = [groups:][instances:]
 }
 
 customization {
@@ -26,34 +26,6 @@ scroll_list_customization {
   repeat_scroll_list_footer_texture = false
 }
 
-element {
-  source = [source:local]/config/fancymenu/assets/gifs/galaxy.gif
-  repeat_texture = false
-  nine_slice_texture = false
-  nine_slice_texture_border_x = 5
-  nine_slice_texture_border_y = 5
-  element_type = image
-  instance_identifier = 9a44e789-9756-45d1-8a8c-03709dfb01e1-1715393840303
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in = false
-  fade_in_speed = 1.0
-  anchor_point = bottom-centered
-  advanced_posx = 115
-  advanced_posy = 118
-  advanced_width = 250
-  advanced_height = 250
-  x = -126
-  y = -230
-  width = 50
-  height = 50
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = false
-  element_loading_requirement_container_identifier = 4b233c9d-fdc1-41ea-8193-55b8c1d7ebb5-1713063226475
-  [loading_requirement_container_meta:4b233c9d-fdc1-41ea-8193-55b8c1d7ebb5-1713063226475] = [groups:][instances:]
-}
-
 vanilla_button {
   button_element_executable_block_identifier = 5fc4f7aa-08c0-49d0-bade-3d1f36fd51c2-1715393839519
   [executable_block:5fc4f7aa-08c0-49d0-bade-3d1f36fd51c2-1715393839519][type:generic] = [executables:]
@@ -63,15 +35,24 @@ vanilla_button {
   nine_slice_border_x = 5
   nine_slice_border_y = 5
   navigatable = true
+  widget_active_state_requirement_container_identifier = d8a59095-8f57-4d47-af24-2c654edb7e68-1735620057567
+  [loading_requirement_container_meta:d8a59095-8f57-4d47-af24-2c654edb7e68-1735620057567] = [groups:][instances:]
   element_type = vanilla_button
   instance_identifier = 400973
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
   anchor_point = vanilla
-  x = 140
-  y = 243
+  x = 156
+  y = 261
   width = 200
   height = 20
   stretch_x = false

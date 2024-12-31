@@ -325,7 +325,7 @@
 
 		[General.Mobs."Dire Hound Leader"]
 			#.
-			DIRE_HOUND_SPAWNING_ENABLED = true
+			DIRE_HOUND_SPAWNING_ENABLED = false
 			#.
 			#Range: 0.0 ~ 1.7976931348623157E308
 			DIRE_HOUND_LEADER_ARMOR = 0.5
@@ -384,7 +384,7 @@
 			#Range: 0.0 ~ 1.7976931348623157E308
 			DREAD_HOUND_KNOCKBACK_RESISTANCE = 0.1
 			#.
-			DREAD_HOUND_SPAWNING_ENABLED = true
+			DREAD_HOUND_SPAWNING_ENABLED = false
 			#.
 			#Range: 0.0 ~ 1.7976931348623157E308
 			DREAD_HOUND_SPEED = 0.34
@@ -644,7 +644,7 @@
 		[General.Mobs.Missioner]
 			#Days till The Missioner spawns
 			#Range: 1 ~ 999999
-			DAYS_TILL_MISSIONER = 10
+			DAYS_TILL_MISSIONER = 10000
 			#.
 			#Range: 0.0 ~ 1.7976931348623157E308
 			MISSIONER_ARMOR = 10.0
@@ -743,7 +743,7 @@
 			NIGHTMARE_STALKER_SPAWNING_ENABLED = true
 			#Days till Nightmare Stalker spawns
 			#Range: 1 ~ 999999
-			DAYS_TILL_NIGHTMARE = 3
+			DAYS_TILL_NIGHTMARE = 300
 			#Whether Nightmare Stalker has its base immunity to certain things
 			STALKER_IMMUNITY_ENABLED = true
 			#.

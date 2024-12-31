@@ -7,12 +7,16 @@
      {
         "type":"forge:mod_loaded",
         "modid":"create"
-     }
+     },
+     {
+      "type":"forge:mod_loaded",
+      "modid":"sullysmod"
+   }
   ],
   "type":"create:compacting",
   "ingredients":[
      {
-        "item":"sullysmob:amber"
+        "item":"sullysmod:amber"
      },
      {
         "amount": 1000,
@@ -21,7 +25,7 @@
   ],
   "results":[
      {
-        "item":"sullysmob:amber",
+        "item":"sullysmod:amber",
         "count":2
      }
   ]

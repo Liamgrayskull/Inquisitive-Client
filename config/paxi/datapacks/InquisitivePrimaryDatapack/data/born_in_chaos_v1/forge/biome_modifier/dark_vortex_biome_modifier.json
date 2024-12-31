@@ -1,8 +1,11 @@
 {
   "type": "forge:add_spawns",
   "biomes": [
-    "minecraft:dark_forest"
-  ],
+    "soul_sand_valley",
+    "incendium:withered_forest",
+    "netherexp:black_ice_glaciers",
+     "minecraft:dark_forest"
+    ],
   "spawners": {
     "type": "born_in_chaos_v1:dark_vortex",
     "weight": 14,

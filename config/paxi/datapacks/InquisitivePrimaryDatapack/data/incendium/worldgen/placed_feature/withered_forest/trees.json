@@ -26,7 +26,8 @@
             "blocks": [
               "architects_palette:onyx",
               "minecraft:smooth_basalt",
-              "minecraft:blackstone"
+              "minecraft:blackstone",
+              "born_in_chaos_v1:black_argillite"
             ]
           },
           {

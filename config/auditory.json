@@ -45,12 +45,12 @@
   "weapon_sounds": {
     "fist_swinging_sounds": false,
     "sword_swinging_sounds": true,
-    "axe_swinging_sounds": false,
-    "pickaxe_swinging_sounds": false,
-    "shovel_swinging_sounds": false,
-    "hoe_swinging_sounds": false,
+    "axe_swinging_sounds": true,
+    "pickaxe_swinging_sounds": true,
+    "shovel_swinging_sounds": true,
+    "hoe_swinging_sounds": true,
     "trident_swinging_sounds": true,
-    "shear_swinging_sounds": false,
+    "shear_swinging_sounds": true,
     "bow_pullback_sounds": true,
     "trident_pullback_sounds": true,
     "shield_blocking_sounds": true

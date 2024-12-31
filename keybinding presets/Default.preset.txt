@@ -76,6 +76,9 @@ key.climbdown.desc:key.keyboard.unknown
 key.enderlaunch.desc:key.mouse.left
 key.rocket.desc:key.mouse.left
 key.slide.desc:key.keyboard.left.shift
+key.mixtape.skip:key.keyboard.unknown
+key.mixtape.pause:key.keyboard.unknown
+key.mixtape.play:key.keyboard.unknown
 gui.perspective.keybindings.keybinding.cycle_shaders:key.keyboard.f7
 gui.perspective.keybindings.keybinding.hold_perspective_third_person_back:key.keyboard.unknown
 gui.perspective.keybindings.keybinding.hold_perspective_third_person_front:key.keyboard.unknown
@@ -99,6 +102,7 @@ key.picohud.show:key.keyboard.left.alt
 key.extraalchemy.magnetism_toggle:key.keyboard.unknown
 key.extraalchemy.potion_bag_mode:key.keyboard.unknown
 key.diet.open.desc:key.keyboard.unknown
+keyinfo.copycats.fill_copycat:key.keyboard.left.alt
 key.enlightened_end.dashing_leggings_ability:key.keyboard.g
 key.do_a_barrel_roll.toggle_enabled:key.keyboard.unknown
 key.do_a_barrel_roll.toggle_thrust:key.keyboard.unknown
@@ -117,6 +121,7 @@ key.toggleCarriedItemTooltips:key.keyboard.unknown
 key.cycleLeft:key.keyboard.unknown
 key.cycleRight:key.keyboard.unknown
 key.heracles.open_quests:key.keyboard.u
+key.plonk.place:key.keyboard.p
 keybinds.bettercombat.feint:key.keyboard.unknown
 keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
 keybinds.combatroll.roll:key.keyboard.r
@@ -135,7 +140,6 @@ key.immersive_aircraft.fallback_control_push:key.keyboard.unknown
 key.immersive_aircraft.fallback_use:key.keyboard.unknown
 key.immersive_aircraft.dismount:key.keyboard.left.shift
 key.immersive_aircraft.boost:key.keyboard.apostrophe
-Take Panorama Screenshot:key.keyboard.minus
 key.beansbackpacks.action:key.keyboard.unknown
 key.beansbackpacks.inventory:key.keyboard.unknown
 key.playeremotes.trigger:key.keyboard.b
@@ -152,7 +156,7 @@ key.cosmos.custom_shift:key.keyboard.left.shift
 key.cosmos.open_gui:key.keyboard.unknown
 create.keyinfo.toolmenu:key.keyboard.left.alt
 create.keyinfo.toolbelt:key.keyboard.left.alt
-create.keyinfo.ponder:key.keyboard.p
+create.keyinfo.ponder:key.keyboard.left.alt
 key.personality.crawl:key.keyboard.x
 key.personality.sit:key.keyboard.z
 key.special_ability:key.keyboard.g
@@ -196,5 +200,6 @@ quark.keybind.narrator_full_readout:key.keyboard.unknown
 quark.keybind.variant_selector:key.keyboard.unknown
 supplementaries.keybind.quiver:key.keyboard.semicolon
 key.screenshot_viewer.open_screenshots_screen:key.keyboard.unknown
+key.pickup.item:key.keyboard.unknown
 key.entityculling.toggle:key.keyboard.unknown
 keybind.invmove.toggleMove:key.keyboard.equal

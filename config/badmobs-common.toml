@@ -3844,6 +3844,17 @@
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
 		allowConversions = true
 
+	#Spawning options for spelunkery:pick
+	[spelunkery.pick]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
 #Options for the goodending mod.
 [goodending]
 
@@ -11030,6 +11041,20 @@
 
 	#Spawning options for born_in_chaos_v1:krampus_henchman
 	[born_in_chaos_v1.krampus_henchman]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+#Options for the composite_material mod.
+[composite_material]
+
+	#Spawning options for composite_material:amethyst_wand_projectile
+	[composite_material.amethyst_wand_projectile]
 		#Should the entity be allowed to spawn normally?
 		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?

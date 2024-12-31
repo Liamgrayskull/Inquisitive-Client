@@ -23,7 +23,7 @@
 		"stormWindStrength": 0.5,
 		"opacity": 80,
 		"splashDensity": 5,
-		"size": 1.5
+		"size": 1.0
 	},
 	"snow": {
 		"density": 40,
@@ -32,7 +32,7 @@
 		"stormRotationAmount": 0.05000000074505806,
 		"windStrength": 1.0,
 		"stormWindStrength": 3.0,
-		"size": 2.0
+		"size": 1.0
 	},
 	"sand": {
 		"density": 80,

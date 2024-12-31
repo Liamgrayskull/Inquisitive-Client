@@ -12,7 +12,7 @@
     "type":"create:crushing",
     "ingredients":[
        {
-          "item":"sullysmob:amber"
+          "item":"sullysmod:amber"
        }
     ],
     "processingTime":150,

@@ -20,7 +20,7 @@
       "trunk_provider": {
         "type": "minecraft:simple_state_provider",
         "state": {
-          "Name": "alexscaves:thornwood_log",
+          "Name": "born_in_chaos_v1:smoldering_scorched_log",
           "Properties": {
             "axis": "y"
           }
@@ -58,10 +58,6 @@
         "height": 1
       },
       "decorators": [
-        {
-          "type": "minecraft:leave_vine",
-          "probability": 0.25
-        }
       ]
     }
   },

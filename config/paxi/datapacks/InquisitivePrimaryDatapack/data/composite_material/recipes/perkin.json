@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "oreganized:electrum_ingot"
+    },
+    {
+      "item": "minecraft:dragon_breath"
+    },
+    {
+      "item": "composite_material:strong_will"
+    },
+    {
+      "item": "spelunkery:portal_fluid_bottle"
+    },
+    {
+      "item": "netherexp:wisp_bottle"
+    },
+    {
+      "item": "supplementaries:lumisene_bottle"
+    }
+  ],
+  "result": {
+    "item": "composite_material:perkin"
+  }
+}

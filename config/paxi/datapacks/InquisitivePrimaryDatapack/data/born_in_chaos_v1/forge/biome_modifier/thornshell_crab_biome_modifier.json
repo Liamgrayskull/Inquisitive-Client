@@ -1,8 +1,9 @@
 {
   "type": "forge:add_spawns",
-  "biomes": {
-    "type": "forge:beach"
-  },
+  "biomes": [
+"beach",
+"natures_spirit:tropical_basin"
+],
   "spawners": {
     "type": "born_in_chaos_v1:thornshell_crab",
     "weight": 8,

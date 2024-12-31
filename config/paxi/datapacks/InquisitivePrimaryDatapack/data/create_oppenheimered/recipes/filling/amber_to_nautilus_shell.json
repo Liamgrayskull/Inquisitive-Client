@@ -12,7 +12,7 @@
   "type":"create:filling",
   "ingredients":[
      {
-        "item":"sullysmob:amber"
+        "item":"sullysmod:amber"
      },
      {
         "amount":250,

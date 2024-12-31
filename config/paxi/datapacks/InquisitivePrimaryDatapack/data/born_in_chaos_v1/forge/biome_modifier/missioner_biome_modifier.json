@@ -1,8 +1,7 @@
 {
   "type": "forge:add_spawns",
-  "biomes": {
-    "type": "forge:is_underground"
-  },
+  "biomes": [
+    ],
   "spawners": {
     "type": "born_in_chaos_v1:missioner",
     "weight": 4,

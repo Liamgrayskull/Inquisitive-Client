@@ -1,5 +1,5 @@
-[18:50:45] [WARN] [FabricLoader/Metadata]: The mod "sushi_bar" contains invalid entries in its mod json:
+[21:33:11] [WARN] [FabricLoader/Metadata]: The mod "sushi_bar" contains invalid entries in its mod json:
 - Unsupported root entry "plugin" at line 42 column 11
-[18:50:46] [WARN] [FabricLoader/Resolution]: Warnings were found!
+[21:33:12] [WARN] [FabricLoader/Resolution]: Warnings were found!
  - §Emod 'Wakes' (wakes)§r 0.2.4+1.20.1 recommends version 3.2.2 or later of §6yacl§r, which is missing!
 	 - You should install version 3.2.2 or later of §6yacl§r for the optimal experience.

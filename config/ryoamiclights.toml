@@ -1812,6 +1812,17 @@
 			[light_sources.settings.entities.goat_man]
 				goat_man = true
 
+			[light_sources.settings.entities.takesapillage]
+				archer = true
+				skirmisher = true
+				legioner = true
+
+			[light_sources.settings.entities.backrooms_a23sd42324b]
+				firesalt_small = true
+				firesaltbig = true
+				light_guide = true
+				chairmob = true
+
 		[light_sources.settings.block_entities]
 
 			[light_sources.settings.block_entities.minecraft]

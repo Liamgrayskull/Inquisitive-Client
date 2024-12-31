@@ -1,8 +1,9 @@
 {
   "type": "forge:add_spawns",
-  "biomes": {
-    "type": "forge:is_swamp"
-  },
+  "biomes": [
+"swamp",
+"natures_spirit:marsh"
+],
   "spawners": {
     "type": "born_in_chaos_v1:glutton_fish",
     "weight": 2,

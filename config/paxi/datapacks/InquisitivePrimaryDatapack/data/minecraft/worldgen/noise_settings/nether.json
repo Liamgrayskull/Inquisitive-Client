@@ -946,7 +946,7 @@
                       "then_run": {
                         "type": "minecraft:block",
                         "result_state": {
-                          "Name": "netherexp:soul_slate"
+                          "Name": "architects_palette:onyx"
                         }
                       }
                     }
@@ -970,7 +970,7 @@
                       "then_run": {
                         "type": "minecraft:block",
                         "result_state": {
-                          "Name": "netherexp:ecto_soul_sand"
+                          "Name": "netherexp:stacked_wither_bones"
                         }
                       }
                     }
@@ -994,7 +994,7 @@
                       "then_run": {
                         "type": "minecraft:block",
                         "result_state": {
-                          "Name": "netherexp:stacked_wither_bones"
+                          "Name": "create:scorchia"
                         }
                       }
                     }
@@ -1013,7 +1013,7 @@
                         "then_run": {
                           "type": "minecraft:block",
                           "result_state": {
-                            "Name": "undergarden:shiverstone"
+                            "Name": "netherdungeons:ominous_quartz"
                           }
                         }
                       },
@@ -1028,7 +1028,7 @@
                         "then_run": {
                           "type": "minecraft:block",
                           "result_state": {
-                            "Name": "architects_palette:onyx"
+                            "Name": "born_in_chaos_v1:dark_ice"
                           }
                         }
                       },
@@ -1052,7 +1052,7 @@
                   {
                     "type": "minecraft:block",
                     "result_state": {
-                      "Name": "create:scorchia"
+                      "Name": "born_in_chaos_v1:black_argillite"
                     }
                   }
                 ]

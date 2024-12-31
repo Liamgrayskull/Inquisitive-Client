@@ -1,11 +1,12 @@
 {
   "type": "forge:add_spawns",
-  "biomes": {
-    "type": "forge:beach"
-  },
+  "biomes": [
+  "beach",
+  "natures_spirit:tropical_basin"
+],
   "spawners": {
     "type": "born_in_chaos_v1:zombie_fisherman",
-    "weight": 30,
+    "weight": 20,
     "minCount": 1,
     "maxCount": 1
   }

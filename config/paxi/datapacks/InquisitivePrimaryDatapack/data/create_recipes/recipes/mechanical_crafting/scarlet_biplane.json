@@ -1,0 +1,41 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "   S ",
+    "S  S ",
+    "HH_EP",
+    "S  S ",
+    "   S "
+  ],
+  "key": {
+    "H": [
+      {
+        "item": "immersive_aircraft:hull_reinforcement"
+      }
+    ],
+    "E": [
+      {
+        "item": "man_of_many_planes:economy_plane"
+      }
+    ],
+    "P": [
+      {
+        "item": "immersive_aircraft:propeller"
+      }
+    ],
+    "S": [
+      {
+        "item": "immersive_aircraft:sail"
+      }
+    ],
+    "_": [
+      {
+        "tag": "create:seats"
+      }
+    ]
+  },
+  "result": {
+    "item": "man_of_many_planes:scarlet_biplane"
+  },
+  "acceptMirrored": true
+}

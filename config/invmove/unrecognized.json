@@ -436,6 +436,9 @@
     "amorphia.runic_enchanting.screen.RuneEnchantingScreen": true,
     "net.mcreator.warriorsofpastepoch.client.gui.AmmoBagInterfaceScreen": true,
     "net.mcreator.redev.client.gui.SackGUIScreen": true,
-    "me.vierdant.playeremotes.screen.QuickWheelScreen": true
+    "me.vierdant.playeremotes.screen.QuickWheelScreen": true,
+    "net.additionz.block.screen.ChunkLoaderScreen": true,
+    "net.additionz.misc.FletchingScreen": true,
+    "net.mcreator.badpotion.client.gui.Locker5Screen": true
   }
 }

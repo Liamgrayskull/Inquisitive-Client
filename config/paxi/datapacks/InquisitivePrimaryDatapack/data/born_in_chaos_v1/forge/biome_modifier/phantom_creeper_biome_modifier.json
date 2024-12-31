@@ -1,8 +1,11 @@
 {
   "type": "forge:add_spawns",
-  "biomes": {
-    "type": "forge:end/in_the"
-  },
+  "biomes": [
+  "end_barrens",
+  "end_highlands",
+  "end_midlands",
+  "nullscape:crystal_peaks"
+],
   "spawners": {
     "type": "born_in_chaos_v1:phantom_creeper",
     "weight": 8,

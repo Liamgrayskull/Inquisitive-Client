@@ -1,8 +1,13 @@
 {
   "type": "forge:add_spawns",
-  "biomes": {
-    "type": "forge:is_underground"
-  },
+  "biomes": [
+"minecraft:dark_forest",
+"nether_wastes",
+"incendium:ash_barrens",
+"incendium:withered_forest",
+"incendium:weeping_valley",
+"netherexp:black_ice_glaciers"
+],
   "spawners": {
     "type": "born_in_chaos_v1:fallen_chaos_knight",
     "weight": 5,

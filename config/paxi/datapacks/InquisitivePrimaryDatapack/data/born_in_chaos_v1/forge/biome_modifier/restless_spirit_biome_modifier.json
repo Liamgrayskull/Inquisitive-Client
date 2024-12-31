@@ -1,8 +1,13 @@
 {
   "type": "forge:add_spawns",
-  "biomes": {
-    "type": "forge:nether/in"
-  },
+  "biomes": [
+    "soul_sand_valley",
+    "nether_wastes",
+    "incendium:ash_barrens",
+    "incendium:withered_forest",
+    "incendium:weeping_valley",
+    "netherexp:black_ice_glaciers"
+    ],
   "spawners": {
     "type": "born_in_chaos_v1:restless_spirit",
     "weight": 20,

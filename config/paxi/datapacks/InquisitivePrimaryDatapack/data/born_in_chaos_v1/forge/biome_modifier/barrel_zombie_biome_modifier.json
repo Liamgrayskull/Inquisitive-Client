@@ -1,8 +1,9 @@
 {
   "type": "forge:add_spawns",
-  "biomes": {
-    "type": "forge:is_dry"
-  },
+ "biomes": [
+ "beach",
+ "natures_spirit:tropical_basin"
+ ],
   "spawners": {
     "type": "born_in_chaos_v1:barrel_zombie",
     "weight": 25,

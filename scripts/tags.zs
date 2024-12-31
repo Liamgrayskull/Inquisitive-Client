@@ -149,7 +149,25 @@ import stdlib.List;
 <tag:items:c:hidden_from_recipe_viewers>.add(<item:unusualend:void_totem>);
 
 
+<tag:items:quark:stone_tool_materials>.remove(<item:minecraft:flint>);
 
+
+<tag:items:forge:cobblestone>.add(<item:natures_spirit:cobbled_travertine>);
+<tag:items:forge:cobblestone>.add(<item:flying_stuff:cobbled_skyrock>);
+<tag:items:forge:cobblestone>.add(<item:flying_stuff:cobbled_glaciated_skyrock>);
+<tag:items:forge:cobblestone>.add(<item:ad_astra:moon_cobblestone>);
+<tag:items:forge:cobblestone>.add(<item:ad_astra:mars_cobblestone>);
+<tag:items:forge:cobblestone>.add(<item:ad_astra:venus_cobblestone>);
+<tag:items:forge:cobblestone>.add(<item:ad_astra:mercury_cobblestone>);
+<tag:items:forge:cobblestone>.add(<item:ad_astra:glacio_cobblestone>);
+<tag:items:quark:stone_tool_materials>.add(<item:natures_spirit:cobbled_travertine>);
+<tag:items:quark:stone_tool_materials>.add(<item:flying_stuff:cobbled_skyrock>);
+<tag:items:quark:stone_tool_materials>.add(<item:flying_stuff:cobbled_glaciated_skyrock>);
+<tag:items:quark:stone_tool_materials>.add(<item:ad_astra:moon_cobblestone>);
+<tag:items:quark:stone_tool_materials>.add(<item:ad_astra:mars_cobblestone>);
+<tag:items:quark:stone_tool_materials>.add(<item:ad_astra:venus_cobblestone>);
+<tag:items:quark:stone_tool_materials>.add(<item:ad_astra:mercury_cobblestone>);
+<tag:items:quark:stone_tool_materials>.add(<item:ad_astra:glacio_cobblestone>);
 
 <tag:items:diet:special_food>.add(<item:bountifulfares:hoary_apple_block>);
 <tag:items:diet:special_food>.add(<item:bountifulfares:golden_apple_block>);

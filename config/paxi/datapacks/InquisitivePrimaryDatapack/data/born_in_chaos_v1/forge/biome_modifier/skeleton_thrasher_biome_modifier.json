@@ -1,8 +1,12 @@
 {
   "type": "forge:add_spawns",
-  "biomes": {
-    "type": "forge:nether/in"
-  },
+  "biomes": [
+    "crimson_forest",
+    "nether_wastes",
+    "incendium:ash_barrens",
+    "incendium:withered_forest",
+    "incendium:weeping_valley"
+    ],
   "spawners": {
     "type": "born_in_chaos_v1:skeleton_thrasher",
     "weight": 8,
